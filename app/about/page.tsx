@@ -1,6 +1,5 @@
 
 import { Metadata } from 'next';
-import Header from '../../components/Header';
 import Footer from '../../components/Footer';
 import JsonLd from '../../components/JsonLd';
 
@@ -39,7 +38,6 @@ export default function AboutPage() {
   return (
     <>
       <JsonLd data={jsonLd} />
-      <Header />
       <main className="container mx-auto px-4 py-12 max-w-4xl">
         <h1 className="text-4xl font-serif font-bold text-teal-900 mb-8">About The Smug Saver</h1>
         <div className="prose prose-lg prose-teal max-w-none">
