@@ -1,0 +1,6 @@
+
+# Canonical redirects (backup — netlify.toml takes priority)
+https://thesmugsaver.com/*          https://www.thesmugsaver.com/:splat  301!
+http://thesmugsaver.com/*           https://www.thesmugsaver.com/:splat  301!
+http://www.thesmugsaver.com/*       https://www.thesmugsaver.com/:splat  301!
+https://thesmugsaver.netlify.app/*  https://www.thesmugsaver.com/:splat  301!

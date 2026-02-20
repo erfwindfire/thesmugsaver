@@ -1,0 +1,5 @@
+# Redirect www to non-www
+https://www.thesmugsaver.com/* https://thesmugsaver.com/:splat 301!
+
+# Redirect HTTP to HTTPS
+http://thesmugsaver.com/* https://thesmugsaver.com/:splat 301!

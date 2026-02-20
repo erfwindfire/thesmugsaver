@@ -1,0 +1,842 @@
+{
+    "automate-savings-2026": [
+        {
+            "q": "What is the best way to start automating savings?",
+            "a": "Begin by setting up a 'pay yourself first' standing order that moves money to savings immediately after payday, before you have a chance to spend it."
+        },
+        {
+            "q": "How much of my income should I automate for savings?",
+            "a": "Aim for 20% according to the 50/30/20 rule, but start with whatever you can afford—even £50 a month—and increase it gradually."
+        },
+        {
+            "q": "Can I automate savings with a variable income?",
+            "a": "Yes, use 'round-up' apps or percentage-based saving tools that adjust amounts based on your balance rather than fixed standing orders."
+        },
+        {
+            "q": "Are there apps that automate savings for me?",
+            "a": "Yes, apps like Plum, Chip, and Monzo offer automated features like round-ups and AI-calculated saves to help you save effortlessly."
+        },
+        {
+            "q": "Is it safe to link my bank account to savings apps?",
+            "a": "Reputable apps use bank-level encryption and Open Banking standards. Always check for FCA regulation before connecting your accounts."
+        },
+        {
+            "q": "Should I automate debt repayments too?",
+            "a": "Absolutely. Automating minimum payments ensures you never miss a deadline, protecting your credit score, while allowing you to manually pay extra when possible."
+        },
+        {
+            "q": "What if an automated transfer leaves me short for bills?",
+            "a": "Many banking apps now have 'bill protection' features, or you can schedule savings transfers for a few days after payday to ensure bills clear first."
+        },
+        {
+            "q": "Can automating finances improve my credit score?",
+            "a": "Indirectly, yes. By ensuring bills are paid on time via Direct Debit, you avoid late markers, which helps build a strong credit history."
+        },
+        {
+            "q": "Do I lose control by automating everything?",
+            "a": "No, you actually gain control. Automation ensures the basics are covered, leaving you free to manage discretionary spending without worrying about essentials."
+        },
+        {
+            "q": "How often should I review my automated setup?",
+            "a": "Audit your automated transfers quarterly. As income or expenses change, adjust your savings amounts to maximize growth without risking overdrafts."
+        }
+    ],
+    "back-to-school-costs-uk-2026": [
+        {
+            "q": "When is the best time to buy school uniforms?",
+            "a": "Ideally early summer for sales, or late August/September for supermarket price wars. Avoid the mid-August rush when stock is low and prices settle."
+        },
+        {
+            "q": "Can I get help with school uniform costs?",
+            "a": "Yes, many local councils offer school clothing grants. Check your local council website or ask your school about charitable support funds."
+        },
+        {
+            "q": "Are supermarket uniforms good quality?",
+            "a": "Modern supermarket uniforms (Aldi, Lidl, Asda) often come with quality guarantees (like 100-day satisfaction) and are significantly cheaper than specialist shops."
+        },
+        {
+            "q": "How can I save on school shoes?",
+            "a": "Look for 'scuff-resistant' leather and measure feet at home to buy online sales. Some retailers offer guarantees on durability which can save money long-term."
+        },
+        {
+            "q": "Do I need to buy branded stationery?",
+            "a": "No. Schools rarely require brands. Bulk-buy basics like pens and glue sticks from discount stores or online to last the whole year for a fraction of the cost."
+        },
+        {
+            "q": "Is second-hand uniform acceptable?",
+            "a": "Absolutely. Most schools have 'pre-loved' sales, and local Facebook groups often list barely-worn items. It's eco-friendly and saves a fortune."
+        },
+        {
+            "q": "How do I handle expensive tech requirements?",
+            "a": "Refurbished laptops or tablets from reputable sellers offer great value. Also check if your school runs a device leasing or support scheme."
+        },
+        {
+            "q": "What about packed lunches vs school meals?",
+            "a": "Packed lunches are generally cheaper if planned well. Bulk-prep snacks and use reusable bottles to avoid daily convenience costs."
+        },
+        {
+            "q": "How can I label clothes cheaply?",
+            "a": "A sharpie on the wash label is free. Alternatively, buy a customized stamp which is faster and cheaper than sewing or ironing on nametags."
+        },
+        {
+            "q": "Should I buy everything new each year?",
+            "a": "Only replace what's outgrown or broken. Audit last year's kit first—pencil cases, bags, and PE kits often last multiple years."
+        }
+    ],
+    "best-budgeting-money-apps-uk-2026": [
+        {
+            "q": "Are budgeting apps safe to use?",
+            "a": "Most UK budgeting apps use Open Banking (FCA regulated), meaning they have read-only access and cannot move your money without permission. Look for FCA authorization."
+        },
+        {
+            "q": "Do I need to pay for a budgeting app?",
+            "a": "No. Great free options like Snoop or basic versions of Emma exist. Paid versions offer advanced features, but start free to see if it suits you."
+        },
+        {
+            "q": "Which app is best for couples?",
+            "a": "Apps like Honeydue or features within Monzo/Starling (Shared Tabs) are excellent for managing joint finances without a joint account."
+        },
+        {
+            "q": "Can an app really help me save money?",
+            "a": "Users often report saving hundreds by identifying wasteful subscriptions and tracking spending habits they weren't aware of."
+        },
+        {
+            "q": "Do these apps work with all banks?",
+            "a": "Most major UK banks are supported via Open Banking. Emerging digital banks (Revolut, Monzo) work seamlessly, but some smaller building societies may vary."
+        },
+        {
+            "q": "What is Open Banking?",
+            "a": "It's a secure way to give providers access to your financial information. You remain in control and can revoke access at any time."
+        },
+        {
+            "q": "Which app is best for tracking debt?",
+            "a": "Emma is well-regarded for tracking net worth including debts. Dedicated debt apps closer to the method (like YNAB) are powerful but often manual."
+        },
+        {
+            "q": "Can I categorize my own spending?",
+            "a": "Yes, most apps allow custom categories. This is crucial for accurate budgeting that reflects your actual lifestyle."
+        },
+        {
+            "q": "Do budgeting apps affect my credit score?",
+            "a": "Simply using them does not. However, some apps offer credit building features which can report positively to credit agencies."
+        },
+        {
+            "q": "Is manual tracking better than automated apps?",
+            "a": "It depends. Manual (spreadsheets) forces you to 'feel' every transaction. Automated apps save time and give better visual insights. Choose what creates consistency."
+        }
+    ],
+    "christmas-super-savings-2026-supermarkets-ranked": [
+        {
+            "q": "When should I start saving for Christmas?",
+            "a": "January! But starting in September or October is still effective. Spreading the cost over 3-4 months eases the December paycheck burden."
+        },
+        {
+            "q": "Which supermarket is cheapest for Christmas dinner?",
+            "a": "Aldi and Lidl consistently rank lowest for the basket cost of a traditional roast dinner, saving up to 40% compared to premium stores."
+        },
+        {
+            "q": "Are Christmas saving clubs worth it?",
+            "a": "They lock your money away, preventing dipping. However, ensure your money is protected (e.g., Asda Christmas Savings Card bonus) and consider if a regular savings account pays more interest."
+        },
+        {
+            "q": "Should I buy frozen or fresh turkey?",
+            "a": "Frozen is significantly cheaper and, if defrosted correctly, tastes similar. Buying in advance also spreads the cost and guarantees availability."
+        },
+        {
+            "q": "How can I reduce the cost of gifts?",
+            "a": "Use Secret Santa for adult groups, set strictly lower limits, or give 'time/experience' vouchers. Buying throughout the year in sales also helps."
+        },
+        {
+            "q": "Is homemade food actually cheaper?",
+            "a": "Generally yes, especially for sides and desserts. Convenience items (pre-chopped veg, pigs in blankets) carry a heavy 'lazy tax' markup."
+        },
+        {
+            "q": "What are the best dates for supermarket yellow stickers?",
+            "a": "Evenings (after 7pm) are prime for reductions. For Christmas specifically, late on Christmas Eve yields massive bargains, but it's a risky strategy for essentials."
+        },
+        {
+            "q": "How does the 'downshift challenge' work for Christmas?",
+            "a": "Swap branded luxury crisps, chocolates, and biscuits for supermarket own-brands. Most guests won't notice the difference, but your wallet will."
+        },
+        {
+            "q": "Can I return unwanted Christmas gifts for cash?",
+            "a": "Usually you need a receipt. Without one, you might get a credit note at the current selling price. Sell unwanted items on Vinted/eBay for cash."
+        },
+        {
+            "q": "How do I avoid a 'financial hangover' in January?",
+            "a": "Set a strict total budget now. Use cash or debit cards only—leave the credit card at home to prevent emotional overspending."
+        }
+    ],
+    "energy-bills-rising-october-2026": [
+        {
+            "q": "Why do energy bills rise in October?",
+            "a": "The Ofgem price cap typically updates in October to reflect wholesale energy costs from the previous months and higher winter demand."
+        },
+        {
+            "q": "Should I fix my energy tariff now?",
+            "a": "If offered a fixed rate closer to or below the current price cap, it protects you from future rises. Check exit fees before committing."
+        },
+        {
+            "q": "How much can turning the thermostat down save?",
+            "a": "Turning it down by just 1°C can save around 10% on your annual heating bill, often without a noticeable drop in comfort."
+        },
+        {
+            "q": "Are smart meters worth getting?",
+            "a": "Yes, they give real-time visibility on usage, helping you identify waste. Some tariffs (like agile ones) require them to access cheaper off-peak rates."
+        },
+        {
+            "q": "What is the 'energy vampire' concept?",
+            "a": "It refers to devices on standby (TVs, consoles, chargers) draining power. Turning them off at the plug can save £50-£80 a year."
+        },
+        {
+            "q": "Do draft excluders actually work?",
+            "a": "Yes, simple proofing around doors and windows stops heat escaping, meaning your boiler works less hard to maintain temperature."
+        },
+        {
+            "q": "Is electric heating expensive?",
+            "a": "Standard rate electricity is about 3-4x more expensive per unit than gas. Using gas central heating is usually much cheaper than plug-in electric heaters."
+        },
+        {
+            "q": "How often should I bleed my radiators?",
+            "a": "Check them annually before winter. If they have cold spots at the top, bleeding them improves efficiency and warms the room faster."
+        },
+        {
+            "q": "Can I get help if I can't pay my bill?",
+            "a": "Yes, contact your supplier immediately. They are required to offer payment plans and may have hardship funds (like the British Gas Energy Trust)."
+        },
+        {
+            "q": "Is it cheaper to leave heating on low all day?",
+            "a": "Generally no. It requires energy to maintain heat while you're out. It's usually cheaper to heat the home only when you need it using a timer."
+        }
+    ],
+    "flexible-budgets-irregular-income-uk-2026": [
+        {
+            "q": "How do I budget when my income changes every month?",
+            "a": "Base your budget on your lowest expected monthly income. Treat any extra as a bonus to be saved or used for one-off expenses, rather than relying on it."
+        },
+        {
+            "q": "What is a 'hills and valleys' fund?",
+            "a": "It's a specific savings pot used to smooth out income. You pay into it during good months and withdraw from it during lean months to maintain a stable 'salary' for yourself."
+        },
+        {
+            "q": "Should freelancers prioritize savings or debt?",
+            "a": "Prioritize an emergency fund first (at least 1-3 months' expenses) to cover gaps between contracts. Then attack high-interest debt aggressively during high-income months."
+        },
+        {
+            "q": "How do I handle tax as a freelancer?",
+            "a": "Open a separate savings account and transfer 25-30% of every payment you receive immediately. Don't touch this money until the Jan 31st tax deadline."
+        },
+        {
+            "q": "What budgeting tools are best for freelancers?",
+            "a": "Apps like Coconut or met banks like Monzo/Starling are great for separating tax. YNAB (You Need A Budget) is excellent for 'giving every pound a job' regardless of when it arrives."
+        },
+        {
+            "q": "How huge should my emergency fund be?",
+            "a": "For irregular income, aim for 6-12 months of expenses rather than the standard 3-6. This provides a buffer against dry spells or lost clients."
+        },
+        {
+            "q": "Can I get a mortgage with irregular income?",
+            "a": "Yes, but lenders usually require 2-3 years of accounts (SA302s) to prove average income stability. A larger deposit also helps."
+        },
+        {
+            "q": "How do I stop 'feast and famine' spending?",
+            "a": "Pay yourself a fixed salary from your business account to your personal account. Leave the rest in the business account to build reserves."
+        },
+        {
+            "q": "Is income protection insurance worth it?",
+            "a": "For self-employed people, absolutely. It covers your bills if you're sick or injured and can't work, providing a safety net the state doesn't offer."
+        },
+        {
+            "q": "How do I plan for holidays with variable income?",
+            "a": "Set a specific savings goal and contribute a percentage of 'extra' income from good months towards it. Book only when you have the cash in hand."
+        }
+    ],
+    "food-crisis-navigating-snap-cuts-2026": [
+        {
+            "q": "What are the main changes to food benefits in 2026?",
+            "a": "Cuts generally involve stricter eligibility criteria, reduced monthly allowances, or the end of pandemic-era emergency allotments, reducing total household food budgets."
+        },
+        {
+            "q": "How can I stretch my food budget further?",
+            "a": "Focus on nutrient-dense, cheap staples like lentils, rice, oats, and frozen veg. Meal plan strictly to avoid waste and use food banks for essentials to free up cash for perishables."
+        },
+        {
+            "q": "Are food banks accessible to everyone?",
+            "a": "Most require a referral from a doctor, Citizens Advice, or social worker. However, independent community fridges and pantries often have open access."
+        },
+        {
+            "q": "What is 'benefits maximizing'?",
+            "a": "Ensuring you are claiming absolutely everything you're entitled to. Use a benefits calculator (like Turn2us) to check for other support like Council Tax Reduction or Healthy Start vouchers."
+        },
+        {
+            "q": "Can I cook healthy meals without fresh produce?",
+            "a": "Yes. Frozen and canned fruits/vegetables are just as nutritious and cheaper/longer-lasting. Dried beans and pulses are excellent protein sources."
+        },
+        {
+            "q": "Where can I find cheap recipes?",
+            "a": "Sites like 'Cooking on a Bootstrap' (Jack Monroe) or 'Budget Bytes' offer costed recipes specifically designed for very tight budgets."
+        },
+        {
+            "q": "Is skipping meals a way to save money?",
+            "a": "It's a dangerous strategy that impacts health and energy. Better to bulk out meals with cheap carbs (rice, pasta, potatoes) than to skip them entirely."
+        },
+        {
+            "q": "How do I access Healthy Start vouchers?",
+            "a": "If you're pregnant or have a child under 4 and receive certain benefits, apply online via the NHS website for help buying milk, fruit, and veg."
+        },
+        {
+            "q": "Are supermarkets doing anything to help?",
+            "a": "Many have 'wonky veg' boxes or budget ranges. Some cafes offer 'kids eat free' deals during holidays which relieves some pressure."
+        },
+        {
+            "q": "What if I literally have no food?",
+            "a": "Contact your local council for 'welfare assistance' or 'household support fund'. Call the Trussell Trust helpline for immediate food bank referral and crisis support."
+        }
+    ],
+    "grocery-savings-2026": [
+        {
+            "q": "Is bulk buying always cheaper?",
+            "a": "Not always. Check the 'price per unit' (e.g., per 100g) on shelf labels. Sometimes 2 smaller packs are cheaper (or equal) to one bulk pack, with less waste risk."
+        },
+        {
+            "q": "Does shopping online save money?",
+            "a": "It prevents impulse buys and allows easy price comparison. However, delivery charges can offset savings unless you have a pass or click-and-collect."
+        },
+        {
+            "q": "What is the best time to shop?",
+            "a": "Late evenings often yield 'yellow sticker' reductions. Avoiding hungry shopping trips is more critical than the specific time of day."
+        },
+        {
+            "q": "Do loyalty cards actually save money?",
+            "a": "Yes, with 'member-only' pricing (e.g., Tesco Clubcard Prices, Nectar Prices) now common. Sign up for all of them but don't let points chase drive unnecessary spending."
+        },
+        {
+            "q": "Is the 'world food aisle' cheaper?",
+            "a": "Often yes. Spices, rice, lentils, and canned items are frequently significantly cheaper in the world foods section than the same items in the main aisles."
+        },
+        {
+            "q": "Should I stick to one supermarket?",
+            "a": "Loyalty pays less than shopping around. Discounter (Aldi/Lidl) for staples + mainstream store for specifics often yields the lowest total bill."
+        },
+        {
+            "q": "How do I cut meat costs?",
+            "a": "Meat is expensive. Halve the meat in recipes and bulk up with lentils, mushrooms, or beans. Or implement 'Meatless Mondays' to cut costs significantly."
+        },
+        {
+            "q": "Are meal kits worth the money?",
+            "a": "Generally, no—you pay for convenience. Buying ingredients yourself is much cheaper. However, they reduce waste if you're bad at meal planning."
+        },
+        {
+            "q": "What are 'loss leaders'?",
+            "a": "Products sold at a loss to get you in the store (e.g., cheap milk/bread). Buy them, but resist the high-margin impulse buys placed next to them."
+        },
+        {
+            "q": "How can I reduce food waste?",
+            "a": "Meal plan, use your freezer for bread/milk/leftovers, and understand the difference between 'use by' (safety) and 'best before' (quality) dates."
+        }
+    ],
+    "how-to-save-100k-in-8-years": [
+        {
+            "q": "Is saving £100k realistic on an average salary?",
+            "a": "It's challenging but possible with aggressive compounding. It requires a high savings rate (20-40%), consistent investing, and usually increasing income over time."
+        },
+        {
+            "q": "Where should I invest for this goal?",
+            "a": "A low-cost global index fund held within a Stocks & Shares ISA is the standard approach for long-term growth (8-10 years) aimed at beating inflation."
+        },
+        {
+            "q": "Do I need a high-risk strategy?",
+            "a": "No. Consistency beats high risk. A diversified index fund is medium-risk but historically reliable for 8-year timeframes. Avoid crypto or 'get rich quick' schemes."
+        },
+        {
+            "q": "What if I have debt?",
+            "a": "Clear high-interest debt (credit cards/overdrafts) before starting this challenge. The interest cost usually outweighs investment returns."
+        },
+        {
+            "q": "Does this include pension contributions?",
+            "a": "It can do. Pensions offer tax relief which boosts savings instantly. However, that money is locked away until age 57, so balance it with accessible ISAs."
+        },
+        {
+            "q": "How much do I need to save monthly?",
+            "a": "With 7% annual returns, you'd need roughly £750-£800/month to hit £100k in 8 years. Without investment growth, it's £1,041/month."
+        },
+        {
+            "q": "Can I do this a couple?",
+            "a": "It's much easier as a couple. Two incomes sharing living costs dramatically increases disposable income available for saving."
+        },
+        {
+            "q": "What is 'lifestyle creep'?",
+            "a": "It's spending more as you earn more. To hit £100k, you must fight this—save pay rises rather than upgrading your car or lifestyle."
+        },
+        {
+            "q": "Should I buy a house first?",
+            "a": "Buying a house might delay the liquid £100k goal but builds net worth through equity (equity = savings). Decide if you want cash access or property wealth."
+        },
+        {
+            "q": "What's the first step?",
+            "a": "Track expenses to find your gap (income minus spending). Then set up an auto-invest for that amount into an ISA immediately."
+        }
+    ],
+    "lock-in-48-percent-bonds-vs-savings-2026": [
+        {
+            "q": "What does 'locking in' a rate mean?",
+            "a": "It means fixing your interest rate for a set period (e.g., 1-5 years) so it won't drop even if the Bank of England lowers the base rate."
+        },
+        {
+            "q": "Can I access my money in a fixed bond?",
+            "a": "Usually no. The trade-off for higher rates is losing access. Only lock away money you definitely won't need for the term."
+        },
+        {
+            "q": "Are savings interests taxable?",
+            "a": "Yes, if you exceed your Personal Savings Allowance (£1,000 for basic rate taxpayers, £500 for higher rate). ISAs protect interest from tax entirely."
+        },
+        {
+            "q": "Is 4.8% a good rate in 2026?",
+            "a": "Historically, yes. If inflation is around 2-3%, a 4.8% return gives you a real term increase in purchasing power."
+        },
+        {
+            "q": "What happens if rates go up after I fix?",
+            "a": "You miss out. You are stuck at the fixed rate until maturity. This is the risk you take for the security of a guaranteed return."
+        },
+        {
+            "q": "Should I fix for 1 year or 5 years?",
+            "a": "1 year offers flexibility; 5 years offers long-term security. A 'ladder' strategy (splitting money across 1, 2, 3+ years) balances both."
+        },
+        {
+            "q": "How safe are these bonds?",
+            "a": "If with a UK-regulated bank, up to £85,000 per person per banking group is protected by the FSCS against bank failure."
+        },
+        {
+            "q": "Can I add money to a fixed bond?",
+            "a": "Usually only during a short funding window at the start. After that, no further deposits are allowed until maturity."
+        },
+        {
+            "q": "What is a 'notice account'?",
+            "a": "A middle ground. Variable rates (can change) but higher than easy access. You must give notice (e.g., 90 days) to withdraw."
+        },
+        {
+            "q": "Is a Cash ISA better than a savings bond?",
+            "a": "If you have a lot of savings, yes, for tax reasons. Cash ISAs can also be fixed-rate bonds, combining the rate lock with tax efficiency."
+        }
+    ],
+    "mortgage-rates-2026-fix-or-wait": [
+        {
+            "q": "Should I fix my mortgage in 2026?",
+            "a": "If you value budget certainty, fixing is safer. If you can tolerate risk and believe rates will fall significantly, a tracker might be cheaper but is a gamble."
+        },
+        {
+            "q": "What is the current average mortgage rate?",
+            "a": "Rates fluctuate weekly based on swap rates. Check a comparison site for the latest 2-year and 5-year fixed averages."
+        },
+        {
+            "q": "How long should I fix for?",
+            "a": "2 years gives flexibility if rates fall. 5 years offers longer stability but might lock you in at a higher rate if the market drops. 10 years is rarely recommended unless you crave total stability."
+        },
+        {
+            "q": "What is a tracker mortgage?",
+            "a": "A mortgage that follows the Bank of England base rate plus a set percentage. If the base rate falls, your payments fall immediately."
+        },
+        {
+            "q": "Can I switch deals early?",
+            "a": "Yes, but you usually pay an Early Repayment Charge (ERC), which can be thousands. Calculate if the saving outweighs the fee."
+        },
+        {
+            "q": "Does my LTV affect my rate?",
+            "a": "Yes heavily. A lower Loan-to-Value (e.g., 60%) gets much cheaper rates than a high LTV (90% or 95%). Paying down capital can unlock better tiers."
+        },
+        {
+            "q": "What if I can't afford my new rate?",
+            "a": "Contact your lender before you miss a payment. Under the Mortgage Charter, they can offer interest-only switches or term extensions to help without immediate repossession risk."
+        },
+        {
+            "q": "Should I use a mortgage broker?",
+            "a": "Yes. They have access to 'whole of market' deals, including some not available to the public, and can navigate complex criteria."
+        },
+        {
+            "q": "Will house prices crash in 2026?",
+            "a": "Predictions vary. High rates cool the market, but low supply in the UK often supports prices. Don't try to time the market for your primary home."
+        },
+        {
+            "q": "What is an offset mortgage?",
+            "a": "It uses your savings to reduce mortgage interest. You don't earn savings interest, but you pay less mortgage interest (which is effectively tax-free saving)."
+        }
+    ],
+    "saving-tips-news-guide-2026": [
+        {
+            "q": "What is the single most effective saving tip?",
+            "a": "Pay yourself first. Move a set amount to savings on payday before you pay any other bill. Treat it like a mandatory tax."
+        },
+        {
+            "q": "How can I lower my monthly bills quickly?",
+            "a": "Switching suppliers remains king. Audit broadband, mobile, and insurance annually. The 'loyalty penalty' costs households hundreds."
+        },
+        {
+            "q": "Is the 'cash stuffing' trend effective?",
+            "a": "For many, yes. Using physical cash makes spending 'real' and creates a hard stop when the money runs out, preventing overspending."
+        },
+        {
+            "q": "How good is the 'no spend day' challenge?",
+            "a": "Excellent for breaking habits. Aim for 1-2 days a week where you spend £0. It forces you to use what you have and plan ahead."
+        },
+        {
+            "q": "Can I save money on commuting?",
+            "a": "Season tickets save money for 3+ days travel. Flexi-tickets suit hybrids. Also check if your employer offers a Cycle to Work scheme for tax-free bike savings."
+        },
+        {
+            "q": "What is the '30-day rule'?",
+            "a": "Wait 30 days before buying a non-essential item. If you still want it after 30 days, buy it. 90% of impulses fade by then."
+        },
+        {
+            "q": "Are loyalty schemes worth the data trade?",
+            "a": " financially, yes. Nectar, Clubcard, etc., offer significant discounts. Just be aware you are the product."
+        },
+        {
+            "q": "How can I save on water bills?",
+            "a": "If you have more bedrooms than people, get a water meter. It's usually cheaper. Also, use eco-modes on washers and fix dripping taps."
+        },
+        {
+            "q": "Is it worth repairing vs replacing?",
+            "a": "Usually yes. Learn basic sewing or DIY. Replacing a zipper is £10; a new coat is £100. YouTube is a free university for repairs."
+        },
+        {
+            "q": "Where can I find reliable money news?",
+            "a": "MoneySavingExpert, Which?, and the BBC's personal finance section are trusted UK sources for unbiased advice."
+        }
+    ],
+    "student-finance-survival-uk-2026": [
+        {
+            "q": "Is the maintenance loan enough to live on?",
+            "a": "Rarely. Most students face a shortfall between the loan and actual living costs (rent + bills). Budgeting and part-time work are usually essential."
+        },
+        {
+            "q": "What is the best student bank account?",
+            "a": "Look for the largest interest-free overdraft (e.g., £1,500-£3,000) and free perks like railcards. Don't view the overdraft as free money—it's a safety net."
+        },
+        {
+            "q": "Should I get a student credit card?",
+            "a": "Only if you are disciplined. It builds credit history, but missed payments damage it. Never use it for borrowing; pay it off in full monthly."
+        },
+        {
+            "q": "How can I save on textbooks?",
+            "a": "Never buy new reading list books immediately. Check the library, buy second-hand from older students, or share copies with coursemates."
+        },
+        {
+            "q": "Are student discounts worth it?",
+            "a": "Yes. UNiDAYS, Student Beans, and Totum cards save 10-20% at major retailers. Always ask 'do you do student discount?' everywhere."
+        },
+        {
+            "q": "How do I split bills in a shared house?",
+            "a": "Use an app like Splitwise or set up a joint account for bills only. Ensure everyone is named on utility bills so liability is shared."
+        },
+        {
+            "q": "Can I claim council tax exemption?",
+            "a": "Full-time students are exempt. You must provide a certificate from your uni to your local council to get the bill set to £0."
+        },
+        {
+            "q": "What happens if I run out of money?",
+            "a": "Speak to your university's hardship fund team immediately. Most have emergency grants for students in financial crisis."
+        },
+        {
+            "q": "Should I work while studying?",
+            "a": "10-15 hours a week helps finances and boosts CVs. More than that can impact grades. Balance is key."
+        },
+        {
+            "q": "Is the student loan 'good debt'?",
+            "a": "Yes. It's essentially a graduate tax. You only repay 9% of earnings over the threshold, and it's written off after 30/40 years. Don't stress about the total figure."
+        }
+    ],
+    "switch-broadband-mobile-tv-uk-2026": [
+        {
+            "q": "When can I switch broadband without penalty?",
+            "a": "Once your minimum contract term ends (usually 12, 18, or 24 months). Switching early usually incurs heavy exit fees."
+        },
+        {
+            "q": "What is 'social tariff' broadband?",
+            "a": "Cheap deals (£10-£20/m) for people on benefits (Universal Credit, etc.). Ask providers specifically for this—they don't always advertise it."
+        },
+        {
+            "q": "Is switching broadband difficult?",
+            "a": "No. The 'One Touch Switch' process means your new provider handles the cancellation with the old one. You rarely need to speak to the old provider."
+        },
+        {
+            "q": "Can I keep my landline number?",
+            "a": "Yes, usually. Tell your new provider you want to port your number. However, landlines are being phased out for 'digital voice' services."
+        },
+        {
+            "q": "Is 5G worth the extra cost?",
+            "a": "Only if you live in a dense city area and need high speed on the go. For general browsing (email, maps), 4G is perfectly adequate and cheaper."
+        },
+        {
+            "q": "Should I bundle TV and broadband?",
+            "a": "Bundles can offer value, especially with Sky/Virgin, but often lock you into long contracts. Check if getting broadband + Netflix/NowTV separately is cheaper."
+        },
+        {
+            "q": "How do I haggle with my provider?",
+            "a": "Call them near contract end. Say 'I'm thinking of leaving for [competitor] who offer £X'. Ask 'What is the best price you can do to keep me?'"
+        },
+        {
+            "q": "What speed do I actually need?",
+            "a": "30-60Mbps is fine for 1-2 people streaming. Families or gamers need 100Mbps+. Don't pay for 1Gbps unless you really need massive file downloads."
+        },
+        {
+            "q": "What is SIM-only?",
+            "a": "You keep your phone and pay only for data/minutes. It's drastically cheaper than a contract phone. Switching to SIM-only after your handset is paid off saves roughly £300/year."
+        },
+        {
+            "q": "Are cashback deals real?",
+            "a": "Yes, but you often have to claim them manually months later. Set a calendar reminder or you will lose the money."
+        }
+    ],
+    "tax-free-side-hustles-uk-2026": [
+        {
+            "q": "What is the Trading Allowance?",
+            "a": "It allows you to earn up to £1,000 of trading income tax-free each tax year without needing to register with HMRC."
+        },
+        {
+            "q": "What counts as a 'side hustle'?",
+            "a": "Anything from selling on Vinted/eBay, dog walking, tutoring, to freelance design. Selling personal possessions is usually tax-free anyway."
+        },
+        {
+            "q": "Do I need to declare Vinted sales?",
+            "a": "Generally no, if clearing out old clothes (selling for less than you paid). If you buy stock to resell for profit, that is trading and taxable over £1,000."
+        },
+        {
+            "q": "What about the 'digital platform' reporting rules?",
+            "a": "Platforms (Vinted, Airbnb, eBay) now report earnings to HMRC. If you earn over roughly £1,700 or 30 transactions, they pass your data on. It doesn't change tax law, just visibility."
+        },
+        {
+            "q": "Can I use the Rent a Room relief?",
+            "a": "Yes, you can earn up to £7,500 tax-free per year by renting out a furnished room in your main home to a lodger."
+        },
+        {
+            "q": "When do I need to register as self-employed?",
+            "a": "When your gross trading income exceeds £1,000 in a tax year. You register for Self Assessment."
+        },
+        {
+            "q": "Can I deduct expenses if I use the Trading Allowance?",
+            "a": "No. You can either deduct actual expenses OR use the £1,000 allowance, not both. Use whichever gives you the lower tax bill."
+        },
+        {
+            "q": "Does side hustle income affect my benefits?",
+            "a": "Yes, usually. Universal Credit tapers off as earnings rise. Always check using a benefits calculator."
+        },
+        {
+            "q": "What is the best low-cost side hustle?",
+            "a": "Services selling your time/skills (pet sitting, user testing, tutoring) have £0 startup cost compared to product-based hustles."
+        },
+        {
+            "q": "Do I pay National Insurance on side hustles?",
+            "a": "Only if your profits exceed the Small Profits Threshold (approx £6.7k) and Lower Profits Limit. Class 2 is now voluntary usually; Class 4 applies to higher profits."
+        }
+    ],
+    "top-savings-accounts-beating-inflation-uk-2026": [
+        {
+            "q": "What does 'beating inflation' mean?",
+            "a": "It means your money grows faster than prices rise. If inflation is 3% and your savings rate is 5%, your 'real' wealth is growing."
+        },
+        {
+            "q": "Are regular saver accounts worth it?",
+            "a": "Yes, they offer the highest rates (e.g., 6-8%) but limit deposits (e.g., £200/month). Excellent for building a habit."
+        },
+        {
+            "q": "What is a 'challenger bank'?",
+            "a": "Newer banks (like Chase, Starling, Monzo, Atom). They often offer better rates and apps than high street banks. They are fully regulated and FSCS protected."
+        },
+        {
+            "q": "Should I spread my savings?",
+            "a": "Yes, to maximize FSCS protection (limit £85k per bank) and to mix easy access (emergency fund) with fixed bonds (growth)."
+        },
+        {
+            "q": "What is an easy-access account?",
+            "a": "You can withdraw money anytime. Rates are lower than fixed bonds but offer flexibility. Look for 'limited withdrawal' accounts for slightly better rates."
+        },
+        {
+            "q": "Do loyalty saving accounts exist?",
+            "a": "Yes. Banks like Barclays or Nationwide often offer exclusive high rates to existing current account holders."
+        },
+        {
+            "q": "What is a Sharia savings account?",
+            "a": "It pays 'expected profit' rather than interest compliant with Islamic law. They are open to everyone and often pay market-leading rates."
+        },
+        {
+            "q": "How often do rates change?",
+            "a": "Variable rates can change anytime. Banks must notify you. Fixed rates never change during the term."
+        },
+        {
+            "q": "Why is my rate so low?",
+            "a": "You are likely in a 'zombie account' that hasn't been updated. Banks rely on apathy. Switch immediately to a top-payer."
+        },
+        {
+            "q": "Can I open multiple savings accounts?",
+            "a": "Yes, there is no limit. You can have a Regular Saver, an ISA, and an Easy Access account running simultaneously."
+        }
+    ],
+    "travel-deals-cheap-holidays-uk-2026": [
+        {
+            "q": "When is the cheapest time to book a holiday?",
+            "a": "Generally, 11 months in advance (when flights release) OR very last minute (4-6 weeks before). Mid-range booking is often most expensive."
+        },
+        {
+            "q": "Is 'all-inclusive' actually cheaper?",
+            "a": "For families who eat/drink a lot at the hotel, usually yes. It caps your spending. for explorers who eat out, room-only is better value."
+        },
+        {
+            "q": "Do cookies affect flight prices?",
+            "a": "The evidence is mixed, but using Incognito mode stops travel sites tracking your interest and potentially creating 'urgency' pricing."
+        },
+        {
+            "q": "What is 'error fare' hunting?",
+            "a": "Spotting pricing mistakes by airlines. Use sites like Secret Flying or Jack's Flight Club to catch them before they are fixed."
+        },
+        {
+            "q": "Is it cheaper to fly mid-week?",
+            "a": "Almost always. Tuesday/Wednesday flights are significantly cheaper than Friday/Sunday. Being flexible with dates is the #1 money saver."
+        },
+        {
+            "q": "Should I book package or separate?",
+            "a": "Packages (flight + hotel) offer better ATOL protection and sometimes bulk discounts. Separate booking allows more customization but less protection."
+        },
+        {
+            "q": "How can I avoid baggage fees?",
+            "a": "Pack light with a backpack that fits under the seat. Wear your heaviest clothes. Or share one checked bag between two people."
+        },
+        {
+            "q": "Does travel insurance cover cancellation?",
+            "a": "Yes, but check the 'excess' and reasons. 'Change of mind' is not covered. Buy insurance AT THE POINT OF BOOKING, not travel."
+        },
+        {
+            "q": "Are villas cheaper than hotels?",
+            "a": "For groups or families, yes. Having a kitchen saves massive amounts on dining out. Check Airbnb and Vrbo."
+        },
+        {
+            "q": "Is the Eurostar cheaper than flying?",
+            "a": "If booked months in advance, it rivals flying and has no baggage limits/transfers. Last minute, it is very expensive."
+        }
+    ],
+    "travel-deals-worldwide-2026": [
+        {
+            "q": "Where are the cheapest long-haul destinations?",
+            "a": "Southeast Asia (Thailand, Vietnam) and parts of Central America are excellent value once you arrive, offsetting the flight cost."
+        },
+        {
+            "q": "How do I find cheap comprehensive flights?",
+            "a": "Use Skyscanner or Google Flights. Select 'Everywhere' as destination and 'Whole Month' for dates to find the cheapest routes."
+        },
+        {
+            "q": "What is 'skiplagging'?",
+            "a": "Booking a flight with a layover (e.g., NY to London to Paris) and getting off at the layover (London). It's risky and airlines hate it (can ban you)."
+        },
+        {
+            "q": "Is it safe to book with unknown agents on Skyscanner?",
+            "a": "Check their Trustpilot ratings. Sometimes saving £20 isn't worth the hassle of zero customer support if things go wrong."
+        },
+        {
+            "q": "How can I get free accommodation?",
+            "a": "Consider house sitting (TrustedHousesitters) or home swapping. You look after a pet/home in exchange for a free stay."
+        },
+        {
+            "q": "Do VPNs get cheaper flights?",
+            "a": "Sometimes. improved prices can appear if you browse appearing to be in a lower-income country. It's inconsistent but worth a try."
+        },
+        {
+            "q": "What is shoulder season?",
+            "a": "The period between peak and off-peak (e.g., May/Sept/Oct). Best weather-to-price ratio. Avoid school holidays entirely."
+        },
+        {
+            "q": "Should I use a travel money card?",
+            "a": "Yes. Never use your normal debit card abroad (fees!). Use Chase, Starling, or Monzo for fee-free spending and near-perfect exchange rates."
+        },
+        {
+            "q": "Is duty-free actually cheaper?",
+            "a": "Rarely for high street goods. Alcohol and tobacco can be cheaper, but electronics/cosmetics are often cheaper online at home."
+        },
+        {
+            "q": "Do I need a visa?",
+            "a": "Always check 3 months before. New systems (ETIAS for Europe, ETA for UK) require pre-authorization and a small fee."
+        }
+    ],
+    "uk-budget-2026-rachel-reeves-autumn-statement": [
+        {
+            "q": "How does the 2026 budget affect my take-home pay?",
+            "a": "Changes to Income Tax thresholds or National Insurance rates directly impact net pay. Check online salary calculators for your specific band."
+        },
+        {
+            "q": "Did fuel duty go up?",
+            "a": "Fuel duty is a political hot potato. If frozen, costs stay stable. If unthawed, petrol prices rise at the pump."
+        },
+        {
+            "q": "Are cigarettes and alcohol more expensive?",
+            "a": "Usually yes. Duty on tobacco and alcohol typically rises with RPI inflation aiming to discourage consumption."
+        },
+        {
+            "q": "What about the State Pension?",
+            "a": "The Triple Lock usually ensures the State Pension rises by the highest of inflation, wages, or 2.5%. Check the confirmed percentage rise."
+        },
+        {
+            "q": "How does it affect first-time buyers?",
+            "a": "Look for stamp duty relief extensions or new ISA schemes. These policies are often used to stimulate the housing market."
+        },
+        {
+            "q": "Is the minimum wage increasing?",
+            "a": "The National Living Wage usually rises in April. The budget confirms the new rate based on Low Pay Commission advice."
+        },
+        {
+            "q": "Did inheritance tax change?",
+            "a": "Thresholds have been frozen for years (fiscal drag). Any changes to the £325k/£500k limits would be major news for estate planning."
+        },
+        {
+            "q": "What about savings quotas?",
+            "a": "ISA allowances (£20k) are often reviewed. Keeping them frozen effectively reduces their value due to inflation."
+        },
+        {
+            "q": "How does this budget fight inflation?",
+            "a": "By controlling government spending and taxation, the Chancellor aims to balance the books without fueling demand that drives up prices."
+        },
+        {
+            "q": "Where can I read the full details?",
+            "a": "The Gov.uk website publishes the full 'Red Book'. Reliable summaries are found on BBC News and MoneySavingExpert."
+        }
+    ],
+    "us-families-fight-inflation-2026-smart-shopping": [
+        {
+            "q": "What is 'shrinkflation'?",
+            "a": "When products get smaller but the price stays the same. Check unit prices (price per oz/g) to spot this, rather than just package price."
+        },
+        {
+            "q": "Is couponing still effective in the US?",
+            "a": "Yes, specifically digital coupons via store apps (Kroger, Target, etc.). 'Stacking' manufacturer and store coupons yields big savings."
+        },
+        {
+            "q": "Are warehouse clubs (Costco/Sam's) worth the fee?",
+            "a": "For families, yes. Buying gas, meat, and staples in bulk usually covers the membership fee quickly. Just avoid buying bulk perishables you waste."
+        },
+        {
+            "q": "How can I lower US gas prices?",
+            "a": "Use apps like GasBuddy to find the cheapest local pump. Use grocery store fuel points (Kroger/Safeway) for cents off per gallon."
+        },
+        {
+            "q": "Is generic medication safe?",
+            "a": "Yes, FDA standards ensure generics have the same active ingredients as brands (Tylenol, etc.) but cost 80% less."
+        },
+        {
+            "q": "How do I save on US healthcare costs?",
+            "a": "Stay in-network. Use FSA/HSA funds tax-free. Ask for 'cash prices' for procedures if uninsured—they are often lower."
+        },
+        {
+            "q": "What is the 'envelope method'?",
+            "a": "budgeting with physical cash envelopes for categories like groceries/dining. When the envelope is empty, spending stops. Dave Ramsey popularized it."
+        },
+        {
+            "q": "Are rainchecks still a thing?",
+            "a": "Yes. If a sale item is out of stock, ask customer service for a raincheck to buy it at the sale price when restocked."
+        },
+        {
+            "q": "How can I reduce electric bills in US summers?",
+            "a": "Use a programmable thermostat. Keep blinds closed during the day. Run heavy appliances (dryer/dishwasher) at night (off-peak)."
+        },
+        {
+            "q": "Is it cheaper to eat out or cook?",
+            "a": "Cooking is drastically cheaper. The average restaurant meal is 3-4x the cost of a home-cooked equivalent, especially with tipping."
+        }
+    ]
+}

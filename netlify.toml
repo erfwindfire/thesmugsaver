@@ -1,0 +1,110 @@
+
+[build]
+  command = "npm run build"
+  publish = "out"
+
+# ──────────────────────────────────────
+# REDIRECTS — ORDER MATTERS
+# Netlify processes redirects top to bottom, first match wins
+# ──────────────────────────────────────
+
+# 1. Force HTTPS on bare domain
+[[redirects]]
+  from = "http://thesmugsaver.com/*"
+  to = "https://www.thesmugsaver.com/:splat"
+  status = 301
+  force = true
+
+# 2. Force HTTPS on www
+[[redirects]]
+  from = "http://www.thesmugsaver.com/*"
+  to = "https://www.thesmugsaver.com/:splat"
+  status = 301
+  force = true
+
+# 3. Non-www to www (canonical version is www)
+[[redirects]]
+  from = "https://thesmugsaver.com/*"
+  to = "https://www.thesmugsaver.com/:splat"
+  status = 301
+  force = true
+
+# 4. Netlify subdomain to production domain
+[[redirects]]
+  from = "https://thesmugsaver.netlify.app/*"
+  to = "https://www.thesmugsaver.com/:splat"
+  status = 301
+  force = true
+
+# 5. Strip index.html from URLs
+[[redirects]]
+  from = "/*/index.html"
+  to = "/:splat"
+  status = 301
+  force = true
+
+# 6. Root index.html
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
+
+# 7. Custom 404 (must be last redirect rule)
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+# ──────────────────────────────────────
+# SECURITY HEADERS
+# ──────────────────────────────────────
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+
+# ──────────────────────────────────────
+# CACHE HEADERS
+# ──────────────────────────────────────
+
+# Next.js hashed static assets — cache forever
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Images — cache for 1 year
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Fonts — cache for 1 year
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# HTML pages — cache briefly, revalidate
+[[headers]]
+  for = "*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Sitemap and robots — revalidate frequently
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"
+
+[[headers]]
+  for = "/robots.txt"
+  [headers.values]
+    Cache-Control = "public, max-age=3600, must-revalidate"

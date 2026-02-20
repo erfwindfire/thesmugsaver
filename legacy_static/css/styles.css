@@ -1,0 +1,186 @@
+:root {
+    /* Color Palette */
+    --color-primary: #2c3e50;
+    --color-secondary: #27ae60;
+    --color-accent: #e67e22;
+    --color-text: #333333;
+    --color-bg: #ffffff;
+    --color-bg-alt: #f9f9f9;
+    --color-border: #e0e0e0;
+
+    /* Typography */
+    --font-main: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    --font-heading: "Playfair Display", Georgia, serif;
+    /* Placeholder for premium feel */
+
+    /* Spacing */
+    --spacing-xs: 0.5rem;
+    --spacing-sm: 1rem;
+    --spacing-md: 2rem;
+    --spacing-lg: 4rem;
+
+    /* Layout */
+    --container-width: 1200px;
+    --header-height: 70px;
+}
+
+/* Reset & Base Styles */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font-main);
+    color: var(--color-text);
+    line-height: 1.6;
+    background-color: var(--color-bg);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--color-secondary);
+}
+
+ul {
+    list-style: none;
+}
+
+/* Layout Utilities */
+.container {
+    width: 100%;
+    max-width: var(--container-width);
+    margin: 0 auto;
+    padding: 0 var(--spacing-sm);
+}
+
+/* Header */
+.site-header {
+    background-color: var(--color-bg);
+    border-bottom: 1px solid var(--color-border);
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.site-header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-family: var(--font-heading);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-primary);
+}
+
+.nav-list {
+    display: flex;
+    gap: var(--spacing-md);
+}
+
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+/* Hero Section */
+.hero {
+    background-color: var(--color-bg-alt);
+    padding: var(--spacing-lg) 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-family: var(--font-heading);
+    font-size: 2.5rem;
+    margin-bottom: var(--spacing-sm);
+    color: var(--color-primary);
+}
+
+.hero-text {
+    font-size: 1.2rem;
+    margin-bottom: var(--spacing-md);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 4px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: var(--color-secondary);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #219150;
+    color: white;
+}
+
+/* Footer */
+.site-footer {
+    background-color: var(--color-primary);
+    color: white;
+    padding: var(--spacing-md) 0;
+    margin-top: var(--spacing-lg);
+    text-align: center;
+}
+
+.site-footer a {
+    color: #bdc3c7;
+}
+
+.site-footer a:hover {
+    color: white;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: var(--spacing-md);
+    margin-top: var(--spacing-sm);
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .nav-list {
+        display: none;
+        /* Todo: Implement mobile menu toggle */
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+}
