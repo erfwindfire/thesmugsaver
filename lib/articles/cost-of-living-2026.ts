@@ -10,6 +10,8 @@ export const costOfLiving2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/cost-of-living-hero.png',
+    heroImageAlt: 'Family reviewing household budget to manage the UK cost of living crisis and rising prices in 2026',
     excerpt: 'Here\'s what the government won\'t tell you: inflation hit 11.1% while wages rose 2.8%, which means you\'re not being dramatic—you really are getting poorer. But wallowing won\'t warm your house or feed y',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Make Your Paycheck Go Further—Mastering Cost of Living in the UK (2026 Edition)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Here's what the government won't tell you: inflation hit 11.1% while wages rose 2.8%, which means you're not being dramatic—you really are getting poorer. But wallowing won't warm your house or feed your family, so let's get to work.</p>

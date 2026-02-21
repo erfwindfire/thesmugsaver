@@ -10,6 +10,8 @@ export const goodBudgetingTechniques2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/budgeting-hero.png',
+    heroImageAlt: 'Couple applying good budgeting techniques to manage UK household finances and reach savings goals',
     excerpt: 'Here\'s the uncomfortable truth: most budgeting advice is American-centric nonsense that ignores British realities like council tax, direct debits, and paying £4.50 for a coffee while your energy bill ',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Good Budgeting Techniques—2026 UK Guide to Smarter Money Management</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Here's the uncomfortable truth: most budgeting advice is American-centric nonsense that ignores British realities like council tax, direct debits, and paying £4.50 for a coffee while your energy bill triples. This guide cuts through the noise with battle-tested strategies that actually work when your mortgage rate jumps overnight and your local Tesco starts looking like Harrods.</p>

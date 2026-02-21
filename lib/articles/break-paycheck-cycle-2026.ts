@@ -10,6 +10,8 @@ export const breakPaycheckCycle2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/paycheck-cycle-hero.png',
+    heroImageAlt: 'Young professional breaking the UK paycheck to paycheck cycle with smart budgeting and saving',
     excerpt: 'The paycheck-to-paycheck cycle isn\'t a character flaw—it\'s economic quicksand designed to keep you trapped while banks profit from your desperation. But here\'s the thing about quicksand: the more you ',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Break the Paycheck-to-Paycheck Cycle in the UK</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The paycheck-to-paycheck cycle isn't a character flaw—it's economic quicksand designed to keep you trapped while banks profit from your desperation. But here's the thing about quicksand: the more you panic, the deeper you sink. Time to stop flailing and start climbing.</p>

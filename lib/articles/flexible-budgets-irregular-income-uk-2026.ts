@@ -10,6 +10,8 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/irregular-income-hero.png',
+    heroImageAlt: 'Freelancer managing a flexible budget for irregular income and UK self-employed finances',
     excerpt: 'The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Updated for 2026 UK Tax Changes</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Flexible Budgets forIrregular Income</h1>

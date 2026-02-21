@@ -10,6 +10,8 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/cash-vs-digital-hero.png',
+    heroImageAlt: 'Person comparing cash envelope budgeting vs digital savings pots to manage UK household spending',
     excerpt: 'Stop falling for budgeting advice that ignores how humans actually behave with money. This is the definitive analysis of envelope budgeting versus digital pots—including the psychological warfare your',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Cash Envelope System vs. Digital Pots: Which Works Best in 2026?</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop falling for budgeting advice that ignores how humans actually behave with money. This is the definitive analysis of envelope budgeting versus digital pots—including the psychological warfare your spending habits wage against your financial goals, and which system actually wins in the real world.</p>

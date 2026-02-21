@@ -10,6 +10,8 @@ export const savingTipsNewsGuide2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/saving-tips-2026-hero.png',
+    heroImageAlt: 'Savvy saver reading the latest UK money saving tips and financial news guide for 2026',
     excerpt: 'Expert-backed strategies to navigate today\'s financial climate, protect your money, and capitalize on October 2026\'s opportunities',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Tips Based on October 2026 Finance News</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Expert-backed strategies to navigate today's financial climate, protect your money, and capitalize on October 2026's opportunities</p>

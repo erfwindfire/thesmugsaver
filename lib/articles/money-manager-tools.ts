@@ -10,6 +10,8 @@ export const moneyManagerTools: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/money-tools-hero.png',
+    heroImageAlt: 'Person using top UK money manager tools and apps to track spending, savings and investments',
     excerpt: 'Your financial life is drowning in apps, spreadsheets, and good intentions that never quite stick. Meanwhile, tech bros get rich selling \"revolutionary\" budgeting tools that do exactly what a notebook',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Money Management Guide</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">The Ultimate Money Manager: Tools and Tactics for Smarter Savings</h1>

@@ -10,6 +10,8 @@ export const bestHighYieldSavingsUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/high-yield-savings-hero.png',
+    heroImageAlt: 'Couple reviewing best UK high yield savings accounts to beat inflation with top interest rates',
     excerpt: 'Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Premium Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>

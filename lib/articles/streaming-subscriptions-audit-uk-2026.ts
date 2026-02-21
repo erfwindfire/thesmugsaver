@@ -10,6 +10,8 @@ export const streamingSubscriptionsAuditUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/streaming-subscriptions-hero.png',
+    heroImageAlt: 'Person auditing streaming subscriptions on laptop to cut UK monthly entertainment costs in 2026',
     excerpt: 'Stop bleeding money on forgotten subscriptions and streaming services you don\'t use. This comprehensive UK guide reveals how the average household wastes £400+ annually on subscriptions—and exactly ho',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Subscription Management</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">The Real Cost of Streaming, Subscriptions, and How to Ruthlessly Audit Yours</h1>

@@ -10,6 +10,8 @@ export const switchBroadbandMobileTvUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/broadband-switch-hero.png',
+    heroImageAlt: 'Family switching broadband, mobile and TV provider to save money on UK household bills',
     excerpt: 'Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Communications Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">UK 2026</p>

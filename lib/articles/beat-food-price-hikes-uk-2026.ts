@@ -10,6 +10,8 @@ export const beatFoodPriceHikesUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/food-price-hikes-hero.png',
+    heroImageAlt: 'Savvy shopper comparing prices to beat UK food price hikes and supermarket inflation',
     excerpt: 'Your complete guide to cutting grocery bills by 30-50% in 2026. Proven strategies, apps, and tactics that actually work for UK shoppers.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Food Savings Guide</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families</h1>

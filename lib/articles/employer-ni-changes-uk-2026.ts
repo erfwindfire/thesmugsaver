@@ -10,6 +10,8 @@ export const employerNiChangesUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/employer-ni-hero.png',
+    heroImageAlt: 'Small business owner reviewing UK employer National Insurance changes and payroll cost impact in 2026',
     excerpt: 'Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Employment • 2026 Tax Changes</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026</h1>

@@ -10,6 +10,8 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/money-moves-hero.png',
+    heroImageAlt: 'Family using a UK cost of living survival guide to cut expenses and manage rising household costs',
     excerpt: 'Navigate the ongoing cost of living crisis with evidence-based strategies, government support navigation, and regional survival tactics for every income level.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Cost of Living Crisis</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living UK 2026: Survival Guide</h1>

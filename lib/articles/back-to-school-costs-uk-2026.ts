@@ -10,6 +10,8 @@ export const backToSchoolCostsUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/back-to-school-hero.png',
+    heroImageAlt: 'Family preparing back-to-school shopping, managing UK school uniform and supply costs in 2026',
     excerpt: 'Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.</p>

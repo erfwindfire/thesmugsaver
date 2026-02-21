@@ -10,6 +10,8 @@ export const ukHouseholdBills2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/uk-household-bills-hero.png',
+    heroImageAlt: 'Couple reviewing and reducing UK household bills including energy, broadband and insurance costs',
     excerpt: 'UK household bills reached record highs in 2024, with the average family spending over £3,000 annually on energy alone. While the energy crisis has stabilized, 2026 brings new challenges and opportuni',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Household Bills Guide 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to UK Household Bills in 2026</h1>

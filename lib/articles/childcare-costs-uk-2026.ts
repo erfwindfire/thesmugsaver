@@ -10,6 +10,8 @@ export const childcareCostsUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/childcare-costs-hero.png',
+    heroImageAlt: 'Family managing rising UK childcare costs, nursery fees and free hours entitlement in 2026',
     excerpt: 'UK childcare costs have reached unprecedented levels in 2026, with average nursery fees now £14,836 annually (per Family and Childcare Trust)—up 8.2% from 2024. However, significant government reforms',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Childcare Guide 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to Navigating Childcare Costs in the UK (2026)</h1>

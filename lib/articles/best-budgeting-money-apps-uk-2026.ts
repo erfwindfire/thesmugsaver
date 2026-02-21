@@ -10,6 +10,8 @@ export const bestBudgetingMoneyAppsUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/best-apps-hero.png',
+    heroImageAlt: 'Person using the best UK budgeting and money management apps on smartphone to track spending',
     excerpt: 'Navigate the digital finance landscape with confidence. Expert analysis of the top money management apps helping UK families take control of their finances in 2026.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Money Management Apps</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">The Best Budgeting & Money Apps for UK Households</h1>

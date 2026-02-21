@@ -10,6 +10,8 @@ export const openBankingUk2026Impact: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/open-banking-hero.png',
+    heroImageAlt: 'Person using open banking on smartphone to manage UK finances and access better savings rates',
     excerpt: 'How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Banking Revolution 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Open Banking UK 2026: The Complete Impact & Security Guide</h1>

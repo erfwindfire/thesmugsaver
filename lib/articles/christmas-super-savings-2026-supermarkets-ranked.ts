@@ -10,6 +10,8 @@ export const christmasSuperSavings2026SupermarketsRanked: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/christmas-supermarket-rankings-hero.png',
+    heroImageAlt: 'Family comparing Christmas supermarket prices and rankings to save on UK festive food shopping',
     excerpt: 'Which supermarket will save you the most this Christmas? We\'ve ranked all major UK retailers by their festive deals and discounts.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Christmas 2026 Guide</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">2026 Christmas Super Savings: UK Supermarkets Ranked By Biggest Festive Discounts</h1>
