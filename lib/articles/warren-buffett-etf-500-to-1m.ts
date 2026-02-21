@@ -10,6 +10,8 @@ export const warrenBuffettEtf500To1m: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/warren-buffett-hero.jpg',
+    heroImageAlt: 'Distinguished investor reading financial newspaper, Warren Buffett ETF strategy to grow £500 to £1 million',
     excerpt: 'The Oracle of Omaha\'s simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here\'s the exact strategy and mathematics behind building over £1 million with ',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Wealth Building</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h1>

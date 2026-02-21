@@ -8,9 +8,10 @@ interface ArticleHeaderProps {
     date: string;
     readingTime?: string;
     imageUrl?: string;
+    imageAlt?: string;
 }
 
-const ArticleHeader = ({ title, category, author, date, readingTime = "5 min read", imageUrl }: ArticleHeaderProps) => {
+const ArticleHeader = ({ title, category, author, date, readingTime = "5 min read", imageUrl, imageAlt }: ArticleHeaderProps) => {
     return (
         <header className="mb-12 text-center max-w-[720px] mx-auto px-6 md:px-0">
             <div className="flex justify-center gap-3 mb-6 text-sm font-bold uppercase tracking-widest text-[#1B4D3E]">
@@ -35,7 +36,7 @@ const ArticleHeader = ({ title, category, author, date, readingTime = "5 min rea
                 <div className="mt-8 rounded-2xl overflow-hidden shadow-xl aspect-[16/9] relative">
                     <img
                         src={imageUrl}
-                        alt={title}
+                        alt={imageAlt || title}
                         className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
                     />
                 </div>

@@ -10,6 +10,8 @@ export const studentFinanceSurvivalUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/student-finance-hero.jpg',
+    heroImageAlt: 'Student in pink hoodie reviewing UK student finance letter on university campus bench',
     excerpt: 'Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Money</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h1>

@@ -10,6 +10,8 @@ export const foodInflation2026SmartShopping: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/america-food-crisis-2025-hero.jpg',
+    heroImageAlt: 'Family at food bank navigating food crisis and rising grocery prices with smart shopping strategies',
     excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Daily Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>

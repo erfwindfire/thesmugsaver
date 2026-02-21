@@ -10,6 +10,8 @@ export const mortgageRates2026FixOrWait: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/mortgage-rates-hero.jpg',
+    heroImageAlt: 'Couple in mint outfits holding house keys and mortgage documents, comparing UK mortgage rates',
     excerpt: 'Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating September 2026\'s rate landscape and making the right fixing decision.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Mortgages & Property</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Mortgage Rates September 2026: Should You Fix Now or Wait?</h1>

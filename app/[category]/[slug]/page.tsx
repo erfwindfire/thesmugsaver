@@ -85,6 +85,8 @@ export default function ArticlePage({ params }: PageProps) {
                             author={article.author || "The Smug Saver Team"}
                             date={new Date(article.datePublished).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
                             readingTime={`${article.readingTime} min read`}
+                            imageUrl={article.heroImage}
+                            imageAlt={article.heroImageAlt}
                         />
 
                         {/* Excerpt / Summary Card */}

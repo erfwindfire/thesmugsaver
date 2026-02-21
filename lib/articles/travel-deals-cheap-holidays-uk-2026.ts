@@ -10,6 +10,8 @@ export const travelDealsCheapHolidaysUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/travel-deals-hero.jpg',
+    heroImageAlt: 'Couple with suitcases at airport celebrating cheap holiday travel deals and UK flight savings',
     excerpt: 'Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Travel Savings</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Unlocking Travel Deals and Cheap Holidays for Brits</h1>

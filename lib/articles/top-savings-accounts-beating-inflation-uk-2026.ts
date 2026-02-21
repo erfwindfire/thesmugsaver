@@ -10,6 +10,8 @@ export const topSavingsAccountsBeatingInflationUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/top-savings-accounts-hero.jpg',
+    heroImageAlt: 'Woman in lavender outfit saving coins in a glass jar, finding top UK savings accounts beating inflation',
     excerpt: 'Your cash is losing value daily in standard accounts. Discover the best UK savings accounts offering 4.5-5.25% returns to actually grow your money in 2026.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Top Savings Accounts Beating Inflation in 2026</h1>

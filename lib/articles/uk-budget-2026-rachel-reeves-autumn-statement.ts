@@ -10,6 +10,8 @@ export const ukBudget2026RachelReevesAutumnStatement: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/uk-budget-hero.jpg',
+    heroImageAlt: 'Family in pastel outfits reviewing the UK budget 2026 impact on household finances',
     excerpt: 'The first Labour Budget in 14 years brings sweeping changes to tax, spending, and borrowing. Here\'s exactly how Rachel Reeves\' Autumn Statement 2026 affects your money—and what you need to do before A',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Tax Changes</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Budget 2026</p>

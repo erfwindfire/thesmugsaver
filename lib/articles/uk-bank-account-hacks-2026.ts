@@ -10,6 +10,8 @@ export const ukBankAccountHacks2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/uk-bank-account-hacks-hero.jpg',
+    heroImageAlt: 'Man in sage green using contactless payment, exploiting UK bank account switching bonuses and hacks',
     excerpt: 'Stop letting banks profit from your ignorance while your money earns pathetic 0.01% in current accounts. This is the insider playbook for extracting every penny of interest, cashback, and switching bo',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Simple UK Bank Account Hacks to Maximise Interest in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop letting banks profit from your ignorance while your money earns pathetic 0.01% in current accounts. This is the insider playbook for extracting every penny of interest, cashback, and switching bonuses from UK banks—because they sure as hell won't volunteer this information.</p>

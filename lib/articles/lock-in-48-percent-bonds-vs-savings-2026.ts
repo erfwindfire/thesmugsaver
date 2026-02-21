@@ -10,6 +10,8 @@ export const lockIn48PercentBondsVsSavings2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/lock-in-48-percent-bonds-hero.jpg',
+    heroImageAlt: 'Man in grey shirt reviewing bond investment documents, locking in 4.8% UK savings rate',
     excerpt: 'With Bank of England rate cuts expected throughout 2026, locking in today\'s 4.8% bond rates could protect your returns while savings account rates plummet. Here\'s everything you need to know.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Bonds vs Savings Strategy</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Lock in 4.8% Returns: UK Government Bonds vs High-Yield Savings Accounts in 2026</h1>

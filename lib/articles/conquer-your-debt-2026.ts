@@ -10,6 +10,8 @@ export const conquerYourDebt2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/conquer-your-debt-hero.jpg',
+    heroImageAlt: 'Woman in sage green outfit relieved after conquering UK debt, tearing up credit card statement',
     excerpt: 'Let\'s be honest about debt: it\'s not a moral failing, it\'s a mathematical reality. 63% of UK adults carry consumer debt averaging £8,400, and pretending shame will solve it is about as effective as pa',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Let's be honest about debt: it's not a moral failing, it's a mathematical reality. 63% of UK adults carry consumer debt averaging £8,400, and pretending shame will solve it is about as effective as paying your mortgage with good intentions and positive vibes.</p>

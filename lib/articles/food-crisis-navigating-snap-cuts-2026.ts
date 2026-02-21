@@ -10,6 +10,8 @@ export const foodCrisisNavigatingSnapCuts2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/food-crisis-navigating-snap-cuts-hero.jpg',
+    heroImageAlt: 'Mother in peach outfit budgeting meals in kitchen to navigate SNAP cuts and food crisis',
     excerpt: 'The November 2025 announcement that SNAP benefits would be slashed by 50% represents more than a budget cut—it\'s a seismic shift in the American social contract, affecting 42 million citizens overnigh',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">When the Safety Net Tears: Navigating America's Food Crisis at Half Capacity</h1>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Summary</h2>

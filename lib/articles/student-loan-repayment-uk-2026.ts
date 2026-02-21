@@ -10,6 +10,8 @@ export const studentLoanRepaymentUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/student-loan-repayment-hero.jpg',
+    heroImageAlt: 'Young man calculating UK student loan repayments at a clean desk with calculator and paperwork',
     excerpt: 'Navigate the complex world of UK student loans with confidence. From Plan 1 to Postgraduate loans, we\'ll show you exactly how to manage, optimize, and potentially escape your student debt.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Finance Guide 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Student Loan Repayment in 2026: UK Survival Guide for Every Plan Type</h1>

@@ -10,6 +10,8 @@ export const howToNegotiateBillsUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/how-to-negotiate-bills-hero.jpg',
+    heroImageAlt: 'Confident woman in blue blazer negotiating household bills by phone, cutting monthly expenses',
     excerpt: 'Stop accepting whatever bills companies send you like a grateful peasant. This is your arsenal of proven negotiation scripts, legal rights, and psychological tactics to slash your bills—because every ',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Negotiate Bills and Subscriptions: UK Scripts & Tactics for 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop accepting whatever bills companies send you like a grateful peasant. This is your arsenal of proven negotiation scripts, legal rights, and psychological tactics to slash your bills—because every company expects you to pay full price, and that's exactly why most people do.</p>

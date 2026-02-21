@@ -10,6 +10,8 @@ export const usFamiliesFightInflation2026SmartShopping: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/us-families-fight-inflation-hero.jpg',
+    heroImageAlt: 'American family in blue outfits checking grocery receipt, fighting inflation with smart shopping',
     excerpt: 'American families face 30% higher costs since 2020. Master strategic shopping, store comparison, and smart substitutions to slash grocery bills by $200+ monthly while maintaining nutrition and quality',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">US Inflation Strategy</p>
 <p class="mb-4 text-gray-700 leading-relaxed">15 January 2026</p>

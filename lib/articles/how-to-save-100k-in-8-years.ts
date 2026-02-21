@@ -10,6 +10,8 @@ export const howToSave100kIn8Years: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/how-to-save-100k-hero.jpg',
+    heroImageAlt: 'Couple celebrating saving £100,000 milestone, holding oversized cheque in pastel outfits',
     excerpt: 'Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Save £100,000 Over 8 Years</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices</p>

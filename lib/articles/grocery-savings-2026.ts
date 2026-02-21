@@ -10,6 +10,8 @@ export const grocerySavings2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/grocery-savings-hero.jpg',
+    heroImageAlt: 'Couple in yellow outfits comparing supermarket prices, saving money on UK grocery shopping',
     excerpt: 'Your weekly grocery bill has become financial terrorism. £120 for basics? £4 for a loaf of bread? The supermarkets are playing psychological warfare with your wallet while their CEOs collect bonuses t',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">The Sm</p>
 <p class="mb-4 text-gray-700 leading-relaxed">••</p>

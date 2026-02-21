@@ -10,6 +10,8 @@ export const rentBuyStayPutUk2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/rent-buy-stay-put-hero.jpg',
+    heroImageAlt: 'Couple in lilac outfits weighing up renting vs buying a home, holding rental and mortgage documents',
     excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Housing Strategies</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Rent, Buy, or Stay Put? 2026's Best UK Housing Strategies</h1>
