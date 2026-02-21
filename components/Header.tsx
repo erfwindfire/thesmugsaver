@@ -151,12 +151,12 @@ const Header = ({ navData }: HeaderProps) => {
         <div className="container mx-auto flex h-20 items-center justify-between px-4 lg:px-8">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group relative z-50">
-            <div className="relative flex h-14 w-14 items-center justify-center logo-float">
+            <div className="relative flex h-[68px] w-[68px] items-center justify-center logo-float">
               <Image
                 src="/logo.png"
                 alt="The Smug Saver"
-                width={52}
-                height={52}
+                width={68}
+                height={68}
                 className="object-contain"
               />
             </div>

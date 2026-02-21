@@ -4,6 +4,11 @@ import Image from 'next/image';
 import { useState } from 'react';
 import { CheckCircle2 } from 'lucide-react';
 
+const encode = (data: { [key: string]: string }) =>
+    Object.keys(data)
+        .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+        .join('&');
+
 const EmailCaptureSection = () => {
     const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
     const [email, setEmail] = useState('');
@@ -11,14 +16,15 @@ const EmailCaptureSection = () => {
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
         setStatus('loading');
-        const form = e.currentTarget;
-        const formData = new FormData(form);
 
         try {
             const response = await fetch('/', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-                body: new URLSearchParams(formData as any).toString(),
+                body: encode({
+                    'form-name': 'email-signup',
+                    email: email,
+                }),
             });
             if (response.ok) {
                 setStatus('success');
@@ -57,7 +63,7 @@ const EmailCaptureSection = () => {
                         data-netlify="true"
                         data-netlify-honeypot="bot-field"
                         onSubmit={handleSubmit}
-                        className="max-w-xl mx-auto flex flex-col sm:flex-row gap-3 mb-4"
+                        className="max-w-xl mx-auto flex flex-col sm:flex-row gap-3 mb-12"
                     >
                         <input type="hidden" name="form-name" value="email-signup" />
                         <p className="hidden">
@@ -82,12 +88,8 @@ const EmailCaptureSection = () => {
                     </form>
                 )}
                 {status === 'error' && (
-                    <p className="text-white/70 text-sm mt-3 mb-4">Something went wrong — please try again.</p>
+                    <p className="text-white/70 text-sm -mt-8 mb-12">Something went wrong — please try again.</p>
                 )}
-                <p className="text-white/50 text-xs mt-2 mb-12">
-                    No spam. Unsubscribe at any time. Read our{' '}
-                    <a href="/privacy-policy" className="underline hover:text-white/80">privacy policy</a>.
-                </p>
 
                 {/* Hero people image */}
                 <div className="mx-auto max-w-2xl rounded-2xl overflow-hidden shadow-2xl">
