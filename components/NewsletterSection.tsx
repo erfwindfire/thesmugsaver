@@ -41,20 +41,9 @@ const EmailCaptureSection = () => {
                     Get money-saving tips, budgeting strategies, and financial advice delivered weekly. Build wealth while living well.
                 </p>
 
-                {/* Hero people image */}
-                <div className="mx-auto mb-12 max-w-2xl rounded-2xl overflow-hidden shadow-2xl">
-                    <Image
-                        src="/assets/images/homepage-hero-people.jpg"
-                        alt="Smart money management for everyone"
-                        width={800}
-                        height={450}
-                        className="w-full h-auto object-cover"
-                    />
-                </div>
-
                 {/* Email capture — powered by Netlify Forms */}
                 {status === 'success' ? (
-                    <div className="max-w-xl mx-auto bg-white/10 backdrop-blur-sm border border-white/20 rounded-xl p-8 text-center">
+                    <div className="max-w-xl mx-auto bg-white/10 backdrop-blur-sm border border-white/20 rounded-xl p-8 text-center mb-12">
                         <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center mx-auto mb-4">
                             <CheckCircle2 className="w-6 h-6 text-primary" />
                         </div>
@@ -68,7 +57,7 @@ const EmailCaptureSection = () => {
                         data-netlify="true"
                         data-netlify-honeypot="bot-field"
                         onSubmit={handleSubmit}
-                        className="max-w-xl mx-auto flex flex-col sm:flex-row gap-3"
+                        className="max-w-xl mx-auto flex flex-col sm:flex-row gap-3 mb-4"
                     >
                         <input type="hidden" name="form-name" value="email-signup" />
                         <p className="hidden">
@@ -93,12 +82,23 @@ const EmailCaptureSection = () => {
                     </form>
                 )}
                 {status === 'error' && (
-                    <p className="text-white/70 text-sm mt-3">Something went wrong — please try again.</p>
+                    <p className="text-white/70 text-sm mt-3 mb-4">Something went wrong — please try again.</p>
                 )}
-                <p className="text-white/50 text-xs mt-4">
+                <p className="text-white/50 text-xs mt-2 mb-12">
                     No spam. Unsubscribe at any time. Read our{' '}
                     <a href="/privacy-policy" className="underline hover:text-white/80">privacy policy</a>.
                 </p>
+
+                {/* Hero people image */}
+                <div className="mx-auto max-w-2xl rounded-2xl overflow-hidden shadow-2xl">
+                    <Image
+                        src="/assets/images/homepage-hero-people.jpg"
+                        alt="Smart money management for everyone"
+                        width={800}
+                        height={450}
+                        className="w-full h-auto object-cover"
+                    />
+                </div>
             </div>
         </section>
     );

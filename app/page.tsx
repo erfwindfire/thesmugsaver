@@ -1,5 +1,4 @@
 import { Metadata } from 'next';
-import Hero from '@/components/Hero';
 import NewsletterSection from '@/components/NewsletterSection';
 import FeatureGrid from '@/components/FeatureGrid';
 import ArticleGrid from '@/components/ArticleGrid';
@@ -57,7 +56,6 @@ export default function Home() {
         <div className="bg-gray-50 font-sans">
             <JsonLd data={organizationSchema} />
             <JsonLd data={websiteSchema} />
-            <Hero />
             <NewsletterSection />
 
             {/* Visual Spacer - Overlapping cards effect potential here */}
