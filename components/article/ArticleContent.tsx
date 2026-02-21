@@ -146,7 +146,14 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
         const sectionHtml = processedContent.slice(headerEnd, endIndex);
 
         const actions = [];
-        const summaryText = tldrMatch[0].includes('Quick') ? "Quick Takeaways" : "Key Takeaways";
+
+        // Extract the actual "Bottom Line:" paragraph content if present
+        let actualSummary = '';
+        const blMatch = sectionHtml.match(/<strong>Bottom Line:?\s*<\/strong>\s*([\s\S]*?)<\/p>/i)
+            || sectionHtml.match(/<strong>Bottom Line:([^<]*)<\/strong>/i);
+        if (blMatch) {
+            actualSummary = blMatch[1].replace(/<[^>]*>/g, '').trim();
+        }
 
         // Strategy: Parse ANY list-like items (<li> or lines in <p> starting with bullets)
 
@@ -163,7 +170,7 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
                 lines.forEach(line => {
                     if (line.trim().length > 0) {
                         const cleaned = cleanText(line);
-                        // Check if it was a list item (had a marker). 
+                        // Check if it was a list item (had a marker).
                         // If we are in "Quick Takeaways", almost lines are items.
                         if (cleaned) actions.push(cleaned);
                     }
@@ -173,7 +180,8 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
 
         if (actions.length > 0) {
             const actionsJson = JSON.stringify(actions).replace(/"/g, '&quot;');
-            const replacementTag = `<div data-component="tldr" data-summary="${summaryText}" data-actions="${actionsJson}"></div>`;
+            const summaryEncoded = actualSummary.replace(/"/g, '&quot;');
+            const replacementTag = `<div data-component="tldr" data-summary="${summaryEncoded}" data-actions="${actionsJson}"></div>`;
 
             // Replace header + section
             processedContent = processedContent.slice(0, headerIndex) + replacementTag + processedContent.slice(endIndex);
@@ -188,7 +196,8 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
         // Strip tags
         text = text.replace(/<[^>]*>/g, '');
         // Strip markers: bullets, checks, boxes, numbers, "Step X:"
-        text = text.replace(/^(\s*[•\-–—]\s*)+([✓✅□]\s*|\[[ x]\]\s*)?/, '');
+        // Handles: • item, ✓ item, • ✓ item, ✓ • item, etc.
+        text = text.replace(/^(\s*[•\-–—✓✅□]\s*)+/, '');
         text = text.replace(/^\d+\.\s*/, '');
         text = text.replace(/^Step\s*\d+:?\s*/i, '');
         return text.trim();
