@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>Netlify Forms Detection</title></head>
+<body>
+  <!-- This file exists so Netlify can detect and register our forms at build time -->
+  <form name="email-signup" netlify netlify-honeypot="bot-field" hidden>
+    <input type="hidden" name="form-name" value="email-signup" />
+    <input name="bot-field" type="hidden" />
+    <input type="email" name="email" />
+  </form>
+</body>
+</html>

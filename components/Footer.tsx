@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Smile } from 'lucide-react';
+import Image from 'next/image';
 
 export default function Footer() {
     return (
@@ -43,16 +43,13 @@ export default function Footer() {
                     <div>
                         <h3 className="font-serif font-bold text-lg mb-6 text-accent">About</h3>
                         <div className="flex items-center gap-2 mb-6">
-                            <div className="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-tr from-accent to-[#FF6B6B]">
-                                <Smile className="h-5 w-5 text-white" />
-                            </div>
+                            <Image src="/logo.png" alt="The Smug Saver" width={32} height={32} className="object-contain" />
                             <span className="font-bold text-white">The Smug Saver</span>
                         </div>
                         <ul className="space-y-3">
                             <li><Link href="/about" className="text-gray-300 hover:text-white transition-colors">About Us</Link></li>
-                            <li><Link href="/contact" className="text-gray-300 hover:text-white transition-colors">Contact</Link></li>
                             <li><Link href="/privacy-policy" className="text-gray-300 hover:text-white transition-colors">Privacy Policy</Link></li>
-                            <li><Link href="/terms" className="text-gray-300 hover:text-white transition-colors">Terms & Conditions</Link></li>
+                            <li><Link href="/terms" className="text-gray-300 hover:text-white transition-colors">Terms &amp; Conditions</Link></li>
                             <li><Link href="/cookie-policy" className="text-gray-300 hover:text-white transition-colors">Cookie Policy</Link></li>
                         </ul>
                     </div>

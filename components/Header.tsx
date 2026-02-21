@@ -1,8 +1,9 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useState, useRef, useEffect } from 'react';
-import { Search, ChevronDown, Smile, Menu, X, ChevronRight, ChevronUp } from 'lucide-react';
+import { Search, ChevronDown, Menu, X, ChevronRight, ChevronUp } from 'lucide-react';
 import { usePathname, useRouter } from 'next/navigation';
 
 interface HeaderProps {
@@ -150,8 +151,14 @@ const Header = ({ navData }: HeaderProps) => {
         <div className="container mx-auto flex h-20 items-center justify-between px-4 lg:px-8">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-3 group relative z-50">
-            <div className="relative flex h-10 w-10 items-center justify-center rounded-full bg-gradient-to-tr from-primary to-accent shadow-sm transition-transform group-hover:scale-105">
-              <Smile className="h-6 w-6 text-white" />
+            <div className="relative flex h-10 w-10 items-center justify-center transition-transform group-hover:scale-105">
+              <Image
+                src="/logo.png"
+                alt="The Smug Saver"
+                width={40}
+                height={40}
+                className="object-contain"
+              />
             </div>
             <span className="font-serif text-xl font-bold tracking-tight text-neutral-dark">
               The Smug Saver

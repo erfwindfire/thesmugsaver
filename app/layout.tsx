@@ -18,7 +18,11 @@ const merriweather = Merriweather({
 
 export const metadata: Metadata = {
   title: 'The Smug Saver - Smart Money Management',
-  description: 'Get personalised money-saving tips, budgeting strategies, and financial advice.',
+  description: 'Get money-saving tips, budgeting strategies, and financial advice. Build wealth while living well.',
+  icons: {
+    icon: '/logo.png',
+    apple: '/logo.png',
+  },
 }
 
 export default function RootLayout({
