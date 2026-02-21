@@ -23,6 +23,7 @@ const Hero = () => {
                         height={130}
                         priority
                         className="drop-shadow-xl"
+                        style={{ filter: 'brightness(0) invert(1)' }}
                     />
                 </div>
                 <h1 className="font-serif text-4xl md:text-5xl font-bold text-white mb-4 leading-tight max-w-3xl drop-shadow-sm">
