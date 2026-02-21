@@ -6,44 +6,56 @@ const FeatureGrid = () => {
     const featuredCategories = [
         {
             slug: 'budgeting',
-            icon: <Wallet className="w-8 h-8 text-white" />,
+            icon: <Wallet className="w-6 h-6 text-white" />,
             title: 'Budgeting',
             description: 'Master your money with proven budgeting techniques, apps, and automation strategies.',
+            image: '/assets/images/categories/category-budgeting.jpg',
+            imageAlt: 'Person budgeting and managing household finances',
             count: getArticlesByCategory('budgeting').length
         },
         {
             slug: 'earning-and-benefits',
-            icon: <TrendingUp className="w-8 h-8 text-white" />,
+            icon: <TrendingUp className="w-6 h-6 text-white" />,
             title: 'Earning & Benefits',
             description: 'Boost your income with side hustles, claim every benefit you\'re owed, and understand tax changes.',
+            image: '/assets/images/categories/category-earning.jpg',
+            imageAlt: 'Person earning extra income and managing UK benefits',
             count: getArticlesByCategory('earning-and-benefits').length
         },
         {
             slug: 'savings-and-investing',
-            icon: <PiggyBank className="w-8 h-8 text-white" />,
+            icon: <PiggyBank className="w-6 h-6 text-white" />,
             title: 'Savings & Investing',
             description: 'Grow your wealth with high-yield accounts, bonds, bank hacks, and smart investment strategies.',
+            image: '/assets/images/categories/category-savings.jpg',
+            imageAlt: 'Couple reviewing savings and investment options',
             count: getArticlesByCategory('savings-and-investing').length
         },
         {
             slug: 'supermarket-savings',
-            icon: <ShoppingCart className="w-8 h-8 text-white" />,
+            icon: <ShoppingCart className="w-6 h-6 text-white" />,
             title: 'Supermarket Savings',
             description: 'Beat food inflation with smart shopping strategies, loyalty hacks, and meal planning.',
+            image: '/assets/images/categories/category-supermarket.jpg',
+            imageAlt: 'Savvy shopper saving money at the supermarket',
             count: getArticlesByCategory('supermarket-savings').length
         },
         {
             slug: 'energy-bills',
-            icon: <Zap className="w-8 h-8 text-white" />,
+            icon: <Zap className="w-6 h-6 text-white" />,
             title: 'Energy Bills',
             description: 'Cut your energy costs with switching strategies, negotiation scripts, and efficiency hacks.',
+            image: '/assets/images/categories/category-energy.jpg',
+            imageAlt: 'Homeowner reviewing and reducing energy bills',
             count: getArticlesByCategory('energy-bills').length
         },
         {
             slug: 'housing',
-            icon: <Home className="w-8 h-8 text-white" />,
+            icon: <Home className="w-6 h-6 text-white" />,
             title: 'Housing',
             description: 'Navigate the UK housing market — first-time buyer schemes, mortgage decisions, and rent strategies.',
+            image: '/assets/images/categories/category-housing.jpg',
+            imageAlt: 'Couple navigating the UK housing market',
             count: getArticlesByCategory('housing').length
         }
     ];
@@ -73,26 +85,35 @@ const FeatureGrid = () => {
                         <Link
                             key={cat.slug}
                             href={`/${cat.slug}`}
-                            className="group block bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300 overflow-hidden"
+                            className="group block bg-white rounded-2xl shadow-sm border border-gray-100 hover:shadow-lg transition-all duration-300 overflow-hidden"
                         >
-                            <div className="p-8">
-                                <div className="flex items-center justify-between mb-6">
-                                    <div className="w-14 h-14 rounded-full bg-primary flex items-center justify-center group-hover:bg-primary-light transition-colors shadow-lg shadow-primary/20">
-                                        {cat.icon}
-                                    </div>
-                                    <span className="text-xs font-bold text-gray-400 bg-gray-50 px-3 py-1 rounded-full border border-gray-100">
-                                        {cat.count} Articles
-                                    </span>
+                            {/* Image header */}
+                            <div className="relative h-48 overflow-hidden">
+                                <img
+                                    src={cat.image}
+                                    alt={cat.imageAlt}
+                                    className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
+                                />
+                                {/* Gradient overlay */}
+                                <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
+                                {/* Icon badge */}
+                                <div className="absolute bottom-4 left-4 w-10 h-10 rounded-full bg-primary flex items-center justify-center shadow-lg shadow-primary/30">
+                                    {cat.icon}
                                 </div>
+                                {/* Article count badge */}
+                                <span className="absolute top-3 right-3 text-xs font-bold text-white bg-black/30 backdrop-blur-sm px-3 py-1 rounded-full border border-white/20">
+                                    {cat.count} Articles
+                                </span>
+                            </div>
 
-                                <h3 className="font-serif text-2xl font-bold text-neutral-dark mb-3 group-hover:text-primary transition-colors">
+                            {/* Content */}
+                            <div className="p-6">
+                                <h3 className="font-serif text-xl font-bold text-neutral-dark mb-2 group-hover:text-primary transition-colors">
                                     {cat.title}
                                 </h3>
-
-                                <p className="text-gray-600 leading-relaxed mb-6">
+                                <p className="text-gray-600 leading-relaxed text-sm mb-4">
                                     {cat.description}
                                 </p>
-
                                 <div className="flex items-center text-primary font-bold text-sm uppercase tracking-wide">
                                     Explore Topic <ArrowRight className="w-4 h-4 ml-1 transition-transform group-hover:translate-x-1" />
                                 </div>
