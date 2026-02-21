@@ -10,6 +10,8 @@ export const travelDealsWorldwide2026: Article = {
     datePublished: '2026-02-20',
     dateModified: '2026-02-20',
     author: 'The Smug Saver',
+    heroImage: '/assets/images/travel-deals-worldwide-2026-hero.jpg',
+    heroImageAlt: 'Couple with luggage exploring a sunny travel destination, saving money on worldwide holidays and cheap flights',
     excerpt: 'Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Travel Savings</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Unlocking Travel Deals and Cheap Holidays Worldwide</h1>
