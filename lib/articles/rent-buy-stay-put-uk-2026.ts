@@ -44,12 +44,6 @@ export const rentBuyStayPutUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/housing/first-time-home-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">first-time buyer schemes</a> covers this in more detail.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is LTV (Loan-to-Value Ratio)?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">LTV is the percentage of a property's value you're borrowing. A £200,000 house with a £20,000 deposit means you're borrowing £180,000, which is 90% LTV. Lower LTV = better mortgage rates because you own more equity. Dropping from 95% to 90% LTV can save 0.3-0.5% on interest rates, while 75% LTV or below unlocks the best deals. LTV also determines if you need mortgage insurance and affects remortgage options.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Answers: Housing Decisions</h2>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Should I rent or buy in 2026?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much deposit do I need to buy a house in the UK?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When should I remortgage my existing property?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is negative equity a real risk in 2026?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the 30% mortgage rule and should I follow it?</h3>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Housing Choice That Defines Your Financial Future</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Let's not sugarcoat this: housing in the UK is brutally expensive, whether you're renting, buying, or already own. You're probably here because you're being squeezed—rent increasing again, watching house prices with a mix of hope and dread, or staring at your mortgage deal end date with genuine anxiety.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The "rent vs buy" debate is plastered across every money blog, but here's what they won't tell you: there's no universally "correct" answer. The Instagram finance influencer who screams "renting is throwing money away" is probably ignoring maintenance costs, stamp duty, and opportunity costs. The person insisting "buying is always better" might not mention that house prices can—and do—fall, trapping people in negative equity.</p>
