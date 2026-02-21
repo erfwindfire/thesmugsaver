@@ -107,7 +107,7 @@ export default function ArticlePage({ params }: PageProps) {
                                 marginTop: 0,
                                 textTransform: 'uppercase'
                             }}>
-                                {article.slug === 'money-moves-weird-2026' ? 'THE SITUATION' : 'EXECUTIVE SUMMARY'}
+                                Key Points
                             </h3>
                             <p style={{
                                 color: '#333333',
