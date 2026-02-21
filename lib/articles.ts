@@ -51,6 +51,7 @@ import { streamingSubscriptionsAuditUk2026 } from './articles/streaming-subscrip
 import { studentFinanceSurvivalUk2026 } from './articles/student-finance-survival-uk-2026';
 import { studentLoanRepaymentUk2026 } from './articles/student-loan-repayment-uk-2026';
 import { switchBroadbandMobileTvUk2026 } from './articles/switch-broadband-mobile-tv-uk-2026';
+import { taxFreeChildcareUk2026 } from './articles/tax-free-childcare-uk-2026';
 import { taxFreeSideHustlesUk2026 } from './articles/tax-free-side-hustles-uk-2026';
 import { topSavingsAccountsBeatingInflationUk2026 } from './articles/top-savings-accounts-beating-inflation-uk-2026';
 import { travelDealsCheapHolidaysUk2026 } from './articles/travel-deals-cheap-holidays-uk-2026';
@@ -99,6 +100,7 @@ export const articles: Article[] = [
     studentFinanceSurvivalUk2026,
     studentLoanRepaymentUk2026,
     switchBroadbandMobileTvUk2026,
+    taxFreeChildcareUk2026,
     taxFreeSideHustlesUk2026,
     topSavingsAccountsBeatingInflationUk2026,
     travelDealsCheapHolidaysUk2026,
