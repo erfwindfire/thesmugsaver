@@ -438,9 +438,9 @@ export const childcareCostsUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How do I choose between a nursery and childminder?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I get help with childcare costs as a student parent?</h3>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Money-Saving Guides</h2>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master family budgeting with proven UK strategies and tools</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/cost-of-living-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Cost of Living UK 2026Navigate rising costs with practical money-saving strategies</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/building-wealth-from-scratch-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Building Wealth from Scratch UKLong-term financial planning for families with children</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master family budgeting with proven UK strategies and tools</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/cost-of-living/cost-of-living-uk-2026-survival-guide" class="text-emerald-700 underline hover:text-emerald-900">Cost of Living UK 2026Navigate rising costs with practical money-saving strategies</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing" class="text-emerald-700 underline hover:text-emerald-900">Building Wealth from Scratch UKLong-term financial planning for families with children</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stay Updated on UK Childcare Changes</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Get the latest updates on childcare schemes, policy changes, and money-saving tips delivered to your inbox.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>

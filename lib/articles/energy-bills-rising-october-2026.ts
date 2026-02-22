@@ -660,8 +660,8 @@ export const energyBillsRisingOctober2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£300-450/year</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Money-Saving Guides</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Continue your financial journey with these comprehensive UK guides</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Master Bill Negotiation TacticsScripts and strategies to slash energy, broadband, and insurance costs</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">Ultimate Household Bills GuideComplete strategy for energy, water, council tax, and broadband savings</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Master Bill Negotiation TacticsScripts and strategies to slash energy, broadband, and insurance costs</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">Ultimate Household Bills GuideComplete strategy for energy, water, council tax, and broadband savings</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Frequently Asked Questions</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When exactly does the October 2026 price cap take effect?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I switch to a fixed tariff after October 1st?</h3>

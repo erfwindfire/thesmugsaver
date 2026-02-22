@@ -865,8 +865,8 @@ export const foodInflation2026SmartShopping: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When is the best time to do grocery shopping for deals?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the most effective single change I can make today?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Money Guides</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting fundamentals to allocate more money for food savings</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/grocery-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">10 Grocery Saving Hacks You Haven't Tried YetUK-specific grocery saving strategies and advanced techniques</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting fundamentals to allocate more money for food savings</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/supermarket-savings/grocery-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">10 Grocery Saving Hacks You Haven't Tried YetUK-specific grocery saving strategies and advanced techniques</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.ons.gov.uk/economy/inflationandpriceindices" class="text-emerald-700 underline hover:text-emerald-900">ONS Inflation DataOfficial UK inflation statistics and food price indices</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.bbc.co.uk/news/business" class="text-emerald-700 underline hover:text-emerald-900">BBC Business NewsLatest UK food inflation and economic news</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>

@@ -404,15 +404,15 @@ export const usFamiliesFightInflation2026SmartShopping: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Budgeting</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Good Budgeting Techniques 2026: Master Your Money</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Learn proven budgeting frameworks and money management strategies to take control of your finances in 2026.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Savings</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Automate Your Savings 2026: Set It and Forget It</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Discover how to build wealth automatically with smart savings automation strategies and tools.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Financial Freedom</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Break the Paycheck to Paycheck Cycle 2026</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Escape financial stress with proven strategies to stop living paycheck to paycheck and build financial resilience.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/break-paycheck-cycle-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/break-paycheck-cycle-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Get personalized money-saving tips and financial strategies delivered to your inbox every morning. Join thousands who are building wealth one tip at a time.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe</p>`

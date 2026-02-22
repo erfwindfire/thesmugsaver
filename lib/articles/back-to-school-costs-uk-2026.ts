@@ -470,10 +470,10 @@ export const backToSchoolCostsUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Money-Saving Guides</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Good Budgeting Techniques</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Master 12+ proven budgeting strategies to stretch your family income further and build emergency funds for unexpected school costs.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Read budgeting guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Read budgeting guide</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">UK Household Bills 2026</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Comprehensive guide to reducing all household expenses, freeing up more money for family essentials like school costs.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">Reduce household bills</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">Reduce household bills</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Sources and Further Reading:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Gov.uk - Apply for Free School Meals</li>

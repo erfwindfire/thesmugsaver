@@ -635,13 +635,13 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Survival Guides</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Budget Rule Mastery</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Master the 50/30/20 rule and other proven budgeting frameworks for sustainable money management.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budget-rule-article" class="text-emerald-700 underline hover:text-emerald-900">Read Guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/budget-rule-article" class="text-emerald-700 underline hover:text-emerald-900">Read Guide</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Debt Elimination</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Comprehensive strategies for conquering debt and building financial freedom in the UK.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">Read Guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/credit-cards-and-debt/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">Read Guide</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Student Finance Survival</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate student loans, grants, and financial survival strategies for UK students.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/student-finance-survival-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Read Guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/earning-and-benefits/student-finance-survival-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Read Guide</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Stay Ahead of the Crisis</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Get weekly updates on new government support, cost-cutting strategies, and survival tactics delivered to your inbox.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>

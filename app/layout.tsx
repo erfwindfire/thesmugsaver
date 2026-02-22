@@ -1,20 +1,8 @@
 import type { Metadata } from 'next'
-import { Inter, Merriweather } from 'next/font/google'
 import './globals.css'
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import { getArticlesByCategory } from '@/lib/articles';
-
-const inter = Inter({
-  subsets: ['latin'],
-  variable: '--font-inter',
-})
-
-const merriweather = Merriweather({
-  weight: ['300', '400', '700', '900'],
-  subsets: ['latin'],
-  variable: '--font-merriweather',
-})
 
 export const metadata: Metadata = {
   title: 'The Smug Saver - Smart Money Management',
@@ -47,7 +35,18 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${merriweather.variable} font-sans min-h-screen flex flex-col`}>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@300;400;700;900&display=swap" rel="stylesheet" />
+        <style>{`
+          :root {
+            --font-inter: 'Inter', sans-serif;
+            --font-merriweather: 'Merriweather', serif;
+          }
+        `}</style>
+      </head>
+      <body className="font-sans min-h-screen flex flex-col">
         <Header navData={navData} />
         <main className="flex-grow">
           {children}

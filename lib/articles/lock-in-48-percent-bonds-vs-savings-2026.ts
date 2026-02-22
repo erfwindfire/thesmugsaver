@@ -311,19 +311,19 @@ export const lockIn48PercentBondsVsSavings2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Savings Strategy</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Automate Your Savings 2026 - The Real Pros, Cons, and App Guide</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Complete analysis of automated savings apps, psychological benefits, hidden drawbacks, and expert strategies to build wealth on autopilot.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Banking Strategies</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Simple UK Bank Account Hacks to Maximise Interest in 2026</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Master UK banking with insider strategies for 5%+ returns, switching bonuses, ISA optimization, and fee elimination.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Budget Planning</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Good Budgeting Techniques—2026 Guide to Smarter Money Management</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Comprehensive budgeting strategies featuring 12+ techniques with step-by-step implementation guides and practical templates.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Premium Savings</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best High-Yield Savings Accounts UK 2026: Earn Up to 7.5% Interest</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Complete guide to maximizing returns on savings with top providers earning 5-7.5%, ISA strategies, and switching tactics.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Read More</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Get personalized money-saving tips and financial strategies delivered to your inbox every morning. Join thousands who are building wealth one tip at a time.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe</p>`

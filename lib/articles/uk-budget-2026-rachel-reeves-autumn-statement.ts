@@ -570,9 +570,9 @@ export const ukBudget2026RachelReevesAutumnStatement: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">How can I reduce my energy bills despite wider fiscal pressures?</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Should I adjust my budget for April 2026 changes?</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Money Guides</h2>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting TechniquesMaster 12+ budgeting methods to manage higher taxes and cost pressures.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Bill Negotiation ScriptsProven scripts to slash energy, broadband, and insurance costs by £500+.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/top-savings-accounts-beating-inflation-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Top Savings Accounts 2026Maximize ISA returns and shelter investments from CGT increases.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting TechniquesMaster 12+ budgeting methods to manage higher taxes and cost pressures.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Bill Negotiation ScriptsProven scripts to slash energy, broadband, and insurance costs by £500+.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Top Savings Accounts 2026Maximize ISA returns and shelter investments from CGT increases.</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Get personalized money-saving tips and financial strategies delivered to your inbox every morning. Join thousands who are building wealth one tip at a time.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe</p>`

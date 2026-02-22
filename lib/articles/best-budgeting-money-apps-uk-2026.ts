@@ -487,11 +487,11 @@ export const bestBudgetingMoneyAppsUk2026: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Emergency Fund Building</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Use round-up features and automated transfers to build your emergency fund gradually.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">See our guide:</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques for UK Households</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques for UK Households</a></p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Bill Optimization</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Combine subscription tracking apps with negotiation strategies for maximum savings.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">See our guide:</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">How to Negotiate Bills & Contracts in the UK</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">How to Negotiate Bills & Contracts in the UK</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Are budgeting apps safe to use with UK bank accounts?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Which apps work best with all major UK banks?</h3>

@@ -87,7 +87,7 @@ export default function ArticlePage({ params }: PageProps) {
                         {/* Header */}
                         <ArticleHeader
                             title={article.title}
-                            category={article.category.replace(/-/g, ' ')}
+                            category={article.category}
                             author={article.author || "The Smug Saver Team"}
                             date={new Date(article.datePublished).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}
                             readingTime={`${article.readingTime} min read`}

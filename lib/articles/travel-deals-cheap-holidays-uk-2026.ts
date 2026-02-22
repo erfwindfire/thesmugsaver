@@ -438,8 +438,8 @@ export const travelDealsCheapHolidaysUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Take Control of Your Travel Spending</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The travel industry profits from confusion, urgency, and incomplete information. Armed with these strategies, you're no longer at their mercy. You can travel better, spend less, and experience more by understanding the system better than those trying to profit from you.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Start implementing these techniques on your next trip. Track your savings and reinvest them in better experiences or additional travel. Every pound you don't waste on unnecessary fees and markups is a pound that can fund your next adventure.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">→ Master travel budgeting with our comprehensive budgeting guide</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">→ Apply these negotiation skills to your travel bookings</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">→ Master travel budgeting with our comprehensive budgeting guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">→ Apply these negotiation skills to your travel bookings</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Get personalized money-saving tips and financial strategies delivered to your inbox every morning. Join thousands who are building wealth one tip at a time.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe</p>`

@@ -264,10 +264,10 @@ export const mortgageRates2026FixOrWait: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Should I port my mortgage if I'm moving house?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What if I lose my job during the mortgage application?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Guides</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/first-time-home-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">First-Time Home Buyer Schemes UK 2026</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Bank Account Hacks 2026</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/building-wealth-from-scratch-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Building Wealth from Scratch UK 2026</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Rent, Buy, or Stay Put? UK 2026</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/housing/first-time-home-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">First-Time Home Buyer Schemes UK 2026</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Bank Account Hacks 2026</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing" class="text-emerald-700 underline hover:text-emerald-900">Building Wealth from Scratch UK 2026</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/housing/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Rent, Buy, or Stay Put? UK 2026</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Official Resources & Tools</h3>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.bankofengland.co.uk/monetary-policy" class="text-emerald-700 underline hover:text-emerald-900">Bank of England Monetary Policy Updates</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.which.co.uk/money/mortgages-and-property/mortgages" class="text-emerald-700 underline hover:text-emerald-900">Which? Mortgage Comparison & Advice</a></p>

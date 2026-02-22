@@ -575,8 +575,8 @@ export const carTradingSellingUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What are the legal requirements when selling privately?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">You must provide a truthful description, transfer ownership correctly via V5C, and ensure the buyer can drive the car legally. You're not required to provide warranties on private sales.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Money-Saving Guides</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Smart Budgeting TechniquesLearn how to budget for your next car purchase and avoid overspending</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Negotiation StrategiesMaster negotiation techniques for cars, bills, and major purchases</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Smart Budgeting TechniquesLearn how to budget for your next car purchase and avoid overspending</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Negotiation StrategiesMaster negotiation techniques for cars, bills, and major purchases</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Get More Money-Saving Tips</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Join thousands of UK households saving money with our weekly insider tips and exclusive guides.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>

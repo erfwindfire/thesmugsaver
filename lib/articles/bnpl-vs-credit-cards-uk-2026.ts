@@ -517,11 +517,11 @@ export const bnplVsCreditCardsUk2026: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Debt Management Integration</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Understanding how different credit types fit into debt elimination strategies helps prioritize payments and avoid new debt traps.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Learn more:</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/credit-cards-and-debt/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good</a></p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Budgeting System Alignment</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Different budgeting methods work better with different credit strategies. Zero-based budgeting pairs well with credit cards, while envelope systems suit BNPL.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Learn more:</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques—2026 UK Guide to Smarter Money Management</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques—2026 UK Guide to Smarter Money Management</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is BNPL really "interest-free" or are there hidden costs?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Do BNPL services affect my credit score even if I pay on time?</h3>

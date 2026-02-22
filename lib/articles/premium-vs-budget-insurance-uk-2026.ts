@@ -1019,14 +1019,14 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Money Management Guides</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Build Your Financial Foundation</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before optimizing insurance costs, ensure you have solid budgeting and emergency funds in place.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Read our complete budgeting guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Read our complete budgeting guide</a></p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Master Bill Negotiation</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Use the same negotiation tactics that work for insurance on all your other bills for maximum savings.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Learn advanced negotiation strategies</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Learn advanced negotiation strategies</a></p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Ready to Take Control of Your Finances?</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">This insurance guide is part of our comprehensive money management system. Get the complete picture of UK personal finance in 2026.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">Debt Management Guide</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/cost-of-living-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Cost of Living Strategies</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/credit-cards-and-debt/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">Debt Management Guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/cost-of-living/cost-of-living-uk-2026-survival-guide" class="text-emerald-700 underline hover:text-emerald-900">Cost of Living Strategies</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Get personalized money-saving tips and financial strategies delivered to your inbox every morning. Join thousands who are building wealth one tip at a time.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe</p>`

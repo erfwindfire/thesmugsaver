@@ -228,10 +228,10 @@ export const warrenBuffettEtf500To1m: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Reality: True, but stocks are one of the best inflation hedges. Companies raise prices during inflation, protecting profits. Cash and bonds get destroyed by inflation. Stocks at least keep pace.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Despite these risks, the S&P 500 strategy remains one of the most reliable paths to wealth for ordinary investors. The key is accepting volatility as the price of admission to extraordinary long-term returns.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Continue Your Wealth-Building Journey</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-save-100k-in-8-years" class="text-emerald-700 underline hover:text-emerald-900">How to Save £100,000 Over 8 Years</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/top-savings-accounts-beating-inflation-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Top Savings Accounts Beating Inflation</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">Simple UK Bank Account Hacks to Maximise Interest</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques for 2026</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/how-to-save-100k-in-8-years" class="text-emerald-700 underline hover:text-emerald-900">How to Save £100,000 Over 8 Years</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Top Savings Accounts Beating Inflation</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">Simple UK Bank Account Hacks to Maximise Interest</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques for 2026</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions About Index Fund Investing</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is now a good time to start investing in the S&P 500?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What if I can't afford £500 monthly right now?</h3>

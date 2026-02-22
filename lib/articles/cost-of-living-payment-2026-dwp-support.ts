@@ -254,7 +254,7 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Transport costs</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£25-50</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Consider using part of your payment to switch to better deals on energy, broadband, or mobile contracts.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Our bill negotiation guide</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Our bill negotiation guide</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">can help you save money long-term.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Budgeting Tools & Resources</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Make your payment work harder with proper budgeting techniques tailored for people on benefits.</p>
@@ -331,7 +331,7 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">If Payment Doesn't Arrive</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Wait 2 weeks after payment window ends, then contact the relevant helpline</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Useful Resources</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting TechniquesMake your money go further with proven strategies</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting TechniquesMake your money go further with proven strategies</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.gov.uk/cost-of-living-payment" class="text-emerald-700 underline hover:text-emerald-900">Official Government InformationLatest updates from gov.uk</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When will I receive my Cost of Living Payment?</h3>

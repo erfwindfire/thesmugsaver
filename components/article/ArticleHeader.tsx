@@ -15,8 +15,8 @@ const ArticleHeader = ({ title, category, author, date, readingTime = "5 min rea
     return (
         <header className="mb-12 text-center max-w-[720px] mx-auto px-6 md:px-0">
             <div className="flex justify-center gap-3 mb-6 text-sm font-bold uppercase tracking-widest text-[#1B4D3E]">
-                <Link href={`/${category.toLowerCase()}`} className="hover:underline border-b-2 border-transparent hover:border-[#1B4D3E] transition-colors pb-0.5">
-                    {category}
+                <Link href={`/${category}`} className="hover:underline border-b-2 border-transparent hover:border-[#1B4D3E] transition-colors pb-0.5">
+                    {category.replace(/-/g, ' ')}
                 </Link>
             </div>
 

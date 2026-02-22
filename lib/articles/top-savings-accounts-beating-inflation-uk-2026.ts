@@ -249,10 +249,10 @@ export const topSavingsAccountsBeatingInflationUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I transfer my ISA from another provider?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How do I know if rates will rise or fall?</h3>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Money Guides</h2>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting to maximize how much you can save monthly.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Bank Account Hacks 2026Banking strategies including switching bonuses and account optimization.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/first-time-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">First-Time Home Buyer SchemesLifetime ISA and other government schemes to boost your house deposit.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Rent, Buy, or Stay Put? Housing StrategiesMake smart housing decisions based on your savings and circumstances.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting to maximize how much you can save monthly.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Bank Account Hacks 2026Banking strategies including switching bonuses and account optimization.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/housing/first-time-home-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">First-Time Home Buyer SchemesLifetime ISA and other government schemes to boost your house deposit.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/housing/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Rent, Buy, or Stay Put? Housing StrategiesMake smart housing decisions based on your savings and circumstances.</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Get Rate Alerts & Money Insights</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Savings rates change frequently. Get alerts when top rates change plus practical UK money advice. No spam, unsubscribe anytime.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>`

@@ -726,10 +726,10 @@ export const rentBuyStayPutUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I rent out my property if I buy and need to move?</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the best UK region for first-time buyers in 2026?</h3>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Housing & Money Guides</h2>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/first-time-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">First-Time Home Buyer Schemes UK 2026Complete guide to LISA, First Homes, Shared Ownership, and all government help available.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting TechniquesMaster your finances with proven budgeting methods to save for your deposit faster.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">How to Negotiate Bills & RentScripts and tactics to negotiate rent reductions and lower your monthly housing costs.</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Household Bills 2026Understand and reduce all your household expenses to free up money for housing.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/housing/first-time-home-buyer-schemes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">First-Time Home Buyer Schemes UK 2026Complete guide to LISA, First Homes, Shared Ownership, and all government help available.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting TechniquesMaster your finances with proven budgeting methods to save for your deposit faster.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">How to Negotiate Bills & RentScripts and tactics to negotiate rent reductions and lower your monthly housing costs.</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Household Bills 2026Understand and reduce all your household expenses to free up money for housing.</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Get UK Housing & Money Insights</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Join thousands of UK readers getting practical money advice, housing market updates, and mortgage rate alerts delivered to your inbox. No spam, unsubscribe anytime.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>`

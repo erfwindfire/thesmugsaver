@@ -565,8 +565,8 @@ export const bestHighYieldSavingsUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Are there any fees or charges on savings accounts?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Pure savings accounts rarely have fees. Watch for: early exit penalties on fixed-term accounts, excess withdrawal charges on limited-access accounts, or current account fees if required for a regular saver. All accounts in this guide are fee-free for normal use. Always read terms before opening.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Money Guides</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/good-budgeting-techniques-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting to free up more money to save</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Bank Account Hacks 2026Maximize current account perks and switch bonuses</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting to free up more money to save</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">UK Bank Account Hacks 2026Maximize current account perks and switch bonuses</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.moneysavingexpert.com/savings/" class="text-emerald-700 underline hover:text-emerald-900">MoneySavingExpert SavingsLive savings rates and expert advice</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.which.co.uk/money/savings-and-isas" class="text-emerald-700 underline hover:text-emerald-900">Which? Savings & ISAsIndependent product testing and comparisons</a></p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
