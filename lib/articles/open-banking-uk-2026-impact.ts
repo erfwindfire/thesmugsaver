@@ -14,7 +14,7 @@ export const openBankingUk2026Impact: Article = {
     heroImageAlt: 'Person using open banking on smartphone to manage UK finances and access better savings rates',
     excerpt: 'How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Banking Revolution 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Open Banking UK 2026: The Complete Impact & Security Guide</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Open Banking UK 2026: The Complete Impact & Security Guide</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">12M+ UK Users</p>
 <p class="mb-4 text-gray-700 leading-relaxed">FCA Regulated</p>

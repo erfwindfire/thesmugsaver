@@ -36,7 +36,275 @@
   status = 301
   force = true
 
-# 5. Strip index.html from URLs
+# 5. Article 301 redirects — flat/old URLs → correct category/slug URLs
+# These fix broken internal links and old flat-format URLs found in Ahrefs audit
+
+[[redirects]]
+  from = "/automate-savings-2026"
+  to = "/budgeting/automate-savings-2026"
+  status = 301
+
+[[redirects]]
+  from = "/best-budgeting-money-apps-uk-2026"
+  to = "/budgeting/best-budgeting-money-apps-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/best-high-yield-savings-uk-2026"
+  to = "/savings-and-investing/best-high-yield-savings-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/break-paycheck-cycle-2026"
+  to = "/budgeting/break-paycheck-cycle-2026"
+  status = 301
+
+[[redirects]]
+  from = "/break-paycheck-cycle-uk-2026"
+  to = "/budgeting/break-paycheck-cycle-2026"
+  status = 301
+
+[[redirects]]
+  from = "/budget-rule-article"
+  to = "/budgeting/budget-rule-article"
+  status = 301
+
+[[redirects]]
+  from = "/50-30-20-budget-rule"
+  to = "/budgeting/budget-rule-article"
+  status = 301
+
+[[redirects]]
+  from = "/building-wealth-from-scratch-uk-2026"
+  to = "/savings-and-investing"
+  status = 301
+
+[[redirects]]
+  from = "/bnpl-vs-credit-cards-uk-2026"
+  to = "/credit-cards-and-debt/bnpl-vs-credit-cards-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/cash-envelope-vs-digital-pots-uk-2026"
+  to = "/budgeting/cash-envelope-vs-digital-pots-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/conquer-your-debt-2026"
+  to = "/credit-cards-and-debt/conquer-your-debt-2026"
+  status = 301
+
+[[redirects]]
+  from = "/cost-of-living-2026"
+  to = "/cost-of-living/cost-of-living-2026"
+  status = 301
+
+[[redirects]]
+  from = "/cost-of-living-uk-2026"
+  to = "/cost-of-living/cost-of-living-uk-2026-survival-guide"
+  status = 301
+
+[[redirects]]
+  from = "/cost-of-living-uk-2026-survival-guide"
+  to = "/cost-of-living/cost-of-living-uk-2026-survival-guide"
+  status = 301
+
+[[redirects]]
+  from = "/cost-of-living-payment-2026-dwp-support"
+  to = "/earning-and-benefits/cost-of-living-payment-2026-dwp-support"
+  status = 301
+
+[[redirects]]
+  from = "/employer-ni-changes-uk-2026"
+  to = "/earning-and-benefits/employer-ni-changes-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/energy-bills-rising-october-2026"
+  to = "/energy-bills/energy-bills-rising-october-2026"
+  status = 301
+
+[[redirects]]
+  from = "/first-time-buyer-schemes-uk-2026"
+  to = "/housing/first-time-home-buyer-schemes-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/first-time-home-buyer-schemes-uk-2026"
+  to = "/housing/first-time-home-buyer-schemes-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/flexible-budgets-irregular-income-uk-2026"
+  to = "/budgeting/flexible-budgets-irregular-income-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/good-budgeting-techniques-2026"
+  to = "/budgeting/good-budgeting-techniques-2026"
+  status = 301
+
+[[redirects]]
+  from = "/good-budgeting-techniques-uk-2026"
+  to = "/budgeting/good-budgeting-techniques-2026"
+  status = 301
+
+[[redirects]]
+  from = "/grocery-savings-2026"
+  to = "/supermarket-savings/grocery-savings-2026"
+  status = 301
+
+[[redirects]]
+  from = "/how-to-negotiate-bills-uk-2026"
+  to = "/energy-bills/how-to-negotiate-bills-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/how-to-save-100k-in-8-years"
+  to = "/savings-and-investing/how-to-save-100k-in-8-years"
+  status = 301
+
+[[redirects]]
+  from = "/lock-in-48-percent-bonds-vs-savings-2026"
+  to = "/savings-and-investing/lock-in-48-percent-bonds-vs-savings-2026"
+  status = 301
+
+[[redirects]]
+  from = "/money-manager-tools"
+  to = "/budgeting/money-manager-tools"
+  status = 301
+
+[[redirects]]
+  from = "/mortgage-rates-2026-fix-or-wait"
+  to = "/housing/mortgage-rates-2026-fix-or-wait"
+  status = 301
+
+[[redirects]]
+  from = "/open-banking-uk-2026-impact"
+  to = "/earning-and-benefits/open-banking-uk-2026-impact"
+  status = 301
+
+[[redirects]]
+  from = "/premium-vs-budget-insurance-uk-2026"
+  to = "/insurance/premium-vs-budget-insurance-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/rent-buy-stay-put-uk-2026"
+  to = "/housing/rent-buy-stay-put-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/saving-tips-news-guide-2026"
+  to = "/cost-of-living/saving-tips-news-guide-2026"
+  status = 301
+
+[[redirects]]
+  from = "/streaming-subscriptions-audit-uk-2026"
+  to = "/broadband-and-subscriptions/streaming-subscriptions-audit-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/student-finance-survival-uk-2026"
+  to = "/earning-and-benefits/student-finance-survival-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/student-loan-repayment-uk-2026"
+  to = "/earning-and-benefits/student-loan-repayment-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/switch-broadband-mobile-tv-uk-2026"
+  to = "/broadband-and-subscriptions/switch-broadband-mobile-tv-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/tax-free-childcare-uk-2026"
+  to = "/earning-and-benefits/tax-free-childcare-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/tax-free-side-hustles-uk-2026"
+  to = "/earning-and-benefits/tax-free-side-hustles-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/top-savings-accounts-beating-inflation-uk-2026"
+  to = "/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/uk-bank-account-hacks-2026"
+  to = "/savings-and-investing/uk-bank-account-hacks-2026"
+  status = 301
+
+[[redirects]]
+  from = "/uk-budget-2026-rachel-reeves-autumn-statement"
+  to = "/earning-and-benefits/uk-budget-2026-rachel-reeves-autumn-statement"
+  status = 301
+
+[[redirects]]
+  from = "/uk-household-bills-2026"
+  to = "/energy-bills/uk-household-bills-2026"
+  status = 301
+
+[[redirects]]
+  from = "/warren-buffett-etf-500-to-1m"
+  to = "/savings-and-investing/warren-buffett-etf-500-to-1m"
+  status = 301
+
+[[redirects]]
+  from = "/back-to-school-costs-uk-2026"
+  to = "/family-and-lifestyle/back-to-school-costs-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/beat-food-price-hikes-uk-2026"
+  to = "/supermarket-savings/beat-food-price-hikes-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/car-trading-selling-uk-2026"
+  to = "/insurance/car-trading-selling-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/childcare-costs-uk-2026"
+  to = "/family-and-lifestyle/childcare-costs-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/christmas-super-savings-2026-supermarkets-ranked"
+  to = "/supermarket-savings/christmas-super-savings-2026-supermarkets-ranked"
+  status = 301
+
+[[redirects]]
+  from = "/food-crisis-navigating-snap-cuts-2026"
+  to = "/supermarket-savings/food-crisis-navigating-snap-cuts-2026"
+  status = 301
+
+[[redirects]]
+  from = "/food-inflation-2026-smart-shopping"
+  to = "/supermarket-savings/food-inflation-2026-smart-shopping"
+  status = 301
+
+[[redirects]]
+  from = "/travel-deals-cheap-holidays-uk-2026"
+  to = "/family-and-lifestyle/travel-deals-cheap-holidays-uk-2026"
+  status = 301
+
+[[redirects]]
+  from = "/travel-deals-worldwide-2026"
+  to = "/family-and-lifestyle/travel-deals-worldwide-2026"
+  status = 301
+
+[[redirects]]
+  from = "/us-families-fight-inflation-2026-smart-shopping"
+  to = "/supermarket-savings/us-families-fight-inflation-2026-smart-shopping"
+  status = 301
+
+# 6. Strip index.html from URLs
 [[redirects]]
   from = "/*/index.html"
   to = "/:splat"

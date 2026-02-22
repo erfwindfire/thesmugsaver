@@ -14,7 +14,7 @@ export const costOfLivingPayment2026DwpSupport: Article = {
     heroImageAlt: 'Couple checking DWP cost of living payment eligibility and UK government financial support in 2026',
     excerpt: 'Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Government Support • September 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Check Your Eligibility</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Payment Calculator</p>

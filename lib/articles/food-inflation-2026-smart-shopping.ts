@@ -15,7 +15,7 @@ export const foodInflation2026SmartShopping: Article = {
     excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Daily Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Food Inflation 2026: Smart Shopping Strategies to Combat 5.1% Price Increases</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Food Inflation 2026: Smart Shopping Strategies to Combat 5.1% Price Increases</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain's most expensive food market.</p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#smart-strategies" class="text-emerald-700 underline hover:text-emerald-900">View Smart Strategies</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#price-calculator" class="text-emerald-700 underline hover:text-emerald-900">Calculate Savings</a></p>

@@ -15,7 +15,7 @@ export const ukBudget2026RachelReevesAutumnStatement: Article = {
     excerpt: 'The first Labour Budget in 14 years brings sweeping changes to tax, spending, and borrowing. Here\'s exactly how Rachel Reeves\' Autumn Statement 2026 affects your money—and what you need to do before A',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Tax Changes</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Budget 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">UK Budget 2026: How Rachel Reeves' Autumn Statement Will Impact Your Personal Finances</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">UK Budget 2026: How Rachel Reeves' Autumn Statement Will Impact Your Personal Finances</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The first Labour Budget in 14 years brings sweeping changes to tax, spending, and borrowing. Here's exactly how Rachel Reeves' Autumn Statement 2026 affects your money—and what you need to do before April 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Published: January 31, 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Expert Reviewed</p>

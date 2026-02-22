@@ -13,7 +13,7 @@ export const budgetRuleArticle: Article = {
     heroImage: '/assets/images/budget-rule-hero.png',
     heroImageAlt: 'Person applying the 50/30/20 budget rule to plan UK monthly household spending and savings',
     excerpt: 'Here\'s what nobody tells you about the 50/30/20 rule: it works precisely because it\'s stupidly simple. While financial gurus peddle 47-step wealth systems that require a PhD in accounting, this three-',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The 50/30/20 Budget Rule That Financial Experts Swear By</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">The 50/30/20 Budget Rule That Financial Experts Swear By</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Here's what nobody tells you about the 50/30/20 rule: it works precisely because it's stupidly simple. While financial gurus peddle 47-step wealth systems that require a PhD in accounting, this three-number framework has quietly built more emergency funds than any Instagram investment scheme ever will.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: The 50/30/20 rule divides after-tax income into 50% needs (housing, food, utilities), 30% wants (entertainment, dining, hobbies), and 20% savings/debt repayment. This simple framework prevents lifestyle inflation while building emergency funds automatically.</strong></p>

@@ -14,7 +14,7 @@ export const studentFinanceSurvivalUk2026: Article = {
     heroImageAlt: 'Student in pink hoodie reviewing UK student finance letter on university campus bench',
     excerpt: 'Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Money</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Takeaways</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">💰 Money Management</h4>

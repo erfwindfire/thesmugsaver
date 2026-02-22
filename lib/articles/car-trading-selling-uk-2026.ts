@@ -13,7 +13,7 @@ export const carTradingSellingUk2026: Article = {
     heroImage: '/assets/images/car-selling-hero.png',
     heroImageAlt: 'Couple selling a car for maximum value using UK car trading tips and private sale strategies',
     excerpt: 'Comprehensive guide to maximizing your vehicle\'s value in 2026\'s challenging UK car market',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Get the Best Value When Trading In/Selling Your Car</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">How to Get the Best Value When Trading In/Selling Your Car</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Comprehensive guide to maximizing your vehicle's value in 2026's challenging UK car market</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Car Finance</p>
 <p class="mb-4 text-gray-700 leading-relaxed">UK Specific</p>

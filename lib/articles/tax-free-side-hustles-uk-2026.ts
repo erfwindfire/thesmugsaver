@@ -13,7 +13,7 @@ export const taxFreeSideHustlesUk2026: Article = {
     heroImage: '/assets/images/tax-free-side-hustles-hero.jpg',
     heroImageAlt: 'Woman in coral outfit photographing handmade products for a tax-free UK side hustle online shop',
     excerpt: 'HMRC gives you legal permission to earn extra money without paying tax on it. Yes, really. While everyone argues about tax rates, the government quietly maintains multiple allowances that let you pock',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Tax-Free Side Hustles in the UK—2026 Guide to Earning Without Extra Tax</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">Tax-Free Side Hustles in the UK—2026 Guide to Earning Without Extra Tax</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC gives you legal permission to earn extra money without paying tax on it. Yes, really. While everyone argues about tax rates, the government quietly maintains multiple allowances that let you pocket extra income tax-free. The catch? They don't exactly advertise these opportunities, and most people stumble through them blind, missing thousands in legitimate earnings.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Legal Tax-Free Earning in 2026</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Tax-Free Allowances (HMRC 2026):</h3>

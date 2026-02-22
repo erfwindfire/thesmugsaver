@@ -15,7 +15,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
     excerpt: 'Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Communications Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">UK 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Switch Broadband, Mobile, and TV for Maximum Savings</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">How to Switch Broadband, Mobile, and TV for Maximum Savings</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Last updated: March 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Expert reviewed</p>

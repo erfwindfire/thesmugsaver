@@ -17,7 +17,7 @@ export const grocerySavings2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">••</p>
 <p class="mb-4 text-gray-700 leading-relaxed">u</p>
 <p class="mb-4 text-gray-700 leading-relaxed">g Saver</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">10 Grocery Saving Hacks You Haven't Tried Yet(UK Edition)</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">10 Grocery Saving Hacks You Haven't Tried Yet(UK Edition)</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your weekly grocery bill has become financial terrorism. £120 for basics? £4 for a loaf of bread? The supermarkets are playing psychological warfare with your wallet while their CEOs collect bonuses that could fund small nations. But here's the thing about rigged games: once you learn the rules, you can beat them at their own system.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/supermarket-savings/beat-food-price-hikes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">food price hike strategies</a> covers this in more detail.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: 10 Proven Grocery Savings Hacks</h2>

@@ -14,7 +14,7 @@ export const travelDealsCheapHolidaysUk2026: Article = {
     heroImageAlt: 'Couple with suitcases at airport celebrating cheap holiday travel deals and UK flight savings',
     excerpt: 'Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Travel Savings</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Unlocking Travel Deals and Cheap Holidays for Brits</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Unlocking Travel Deals and Cheap Holidays for Brits</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices for.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Money-Saving Strategies:</h4>

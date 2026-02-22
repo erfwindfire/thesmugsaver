@@ -14,7 +14,7 @@ export const bnplVsCreditCardsUk2026: Article = {
     heroImageAlt: 'Shopper comparing buy now pay later vs credit card options, understanding UK debt risks',
     excerpt: 'Navigate the rapidly evolving credit landscape with confidence. Expert analysis of BNPL schemes versus traditional credit cards, regulatory protections, and practical guidance for UK consumers in 2026',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Consumer Credit</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Buy Now, Pay Later vs Credit Cards: Which Is Safer for UK Consumers in 2026?</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Buy Now, Pay Later vs Credit Cards: Which Is Safer for UK Consumers in 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate the rapidly evolving credit landscape with confidence. Expert analysis of BNPL schemes versus traditional credit cards, regulatory protections, and practical guidance for UK consumers in 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">FCA Regulation Analysis</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Consumer Rights Focus</p>

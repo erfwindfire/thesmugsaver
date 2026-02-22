@@ -14,7 +14,7 @@ export const rentBuyStayPutUk2026: Article = {
     heroImageAlt: 'Couple in lilac outfits weighing up renting vs buying a home, holding rental and mortgage documents',
     excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Housing Strategies</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Rent, Buy, or Stay Put? 2026's Best UK Housing Strategies</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Rent, Buy, or Stay Put? 2026's Best UK Housing Strategies</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate Britain's brutal housing market with evidence-based strategies. Whether you're trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finances.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Britain's housing market in 2026 remains punishingly expensive, but your best move depends entirely on your personal circumstances—not blanket advice.</p>

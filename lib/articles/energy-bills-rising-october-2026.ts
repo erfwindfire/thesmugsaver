@@ -14,7 +14,7 @@ export const energyBillsRisingOctober2026: Article = {
     heroImageAlt: 'Homeowner reviewing rising UK energy bills and ways to cut electricity and gas costs in 2026',
     excerpt: 'Ofgem\'s October price cap increases hit 28 million households. Here\'s exactly how to fight back and slash your energy costs by up to £400 annually.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Energy Crisis Alert</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bills Rising October 2026: 10 Ways to Reduce Your £1,755 Annual Cost</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Energy Bills Rising October 2026: 10 Ways to Reduce Your £1,755 Annual Cost</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Ofgem's October price cap increases hit 28 million households. Here's exactly how to fight back and slash your energy costs by up to £400 annually.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Executive Summary: Your Energy Bills Battle Plan</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The essential facts you need to know about October 2026's energy price increases</p>

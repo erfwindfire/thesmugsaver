@@ -14,7 +14,7 @@ export const christmasSuperSavings2026SupermarketsRanked: Article = {
     heroImageAlt: 'Family comparing Christmas supermarket prices and rankings to save on UK festive food shopping',
     excerpt: 'Which supermarket will save you the most this Christmas? We\'ve ranked all major UK retailers by their festive deals and discounts.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Christmas 2026 Guide</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">2026 Christmas Super Savings: UK Supermarkets Ranked By Biggest Festive Discounts</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">2026 Christmas Super Savings: UK Supermarkets Ranked By Biggest Festive Discounts</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Which supermarket will save you the most this Christmas? We've ranked all major UK retailers by their festive deals and discounts.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Which supermarket wins Christmas 2026 for savings?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Lidl takes the crown with 22-28% average savings on Christmas baskets, followed closely by Asda for bulk buyers and Aldi for premium alternatives. A family Christmas dinner for 8 costs around £85 at Lidl versus £120-£140 at traditional supermarkets.</p>

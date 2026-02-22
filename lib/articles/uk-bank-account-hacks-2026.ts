@@ -13,7 +13,7 @@ export const ukBankAccountHacks2026: Article = {
     heroImage: '/assets/images/uk-bank-account-hacks-hero.jpg',
     heroImageAlt: 'Man in sage green using contactless payment, exploiting UK bank account switching bonuses and hacks',
     excerpt: 'Stop letting banks profit from your ignorance while your money earns pathetic 0.01% in current accounts. This is the insider playbook for extracting every penny of interest, cashback, and switching bo',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Simple UK Bank Account Hacks to Maximise Interest in 2026</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">Simple UK Bank Account Hacks to Maximise Interest in 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop letting banks profit from your ignorance while your money earns pathetic 0.01% in current accounts. This is the insider playbook for extracting every penny of interest, cashback, and switching bonuses from UK banks—because they sure as hell won't volunteer this information.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Takeaways</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

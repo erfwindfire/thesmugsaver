@@ -14,7 +14,7 @@ export const employerNiChangesUk2026: Article = {
     heroImageAlt: 'Small business owner reviewing UK employer National Insurance changes and payroll cost impact in 2026',
     excerpt: 'Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Employment • 2026 Tax Changes</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Protect Your Pay from 2026 NI Changes</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Facts</h3>

@@ -14,7 +14,7 @@ export const beatFoodPriceHikesUk2026: Article = {
     heroImageAlt: 'Savvy shopper comparing prices to beat UK food price hikes and supermarket inflation',
     excerpt: 'Your complete guide to cutting grocery bills by 30-50% in 2026. Proven strategies, apps, and tactics that actually work for UK shoppers.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Food Savings Guide</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to cutting grocery bills by 30-50% in 2026. Proven strategies, apps, and tactics that actually work for UK shoppers.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: UK families can cut grocery bills by 30-50% using yellow sticker shopping (7-9pm timing), loyalty apps (earning £10-30/month), meal planning, and strategic brand swaps. Food prices have risen 45% since 2020, but discount stores like Aldi/Lidl offer 20-30% savings versus traditional supermarkets.</strong></p>

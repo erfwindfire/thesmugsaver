@@ -14,7 +14,7 @@ export const warrenBuffettEtf500To1m: Article = {
     heroImageAlt: 'Distinguished investor reading financial newspaper, Warren Buffett ETF strategy to grow £500 to £1 million',
     excerpt: 'The Oracle of Omaha\'s simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here\'s the exact strategy and mathematics behind building over £1 million with ',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Wealth Building</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The Oracle of Omaha's simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here's the exact strategy and mathematics behind building over £1 million with just £500 a month.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">10 min read</p>

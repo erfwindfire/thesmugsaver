@@ -13,7 +13,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
     heroImage: '/assets/images/first-time-buyer-hero.png',
     heroImageAlt: 'First-time buyers celebrating with house keys, using UK government home buying schemes in 2026',
     excerpt: 'Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a \"star',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">First-Time Home Buyer Schemes UK: What's New in 2026?</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">First-Time Home Buyer Schemes UK: What's New in 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a "starter home" costs £300k and the government's "help" comes with more strings than a puppet show. Here's how to actually get on the ladder without selling your organs.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate 2026 First-Time Buyer Schemes</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

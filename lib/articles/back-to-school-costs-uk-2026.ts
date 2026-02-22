@@ -13,7 +13,7 @@ export const backToSchoolCostsUk2026: Article = {
     heroImage: '/assets/images/back-to-school-hero.png',
     heroImageAlt: 'Family preparing back-to-school shopping, managing UK school uniform and supply costs in 2026',
     excerpt: 'Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: UK families spend an average of £1,200 annually on back-to-school costs, but strategic shopping in June-July can reduce this by 40-60%. Government grants, second-hand uniforms, and bulk buying can save £500+ per child, per year.</strong></p>

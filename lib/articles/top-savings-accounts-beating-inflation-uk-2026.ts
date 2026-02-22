@@ -14,7 +14,7 @@ export const topSavingsAccountsBeatingInflationUk2026: Article = {
     heroImageAlt: 'Woman in lavender outfit saving coins in a glass jar, finding top UK savings accounts beating inflation',
     excerpt: 'Your cash is losing value daily in standard accounts. Discover the best UK savings accounts offering 4.5-5.25% returns to actually grow your money in 2026.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Top Savings Accounts Beating Inflation in 2026</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Top Savings Accounts Beating Inflation in 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your cash is losing value daily in standard accounts. Discover the best UK savings accounts offering 4.5-5.25% returns to actually grow your money in 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>

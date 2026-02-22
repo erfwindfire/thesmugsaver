@@ -13,7 +13,7 @@ export const howToSave100kIn8Years: Article = {
     heroImage: '/assets/images/how-to-save-100k-hero.jpg',
     heroImageAlt: 'Couple celebrating saving £100,000 milestone, holding oversized cheque in pastel outfits',
     excerpt: 'Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Save £100,000 Over 8 Years</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">How to Save £100,000 Over 8 Years</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Can I really save £100k in 8 years?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Yes! You'll need to save around £950-£1,000 per month if earning 3-4% interest in a high-yield savings account. While this requires discipline, it's achievable for many UK households through careful budgeting, increasing income over time, and using tax-efficient accounts like ISAs.</p>

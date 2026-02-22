@@ -14,7 +14,7 @@ export const ukHouseholdBills2026: Article = {
     heroImageAlt: 'Couple reviewing and reducing UK household bills including energy, broadband and insurance costs',
     excerpt: 'UK household bills reached record highs in 2024, with the average family spending over £3,000 annually on energy alone. While the energy crisis has stabilized, 2026 brings new challenges and opportuni',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Household Bills Guide 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to UK Household Bills in 2026</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to UK Household Bills in 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Electric, Gas, Water, Council Tax & Broadband Saving Strategies</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Summary: What You'll Learn</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

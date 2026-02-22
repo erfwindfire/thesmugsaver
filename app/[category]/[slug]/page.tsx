@@ -50,11 +50,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
             publishedTime: article.datePublished,
             url: canonicalUrl,
             siteName: 'The Smug Saver',
+            images: article.heroImage
+                ? [{ url: `https://www.thesmugsaver.com${article.heroImage}`, width: 1200, height: 630, alt: article.heroImageAlt || article.title }]
+                : [{ url: 'https://www.thesmugsaver.com/og-image.jpg', width: 1200, height: 630, alt: 'The Smug Saver' }],
         },
         twitter: {
             card: 'summary_large_image',
             title: article.title,
             description: article.excerpt,
+            images: article.heroImage
+                ? [`https://www.thesmugsaver.com${article.heroImage}`]
+                : ['https://www.thesmugsaver.com/og-image.jpg'],
         },
     };
 }

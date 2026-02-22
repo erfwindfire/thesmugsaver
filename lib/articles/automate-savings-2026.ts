@@ -14,7 +14,7 @@ export const automateSavings2026: Article = {
     heroImageAlt: 'Couple automating UK savings with banking apps and digital pots for hands-free wealth building',
     excerpt: 'Set-and-forget savings sounds perfect—until it triggers overdraft fees or locks your emergency fund. Here\'s what every automation guide leaves out: the caveats, the risks, and what to double-check bef',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings Automation 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Automate Your Savings in 2026: The Complete UK Guide (With Hidden Pitfalls)</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Automate Your Savings in 2026: The Complete UK Guide (With Hidden Pitfalls)</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Set-and-forget savings sounds perfect—until it triggers overdraft fees or locks your emergency fund. Here's what every automation guide leaves out: the caveats, the risks, and what to double-check before you automate a single penny.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How can I automate my savings in 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Use standing orders, direct debits, or round-up apps (Monzo, Starling, Chip, Plum) to transfer money automatically into savings. But start small (£10/week), maintain a £500+ buffer, verify FCA authorization, and understand withdrawal timeframes before automating.</p>

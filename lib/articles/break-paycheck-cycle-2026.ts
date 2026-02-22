@@ -13,7 +13,7 @@ export const breakPaycheckCycle2026: Article = {
     heroImage: '/assets/images/paycheck-cycle-hero.png',
     heroImageAlt: 'Young professional breaking the UK paycheck to paycheck cycle with smart budgeting and saving',
     excerpt: 'The paycheck-to-paycheck cycle isn\'t a character flaw—it\'s economic quicksand designed to keep you trapped while banks profit from your desperation. But here\'s the thing about quicksand: the more you ',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Break the Paycheck-to-Paycheck Cycle in the UK</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">How to Break the Paycheck-to-Paycheck Cycle in the UK</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The paycheck-to-paycheck cycle isn't a character flaw—it's economic quicksand designed to keep you trapped while banks profit from your desperation. But here's the thing about quicksand: the more you panic, the deeper you sink. Time to stop flailing and start climbing.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Break the Algorithm</p>
 <p class="mb-4 text-gray-700 leading-relaxed">While 78% of UK workers live paycheck to paycheck, the ones who escape follow surprisingly similar patterns. Let's reverse-engineer their success.</p>

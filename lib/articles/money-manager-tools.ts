@@ -14,7 +14,7 @@ export const moneyManagerTools: Article = {
     heroImageAlt: 'Person using top UK money manager tools and apps to track spending, savings and investments',
     excerpt: 'Your financial life is drowning in apps, spreadsheets, and good intentions that never quite stick. Meanwhile, tech bros get rich selling \"revolutionary\" budgeting tools that do exactly what a notebook',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Money Management Guide</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">The Ultimate Money Manager: Tools and Tactics for Smarter Savings</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">The Ultimate Money Manager: Tools and Tactics for Smarter Savings</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your financial life is drowning in apps, spreadsheets, and good intentions that never quite stick. Meanwhile, tech bros get rich selling "revolutionary" budgeting tools that do exactly what a notebook did in 1995—but with more notifications and subscription fees. Time to cut through the noise and build a money management system that actually works.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">📖 12-minute read</p>
 <p class="mb-4 text-gray-700 leading-relaxed">💰 Money Management</p>

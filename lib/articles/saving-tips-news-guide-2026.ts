@@ -13,7 +13,7 @@ export const savingTipsNewsGuide2026: Article = {
     heroImage: '/assets/images/saving-tips-2026-hero.png',
     heroImageAlt: 'Savvy saver reading the latest UK money saving tips and financial news guide for 2026',
     excerpt: 'Expert-backed strategies to navigate today\'s financial climate, protect your money, and capitalize on October 2026\'s opportunities',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Tips Based on October 2026 Finance News</h1>
+    body: `<h2 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Tips Based on October 2026 Finance News</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Expert-backed strategies to navigate today's financial climate, protect your money, and capitalize on October 2026's opportunities</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What's the smartest savings move in October 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Prioritize building a 3-month emergency buffer in a high-yield account (4.5-5.25% AER), audit recurring expenses to cut £200-£500 monthly, and lock in competitive mortgage rates if your fixed term expires soon. Today's economic volatility makes defensive savings essential.</p>

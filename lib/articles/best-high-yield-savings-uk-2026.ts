@@ -15,7 +15,7 @@ export const bestHighYieldSavingsUk2026: Article = {
     excerpt: 'Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.',
     body: `<p class="mb-4 text-gray-700 leading-relaxed">Premium Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Best High-Yield Savings Accounts UK 2026: Earn Up to 7.5% Interest</h1>
+<h2 class="text-3xl font-bold text-gray-900 mb-6">Best High-Yield Savings Accounts UK 2026: Earn Up to 7.5% Interest</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.</p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#top-providers" class="text-emerald-700 underline hover:text-emerald-900">View Top Accounts</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#calculator" class="text-emerald-700 underline hover:text-emerald-900">Calculate Returns</a></p>
