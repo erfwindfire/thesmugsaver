@@ -21,13 +21,13 @@ const Hero = () => {
 
                 <div className="flex flex-col sm:flex-row gap-4 w-full max-w-md">
                     <Link
-                        href="/articles"
+                        href="/budgeting"
                         className="flex-1 bg-white text-accent font-bold py-4 px-8 rounded-lg shadow-lg hover:bg-gray-50 transition-all transform hover:-translate-y-1 text-center"
                     >
                         Start Saving
                     </Link>
                     <Link
-                        href="/newsletter"
+                        href="/contact"
                         className="flex-1 bg-transparent border-2 border-white text-white font-bold py-4 px-8 rounded-lg hover:bg-white/10 transition-all text-center"
                     >
                         Join Newsletter

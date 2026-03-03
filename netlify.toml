@@ -36,7 +36,20 @@
   status = 301
   force = true
 
-# 5. Strip index.html from URLs
+# 5. Fix 404s — wrong-category or missing-category article URLs
+[[redirects]]
+  from = "/cost-of-living/cost-of-living-payment-2026-dwp-support"
+  to = "/earning-and-benefits/cost-of-living-payment-2026-dwp-support"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/earning-and-benefits/tax-free-childcare-uk-2026"
+  to = "/family-and-lifestyle/childcare-costs-uk-2026"
+  status = 301
+  force = true
+
+# 5c. Strip index.html from URLs
 [[redirects]]
   from = "/*/index.html"
   to = "/:splat"
