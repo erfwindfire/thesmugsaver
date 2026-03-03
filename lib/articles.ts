@@ -55,6 +55,7 @@ import { travelDealsCheapHolidaysUk2026 } from './articles/travel-deals-cheap-ho
 import { travelDealsWorldwide2026 } from './articles/travel-deals-worldwide-2026';
 import { ukBankAccountHacks2026 } from './articles/uk-bank-account-hacks-2026';
 import { ukBudget2026RachelReevesAutumnStatement } from './articles/uk-budget-2026-rachel-reeves-autumn-statement';
+import { universalCredit2026Changes } from './articles/universal-credit-2026-changes';
 import { ukHouseholdBills2026 } from './articles/uk-household-bills-2026';
 import { usFamiliesFightInflation2026SmartShopping } from './articles/us-families-fight-inflation-2026-smart-shopping';
 import { warrenBuffettEtf500To1m } from './articles/warren-buffett-etf-500-to-1m';
@@ -103,6 +104,7 @@ export const articles: Article[] = [
     travelDealsWorldwide2026,
     ukBankAccountHacks2026,
     ukBudget2026RachelReevesAutumnStatement,
+    universalCredit2026Changes,
     ukHouseholdBills2026,
     usFamiliesFightInflation2026SmartShopping,
     warrenBuffettEtf500To1m,
