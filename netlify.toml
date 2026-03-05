@@ -52,7 +52,7 @@
 # 5c. Strip index.html from URLs
 [[redirects]]
   from = "/*/index.html"
-  to = "/:splat"
+  to = "/:splat/"
   status = 301
   force = true
 
@@ -62,6 +62,20 @@
   to = "/"
   status = 301
   force = true
+
+# 5d. Non-trailing-slash to trailing-slash for article URLs
+# (trailingSlash: true in next.config.js generates index.html per directory;
+#  Netlify needs these rules to handle legacy non-slash indexed URLs)
+[[redirects]]
+  from = "/:category/:slug"
+  to = "/:category/:slug/"
+  status = 301
+
+# 5e. Non-trailing-slash to trailing-slash for category URLs
+[[redirects]]
+  from = "/:category"
+  to = "/:category/"
+  status = 301
 
 # 7. Custom 404 (must be last redirect rule)
 [[redirects]]
