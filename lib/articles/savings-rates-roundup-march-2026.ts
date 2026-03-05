@@ -10,15 +10,15 @@ export const savingsRatesRoundupMarch2026: Article = {
     datePublished: '2026-03-05',
     dateModified: '2026-03-05',
     author: 'The Smug Saver',
-    excerpt: 'The Bank of England is cutting rates — and the banks know it. They\'re already pulling their best deals quietly, hoping you won\'t notice. This week, a handful of accounts are still paying 6%, 7%, even 7.5% AER. Here\'s exactly where your cash should be sitting right now.',
+    excerpt: 'Savings rates are still defying gravity. Despite the Bank of England cutting its base rate — with more cuts expected through 2026 — competitive pressure between banks means some accounts are still paying 6%, 7%, even 7.5% AER this week. That won\'t last. Here\'s where your money should be sitting right now.',
     body: `
 <p class="mb-4 text-gray-700 leading-relaxed">Savings &amp; Investing • March 2026 Rates Round-Up</p>
 
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Savings Rates Round-Up: Best Accounts This Week (March 2026)</h1>
 
-<p class="mb-4 text-gray-700 leading-relaxed">The Bank of England is cutting rates. The banks know it. And they're quietly pulling their best deals before you notice. Right now — in the first week of March 2026 — a handful of accounts are still paying 6%, 7%, even 7.5% AER. These windows close fast.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Savings rates are still defying gravity. Despite the Bank of England cutting its base rate — and more cuts expected to bring it down to 3.25%–3.50% by end of 2026 — competitive pressure between banks means some accounts are still paying 6%, 7%, even 7.5% AER this week.</p>
 
-<p class="mb-4 text-gray-700 leading-relaxed">Base rate is expected to settle at 3.25%–3.50% by end of 2026. Every week you're sitting in a 1.5% account is roughly £140 a year lost for every £10,000 you hold. Let's fix that.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">That won't last. The evidence is already there: Zopa quietly halved the effective return on its Biscuit account last month with zero announcement. These deals get pulled without warning. Every week you're sitting in a 1.5% high-street account is roughly £140 a year lost for every £10,000 you hold. Let's fix that.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — This Week's Best Savings Rates at a Glance</h2>
 
