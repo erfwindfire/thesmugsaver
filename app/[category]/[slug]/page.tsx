@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
         return {};
     }
 
-    const canonicalUrl = `https://www.thesmugsaver.com/${params.category}/${params.slug}`;
+    const canonicalUrl = `https://www.thesmugsaver.com/${params.category}/${params.slug}/`;
 
     return {
         title: article.seoTitle || article.title,

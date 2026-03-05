@@ -4,24 +4,24 @@ import { getAllArticles, CATEGORIES } from '@/lib/articles';
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://www.thesmugsaver.com';
 
-  // Static pages
+  // Static pages — trailing slash required to match trailingSlash: true in next.config.js
   const staticPages = [
-    '',
-    '/about',
-    '/contact',
-    '/privacy-policy',
-    '/terms',
-    '/cookie-policy',
+    '/',
+    '/about/',
+    '/contact/',
+    '/privacy-policy/',
+    '/terms/',
+    '/cookie-policy/',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
-    priority: route === '' ? 1.0 : 0.8,
+    priority: route === '/' ? 1.0 : 0.8,
   }));
 
   // Category pages
   const categoryPages = CATEGORIES.map((category) => ({
-    url: `${baseUrl}/${category.slug}`,
+    url: `${baseUrl}/${category.slug}/`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: 0.9,
@@ -29,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Article pages
   const articles = getAllArticles().map((article) => ({
-    url: `${baseUrl}/${article.category}/${article.slug}`,
+    url: `${baseUrl}/${article.category}/${article.slug}/`,
     lastModified: new Date(article.dateModified || article.datePublished),
     changeFrequency: 'monthly' as const,
     priority: 0.7,
