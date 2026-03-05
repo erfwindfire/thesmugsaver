@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'About The Smug Saver | Independent UK Money Advice',
   description: 'The Smug Saver provides independent, actionable money-saving advice for UK households. Learn how to cut bills, save smarter, and beat inflation.',
   alternates: {
-    canonical: 'https://www.thesmugsaver.com/about',
+    canonical: 'https://www.thesmugsaver.com/about/',
   },
   openGraph: {
     title: 'About The Smug Saver | Independent UK Money Advice',

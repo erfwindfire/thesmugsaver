@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Privacy Policy | The Smug Saver',
   description: 'Our privacy policy explains how we collect, use, and protect your data at The Smug Saver.',
   alternates: {
-    canonical: 'https://www.thesmugsaver.com/privacy-policy',
+    canonical: 'https://www.thesmugsaver.com/privacy-policy/',
   },
   openGraph: {
     title: 'Privacy Policy | The Smug Saver',

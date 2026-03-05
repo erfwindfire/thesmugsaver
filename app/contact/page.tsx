@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Contact The Smug Saver | Get In Touch',
   description: 'Contact The Smug Saver team. Have a money-saving tip or a question about our articles? We would love to hear from you.',
   alternates: {
-    canonical: 'https://www.thesmugsaver.com/contact',
+    canonical: 'https://www.thesmugsaver.com/contact/',
   },
   openGraph: {
     title: 'Contact The Smug Saver | Get In Touch',

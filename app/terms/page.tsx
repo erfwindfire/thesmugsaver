@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Terms & Conditions | The Smug Saver',
   description: 'Terms and conditions for using The Smug Saver website. Please read carefully before using our content.',
   alternates: {
-    canonical: 'https://www.thesmugsaver.com/terms',
+    canonical: 'https://www.thesmugsaver.com/terms/',
   },
   openGraph: {
     title: 'Terms & Conditions | The Smug Saver',
