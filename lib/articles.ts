@@ -60,6 +60,7 @@ import { howToClaimHmrcTaxRebate } from './articles/how-to-claim-hmrc-tax-rebate
 import { ukHouseholdBills2026 } from './articles/uk-household-bills-2026';
 import { usFamiliesFightInflation2026SmartShopping } from './articles/us-families-fight-inflation-2026-smart-shopping';
 import { warrenBuffettEtf500To1m } from './articles/warren-buffett-etf-500-to-1m';
+import { savingsRatesRoundupMarch2026 } from './articles/savings-rates-roundup-march-2026';
 
 export const articles: Article[] = [
     automateSavings2026,
@@ -110,6 +111,7 @@ export const articles: Article[] = [
     ukHouseholdBills2026,
     usFamiliesFightInflation2026SmartShopping,
     warrenBuffettEtf500To1m,
+    savingsRatesRoundupMarch2026,
 ];
 
 export function getAllArticles(): Article[] {
