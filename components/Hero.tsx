@@ -22,7 +22,7 @@ const Hero = () => {
                 <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 md:p-8 md:min-w-[300px] flex-shrink-0">
                     <p className="text-white font-bold text-lg mb-1">Join 12,000+ smart savers</p>
                     <p className="text-white/70 text-sm mb-5">Weekly tips. Zero spam. Unsubscribe any time.</p>
-                    <form className="flex flex-col gap-3" onSubmit={(e) => e.preventDefault()}>
+                    <form className="flex flex-col gap-3" action="#">
                         <input
                             type="email"
                             placeholder="Your email address"
