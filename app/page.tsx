@@ -56,11 +56,11 @@ export default function Home() {
             <JsonLd data={organizationSchema} />
             <JsonLd data={websiteSchema} />
 
-            {/* 1. Hero — tagline only */}
-            <Hero />
-
-            {/* 2. Latest articles — featured tile + image tiles */}
+            {/* 1. Latest articles — featured tile + image tiles */}
             <LatestArticles variant="top" />
+
+            {/* 2. Hero — tagline */}
+            <Hero />
 
             {/* 3. Registration CTA */}
             <RegistrationCTA />
