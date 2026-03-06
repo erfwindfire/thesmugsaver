@@ -7,6 +7,7 @@ export const universalCredit2026Changes: Article = {
     readingTime: 14,
     seoTitle: 'Universal Credit 2026 Changes: Full UK Guide',
     metaDescription: 'Everything changing with Universal Credit in 2026 — managed migration, legacy benefit endings, new payment amounts, two-child limit update, and what you must do before your deadline.',
+  heroImage: '/assets/images/universal-credit-2026-changes-hero.jpg',
     datePublished: '2026-03-03',
     dateModified: '2026-03-03',
     author: 'The Smug Saver',

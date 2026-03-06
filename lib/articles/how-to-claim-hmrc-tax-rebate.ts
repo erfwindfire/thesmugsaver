@@ -7,6 +7,7 @@ export const howToClaimHmrcTaxRebate: Article = {
     readingTime: 10,
     seoTitle: 'How to Claim HMRC Tax Rebate 2026 | UK Guide',
     metaDescription: 'Millions of UK workers are owed a tax rebate — and HMRC won\'t chase you. Exactly how to claim back overpaid tax in 2026, who qualifies, and what to do today.',
+  heroImage: '/assets/images/how-to-claim-hmrc-tax-rebate-hero.jpg',
     datePublished: '2026-03-03',
     dateModified: '2026-03-03',
     author: 'The Smug Saver',

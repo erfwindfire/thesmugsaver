@@ -10,6 +10,7 @@ export interface Article {
     readingTime: number;
     seoTitle?: string;
     metaDescription?: string;
+    heroImage?: string;
 }
 
 import { automateSavings2026 } from './articles/automate-savings-2026';

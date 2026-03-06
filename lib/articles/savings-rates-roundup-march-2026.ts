@@ -7,6 +7,7 @@ export const savingsRatesRoundupMarch2026: Article = {
     readingTime: 8,
     seoTitle: 'Best Savings Rates UK — March 2026 Round-Up',
     metaDescription: 'Top easy-access, regular saver and ISA rates this week. Santander paying 6%, regular savers hitting 7.5% — here\'s where to move your money right now.',
+  heroImage: '/assets/images/savings-rates-roundup-march-2026-hero.jpg',
     datePublished: '2026-03-05',
     dateModified: '2026-03-05',
     author: 'The Smug Saver',
