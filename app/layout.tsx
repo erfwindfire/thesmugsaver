@@ -3,6 +3,7 @@ import { Inter, Merriweather } from 'next/font/google'
 import './globals.css'
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
+import CookieBanner from '@/components/CookieBanner';
 import { getArticlesByCategory } from '@/lib/articles';
 
 const inter = Inter({
@@ -49,6 +50,7 @@ export default function RootLayout({
           {children}
         </main>
         <Footer />
+        <CookieBanner />
       </body>
     </html>
   )

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Smile } from 'lucide-react';
+import Image from 'next/image';
 
 export default function Footer() {
     return (
@@ -43,9 +43,7 @@ export default function Footer() {
                     <div>
                         <h3 className="font-serif font-bold text-lg mb-6 text-accent">About</h3>
                         <div className="flex items-center gap-2 mb-6">
-                            <div className="flex h-8 w-8 items-center justify-center rounded-full bg-gradient-to-tr from-accent to-[#FF6B6B]">
-                                <Smile className="h-5 w-5 text-white" />
-                            </div>
+                            <Image src="/logo.png" alt="The Smug Saver" width={32} height={32} className="rounded-full" />
                             <span className="font-bold text-white">The Smug Saver</span>
                         </div>
                         <ul className="space-y-3">
@@ -58,10 +56,11 @@ export default function Footer() {
                     </div>
                 </div>
 
-                <div className="pt-8 border-t border-white/10 text-center">
-                    <p className="text-xs text-gray-400">
+                <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+                    <p className="text-xs text-gray-400 text-center sm:text-left">
                         © {new Date().getFullYear()} The Smug Saver. All rights reserved. None of the information on this website constitutes financial advice.
                     </p>
+                    <Image src="/logo.png" alt="The Smug Saver" width={48} height={48} className="logo-float opacity-80 flex-shrink-0" />
                 </div>
             </div>
         </footer>

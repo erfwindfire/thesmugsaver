@@ -20,8 +20,7 @@ const Hero = () => {
 
                 {/* CTA card */}
                 <div className="bg-white/10 backdrop-blur-sm border border-white/20 rounded-2xl p-6 md:p-8 md:min-w-[300px] flex-shrink-0">
-                    <p className="text-white font-bold text-lg mb-1">Join 12,000+ smart savers</p>
-                    <p className="text-white/70 text-sm mb-5">Weekly tips. Zero spam. Unsubscribe any time.</p>
+                    <p className="text-white font-bold text-lg mb-4">Join 12,000+ smart savers</p>
                     <form className="flex flex-col gap-3" action="#">
                         <input
                             type="email"
@@ -32,10 +31,9 @@ const Hero = () => {
                             type="submit"
                             className="w-full bg-emerald-500 hover:bg-emerald-400 text-white font-bold py-3 px-6 rounded-lg transition-colors text-sm shadow-lg shadow-emerald-900/40"
                         >
-                            Get free weekly tips →
+                            Get regular money saving tips →
                         </button>
                     </form>
-                    <p className="text-white/50 text-xs mt-3 text-center">No credit card. No catch.</p>
                 </div>
             </div>
         </section>

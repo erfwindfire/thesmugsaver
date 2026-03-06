@@ -27,7 +27,7 @@ export default function LatestArticles() {
                             This Week&apos;s Top Reads
                         </h2>
                     </div>
-                    <span className="hidden sm:block text-sm text-gray-500">Updated weekly</span>
+                    <span className="hidden sm:block text-sm text-gray-500"></span>
                 </div>
 
                 {/* Featured tile — most recent article */}
