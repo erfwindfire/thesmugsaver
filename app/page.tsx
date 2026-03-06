@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Hero from '@/components/Hero';
 import FeatureGrid from '@/components/FeatureGrid';
 import LatestArticles from '@/components/LatestArticles';
+import RegistrationCTA from '@/components/RegistrationCTA';
 import JsonLd from '@/components/JsonLd';
 
 export const metadata: Metadata = {
@@ -55,13 +56,19 @@ export default function Home() {
             <JsonLd data={organizationSchema} />
             <JsonLd data={websiteSchema} />
 
-            {/* 1. Hero — tagline + inline register CTA */}
+            {/* 1. Hero — tagline only */}
             <Hero />
 
-            {/* 2. Latest articles — featured tile + modular grid */}
-            <LatestArticles />
+            {/* 2. Latest articles — featured tile + image tiles */}
+            <LatestArticles variant="top" />
 
-            {/* 3. Explore by category */}
+            {/* 3. Registration CTA */}
+            <RegistrationCTA />
+
+            {/* 4. Remaining articles — tiles without images */}
+            <LatestArticles variant="bottom" />
+
+            {/* 5. Explore by category */}
             <FeatureGrid />
         </div>
     );
