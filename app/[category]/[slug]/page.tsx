@@ -40,6 +40,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     return {
         title: article.seoTitle || article.title,
         description: article.metaDescription || article.excerpt,
+        robots: {
+            index: true,
+            follow: true,
+        },
         alternates: {
             canonical: canonicalUrl,
         },
