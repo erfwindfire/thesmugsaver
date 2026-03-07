@@ -50,6 +50,45 @@
   force = true
 
 # 5b. Old root-level article URLs → new category/slug structure
+# Variant slugs from "Page with redirect" GSC report (slightly different spelling from main batch)
+
+[[redirects]]
+  from = "/financial-resilience-uk"
+  to = "/savings-and-investing/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/advanced-couponing-cashback-uk"
+  to = "/supermarket-savings/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/first-time-buyer-schemes-uk-2025"
+  to = "/housing/first-time-home-buyer-schemes-uk-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/top-savings-accounts-uk-2025"
+  to = "/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/travel-deals-and-cheap-holidays-uk-2025"
+  to = "/family-and-lifestyle/travel-deals-cheap-holidays-uk-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/warren-buffett-etf-300-to-million"
+  to = "/savings-and-investing/warren-buffett-etf-500-to-1m/"
+  status = 301
+  force = true
+
+# 5b. Old root-level article URLs → new category/slug structure
 # These were published before category subfolders were introduced.
 # Covers both www and non-www (non-www hits rule #3 first, then these path rules apply).
 
