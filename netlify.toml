@@ -72,7 +72,7 @@
 
 [[redirects]]
   from = "/top-savings-accounts-uk-2025"
-  to = "/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026/"
+  to = "/savings-and-investing/best-high-yield-savings-uk-2026/"
   status = 301
   force = true
 
@@ -94,7 +94,7 @@
 
 [[redirects]]
   from = "/america-food-crisis-2025"
-  to = "/supermarket-savings/food-crisis-navigating-snap-cuts-2026/"
+  to = "/supermarket-savings/grocery-savings-2026/"
   status = 301
   force = true
 
@@ -358,7 +358,7 @@
 
 [[redirects]]
   from = "/top-savings-accounts-beating-inflation-uk-2025"
-  to = "/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026/"
+  to = "/savings-and-investing/best-high-yield-savings-uk-2026/"
   status = 301
   force = true
 
@@ -370,7 +370,7 @@
 
 [[redirects]]
   from = "/travel-deals-worldwide-2025"
-  to = "/family-and-lifestyle/travel-deals-worldwide-2026/"
+  to = "/family-and-lifestyle/travel-deals-cheap-holidays-uk-2026/"
   status = 301
   force = true
 
@@ -394,7 +394,7 @@
 
 [[redirects]]
   from = "/us-families-fight-inflation-2025-smart-shopping"
-  to = "/supermarket-savings/us-families-fight-inflation-2026-smart-shopping/"
+  to = "/supermarket-savings/grocery-savings-2026/"
   status = 301
   force = true
 
@@ -415,6 +415,55 @@
 [[redirects]]
   from = "/index.html"
   to = "/"
+  status = 301
+  force = true
+
+# 5c-2. Removed articles → best equivalent live pages
+[[redirects]]
+  from = "/supermarket-savings/us-families-fight-inflation-2026-smart-shopping"
+  to = "/supermarket-savings/grocery-savings-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/supermarket-savings/us-families-fight-inflation-2026-smart-shopping/"
+  to = "/supermarket-savings/grocery-savings-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/supermarket-savings/food-crisis-navigating-snap-cuts-2026"
+  to = "/supermarket-savings/grocery-savings-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/supermarket-savings/food-crisis-navigating-snap-cuts-2026/"
+  to = "/supermarket-savings/grocery-savings-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/family-and-lifestyle/travel-deals-worldwide-2026"
+  to = "/family-and-lifestyle/travel-deals-cheap-holidays-uk-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/family-and-lifestyle/travel-deals-worldwide-2026/"
+  to = "/family-and-lifestyle/travel-deals-cheap-holidays-uk-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026"
+  to = "/savings-and-investing/best-high-yield-savings-uk-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026/"
+  to = "/savings-and-investing/best-high-yield-savings-uk-2026/"
   status = 301
   force = true
 

@@ -51,11 +51,11 @@ export const costOfLiving2026: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Regulator Schemes and Hidden Support</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Ofgem and various regulators offer little-known support schemes beyond the headline measures. The Priority Services Register gives you advance notice of power cuts, free annual safety checks, and password protection against doorstep sellers.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/energy-bills/energy-bills-rising-october-2026" class="text-emerald-700 underline hover:text-emerald-900">energy bill increases</a> covers this in more detail.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/family-and-lifestyle/childcare-costs-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">childcare expenses</a> covers this in more detail.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/family-and-lifestyle/back-to-school-costs-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">school costs</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Ofgem's price cap sets a ceiling on unit rates and standing charges for variable tariffs, protecting around 28 million UK households. Checking your tariff against the current cap ensures you're never overpaying — if your supplier's rates exceed the cap, you can report this to Ofgem directly. The October 2026 cap is projected to change rates, so comparing fixed deals now could lock in savings of £75–£135/year before the increase.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">The Tax-Free Childcare scheme provides up to £500 every 3 months (£2,000/year) towards registered childcare costs — for every £8 you deposit, the government adds £2. This is a 25% top-up that many eligible families miss entirely. Check your eligibility at childcarechoices.gov.uk; households earning under £100,000 per parent and paying for registered childcare typically qualify.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Back-to-school costs average £337 per primary school child and £432 for secondary, according to The Children's Society. Local councils are required to provide uniform grants in cases of financial hardship — contact your school directly or check your local authority's website. Buying second-hand uniform items through school nearly-new sales and Facebook Marketplace groups can cut these costs by 60–80%.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For households struggling with bills, the Fuel Direct scheme lets you pay energy costs directly from benefits, while the Energy Bill Support Scheme Alternative Funding provides help for those without traditional meters.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/cost-of-living/saving-tips-news-guide-2026" class="text-emerald-700 underline hover:text-emerald-900">latest saving tips</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">The most effective money moves in March 2026 combine quick wins (auditing subscriptions and switching energy deals) with structural changes (automating savings and claiming missed benefits). Running a monthly financial check-in — reviewing bank statements, upcoming renewals, and benefit eligibility — takes under an hour but typically uncovers £200–£400 in annual savings.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Utility Switching Master Guide:</h4>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>1. Gather last 12 months of bills (kWh usage)</li>
@@ -67,7 +67,7 @@ export const costOfLiving2026: Article = {
 </ol>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Grocery Inflation Hacks</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Food inflation has stabilized but remains high. Smart shopping isn't just about coupons anymore—it's about understanding retail psychology, timing, and strategic brand switching.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/cost-of-living-payment-2026-dwp-support" class="text-emerald-700 underline hover:text-emerald-900">DWP Cost of Living Payment</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Eligible households on means-tested benefits can receive government Cost of Living Payments. The DWP distributes these automatically for most qualifying claimants — check your GOV.UK account or Universal Credit journal to confirm receipt. If you believe you've missed a payment, contact the DWP within 90 days of the expected payment date, as overpayment windows are strictly enforced.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Advanced Grocery Strategy</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Price Matching & Apps:</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -86,15 +86,15 @@ export const costOfLiving2026: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Brand Switching Calculator</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Many households can save £30-50 monthly by strategically switching just 20% of their branded purchases to value alternatives. Focus on cleaning products, cereals, and frozen foods where quality differences are minimal.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/uk-budget-2026-rachel-reeves-autumn-statement" class="text-emerald-700 underline hover:text-emerald-900">UK Budget 2026 impact</a> covers this in more detail.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/supermarket-savings/beat-food-price-hikes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">food price hikes</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">The Autumn Budget has affected household finances through changes to National Insurance thresholds, council tax adjustments, and benefit uprating. For most households, the most significant ongoing effect is frozen income tax bands — with no change to the £12,570 personal allowance, more earners are being pulled into higher tax brackets each year through fiscal drag, effectively reducing real take-home pay.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Aldi and Lidl now account for over 18% of UK grocery market share, reflecting how dramatically shopping habits have shifted in response to food inflation. Their own-label ranges consistently match or exceed the quality of mid-tier branded products in blind taste tests. A single month's trial — doing 70% of your shopping at a discounter — typically reveals savings of £40–£80/month without significant lifestyle adjustment.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Branded</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">£85</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/cost-of-living/cost-of-living-uk-2026-survival-guide" class="text-emerald-700 underline hover:text-emerald-900">cost of living survival guide</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">The key to surviving sustained cost of living pressure is layering smaller wins across multiple categories. Households that reduce energy use by 10%, switch one major bill, claim an unclaimed benefit, and cut one subscription typically find £300–£600/year in total savings. Small changes compound over time into meaningful financial resilience.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Weekly grocery shop</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Smart Mix</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">£62</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/budgeting/break-paycheck-cycle-2026" class="text-emerald-700 underline hover:text-emerald-900">paycheck-to-paycheck strategies</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Breaking out of a paycheck-to-paycheck pattern requires one structural change: paying yourself first. Set up a standing order for even £50–£100 to a savings account on the day you're paid, before any discretionary spending. Over 12 months this builds a buffer that stops unexpected bills derailing your budget — and over 24 months it creates a foundation for larger financial goals.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Strategic switching</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Annual Saving</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">£1,196</p>
