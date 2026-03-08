@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const premiumVsBudgetInsuranceUk2026: Article = {
-    slug: 'premium-vs-budget-insurance-uk-2026',
-    title: 'Premium vs Budget Insurance: How Not to Get Ripped Off in 2026',
-    category: 'insurance',
-    readingTime: 29,
-    seoTitle: 'Premium vs Budget Insurance UK 2026',
-    metaDescription: 'Premium vs budget insurance compared for UK consumers in 2026. Hidden exclusions, claims data, and when paying more actually saves you money.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Stop paying for insurance you don\'t need or getting caught with coverage that won\'t protect you when it matters. This complete guide reveals what insurance companies don\'t want you to know about premi',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Insurance Guide</p>
+ slug: 'premium-vs-budget-insurance-uk-2026',
+ title: 'Premium vs Budget Insurance: How Not to Get Ripped Off in 2026',
+ category: 'insurance',
+ readingTime: 29,
+ seoTitle: 'Premium vs Budget Insurance UK 2026',
+ metaDescription: 'Premium vs budget insurance compared for UK consumers in 2026. Hidden exclusions, claims data, and when paying more actually saves you money.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Stop paying for insurance you don\'t need or getting caught with coverage that won\'t protect you when it matters. This complete guide reveals what insurance companies don\'t want you to know about premi',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Insurance Guide</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Premium vs Budget Insurance: How Not to Get Ripped Off in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop paying for insurance you don't need or getting caught with coverage that won't protect you when it matters. This complete guide reveals what insurance companies don't want you to know about premium vs budget policies.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
@@ -591,37 +591,37 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
 </tr></thead><tbody>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">Admiral</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★★</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★☆☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★☆☆</td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
 <td class="px-4 py-3 border-b border-gray-200">Young drivers, multi-car</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">Direct Line</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★☆☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★☆</td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
 <td class="px-4 py-3 border-b border-gray-200">Comprehensive cover, claims</td>
 </tr>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">LV=</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★☆☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★★</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★☆</td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
 <td class="px-4 py-3 border-b border-gray-200">Home insurance, older drivers</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">Hastings</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★☆☆☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★☆☆☆</td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
 <td class="px-4 py-3 border-b border-gray-200">Price-conscious, basic cover</td>
 </tr>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">Aviva</td>
-<td class="px-4 py-3 border-b border-gray-200">★★☆☆☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★☆</td>
-<td class="px-4 py-3 border-b border-gray-200">★★★★☆</td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
+<td class="px-4 py-3 border-b border-gray-200"></td>
 <td class="px-4 py-3 border-b border-gray-200">Business, complex needs</td>
 </tr>
 </tbody></table></div>

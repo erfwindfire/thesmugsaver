@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const bestHighYieldSavingsUk2026: Article = {
-    slug: 'best-high-yield-savings-uk-2026',
-    title: 'Best High-Yield Savings Accounts UK 2026: Earn Up to 7.5% Interest',
-    category: 'savings-and-investing',
-    readingTime: 19,
-    seoTitle: 'Best High-Yield Savings Accounts UK 2026',
-    metaDescription: 'Compare the UK\'s highest-paying savings accounts for 2026. Rates up to 7.5% interest, FSCS protection details, and switching strategies to maximise returns.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Premium Savings</p>
+ slug: 'best-high-yield-savings-uk-2026',
+ title: 'Best High-Yield Savings Accounts UK 2026: Earn Up to 7.5% Interest',
+ category: 'savings-and-investing',
+ readingTime: 19,
+ seoTitle: 'Best High-Yield Savings Accounts UK 2026',
+ metaDescription: 'Compare the UK\'s highest-paying savings accounts for 2026. Rates up to 7.5% interest, FSCS protection details, and switching strategies to maximise returns.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Premium Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Best High-Yield Savings Accounts UK 2026: Earn Up to 7.5% Interest</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.</p>
@@ -421,11 +421,11 @@ export const bestHighYieldSavingsUk2026: Article = {
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">What's Covered</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Current accounts</li>
-<li>✓ Savings accounts (including fixed-term)</li>
-<li>✓ Cash ISAs</li>
-<li>✗ Investments (stocks, shares, funds—separate compensation scheme)</li>
-<li>✗ Crypto assets (no protection)</li>
+<li>Current accounts</li>
+<li>Savings accounts (including fixed-term)</li>
+<li>Cash ISAs</li>
+<li> Investments (stocks, shares, funds—separate compensation scheme)</li>
+<li> Crypto assets (no protection)</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Banking Groups Sharing Licenses</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">These institutions share FSCS limits:</p>
@@ -441,7 +441,7 @@ export const bestHighYieldSavingsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Marcus (Goldman Sachs)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£30,000</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Total Protected</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£200,000 ✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed">£200,000 </p>
 <p class="mb-4 text-gray-700 leading-relaxed">All three are separate banking licenses, so you have full FSCS protection on all £200,000.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Check Your Protection</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Before opening an account, verify its FSCS protection status at fscs.org.uk/check</p>

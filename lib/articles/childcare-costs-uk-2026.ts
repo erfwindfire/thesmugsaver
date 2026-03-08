@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const childcareCostsUk2026: Article = {
-    slug: 'childcare-costs-uk-2026',
-    title: 'Ultimate Guide to Navigating Childcare Costs in the UK (2026)',
-    category: 'family-and-lifestyle',
-    readingTime: 13,
-    seoTitle: 'Childcare Costs UK 2026: Complete Guide',
-    metaDescription: 'Navigate UK childcare costs in 2026. Free hours entitlement, tax-free childcare, childcare vouchers, and strategies to reduce your annual bill.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'UK childcare costs have reached unprecedented levels in 2026, with average nursery fees now £14,836 annually (per Family and Childcare Trust)—up 8.2% from 2024. However, significant government reforms',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Childcare Guide 2026</p>
+ slug: 'childcare-costs-uk-2026',
+ title: 'Ultimate Guide to Navigating Childcare Costs in the UK (2026)',
+ category: 'family-and-lifestyle',
+ readingTime: 13,
+ seoTitle: 'Childcare Costs UK 2026: Complete Guide',
+ metaDescription: 'Navigate UK childcare costs in 2026. Free hours entitlement, tax-free childcare, childcare vouchers, and strategies to reduce your annual bill.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'UK childcare costs have reached unprecedented levels in 2026, with average nursery fees now £14,836 annually (per Family and Childcare Trust)—up 8.2% from 2024. However, significant government reforms',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Childcare Guide 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to Navigating Childcare Costs in the UK (2026)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Strategies, Schemes, & Savings for Parents</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate UK Childcare Costs in 2026</h2>

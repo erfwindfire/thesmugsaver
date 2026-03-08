@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const carTradingSellingUk2026: Article = {
-    slug: 'car-trading-selling-uk-2026',
-    title: 'How to Get the Best Value When Trading In/Selling Your Car',
-    category: 'insurance',
-    readingTime: 19,
-    seoTitle: 'Sell or Trade Your Car UK: Best Value Guide',
-    metaDescription: 'How to get the best price when selling or trading in your car in 2026. Valuation tools, dealer negotiation tactics, private sale tips, and timing strategies.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Comprehensive guide to maximizing your vehicle\'s value in 2026\'s challenging UK car market',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Get the Best Value When Trading In/Selling Your Car</h1>
+ slug: 'car-trading-selling-uk-2026',
+ title: 'How to Get the Best Value When Trading In/Selling Your Car',
+ category: 'insurance',
+ readingTime: 19,
+ seoTitle: 'Sell or Trade Your Car UK: Best Value Guide',
+ metaDescription: 'How to get the best price when selling or trading in your car in 2026. Valuation tools, dealer negotiation tactics, private sale tips, and timing strategies.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Comprehensive guide to maximizing your vehicle\'s value in 2026\'s challenging UK car market',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Get the Best Value When Trading In/Selling Your Car</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Comprehensive guide to maximizing your vehicle's value in 2026's challenging UK car market</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Car Finance</p>
 <p class="mb-4 text-gray-700 leading-relaxed">UK Specific</p>
@@ -382,13 +382,13 @@ export const carTradingSellingUk2026: Article = {
 <li>Trust Your Gut: Cancel if anything feels wrong</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Secure Payment Methods</h3>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">✅ SAFE Payment Methods</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> SAFE Payment Methods</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Bank transfer: Wait for cleared funds (24-48 hours)</li>
 <li>Building society cheque: Call to verify before acceptance</li>
 <li>Cash: Only for amounts under £1,000, meet at bank</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">❌ UNSAFE Payment Methods</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> UNSAFE Payment Methods</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Personal cheques: Can be cancelled or bounce</li>
 <li>PayPal: Can be reversed, not designed for car sales</li>

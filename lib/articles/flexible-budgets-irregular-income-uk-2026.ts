@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const flexibleBudgetsIrregularIncomeUk2026: Article = {
-    slug: 'flexible-budgets-irregular-income-uk-2026',
-    title: 'Flexible Budgets forIrregular Income',
-    category: 'budgeting',
-    readingTime: 22,
-    seoTitle: 'Budget on Irregular Income UK 2026 Guide',
-    metaDescription: 'How to budget with irregular or freelance income in the UK. Percentage-based systems, baseline budgeting, and buffer strategies for variable earnings.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Updated for 2026 UK Tax Changes</p>
+ slug: 'flexible-budgets-irregular-income-uk-2026',
+ title: 'Flexible Budgets forIrregular Income',
+ category: 'budgeting',
+ readingTime: 22,
+ seoTitle: 'Budget on Irregular Income UK 2026 Guide',
+ metaDescription: 'How to budget with irregular or freelance income in the UK. Percentage-based systems, baseline budgeting, and buffer strategies for variable earnings.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Updated for 2026 UK Tax Changes</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Flexible Budgets forIrregular Income</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Self-Employment Ready</p>
@@ -330,33 +330,33 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">FreeAgent (£12-20/month)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Best overall for UK freelancers. Automatic tax calculations, invoice tracking, expense management. MTD compliant.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Real-time tax estimates ✓ Bank integration ✓ VAT handling</li>
+<li>Real-time tax estimates Bank integration VAT handling</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Crunch (£9.50/month)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Budget option with good mobile app. Basic but effective for simple freelance businesses.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Affordable ✓ Simple interface ✓ Tax return preparation</li>
+<li>Affordable Simple interface Tax return preparation</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC App (Free)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Essential for checking tax codes, making payments, and submitting returns. Clunky but necessary.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Official ✓ Payment tracking ✓ Tax account access</li>
+<li>Official Payment tracking Tax account access</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Banking and Money Management</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Monzo Business (Free)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Excellent for irregular income with instant spending notifications and automatic categorization.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Real-time notifications ✓ Expense categorization ✓ Tax pot feature</li>
+<li>Real-time notifications Expense categorization Tax pot feature</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Starling Bank Business (Free)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Strong business account with spending insights and automated savings features.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ No monthly fees ✓ Spending insights ✓ Goals feature</li>
+<li>No monthly fees Spending insights Goals feature</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Marcus by Goldman Sachs (Savings)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Competitive savings rates for emergency funds. Easy access, no penalties.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ High interest rates ✓ No minimum balance ✓ Instant access</li>
+<li>High interest rates No minimum balance Instant access</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Income Tracking and Forecasting</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Recommended Tracking Setup</h3>

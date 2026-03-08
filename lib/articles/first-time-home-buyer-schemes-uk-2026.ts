@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const firstTimeHomeBuyerSchemesUk2026: Article = {
-    slug: 'first-time-home-buyer-schemes-uk-2026',
-    title: 'First-Time Home Buyer Schemes UK: What\'s New in 2026?',
-    category: 'housing',
-    readingTime: 36,
-    seoTitle: 'First-Time Buyer Schemes UK 2026 Guide',
-    metaDescription: 'Every first-time buyer scheme in the UK for 2026. Lifetime ISAs, shared ownership, deposit unlock, and government mortgage options explained.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a \"star',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">First-Time Home Buyer Schemes UK: What's New in 2026?</h1>
+ slug: 'first-time-home-buyer-schemes-uk-2026',
+ title: 'First-Time Home Buyer Schemes UK: What\'s New in 2026?',
+ category: 'housing',
+ readingTime: 36,
+ seoTitle: 'First-Time Buyer Schemes UK 2026 Guide',
+ metaDescription: 'Every first-time buyer scheme in the UK for 2026. Lifetime ISAs, shared ownership, deposit unlock, and government mortgage options explained.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a \"star',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">First-Time Home Buyer Schemes UK: What's New in 2026?</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a "starter home" costs £300k and the government's "help" comes with more strings than a puppet show. Here's how to actually get on the ladder without selling your organs.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate 2026 First-Time Buyer Schemes</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -66,7 +66,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Program expanded to 50+ additional council areas. Check gov.uk for updated participating councils.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Better Mortgage Access</p>
 <p class="mb-4 text-gray-700 leading-relaxed">More lenders now accept First Homes as security. Still limited but improving rapidly.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">⚠️ Reality Check: First Homes Limitations</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Reality Check: First Homes Limitations</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before you get excited, understand the catches:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Location lottery: Most available homes are in areas you probably don't want to live</li>
@@ -117,7 +117,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Apply through participating developers</td>
 </tr>
 </tbody></table></div>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">🚨 Critical Deadline Alert</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Critical Deadline Alert</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">If you have a Help to Buy ISA, you must act before April 30, 2026:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Transfer to LISA: Move your balance to a Lifetime ISA to keep getting government bonuses</li>
@@ -141,7 +141,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Buy additional shares when you can afford it. Rent reduces proportionally.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Market rate sale</p>
 <p class="mb-4 text-gray-700 leading-relaxed">When you sell, both you and housing association get proportional share of sale price.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">📊 Shared Ownership Example: £200,000 Property</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Shared Ownership Example: £200,000 Property</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">25% Share Purchase</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£50,000</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Your deposit needed: £5,000 (10%)</p>
@@ -178,7 +178,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">From 4.85%</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Santander</p>
 <p class="mb-4 text-gray-700 leading-relaxed">From 5.15%</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">⚖️ 5% vs 10% Deposit: The Real Cost Analysis</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> 5% vs 10% Deposit: The Real Cost Analysis</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before choosing 95% LTV, consider the long-term costs:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">5% Deposit (£250,000 property)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -244,7 +244,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Lower (3:1)</td>
 </tr>
 </tbody></table></div>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">✅ Best First Homes Opportunities</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Best First Homes Opportunities</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Newcastle: 50% discounts, lower competition, good transport links</li>
 <li>Stoke-on-Trent: 45% discounts, expanding program, affordable baseline prices</li>
@@ -252,7 +252,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <li>Blackpool: 50% discounts, coastal location, regeneration investment</li>
 <li>Middlesbrough: 45% discounts, lowest baseline prices in England</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">❌ Avoid These Areas</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Avoid These Areas</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>London boroughs: Extreme competition, still expensive after discount</li>
 <li>Cambridge: Minimal stock, very high baseline prices</li>
@@ -308,7 +308,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£13,750</p>
 <p class="mb-4 text-gray-700 leading-relaxed">vs £13,750 standard</p>
 <p class="mb-4 text-gray-700 leading-relaxed">No relief above £425k</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland & Wales: Different Rules Apply</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">󠁧󠁢󠁳󠁣󠁴󠁿 Scotland & Wales: Different Rules Apply</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Scotland (LBTT)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>First-time buyer relief up to £175,000</li>
@@ -372,7 +372,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <li>Simplified application process</li>
 <li>Digital document submission available</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">⚠️ Equity Loan Reality Check</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Equity Loan Reality Check</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before committing to any equity loan scheme, understand the long-term implications:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>You don't own the full equity: Government gets proportional share of any house price gains</li>
@@ -448,7 +448,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <li>Swansea: Help with deposits</li>
 <li>Newport: Rent-to-own program</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">🔍 How to Find Local Schemes</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> How to Find Local Schemes</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Search "[your council] first time buyer schemes"</li>
 <li>Check council housing department websites</li>
@@ -525,7 +525,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">+£3,000 once</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Total monthly boost:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£1,800/month</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">💡 Unconventional Deposit Sources</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Unconventional Deposit Sources</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Pension early access: 25% tax-free lump sum from age 55</li>
 <li>Premium Bond prizes: Move cash to Premium Bonds for tax-free wins</li>
@@ -566,23 +566,23 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Application Success Checklist 2026</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Before You Apply</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>□ Check credit score 3 months before (aim for 750+)</li>
-<li>□ Clean up bank statements (no gambling, pay-day loans)</li>
-<li>□ Reduce credit utilization below 30%</li>
-<li>□ Build 6-month employment history at current job</li>
-<li>□ Save deposit plus 2% extra for fees</li>
-<li>□ Get Agreement in Principle from 2-3 lenders</li>
+<li>Check credit score 3 months before (aim for 750+)</li>
+<li>Clean up bank statements (no gambling, pay-day loans)</li>
+<li>Reduce credit utilization below 30%</li>
+<li>Build 6-month employment history at current job</li>
+<li>Save deposit plus 2% extra for fees</li>
+<li>Get Agreement in Principle from 2-3 lenders</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Documentation Required</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>□ 3 months' payslips and P60</li>
-<li>□ 3-6 months' bank statements</li>
-<li>□ Proof of deposit source (gift letter if applicable)</li>
-<li>□ ID and proof of address</li>
-<li>□ Property details and Energy Performance Certificate</li>
-<li>□ Buildings insurance quote</li>
+<li>3 months' payslips and P60</li>
+<li>3-6 months' bank statements</li>
+<li>Proof of deposit source (gift letter if applicable)</li>
+<li>ID and proof of address</li>
+<li>Property details and Energy Performance Certificate</li>
+<li>Buildings insurance quote</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">❌ Common 2026 Rejection Reasons</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Common 2026 Rejection Reasons</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Gambling transactions: Even small, regular betting apps</li>
 <li>Unexplained income: Cash deposits without clear source</li>
@@ -649,7 +649,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Enhanced fire safety checks for flats. Cladding certificates required for buildings over 6 stories.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Energy Performance Upgrades</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Detailed report on required improvements to meet 2030 energy efficiency targets.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">⚡ Speed Up Your Conveyancing</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Speed Up Your Conveyancing</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Choose digital-first solicitors: Firms using modern tech move 30% faster</li>
 <li>Respond same-day: Quick responses to solicitor queries prevent delays</li>
@@ -723,7 +723,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <li>Insurance claim support and advice</li>
 <li>Local charity and foundation grants</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">🏠 Post-Purchase Action Plan</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Post-Purchase Action Plan</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Register for council tax (and apply for discounts)</li>
 <li>Arrange buildings and contents insurance</li>

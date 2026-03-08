@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const howToSave100kIn8Years: Article = {
-    slug: 'how-to-save-100k-in-8-years',
-    title: 'How to Save £100,000 Over 8 Years',
-    category: 'savings-and-investing',
-    readingTime: 6,
-    seoTitle: 'How to Save £100,000 Over 8 Years',
-    metaDescription: 'A realistic plan to save £100,000 in 8 years on an average UK salary. Monthly targets, account strategies, and compound interest calculations broken down.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Save £100,000 Over 8 Years</h1>
+ slug: 'how-to-save-100k-in-8-years',
+ title: 'How to Save £100,000 Over 8 Years',
+ category: 'savings-and-investing',
+ readingTime: 6,
+ seoTitle: 'How to Save £100,000 Over 8 Years',
+ metaDescription: 'A realistic plan to save £100,000 in 8 years on an average UK salary. Monthly targets, account strategies, and compound interest calculations broken down.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Save £100,000 Over 8 Years</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Can I really save £100k in 8 years?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Yes! You'll need to save around £950-£1,000 per month if earning 3-4% interest in a high-yield savings account. While this requires discipline, it's achievable for many UK households through careful budgeting, increasing income over time, and using tax-efficient accounts like ISAs.</p>

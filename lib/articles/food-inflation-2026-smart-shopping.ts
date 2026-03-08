@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const foodInflation2026SmartShopping: Article = {
-    slug: 'food-inflation-2026-smart-shopping',
-    title: 'Food Inflation 2026: Smart Shopping Strategies to Combat 5.1% Price Increases',
-    category: 'supermarket-savings',
-    readingTime: 25,
-    seoTitle: 'Food Inflation 2026: Smart Shopping Strategies',
-    metaDescription: 'Combat 5.1% food price increases with proven shopping strategies. Store comparison data, seasonal buying guides, and meal planning tactics to cut grocery bills.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Daily Savings</p>
+ slug: 'food-inflation-2026-smart-shopping',
+ title: 'Food Inflation 2026: Smart Shopping Strategies to Combat 5.1% Price Increases',
+ category: 'supermarket-savings',
+ readingTime: 25,
+ seoTitle: 'Food Inflation 2026: Smart Shopping Strategies',
+ metaDescription: 'Combat 5.1% food price increases with proven shopping strategies. Store comparison data, seasonal buying guides, and meal planning tactics to cut grocery bills.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Daily Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Food Inflation 2026: Smart Shopping Strategies to Combat 5.1% Price Increases</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain's most expensive food market.</p>

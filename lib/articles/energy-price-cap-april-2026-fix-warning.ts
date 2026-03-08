@@ -1,18 +1,18 @@
 import { Article } from '../articles';
 
 export const energyPriceCapApril2026FixWarning: Article = {
-  slug: 'energy-price-cap-april-2026-fix-warning',
-  title: "Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July",
-  category: 'energy-bills',
-  author: 'The Smug Saver',
-  datePublished: '2026-03-06',
-  dateModified: '2026-03-06',
-  readingTime: 6,
-  seoTitle: 'Energy Price Cap April 2026 — Fix Now or Pay More in July?',
-  metaDescription: "April's energy cap falls £117. But wholesale gas just spiked 90% in a week. Here's why you may have days to lock in a fix before the deals disappear.",
-  heroImage: '/assets/images/energy-price-cap-april-2026-fix-warning-hero.jpg',
-  excerpt: "April's energy price cap is dropping £117 for the average household. Good news — except wholesale gas prices just spiked 90% in a single week because of the Middle East conflict. If that's sustained, the July cap could reverse every penny of the April saving. Here's what to do right now, before the cheapest fixes get pulled.",
-  body: `
+ slug: 'energy-price-cap-april-2026-fix-warning',
+ title: "Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July",
+ category: 'energy-bills',
+ author: 'The Smug Saver',
+ datePublished: '2026-03-06',
+ dateModified: '2026-03-06',
+ readingTime: 6,
+ seoTitle: 'Energy Price Cap April 2026 — Fix Now or Pay More in July?',
+ metaDescription: "April's energy cap falls £117. But wholesale gas just spiked 90% in a week. Here's why you may have days to lock in a fix before the deals disappear.",
+ heroImage: '/assets/images/energy-price-cap-april-2026-fix-warning-hero.jpg',
+ excerpt: "April's energy price cap is dropping £117 for the average household. Good news — except wholesale gas prices just spiked 90% in a single week because of the Middle East conflict. If that's sustained, the July cap could reverse every penny of the April saving. Here's what to do right now, before the cheapest fixes get pulled.",
+ body: `
 <p class="mb-4 text-gray-700 leading-relaxed">Energy Bills • March 2026</p>
 
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July</h1>
@@ -27,20 +27,20 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Key Facts</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-  <li>The April 2026 price cap drops to <strong>£1,641/year</strong> for a typical household on direct debit — down from £1,758 (a 6.7% fall).</li>
-  <li>That's a saving of around <strong>£117/year or £10/month</strong> for average usage.</li>
-  <li>Wholesale gas prices spiked <strong>90% in one week</strong> in early March 2026 due to the Middle East conflict — this hasn't fed into the April cap, but could hit the <strong>July cap hard</strong>.</li>
-  <li>Several energy suppliers have already started repricing fixed-rate tariffs upward in response to the wholesale spike.</li>
-  <li>Despite the repricing, some fixed deals are still available at up to <strong>14% below the current Price Cap</strong> — but the cheapest are disappearing.</li>
-  <li>If you're already on a fix, your deal is almost certainly cheaper than the April cap — but the July picture has changed.</li>
+ <li>The April 2026 price cap drops to <strong>£1,641/year</strong> for a typical household on direct debit — down from £1,758 (a 6.7% fall).</li>
+ <li>That's a saving of around <strong>£117/year or £10/month</strong> for average usage.</li>
+ <li>Wholesale gas prices spiked <strong>90% in one week</strong> in early March 2026 due to the Middle East conflict — this hasn't fed into the April cap, but could hit the <strong>July cap hard</strong>.</li>
+ <li>Several energy suppliers have already started repricing fixed-rate tariffs upward in response to the wholesale spike.</li>
+ <li>Despite the repricing, some fixed deals are still available at up to <strong>14% below the current Price Cap</strong> — but the cheapest are disappearing.</li>
+ <li>If you're already on a fix, your deal is almost certainly cheaper than the April cap — but the July picture has changed.</li>
 </ul>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What You Must Do</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-  <li><strong>Not on a fix?</strong> Compare fixed-rate deals today using an Ofgem-accredited comparison service — deals that beat the cap are still available but are being pulled.</li>
-  <li><strong>Already on a fix?</strong> Check your end date. If it ends before July 2026, you need to look at your options now, not when it expires.</li>
-  <li><strong>Low user or on prepay?</strong> Run the numbers — the cap drop helps you less than average, and a fix might not be worth it depending on your usage.</li>
-  <li>Set a calendar reminder for <strong>late May 2026</strong> when Ofgem will confirm the July cap — if wholesale stays elevated, you'll want to act immediately.</li>
+ <li><strong>Not on a fix?</strong> Compare fixed-rate deals today using an Ofgem-accredited comparison service — deals that beat the cap are still available but are being pulled.</li>
+ <li><strong>Already on a fix?</strong> Check your end date. If it ends before July 2026, you need to look at your options now, not when it expires.</li>
+ <li><strong>Low user or on prepay?</strong> Run the numbers — the cap drop helps you less than average, and a fix might not be worth it depending on your usage.</li>
+ <li>Set a calendar reminder for <strong>late May 2026</strong> when Ofgem will confirm the July cap — if wholesale stays elevated, you'll want to act immediately.</li>
 </ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. What the April 2026 Price Cap Actually Means for Your Bill</h2>
@@ -50,32 +50,32 @@ export const energyPriceCapApril2026FixWarning: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">From 1 April 2026, the capped rates are:</p>
 
 <div class="overflow-x-auto mb-6">
-  <table class="w-full border-collapse text-sm">
-    <thead>
-      <tr class="bg-emerald-800 text-white">
-        <th class="px-4 py-3 text-left font-semibold">Fuel Type</th>
-        <th class="px-4 py-3 text-left font-semibold">Unit Rate (Apr 2026)</th>
-        <th class="px-4 py-3 text-left font-semibold">Change from Jan–Mar</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr class="bg-gray-50">
-        <td class="px-4 py-3 border-b border-gray-200">Electricity</td>
-        <td class="px-4 py-3 border-b border-gray-200">24.7p/kWh</td>
-        <td class="px-4 py-3 border-b border-gray-200">Down from ~27p</td>
-      </tr>
-      <tr class="bg-white">
-        <td class="px-4 py-3 border-b border-gray-200">Gas</td>
-        <td class="px-4 py-3 border-b border-gray-200">5.7p/kWh</td>
-        <td class="px-4 py-3 border-b border-gray-200">Down from ~6.1p</td>
-      </tr>
-      <tr class="bg-gray-50">
-        <td class="px-4 py-3 border-b border-gray-200">Standing charge (combined avg)</td>
-        <td class="px-4 py-3 border-b border-gray-200">~£315/year</td>
-        <td class="px-4 py-3 border-b border-gray-200">Slight fall</td>
-      </tr>
-    </tbody>
-  </table>
+ <table class="w-full border-collapse text-sm">
+ <thead>
+ <tr class="bg-emerald-800 text-white">
+ <th class="px-4 py-3 text-left font-semibold">Fuel Type</th>
+ <th class="px-4 py-3 text-left font-semibold">Unit Rate (Apr 2026)</th>
+ <th class="px-4 py-3 text-left font-semibold">Change from Jan–Mar</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr class="bg-gray-50">
+ <td class="px-4 py-3 border-b border-gray-200">Electricity</td>
+ <td class="px-4 py-3 border-b border-gray-200">24.7p/kWh</td>
+ <td class="px-4 py-3 border-b border-gray-200">Down from ~27p</td>
+ </tr>
+ <tr class="bg-white">
+ <td class="px-4 py-3 border-b border-gray-200">Gas</td>
+ <td class="px-4 py-3 border-b border-gray-200">5.7p/kWh</td>
+ <td class="px-4 py-3 border-b border-gray-200">Down from ~6.1p</td>
+ </tr>
+ <tr class="bg-gray-50">
+ <td class="px-4 py-3 border-b border-gray-200">Standing charge (combined avg)</td>
+ <td class="px-4 py-3 border-b border-gray-200">~£315/year</td>
+ <td class="px-4 py-3 border-b border-gray-200">Slight fall</td>
+ </tr>
+ </tbody>
+ </table>
 </div>
 
 <p class="mb-4 text-gray-700 leading-relaxed">The cap applies if you're in England, Scotland, or Wales and on your supplier's standard variable tariff. Northern Ireland has a separate regulatory framework and is not covered.</p>
@@ -86,7 +86,7 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <p class="mb-4 text-gray-700 leading-relaxed">Ofgem sets the price cap quarterly, based on wholesale gas and electricity prices in the preceding period. The April 2026 cap was calculated before the latest Middle East escalation. The spike you're seeing in early March 2026 — wholesale gas rates up 90% in a week — will feed into the July calculation.</p>
 
-<p class="mb-4 text-gray-700 leading-relaxed">⚠️ This doesn't mean the July cap will definitely rise. Wholesale markets are volatile — the spike could ease. But "it might be fine" is not a financial strategy. The April cap is dropping. The July cap is genuinely uncertain. If you're on the standard tariff, you're taking on that uncertainty every single quarter.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> This doesn't mean the July cap will definitely rise. Wholesale markets are volatile — the spike could ease. But "it might be fine" is not a financial strategy. The April cap is dropping. The July cap is genuinely uncertain. If you're on the standard tariff, you're taking on that uncertainty every single quarter.</p>
 
 <p class="mb-4 text-gray-700 leading-relaxed">The energy companies don't advertise this uncertainty. Their business model benefits from customers sitting on the standard tariff indefinitely — it's the default, it's the path of least resistance, and it's frequently not the cheapest option available.</p>
 
@@ -102,14 +102,14 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How to compare properly</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
-  <li>Get your actual kWh usage from your last bill or smart meter — don't use the "average" figures.</li>
-  <li>Use an Ofgem-accredited comparison service to compare fixed tariffs against the April cap at your real usage.</li>
-  <li>Look at the whole package: unit rate, standing charge, exit fees, and contract length.</li>
-  <li>Check reviews — a cheap tariff from a supplier with poor customer service is a false economy.</li>
-  <li>If you find a deal that works, switch quickly. The form takes 15 minutes. Your old supplier will handle the handover.</li>
+ <li>Get your actual kWh usage from your last bill or smart meter — don't use the "average" figures.</li>
+ <li>Use an Ofgem-accredited comparison service to compare fixed tariffs against the April cap at your real usage.</li>
+ <li>Look at the whole package: unit rate, standing charge, exit fees, and contract length.</li>
+ <li>Check reviews — a cheap tariff from a supplier with poor customer service is a false economy.</li>
+ <li>If you find a deal that works, switch quickly. The form takes 15 minutes. Your old supplier will handle the handover.</li>
 </ol>
 
-<p class="mb-4 text-gray-700 leading-relaxed">💡 Look for deals with no exit fees if you want flexibility. If the July cap ends up being lower than your fix, you'll want the option to leave without penalty.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> Look for deals with no exit fees if you want flexibility. If the July cap ends up being lower than your fix, you'll want the option to leave without penalty.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. Already on a Fixed Tariff? Here's Your Position</h2>
 
@@ -125,7 +125,7 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <p class="mb-4 text-gray-700 leading-relaxed">Standing charges are a flat daily fee you pay regardless of whether you use any energy at all. They're the part of your bill that energy suppliers are least transparent about. The cap includes a combined standing charge of around £315/year — before you've used a single kWh. For a low-use household, that can represent a disproportionate chunk of the total bill.</p>
 
-<p class="mb-4 text-gray-700 leading-relaxed">💡 Some suppliers offer tariffs with lower or zero standing charges, though these usually come with higher unit rates. For low users, these can work out cheaper overall. Run the maths on your actual usage before assuming the standard comparison applies to you.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> Some suppliers offer tariffs with lower or zero standing charges, though these usually come with higher unit rates. For low users, these can work out cheaper overall. Run the maths on your actual usage before assuming the standard comparison applies to you.</p>
 
 <p class="mb-4 text-gray-700 leading-relaxed">If you're on a prepay meter, your April cap is £1,597 — slightly lower than the direct debit rate. The wholesale spike and July risk apply equally. If you can find a prepay fix that works, the same logic holds.</p>
 
@@ -140,12 +140,12 @@ export const energyPriceCapApril2026FixWarning: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do Right Now</h2>
 
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-  <li><strong>Check your current tariff today</strong> — log into your supplier account and confirm whether you're on a standard variable tariff or an existing fix.</li>
-  <li><strong>Get your actual usage figures</strong> — from your last 12 months of bills or your smart meter. Don't rely on "average" estimates.</li>
-  <li><strong>Compare fixed deals against the April cap</strong> — using an Ofgem-accredited comparison site. Look for deals that undercut £1,641/year at your actual usage.</li>
-  <li><strong>Act within 48 hours if you find something good</strong> — the wholesale spike means suppliers are repricing upward. Good deals are being pulled without warning.</li>
-  <li><strong>If your fix ends before July</strong> — contact your supplier now to explore renewal options before you're automatically rolled onto the standard tariff.</li>
-  <li><strong>Set a reminder for late May</strong> — Ofgem will consult on the July cap. If the wholesale spike is sustained, you'll want to respond immediately, not weeks later.</li>
+ <li><strong>Check your current tariff today</strong> — log into your supplier account and confirm whether you're on a standard variable tariff or an existing fix.</li>
+ <li><strong>Get your actual usage figures</strong> — from your last 12 months of bills or your smart meter. Don't rely on "average" estimates.</li>
+ <li><strong>Compare fixed deals against the April cap</strong> — using an Ofgem-accredited comparison site. Look for deals that undercut £1,641/year at your actual usage.</li>
+ <li><strong>Act within 48 hours if you find something good</strong> — the wholesale spike means suppliers are repricing upward. Good deals are being pulled without warning.</li>
+ <li><strong>If your fix ends before July</strong> — contact your supplier now to explore renewal options before you're automatically rolled onto the standard tariff.</li>
+ <li><strong>Set a reminder for late May</strong> — Ofgem will consult on the July cap. If the wholesale spike is sustained, you'll want to respond immediately, not weeks later.</li>
 </ul>
 
 <p class="mb-4 text-gray-700 leading-relaxed">The energy system rewards inertia — in the companies' favour, not yours. Every quarter you sit on the standard tariff without checking, you're betting that the next cap will be lower. Right now, that's a bet with bad odds. For more on negotiating bills and standing your ground with suppliers, read our guide on <a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">how to negotiate your bills in 2026</a>. And if energy is just one of several bills eating your budget, see how <a href="/energy-bills/energy-bills-rising-october-2026" class="text-emerald-700 underline hover:text-emerald-900">household energy bills have been tracked through 2026</a>.</p>
@@ -182,7 +182,7 @@ export const energyPriceCapApril2026FixWarning: Article = {
 <hr class="my-10 border-gray-200" />
 
 <div class="bg-amber-50 border border-amber-200 rounded-lg p-6 mb-6">
-  <p class="text-gray-800 leading-relaxed"><strong>This article is general information, not personal financial advice.</strong> Energy deals and price caps change frequently — what's accurate at publication may shift within days in the current wholesale market. Before switching tariffs, compare deals based on your actual usage and circumstances. If you're on a prepay meter, in debt to your supplier, or receiving means-tested benefits, contact <a href="https://www.citizensadvice.org.uk" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> or <a href="https://www.moneyhelper.org.uk" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">MoneyHelper</a> for tailored guidance. The Smug Saver is not responsible for decisions made on the basis of this article.</p>
+ <p class="text-gray-800 leading-relaxed"><strong>This article is general information, not personal financial advice.</strong> Energy deals and price caps change frequently — what's accurate at publication may shift within days in the current wholesale market. Before switching tariffs, compare deals based on your actual usage and circumstances. If you're on a prepay meter, in debt to your supplier, or receiving means-tested benefits, contact <a href="https://www.citizensadvice.org.uk" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> or <a href="https://www.moneyhelper.org.uk" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">MoneyHelper</a> for tailored guidance. The Smug Saver is not responsible for decisions made on the basis of this article.</p>
 </div>
 
 <p class="text-sm text-gray-500 mb-2"><strong>Last updated: 6 March 2026</strong></p>
@@ -190,12 +190,12 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Sources & References</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-  <li><a href="https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-january-and-31-march-2026" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Ofgem — Changes to energy price cap, January–March 2026</a> — Quarterly cap announcement and rate breakdown</li>
-  <li><a href="https://www.ofgem.gov.uk/information-consumers/energy-advice-households/energy-price-cap-explained" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Ofgem — Energy price cap explained</a> — How the cap is set, what it covers, and who it applies to</li>
-  <li><a href="https://www.gov.uk/government/publications/autumn-budget-2025" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">HM Treasury — Autumn Budget 2025</a> — Energy Company Obligation removal and household energy cost commitments</li>
-  <li><a href="https://commonslibrary.parliament.uk/research-briefings/cbp-9714/" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">House of Commons Library — Gas and electricity prices during the energy crisis and beyond</a> — Historical context and pre-crisis price comparisons</li>
-  <li><a href="https://www.citizensadvice.org.uk/consumer/energy/energy-supply/" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice — Energy advice for households</a> — Rights, switching guidance, and support for those struggling with bills</li>
-  <li><a href="https://www.moneyhelper.org.uk/en/homes/saving-on-household-bills/check-if-youre-on-the-cheapest-energy-deal" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">MoneyHelper — Check if you're on the cheapest energy deal</a> — Independent switching and comparison guidance</li>
+ <li><a href="https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-january-and-31-march-2026" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Ofgem — Changes to energy price cap, January–March 2026</a> — Quarterly cap announcement and rate breakdown</li>
+ <li><a href="https://www.ofgem.gov.uk/information-consumers/energy-advice-households/energy-price-cap-explained" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Ofgem — Energy price cap explained</a> — How the cap is set, what it covers, and who it applies to</li>
+ <li><a href="https://www.gov.uk/government/publications/autumn-budget-2025" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">HM Treasury — Autumn Budget 2025</a> — Energy Company Obligation removal and household energy cost commitments</li>
+ <li><a href="https://commonslibrary.parliament.uk/research-briefings/cbp-9714/" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">House of Commons Library — Gas and electricity prices during the energy crisis and beyond</a> — Historical context and pre-crisis price comparisons</li>
+ <li><a href="https://www.citizensadvice.org.uk/consumer/energy/energy-supply/" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice — Energy advice for households</a> — Rights, switching guidance, and support for those struggling with bills</li>
+ <li><a href="https://www.moneyhelper.org.uk/en/homes/saving-on-household-bills/check-if-youre-on-the-cheapest-energy-deal" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">MoneyHelper — Check if you're on the cheapest energy deal</a> — Independent switching and comparison guidance</li>
 </ul>
 `,
 };

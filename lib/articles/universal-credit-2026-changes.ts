@@ -1,18 +1,18 @@
 import { Article } from '../articles';
 
 export const universalCredit2026Changes: Article = {
-    slug: 'universal-credit-2026-changes',
-    title: 'Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)',
-    category: 'earning-and-benefits',
-    readingTime: 14,
-    seoTitle: 'Universal Credit 2026 Changes: Full UK Guide',
-    metaDescription: 'Everything changing with Universal Credit in 2026 — managed migration, legacy benefit endings, new payment amounts, two-child limit update, and what you must do before your deadline.',
-  heroImage: '/assets/images/universal-credit-2026-changes-hero.jpg',
-    datePublished: '2026-03-03',
-    dateModified: '2026-03-03',
-    author: 'The Smug Saver',
-    excerpt: 'The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they\'re ready or not. Miss your migration notice deadline and your payments stop. This is everything you need to know to protect your income.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Benefits • 2026 DWP Changes</p>
+ slug: 'universal-credit-2026-changes',
+ title: 'Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)',
+ category: 'earning-and-benefits',
+ readingTime: 14,
+ seoTitle: 'Universal Credit 2026 Changes: Full UK Guide',
+ metaDescription: 'Everything changing with Universal Credit in 2026 — managed migration, legacy benefit endings, new payment amounts, two-child limit update, and what you must do before your deadline.',
+ heroImage: '/assets/images/universal-credit-2026-changes-hero.jpg',
+ datePublished: '2026-03-03',
+ dateModified: '2026-03-03',
+ author: 'The Smug Saver',
+ excerpt: 'The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they\'re ready or not. Miss your migration notice deadline and your payments stop. This is everything you need to know to protect your income.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Benefits • 2026 DWP Changes</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they're ready or not. Miss your migration notice deadline and your payments stop. Full stop. This is everything you need to know to protect your income.</p>
 
@@ -254,39 +254,39 @@ export const universalCredit2026Changes: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about Universal Credit and DWP benefit changes in 2026. It is not personalised financial, legal, or welfare advice. Benefit entitlements depend on your individual circumstances, which this article cannot assess. Before making any decisions about claiming or migrating to Universal Credit, use a free benefits calculator and, where possible, speak to an adviser at <a href="https://www.citizensadvice.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Citizens Advice</a>, <a href="https://www.turn2us.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Turn2Us</a>, or your local welfare rights service. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
-  </div>
+ <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+ <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+ <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about Universal Credit and DWP benefit changes in 2026. It is not personalised financial, legal, or welfare advice. Benefit entitlements depend on your individual circumstances, which this article cannot assess. Before making any decisions about claiming or migrating to Universal Credit, use a free benefits calculator and, where possible, speak to an adviser at <a href="https://www.citizensadvice.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Citizens Advice</a>, <a href="https://www.turn2us.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Turn2Us</a>, or your local welfare rights service. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
+ </div>
 
-  <div class="mb-6">
-    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-03">3 March 2026</time></p>
-    <p class="text-xs text-gray-500">Payment rates reflect DWP-confirmed uprating from April 2026. Legislation and policy references accurate as of publication date.</p>
-  </div>
+ <div class="mb-6">
+ <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-03">3 March 2026</time></p>
+ <p class="text-xs text-gray-500">Payment rates reflect DWP-confirmed uprating from April 2026. Legislation and policy references accurate as of publication date.</p>
+ </div>
 
-  <div class="mb-8">
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
-    <ul class="space-y-2 text-sm text-gray-600">
-      <li><a href="https://www.legislation.gov.uk/ukpga/2012/5/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Welfare Reform Act 2012</a> — the primary legislation establishing Universal Credit</li>
-      <li><a href="https://www.legislation.gov.uk/uksi/2013/376/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Universal Credit Regulations 2013 (SI 2013/376)</a> — detailed rules on entitlement, calculation, and elements</li>
-      <li><a href="https://www.legislation.gov.uk/uksi/2014/1230/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Universal Credit (Transitional Provisions) Regulations 2014 (SI 2014/1230)</a> — managed migration and transitional protection rules</li>
-      <li><a href="https://www.legislation.gov.uk/ukpga/2016/7/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Welfare Reform and Work Act 2016</a> — introduced the two-child limit on the child element</li>
-    </ul>
-  </div>
+ <div class="mb-8">
+ <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+ <ul class="space-y-2 text-sm text-gray-600">
+ <li><a href="https://www.legislation.gov.uk/ukpga/2012/5/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Welfare Reform Act 2012</a> — the primary legislation establishing Universal Credit</li>
+ <li><a href="https://www.legislation.gov.uk/uksi/2013/376/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Universal Credit Regulations 2013 (SI 2013/376)</a> — detailed rules on entitlement, calculation, and elements</li>
+ <li><a href="https://www.legislation.gov.uk/uksi/2014/1230/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Universal Credit (Transitional Provisions) Regulations 2014 (SI 2014/1230)</a> — managed migration and transitional protection rules</li>
+ <li><a href="https://www.legislation.gov.uk/ukpga/2016/7/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Welfare Reform and Work Act 2016</a> — introduced the two-child limit on the child element</li>
+ </ul>
+ </div>
 
-  <div>
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
-    <ul class="space-y-2 text-sm text-gray-600">
-      <li><a href="https://www.gov.uk/universal-credit" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Universal Credit: overview, eligibility, and how to claim</a></li>
-      <li><a href="https://www.gov.uk/government/publications/universal-credit-and-your-previous-tax-credits-claim" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP — Universal Credit and your previous Tax Credits claim</a></li>
-      <li><a href="https://www.gov.uk/guidance/universal-credit-managed-migration" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP — Managed migration guidance for claimants</a></li>
-      <li><a href="https://www.gov.uk/government/publications/benefit-and-pension-rates-2026-to-2027" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP — Benefit and pension rates 2026 to 2027</a></li>
-      <li><a href="https://www.citizensadvice.org.uk/benefits/universal-credit/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — Universal Credit guidance</a></li>
-      <li><a href="https://www.turn2us.org.uk/get-support/benefits-calculator" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Turn2Us — Free benefits calculator</a></li>
-      <li><a href="https://www.entitledto.co.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Entitledto — Benefits and tax credits calculator</a></li>
-      <li><a href="https://www.gov.uk/government/organisations/department-for-work-pensions" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Department for Work and Pensions (DWP) — official guidance and publications</a></li>
-    </ul>
-  </div>
+ <div>
+ <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+ <ul class="space-y-2 text-sm text-gray-600">
+ <li><a href="https://www.gov.uk/universal-credit" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Universal Credit: overview, eligibility, and how to claim</a></li>
+ <li><a href="https://www.gov.uk/government/publications/universal-credit-and-your-previous-tax-credits-claim" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP — Universal Credit and your previous Tax Credits claim</a></li>
+ <li><a href="https://www.gov.uk/guidance/universal-credit-managed-migration" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP — Managed migration guidance for claimants</a></li>
+ <li><a href="https://www.gov.uk/government/publications/benefit-and-pension-rates-2026-to-2027" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP — Benefit and pension rates 2026 to 2027</a></li>
+ <li><a href="https://www.citizensadvice.org.uk/benefits/universal-credit/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — Universal Credit guidance</a></li>
+ <li><a href="https://www.turn2us.org.uk/get-support/benefits-calculator" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Turn2Us — Free benefits calculator</a></li>
+ <li><a href="https://www.entitledto.co.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Entitledto — Benefits and tax credits calculator</a></li>
+ <li><a href="https://www.gov.uk/government/organisations/department-for-work-pensions" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Department for Work and Pensions (DWP) — official guidance and publications</a></li>
+ </ul>
+ </div>
 
 </div>`,
 };

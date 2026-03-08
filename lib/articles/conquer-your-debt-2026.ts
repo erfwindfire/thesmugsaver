@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const conquerYourDebt2026: Article = {
-    slug: 'conquer-your-debt-2026',
-    title: 'Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good',
-    category: 'credit-cards-and-debt',
-    readingTime: 24,
-    seoTitle: 'Conquer Your Debt UK 2026: Proven Strategies',
-    metaDescription: 'Battle-tested UK debt payoff strategies for 2026. Snowball vs avalanche methods, negotiation templates, free debt advice services, and priority debt system.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Let\'s be honest about debt: it\'s not a moral failing, it\'s a mathematical reality. 63% of UK adults carry consumer debt averaging £8,400, and pretending shame will solve it is about as effective as pa',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good</h1>
+ slug: 'conquer-your-debt-2026',
+ title: 'Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good',
+ category: 'credit-cards-and-debt',
+ readingTime: 24,
+ seoTitle: 'Conquer Your Debt UK 2026: Proven Strategies',
+ metaDescription: 'Battle-tested UK debt payoff strategies for 2026. Snowball vs avalanche methods, negotiation templates, free debt advice services, and priority debt system.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Let\'s be honest about debt: it\'s not a moral failing, it\'s a mathematical reality. 63% of UK adults carry consumer debt averaging £8,400, and pretending shame will solve it is about as effective as pa',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Let's be honest about debt: it's not a moral failing, it's a mathematical reality. 63% of UK adults carry consumer debt averaging £8,400, and pretending shame will solve it is about as effective as paying your mortgage with good intentions and positive vibes.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: UK households carry average £8,400 consumer debt. Priority debts (council tax, mortgage, utilities) must be paid first due to severe enforcement powers. Use debt snowball (psychological wins) or avalanche (mathematical savings) methods, negotiate with creditors using provided templates, and access free debt advice.</strong></p>

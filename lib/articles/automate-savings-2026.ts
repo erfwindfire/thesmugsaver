@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const automateSavings2026: Article = {
-    slug: 'automate-savings-2026',
-    title: 'Automate Your Savings in 2026: The Complete UK Guide (With Hidden Pitfalls)',
-    category: 'budgeting',
-    readingTime: 13,
-    seoTitle: 'Automate Your Savings in 2026: Pros, Cons & Apps',
-    metaDescription: 'Set-and-forget savings guide for 2026. Compare automation apps, avoid overdraft traps, and build wealth on autopilot with proven UK and US strategies.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Set-and-forget savings sounds perfect—until it triggers overdraft fees or locks your emergency fund. Here\'s what every automation guide leaves out: the caveats, the risks, and what to double-check bef',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings Automation 2026</p>
+ slug: 'automate-savings-2026',
+ title: 'Automate Your Savings in 2026: The Complete UK Guide (With Hidden Pitfalls)',
+ category: 'budgeting',
+ readingTime: 13,
+ seoTitle: 'Automate Your Savings in 2026: Pros, Cons & Apps',
+ metaDescription: 'Set-and-forget savings guide for 2026. Compare automation apps, avoid overdraft traps, and build wealth on autopilot with proven UK and US strategies.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Set-and-forget savings sounds perfect—until it triggers overdraft fees or locks your emergency fund. Here\'s what every automation guide leaves out: the caveats, the risks, and what to double-check bef',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings Automation 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Automate Your Savings in 2026: The Complete UK Guide (With Hidden Pitfalls)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Set-and-forget savings sounds perfect—until it triggers overdraft fees or locks your emergency fund. Here's what every automation guide leaves out: the caveats, the risks, and what to double-check before you automate a single penny.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How can I automate my savings in 2026?</h2>
@@ -90,28 +90,28 @@ export const automateSavings2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Monzo Pots</td>
 <td class="px-4 py-3 border-b border-gray-200">Manual round-up or scheduled</td>
 <td class="px-4 py-3 border-b border-gray-200">Free</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Yes (main account)</td>
+<td class="px-4 py-3 border-b border-gray-200"> Yes (main account)</td>
 <td class="px-4 py-3 border-b border-gray-200">Instant</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">Starling Spaces</td>
 <td class="px-4 py-3 border-b border-gray-200">Scheduled transfers, goal-based</td>
 <td class="px-4 py-3 border-b border-gray-200">Free</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Yes</td>
+<td class="px-4 py-3 border-b border-gray-200"> Yes</td>
 <td class="px-4 py-3 border-b border-gray-200">Instant</td>
 </tr>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">Chip</td>
 <td class="px-4 py-3 border-b border-gray-200">AI analyzes income/spending patterns</td>
 <td class="px-4 py-3 border-b border-gray-200">£1.99/mo (basic)</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Yes (via ClearBank)</td>
+<td class="px-4 py-3 border-b border-gray-200"> Yes (via ClearBank)</td>
 <td class="px-4 py-3 border-b border-gray-200">1-2 working days</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">Plum</td>
 <td class="px-4 py-3 border-b border-gray-200">Rule-based, customizable</td>
 <td class="px-4 py-3 border-b border-gray-200">£2.99/mo (Plus)</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Yes</td>
+<td class="px-4 py-3 border-b border-gray-200"> Yes</td>
 <td class="px-4 py-3 border-b border-gray-200">2-4 working days</td>
 </tr>
 </tbody></table></div>
@@ -162,12 +162,12 @@ export const automateSavings2026: Article = {
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Security Checklist:</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Verify FCA authorization on register.fca.org.uk before signing up</li>
-<li>✓ Enable two-factor authentication (2FA) on both the app and your bank</li>
-<li>✓ Review what data the app collects (in privacy policy, not marketing materials)</li>
-<li>✓ Check if the app shares data with third parties</li>
-<li>✓ Confirm which bank actually holds your deposits (for FSCS protection)</li>
-<li>✓ Set up transaction alerts so you're notified of every automated transfer</li>
+<li>Verify FCA authorization on register.fca.org.uk before signing up</li>
+<li>Enable two-factor authentication (2FA) on both the app and your bank</li>
+<li>Review what data the app collects (in privacy policy, not marketing materials)</li>
+<li>Check if the app shares data with third parties</li>
+<li>Confirm which bank actually holds your deposits (for FSCS protection)</li>
+<li>Set up transaction alerts so you're notified of every automated transfer</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Learn more about Open Banking security in our Open Banking 2026 guide.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Variable Income Complications</h3>
@@ -204,25 +204,25 @@ export const automateSavings2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">£50</td>
 <td class="px-4 py-3 border-b border-gray-200">£2.99</td>
 <td class="px-4 py-3 border-b border-gray-200">6.0%</td>
-<td class="px-4 py-3 border-b border-gray-200">❌ Use free alternative</td>
+<td class="px-4 py-3 border-b border-gray-200"> Use free alternative</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">£100</td>
 <td class="px-4 py-3 border-b border-gray-200">£2.99</td>
 <td class="px-4 py-3 border-b border-gray-200">3.0%</td>
-<td class="px-4 py-3 border-b border-gray-200">⚠️ Borderline</td>
+<td class="px-4 py-3 border-b border-gray-200"> Borderline</td>
 </tr>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">£200</td>
 <td class="px-4 py-3 border-b border-gray-200">£2.99</td>
 <td class="px-4 py-3 border-b border-gray-200">1.5%</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Reasonable</td>
+<td class="px-4 py-3 border-b border-gray-200"> Reasonable</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">£500+</td>
 <td class="px-4 py-3 border-b border-gray-200">£2.99</td>
 <td class="px-4 py-3 border-b border-gray-200">0.6%</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Excellent value</td>
+<td class="px-4 py-3 border-b border-gray-200"> Excellent value</td>
 </tr>
 </tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">FCA Authorization Verification</h3>

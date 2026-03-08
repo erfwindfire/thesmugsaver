@@ -1,18 +1,18 @@
 import { Article } from '../articles';
 
 export const howToClaimHmrcTaxRebate: Article = {
-    slug: 'how-to-claim-hmrc-tax-rebate',
-    title: 'How to Claim an HMRC Tax Rebate in 2026: The Step-by-Step UK Guide',
-    category: 'earning-and-benefits',
-    readingTime: 10,
-    seoTitle: 'How to Claim HMRC Tax Rebate 2026 | UK Guide',
-    metaDescription: 'Millions of UK workers are owed a tax rebate — and HMRC won\'t chase you. Exactly how to claim back overpaid tax in 2026, who qualifies, and what to do today.',
-  heroImage: '/assets/images/how-to-claim-hmrc-tax-rebate-hero.jpg',
-    datePublished: '2026-03-03',
-    dateModified: '2026-03-03',
-    author: 'The Smug Saver',
-    excerpt: 'HMRC quietly overpays millions of people in tax every year — and then sits back and waits to see if you\'ll notice. Most people don\'t. Here\'s how to find out if they owe you money, and exactly how to get it back.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Tax • HMRC 2026</p>
+ slug: 'how-to-claim-hmrc-tax-rebate',
+ title: 'How to Claim an HMRC Tax Rebate in 2026: The Step-by-Step UK Guide',
+ category: 'earning-and-benefits',
+ readingTime: 10,
+ seoTitle: 'How to Claim HMRC Tax Rebate 2026 | UK Guide',
+ metaDescription: 'Millions of UK workers are owed a tax rebate — and HMRC won\'t chase you. Exactly how to claim back overpaid tax in 2026, who qualifies, and what to do today.',
+ heroImage: '/assets/images/how-to-claim-hmrc-tax-rebate-hero.jpg',
+ datePublished: '2026-03-03',
+ dateModified: '2026-03-03',
+ author: 'The Smug Saver',
+ excerpt: 'HMRC quietly overpays millions of people in tax every year — and then sits back and waits to see if you\'ll notice. Most people don\'t. Here\'s how to find out if they owe you money, and exactly how to get it back.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Tax • HMRC 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">How to Claim an HMRC Tax Rebate in 2026: The Step-by-Step UK Guide</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC quietly overpays millions of people in tax every single year. Then they sit back and wait to see if you notice. Most people don't. The money just disappears into Treasury coffers while you carry on assuming your tax code was correct all along. Spoiler: it often wasn't.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">A tax rebate — also called a tax refund or tax repayment — is money HMRC owes you because you paid more income tax than you should have. This isn't a loophole, a scheme, or anything remotely complicated. It's your money. They took too much. You want it back. This guide explains exactly how to get it.</p>
@@ -93,7 +93,7 @@ export const howToClaimHmrcTaxRebate: Article = {
 <li>Enter your bank details if choosing bank transfer</li>
 <li>Confirm — done. That's it.</li>
 </ol>
-<p class="mb-4 text-gray-700 leading-relaxed">⚠️ You have 45 days to claim once HMRC sends a P800. After that, they'll send a cheque automatically — but this is slower and easier to lose. Claim online the moment you receive it.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> You have 45 days to claim once HMRC sends a P800. After that, they'll send a cheque automatically — but this is slower and easier to lose. Claim online the moment you receive it.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Route 2: Claiming Employment Expenses (WFH, Uniform, Mileage)</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>Go to <a href="https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87</a></li>
@@ -107,7 +107,7 @@ export const howToClaimHmrcTaxRebate: Article = {
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">6. Claiming for Previous Tax Years — Up to Four Years Back</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC allows you to claim tax back for up to four full tax years before the current one. As of the 2025/26 tax year, that means you can claim as far back as 2021/22. From April 2026, the window shifts — 2022/23 becomes the oldest year you can claim.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">⚠️ The deadline matters. Once the four-year window closes on a tax year, that overpayment is gone permanently. If you've been meaning to look into this and keep putting it off, the cost of procrastination is very real.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> The deadline matters. Once the four-year window closes on a tax year, that overpayment is gone permanently. If you've been meaning to look into this and keep putting it off, the cost of procrastination is very real.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For claims going back multiple years, you may need to submit form R40 (for those not in Self-Assessment) by post if the online system won't cover all years. HMRC's helpline (0300 200 3300) can advise if you're unsure which route applies to your situation.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">7. How Long Does an HMRC Tax Rebate Take?</h2>
@@ -123,12 +123,12 @@ export const howToClaimHmrcTaxRebate: Article = {
 <li>A phone call from someone claiming to be HMRC and asking for payment or bank details to "process" your refund</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Legitimate HMRC contact about a refund arrives by post (a P800 letter) or appears in your online Personal Tax Account. If you're unsure whether a P800 letter is genuine, log in to your tax account directly — don't call any number on the letter, and don't click any link. If a P800 is real, it will be visible in your account.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">💡 You can report HMRC phishing emails to phishing@hmrc.gov.uk and suspicious texts to 60599.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> You can report HMRC phishing emails to phishing@hmrc.gov.uk and suspicious texts to 60599.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">9. Do You Need an Accountant or a Tax Rebate Company?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">For the vast majority of HMRC tax rebate claims, no. Absolutely not. The online process is straightforward, free, and takes less time than watching an episode of EastEnders. There is no fee, no form to print, and no waiting room.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Tax rebate companies — the ones who advertise heavily on social media promising to "get you money back from HMRC" — typically charge 25–48% of your refund as a fee. For a £500 rebate, that's up to £240 for a service you could have done yourself in fifteen minutes for nothing.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">⚠️ Some of these companies have also been known to use misleading tactics, including signing customers up to ongoing representation agreements that are difficult to cancel, and submitting claims without full disclosure of the fee structure. If you use one and later decide you want to deal with HMRC directly, you may need to actively revoke their authority to act on your behalf.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> Some of these companies have also been known to use misleading tactics, including signing customers up to ongoing representation agreements that are difficult to cancel, and submitting claims without full disclosure of the fee structure. If you use one and later decide you want to deal with HMRC directly, you may need to actively revoke their authority to act on your behalf.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The only situation where professional help is genuinely useful is if your tax affairs are complex — you're a higher-rate taxpayer with pension contributions, Gift Aid claims, property income, or multiple income sources that require a Self-Assessment return. In that case, a qualified accountant (not a rebate company) is worth considering. See our <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">guide to tax-free income and self-employment</a> for more on when Self-Assessment applies.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do Right Now</h2>
@@ -177,38 +177,38 @@ export const howToClaimHmrcTaxRebate: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about claiming tax rebates from HMRC in 2026. It is not personalised tax or financial advice. Your individual tax position depends on your specific circumstances, which this article cannot assess. If your tax affairs are complex — including multiple income sources, Self-Assessment obligations, higher-rate pension relief, or overseas income — speak to a qualified tax adviser or contact <a href="https://taxaid.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">TaxAid</a> (free help for people on lower incomes) or the <a href="https://www.litrg.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Low Incomes Tax Reform Group (LITRG)</a>. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
-  </div>
+ <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+ <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+ <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about claiming tax rebates from HMRC in 2026. It is not personalised tax or financial advice. Your individual tax position depends on your specific circumstances, which this article cannot assess. If your tax affairs are complex — including multiple income sources, Self-Assessment obligations, higher-rate pension relief, or overseas income — speak to a qualified tax adviser or contact <a href="https://taxaid.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">TaxAid</a> (free help for people on lower incomes) or the <a href="https://www.litrg.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Low Incomes Tax Reform Group (LITRG)</a>. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
+ </div>
 
-  <div class="mb-6">
-    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-03">3 March 2026</time></p>
-    <p class="text-xs text-gray-500">Tax rates, thresholds, and allowances reflect the 2025/26 and 2026/27 tax years. Personal allowance and rate bands confirmed by HMRC. Claim deadlines and processes accurate as of publication date.</p>
-  </div>
+ <div class="mb-6">
+ <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-03">3 March 2026</time></p>
+ <p class="text-xs text-gray-500">Tax rates, thresholds, and allowances reflect the 2025/26 and 2026/27 tax years. Personal allowance and rate bands confirmed by HMRC. Claim deadlines and processes accurate as of publication date.</p>
+ </div>
 
-  <div class="mb-8">
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
-    <ul class="space-y-2 text-sm text-gray-600">
-      <li><a href="https://www.legislation.gov.uk/ukpga/2003/1/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Income Tax (Earnings and Pensions) Act 2003</a> — governs employment income, PAYE, and tax relief on employment expenses</li>
-      <li><a href="https://www.legislation.gov.uk/ukpga/1970/9/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Taxes Management Act 1970</a> — sets the four-year statutory time limit for income tax repayment claims</li>
-      <li><a href="https://www.legislation.gov.uk/ukpga/2007/11/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Income Tax Act 2007</a> — Marriage Allowance rules and personal allowance transfer provisions</li>
-      <li><a href="https://www.legislation.gov.uk/uksi/2003/2682/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Income Tax (Pay As You Earn) Regulations 2003 (SI 2003/2682)</a> — the detailed regulatory framework governing PAYE, tax codes, and employer deductions</li>
-    </ul>
-  </div>
+ <div class="mb-8">
+ <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+ <ul class="space-y-2 text-sm text-gray-600">
+ <li><a href="https://www.legislation.gov.uk/ukpga/2003/1/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Income Tax (Earnings and Pensions) Act 2003</a> — governs employment income, PAYE, and tax relief on employment expenses</li>
+ <li><a href="https://www.legislation.gov.uk/ukpga/1970/9/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Taxes Management Act 1970</a> — sets the four-year statutory time limit for income tax repayment claims</li>
+ <li><a href="https://www.legislation.gov.uk/ukpga/2007/11/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Income Tax Act 2007</a> — Marriage Allowance rules and personal allowance transfer provisions</li>
+ <li><a href="https://www.legislation.gov.uk/uksi/2003/2682/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Income Tax (Pay As You Earn) Regulations 2003 (SI 2003/2682)</a> — the detailed regulatory framework governing PAYE, tax codes, and employer deductions</li>
+ </ul>
+ </div>
 
-  <div>
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
-    <ul class="space-y-2 text-sm text-gray-600">
-      <li><a href="https://www.gov.uk/claim-tax-refund" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Claim a tax refund</a></li>
-      <li><a href="https://www.gov.uk/tax-relief-for-employees" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Tax relief for employees: employment expenses</a></li>
-      <li><a href="https://www.gov.uk/marriage-allowance" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Marriage Allowance</a></li>
-      <li><a href="https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Claim income tax relief for employment expenses (P87)</a></li>
-      <li><a href="https://www.gov.uk/government/publications/income-tax-approved-professional-organisations-and-learned-societies-list-3" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">HMRC — Approved professional organisations and learned societies for tax relief</a></li>
-      <li><a href="https://www.litrg.org.uk/tax-guides/employment/expenses/tax-relief-employment-expenses" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Low Incomes Tax Reform Group (LITRG) — Tax relief on employment expenses</a></li>
-      <li><a href="https://taxaid.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">TaxAid — Free tax advice for people on lower incomes</a></li>
-    </ul>
-  </div>
+ <div>
+ <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+ <ul class="space-y-2 text-sm text-gray-600">
+ <li><a href="https://www.gov.uk/claim-tax-refund" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Claim a tax refund</a></li>
+ <li><a href="https://www.gov.uk/tax-relief-for-employees" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Tax relief for employees: employment expenses</a></li>
+ <li><a href="https://www.gov.uk/marriage-allowance" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Marriage Allowance</a></li>
+ <li><a href="https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Claim income tax relief for employment expenses (P87)</a></li>
+ <li><a href="https://www.gov.uk/government/publications/income-tax-approved-professional-organisations-and-learned-societies-list-3" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">HMRC — Approved professional organisations and learned societies for tax relief</a></li>
+ <li><a href="https://www.litrg.org.uk/tax-guides/employment/expenses/tax-relief-employment-expenses" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Low Incomes Tax Reform Group (LITRG) — Tax relief on employment expenses</a></li>
+ <li><a href="https://taxaid.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">TaxAid — Free tax advice for people on lower incomes</a></li>
+ </ul>
+ </div>
 
 </div>`,
 };

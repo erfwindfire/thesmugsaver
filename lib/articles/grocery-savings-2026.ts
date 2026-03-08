@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const grocerySavings2026: Article = {
-    slug: 'grocery-savings-2026',
-    title: '10 Grocery Saving Hacks You Haven\'t Tried Yet(UK Edition)',
-    category: 'supermarket-savings',
-    readingTime: 20,
-    seoTitle: '10 Grocery Saving Hacks UK: Cut Your Bill',
-    metaDescription: 'Ten grocery saving hacks most people miss. Markdown timing, app-exclusive deals, click-and-collect price gaps, and freezer strategies for UK supermarkets.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your weekly grocery bill has become financial terrorism. £120 for basics? £4 for a loaf of bread? The supermarkets are playing psychological warfare with your wallet while their CEOs collect bonuses t',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">The Sm</p>
+ slug: 'grocery-savings-2026',
+ title: '10 Grocery Saving Hacks You Haven\'t Tried Yet(UK Edition)',
+ category: 'supermarket-savings',
+ readingTime: 20,
+ seoTitle: '10 Grocery Saving Hacks UK: Cut Your Bill',
+ metaDescription: 'Ten grocery saving hacks most people miss. Markdown timing, app-exclusive deals, click-and-collect price gaps, and freezer strategies for UK supermarkets.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your weekly grocery bill has become financial terrorism. £120 for basics? £4 for a loaf of bread? The supermarkets are playing psychological warfare with your wallet while their CEOs collect bonuses t',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">The Sm</p>
 <p class="mb-4 text-gray-700 leading-relaxed">••</p>
 <p class="mb-4 text-gray-700 leading-relaxed">u</p>
 <p class="mb-4 text-gray-700 leading-relaxed">g Saver</p>
@@ -20,11 +20,11 @@ export const grocerySavings2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/supermarket-savings/beat-food-price-hikes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">food price hike strategies</a> covers this in more detail.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: 10 Proven Grocery Savings Hacks</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓Master supermarket loyalty schemes and apps for maximum savings (Which? comparison)</li>
-<li>✓Time your shopping with markdown schedules at major UK chains</li>
-<li>✓Use strategic bulk buying and freezing techniques</li>
-<li>✓Leverage cashback apps and price matching policies</li>
-<li>✓Implement meal planning with UK seasonal produce (BBC Good Food calendar)</li>
+<li>Master supermarket loyalty schemes and apps for maximum savings (Which? comparison)</li>
+<li>Time your shopping with markdown schedules at major UK chains</li>
+<li>Use strategic bulk buying and freezing techniques</li>
+<li>Leverage cashback apps and price matching policies</li>
+<li>Implement meal planning with UK seasonal produce (BBC Good Food calendar)</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">The average UK household now spends £4,610 annually on groceries—up 15% since 2022. That's not inflation, that's wealth extraction disguised as market forces. While executives celebrate record profits, families ration fruit and calculate whether they can afford both milk AND bread. But here's where it gets interesting: the same system designed to fleece you has exploitable weaknesses, if you know where to look.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Master the Art of Yellow Sticker Timing</h2>

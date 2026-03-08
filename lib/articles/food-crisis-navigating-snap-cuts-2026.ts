@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const foodCrisisNavigatingSnapCuts2026: Article = {
-    slug: 'food-crisis-navigating-snap-cuts-2026',
-    title: 'When the Safety Net Tears: Navigating America\'s Food Crisis at Half Capacity',
-    category: 'supermarket-savings',
-    readingTime: 12,
-    seoTitle: 'America\'s Food Crisis: Navigating SNAP Cuts',
-    metaDescription: 'How US families are coping with 50% SNAP benefit cuts. Emergency food resources, food club alternatives, meal planning strategies, and the 211 support network.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'The November 2025 announcement that SNAP benefits would be slashed by 50% represents more than a budget cut—it\'s a seismic shift in the American social contract, affecting 42 million citizens overnigh',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">When the Safety Net Tears: Navigating America's Food Crisis at Half Capacity</h1>
+ slug: 'food-crisis-navigating-snap-cuts-2026',
+ title: 'When the Safety Net Tears: Navigating America\'s Food Crisis at Half Capacity',
+ category: 'supermarket-savings',
+ readingTime: 12,
+ seoTitle: 'America\'s Food Crisis: Navigating SNAP Cuts',
+ metaDescription: 'How US families are coping with 50% SNAP benefit cuts. Emergency food resources, food club alternatives, meal planning strategies, and the 211 support network.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'The November 2025 announcement that SNAP benefits would be slashed by 50% represents more than a budget cut—it\'s a seismic shift in the American social contract, affecting 42 million citizens overnigh',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">When the Safety Net Tears: Navigating America's Food Crisis at Half Capacity</h1>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The November 2025 announcement that SNAP benefits would be slashed by 50% represents more than a budget cut—it's a seismic shift in the American social contract, affecting 42 million citizens overnight. This article examines the immediate crisis through multiple lenses: the mathematics of survival on $40 weekly food budgets, the historical precedent of social safety net failures, and the practical strategies families employ when institutional support collapses. Drawing on nutritional economics, community resource networks, and decades of food security research, we explore both the brutal arithmetic of hunger and the remarkable resilience of communities forced to reimagine survival. The landscape is bleak, but not without navigation points. From the strategic deployment of lentils (0.8-2p per gram of protein) to the underutilized 211 emergency hotline fielding 45,000 daily referrals, this analysis bridges policy failure and practical action. The question isn't whether 42 million Americans can weather this storm—it's how we document the strategies that emerge when government retreats and communities advance.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Calm Before the Grocery Store</h2>
@@ -83,7 +83,7 @@ export const foodCrisisNavigatingSnapCuts2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">The calm before the storm has ended. The shutdown isn't theoretical anymore; it's manifesting in grocery carts and skipped meals. What we do next—as individuals, communities, and systems—will either prove the resilience of America's safety net or expose it as fundamentally broken.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">And I suspect, with cautious skepticism, we'll discover it's simultaneously both.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For those seeking additional support, explore our guides on navigating food inflation and how US families are fighting inflation. Every strategy, every dollar saved, every resource accessed builds toward stability.</p>
-<p class="mb-4 text-gray-700 leading-relaxed font-medium">📞 Immediate Action Required</p>
+<p class="mb-4 text-gray-700 leading-relaxed font-medium"> Immediate Action Required</p>
 <p class="mb-4 text-gray-700 leading-relaxed">If you or someone you know needs food assistance now, dial 211 from any phone for immediate referrals to local resources. The service is free, confidential, and available 24/7 in 180+ languages.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How do I access 211 emergency services, and what exactly can they help with?</h3>

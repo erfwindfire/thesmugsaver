@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const studentLoanRepaymentUk2026: Article = {
-    slug: 'student-loan-repayment-uk-2026',
-    title: 'Student Loan Repayment in 2026: UK Survival Guide for Every Plan Type',
-    category: 'earning-and-benefits',
-    readingTime: 26,
-    seoTitle: 'Student Loan Repayment UK 2026: Every Plan',
-    metaDescription: 'UK student loan repayment explained for every plan type in 2026. Thresholds, rates, overpayment strategies, and when your loan gets written off.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Navigate the complex world of UK student loans with confidence. From Plan 1 to Postgraduate loans, we\'ll show you exactly how to manage, optimize, and potentially escape your student debt.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Finance Guide 2026</p>
+ slug: 'student-loan-repayment-uk-2026',
+ title: 'Student Loan Repayment in 2026: UK Survival Guide for Every Plan Type',
+ category: 'earning-and-benefits',
+ readingTime: 26,
+ seoTitle: 'Student Loan Repayment UK 2026: Every Plan',
+ metaDescription: 'UK student loan repayment explained for every plan type in 2026. Thresholds, rates, overpayment strategies, and when your loan gets written off.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Navigate the complex world of UK student loans with confidence. From Plan 1 to Postgraduate loans, we\'ll show you exactly how to manage, optimize, and potentially escape your student debt.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Finance Guide 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Student Loan Repayment in 2026: UK Survival Guide for Every Plan Type</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate the complex world of UK student loans with confidence. From Plan 1 to Postgraduate loans, we'll show you exactly how to manage, optimize, and potentially escape your student debt.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Summary: What You Need to Know</h2>

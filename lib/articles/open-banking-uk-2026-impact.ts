@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const openBankingUk2026Impact: Article = {
-    slug: 'open-banking-uk-2026-impact',
-    title: 'Open Banking UK 2026: The Complete Impact & Security Guide',
-    category: 'earning-and-benefits',
-    readingTime: 20,
-    seoTitle: 'Open Banking UK 2026: Impact & Security',
-    metaDescription: 'How Open Banking is changing personal finance in the UK. Security safeguards, money-saving apps, and how to use open banking to cut costs and grow savings.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Banking Revolution 2026</p>
+ slug: 'open-banking-uk-2026-impact',
+ title: 'Open Banking UK 2026: The Complete Impact & Security Guide',
+ category: 'earning-and-benefits',
+ readingTime: 20,
+ seoTitle: 'Open Banking UK 2026: Impact & Security',
+ metaDescription: 'How Open Banking is changing personal finance in the UK. Security safeguards, money-saving apps, and how to use open banking to cut costs and grow savings.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Banking Revolution 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Open Banking UK 2026: The Complete Impact & Security Guide</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">12M+ UK Users</p>
@@ -186,32 +186,32 @@ export const openBankingUk2026Impact: Article = {
 </tr></thead><tbody>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">Password sharing</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Never required</td>
-<td class="px-4 py-3 border-b border-gray-200">✗ Always required</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Not needed</td>
+<td class="px-4 py-3 border-b border-gray-200"> Never required</td>
+<td class="px-4 py-3 border-b border-gray-200"> Always required</td>
+<td class="px-4 py-3 border-b border-gray-200"> Not needed</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">Encryption</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Bank-grade TLS</td>
+<td class="px-4 py-3 border-b border-gray-200"> Bank-grade TLS</td>
 <td class="px-4 py-3 border-b border-gray-200">~ Varies by provider</td>
 <td class="px-4 py-3 border-b border-gray-200">~ Manual process</td>
 </tr>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">Regulatory oversight</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ FCA regulated</td>
-<td class="px-4 py-3 border-b border-gray-200">✗ No oversight</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Self-managed</td>
+<td class="px-4 py-3 border-b border-gray-200"> FCA regulated</td>
+<td class="px-4 py-3 border-b border-gray-200"> No oversight</td>
+<td class="px-4 py-3 border-b border-gray-200"> Self-managed</td>
 </tr>
 <tr class="bg-white">
 <td class="px-4 py-3 border-b border-gray-200">Token expiry</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ 90-day automatic</td>
-<td class="px-4 py-3 border-b border-gray-200">✗ Persistent access</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ One-time upload</td>
+<td class="px-4 py-3 border-b border-gray-200"> 90-day automatic</td>
+<td class="px-4 py-3 border-b border-gray-200"> Persistent access</td>
+<td class="px-4 py-3 border-b border-gray-200"> One-time upload</td>
 </tr>
 <tr class="bg-gray-50">
 <td class="px-4 py-3 border-b border-gray-200">Granular permissions</td>
-<td class="px-4 py-3 border-b border-gray-200">✓ Choose data types</td>
-<td class="px-4 py-3 border-b border-gray-200">✗ Full account access</td>
+<td class="px-4 py-3 border-b border-gray-200"> Choose data types</td>
+<td class="px-4 py-3 border-b border-gray-200"> Full account access</td>
 <td class="px-4 py-3 border-b border-gray-200">~ Manual selection</td>
 </tr>
 </tbody></table></div>

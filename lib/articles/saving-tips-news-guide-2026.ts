@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const savingTipsNewsGuide2026: Article = {
-    slug: 'saving-tips-news-guide-2026',
-    title: 'Saving Smarter Right Now: UK Tips Based on October 2026 Finance News',
-    category: 'cost-of-living',
-    readingTime: 13,
-    seoTitle: 'UK Saving Tips: October 2026 Finance News',
-    metaDescription: 'Actionable saving tips based on October 2026 UK finance news. Energy price changes, benefit updates, and money moves to make right now.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Expert-backed strategies to navigate today\'s financial climate, protect your money, and capitalize on October 2026\'s opportunities',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Tips Based on October 2026 Finance News</h1>
+ slug: 'saving-tips-news-guide-2026',
+ title: 'Saving Smarter Right Now: UK Tips Based on October 2026 Finance News',
+ category: 'cost-of-living',
+ readingTime: 13,
+ seoTitle: 'UK Saving Tips: October 2026 Finance News',
+ metaDescription: 'Actionable saving tips based on October 2026 UK finance news. Energy price changes, benefit updates, and money moves to make right now.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Expert-backed strategies to navigate today\'s financial climate, protect your money, and capitalize on October 2026\'s opportunities',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Tips Based on October 2026 Finance News</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Expert-backed strategies to navigate today's financial climate, protect your money, and capitalize on October 2026's opportunities</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What's the smartest savings move in October 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Prioritize building a 3-month emergency buffer in a high-yield account (4.5-5.25% AER), audit recurring expenses to cut £200-£500 monthly, and lock in competitive mortgage rates if your fixed term expires soon. Today's economic volatility makes defensive savings essential.</p>

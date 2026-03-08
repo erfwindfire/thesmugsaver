@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const backToSchoolCostsUk2026: Article = {
-    slug: 'back-to-school-costs-uk-2026',
-    title: 'Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill',
-    category: 'family-and-lifestyle',
-    readingTime: 14,
-    seoTitle: 'Back to School Costs UK 2026: Cut Your Bill',
-    metaDescription: '15 proven ways to reduce your £1,200 back-to-school bill in 2026. Uniform hacks, free school meal eligibility, and secondhand savings for UK families.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill</h1>
+ slug: 'back-to-school-costs-uk-2026',
+ title: 'Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill',
+ category: 'family-and-lifestyle',
+ readingTime: 14,
+ seoTitle: 'Back to School Costs UK 2026: Cut Your Bill',
+ metaDescription: '15 proven ways to reduce your £1,200 back-to-school bill in 2026. Uniform hacks, free school meal eligibility, and secondhand savings for UK families.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.',
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Back to School Costs 2026: 15 Ways to Cut Your £1,200 UK Family Bill</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: UK families spend an average of £1,200 annually on back-to-school costs, but strategic shopping in June-July can reduce this by 40-60%. Government grants, second-hand uniforms, and bulk buying can save £500+ per child, per year.</strong></p>
@@ -374,62 +374,62 @@ export const backToSchoolCostsUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">January-March: Foundation Phase</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Financial Setup</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Open dedicated school costs savings account</li>
-<li>✓ Set up £50/month automatic transfer</li>
-<li>✓ Research school clothing grants eligibility</li>
-<li>✓ Apply for Free School Meals if eligible</li>
+<li>Open dedicated school costs savings account</li>
+<li>Set up £50/month automatic transfer</li>
+<li>Research school clothing grants eligibility</li>
+<li>Apply for Free School Meals if eligible</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Research & Planning</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Join local parent Facebook groups</li>
-<li>✓ Research school uniform suppliers and prices</li>
-<li>✓ Check school website for any policy changes</li>
-<li>✓ Start collecting secondhand uniform contacts</li>
+<li>Join local parent Facebook groups</li>
+<li>Research school uniform suppliers and prices</li>
+<li>Check school website for any policy changes</li>
+<li>Start collecting secondhand uniform contacts</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">April-June: Preparation Phase</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Size Assessment</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Measure children and predict September sizes</li>
-<li>✓ Audit current uniform condition and needs</li>
-<li>✓ List everything required for new school year</li>
-<li>✓ Research calculator and technology requirements</li>
+<li>Measure children and predict September sizes</li>
+<li>Audit current uniform condition and needs</li>
+<li>List everything required for new school year</li>
+<li>Research calculator and technology requirements</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Grant Applications</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Apply for school clothing grants (deadline varies)</li>
-<li>✓ Contact school about hardship funds</li>
-<li>✓ Research local charity support options</li>
-<li>✓ Book school uniform shop appointment</li>
+<li>Apply for school clothing grants (deadline varies)</li>
+<li>Contact school about hardship funds</li>
+<li>Research local charity support options</li>
+<li>Book school uniform shop appointment</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">July-August: Shopping Phase</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Strategic Purchases</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Buy uniforms during July sales (save 25-40%)</li>
-<li>✓ Purchase shoes while full ranges available</li>
-<li>✓ Stock up on basic stationery during promotions</li>
-<li>✓ Attend school second-hand uniform sales</li>
+<li>Buy uniforms during July sales (save 25-40%)</li>
+<li>Purchase shoes while full ranges available</li>
+<li>Stock up on basic stationery during promotions</li>
+<li>Attend school second-hand uniform sales</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Final Preparations</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Label all items with permanent marking</li>
-<li>✓ Check everything fits and works properly</li>
-<li>✓ Organize backup items for quick access</li>
-<li>✓ Prepare emergency £50 fund for lost items</li>
+<li>Label all items with permanent marking</li>
+<li>Check everything fits and works properly</li>
+<li>Organize backup items for quick access</li>
+<li>Prepare emergency £50 fund for lost items</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">September-December: Maintenance Phase</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Ongoing Management</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Monitor uniform condition and make repairs quickly</li>
-<li>✓ Replace lost items from emergency fund</li>
-<li>✓ Start collecting next year's sizes</li>
-<li>✓ Take advantage of term-time promotions</li>
+<li>Monitor uniform condition and make repairs quickly</li>
+<li>Replace lost items from emergency fund</li>
+<li>Start collecting next year's sizes</li>
+<li>Take advantage of term-time promotions</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Next Year Planning</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Track which items worked well vs poor value</li>
-<li>✓ Continue £25/month savings for next year</li>
-<li>✓ Pass on outgrown items to offset costs</li>
-<li>✓ Plan Christmas budget including school needs</li>
+<li>Track which items worked well vs poor value</li>
+<li>Continue £25/month savings for next year</li>
+<li>Pass on outgrown items to offset costs</li>
+<li>Plan Christmas budget including school needs</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Q: When is the best time to buy school uniforms?</h3>

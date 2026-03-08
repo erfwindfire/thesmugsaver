@@ -1,27 +1,27 @@
 import { Article } from '../articles';
 
 export const studentFinanceSurvivalUk2026: Article = {
-    slug: 'student-finance-survival-uk-2026',
-    title: 'Financial Survival Skills for UK Students in 2026',
-    category: 'earning-and-benefits',
-    readingTime: 42,
-    seoTitle: 'Student Finance Survival Guide UK 2026',
-    metaDescription: 'Complete financial survival guide for UK university students in 2026. Loans, grants, budgeting, part-time work, and maximising every pound of student income.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Money</p>
+ slug: 'student-finance-survival-uk-2026',
+ title: 'Financial Survival Skills for UK Students in 2026',
+ category: 'earning-and-benefits',
+ readingTime: 42,
+ seoTitle: 'Student Finance Survival Guide UK 2026',
+ metaDescription: 'Complete financial survival guide for UK university students in 2026. Loans, grants, budgeting, part-time work, and maximising every pound of student income.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Student Money</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Takeaways</h3>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">💰 Money Management</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Money Management</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Set up student-specific budgeting systems</li>
 <li>Master discount codes and student deals</li>
 <li>Optimize your student loan and grants</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">🏠 Housing & Living</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Housing & Living</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Navigate accommodation costs effectively</li>
 <li>Meal prep strategies for £20/week</li>
@@ -100,28 +100,28 @@ export const studentFinanceSurvivalUk2026: Article = {
 </tr>
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Cost-Cutting Accommodation Strategies</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 Budget Options</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Budget Options</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Apply early for cheaper university halls</li>
 <li>Consider shared bedrooms for 30% savings</li>
 <li>Look at private halls' last-minute deals</li>
 <li>House-sit for professors during holidays</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🏠 House Sharing</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### House Sharing</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Form groups early for better house choices</li>
 <li>Split bills equally using apps like Splitwise</li>
 <li>Negotiate with landlords for longer tenancies</li>
 <li>Share furniture costs and responsibilities</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📍 Location Hacks</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Location Hacks</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Choose areas with good transport links</li>
 <li>Consider suburbs vs city center trade-offs</li>
 <li>Factor in travel costs to campus</li>
 <li>Research neighborhood safety and amenities</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🔍 Finding Deals</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Finding Deals</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Use SpareRoom, Rightmove, student groups</li>
 <li>Check university accommodation offices</li>
@@ -185,21 +185,21 @@ export const studentFinanceSurvivalUk2026: Article = {
 </tr>
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Work-Study Balance Framework</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🟢 Sustainable (10-15 hrs/week)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Sustainable (10-15 hrs/week)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Maintains academic performance</li>
 <li>Allows social life</li>
 <li>Provides steady income</li>
 <li>Manageable stress levels</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🟡 Manageable (15-20 hrs/week)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Manageable (15-20 hrs/week)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Requires excellent time management</li>
 <li>May limit social activities</li>
 <li>Higher income potential</li>
 <li>Increased stress but manageable</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🔴 Risky (20+ hrs/week)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Risky (20+ hrs/week)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>May impact academic performance</li>
 <li>High stress and burnout risk</li>
@@ -209,14 +209,14 @@ export const studentFinanceSurvivalUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">4. Student Discount Mastery</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Unlock hundreds of pounds in savings with strategic discount usage</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Essential Student Discount Platforms</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🎓 UNiDAYS</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### UNiDAYS</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>10% off ASOS, Nike, Adidas</li>
 <li>50% off Adobe Creative Suite</li>
 <li>Free delivery deals</li>
 <li>Exclusive student offers</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🆔 Student Beans</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Student Beans</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>20% off Boohoo, PrettyLittleThing</li>
 <li>Tech discounts on Apple, Microsoft</li>
@@ -224,7 +224,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Entertainment subscriptions</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Category-Specific Discount Strategies</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📱 Tech & Software</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Tech & Software</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Microsoft Office 365: Free with .ac.uk email</li>
 <li>Adobe Creative Cloud: 60% student discount</li>
@@ -235,7 +235,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Amazon Prime Student: 50% off</li>
 <li>Norton Antivirus: Up to 50% off</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🍕 Food & Dining</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Food & Dining</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Domino's: 30% student discount</li>
 <li>McDonald's: Student offers via app</li>
@@ -246,7 +246,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Nando's: Student discount cards</li>
 <li>Cinema food: Student pricing</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🎬 Entertainment</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Entertainment</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Cinema tickets: £4-6 with student ID</li>
 <li>Netflix: No student discount (share accounts)</li>
@@ -268,14 +268,14 @@ export const studentFinanceSurvivalUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">5. Food Shopping and Meal Prep Hacks</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Eat well on £15-25 per week with smart shopping and meal planning</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Budget Food Shopping Strategy</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🛒 Shopping Schedule</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Shopping Schedule</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Shop yellow-sticker items after 6pm</li>
 <li>Visit multiple stores for best deals</li>
 <li>Use store apps for exclusive offers</li>
 <li>Plan meals around special offers</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 Price Comparison</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Price Comparison</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Aldi/Lidl for basics (30% cheaper)</li>
 <li>Tesco/ASDA own-brand items</li>
@@ -381,7 +381,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>No monthly fees</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Deal Finding & Cashback Apps</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 TopCashback</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### TopCashback</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Earn money back on purchases from 4,500+ retailers</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>ASOS: Up to 6% cashback</li>
@@ -394,7 +394,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Combine with student discounts</li>
 <li>Set up browser notifications</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🛒 Honey</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Honey</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Automatic coupon code finder and price tracker</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Applies best codes at checkout</li>
@@ -408,14 +408,14 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Free browser extension</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Food & Transport Savings</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🍕 Too Good To Go</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Too Good To Go</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Buy surplus food at 50-70% discount</li>
 <li>Available from restaurants, cafes, stores</li>
 <li>Perfect for spontaneous cheap meals</li>
 <li>Environmental benefit bonus</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🚌 Citymapper</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Citymapper</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Find cheapest transport routes</li>
 <li>Real-time disruption updates</li>
@@ -462,7 +462,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 </tr>
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Maintenance Loan Optimization</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📋 Application Tips</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Application Tips</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Apply early (deadline: May before starting)</li>
 <li>Provide all household income evidence</li>
@@ -470,7 +470,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Appeal if you disagree with assessment</li>
 <li>Consider independent student status</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 Maximizing Amount</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Maximizing Amount</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Ensure accurate household income reporting</li>
 <li>Report reduced parental income promptly</li>
@@ -523,7 +523,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">8. Crisis Grants and Emergency Support</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Access emergency funding when facing unexpected financial difficulties</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">University Hardship Funds</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🆘 Emergency Situations</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Emergency Situations</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Unexpected family financial crisis</li>
 <li>Medical expenses not covered</li>
@@ -531,7 +531,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Accommodation deposit shortfall</li>
 <li>Food and utility payment difficulties</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 Available Support</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Available Support</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>One-off grants (£100-£2000)</li>
 <li>Short-term loans (0% interest)</li>
@@ -567,7 +567,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Letters from family/professionals</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">External Emergency Support</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🏛️ Government Support</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Government Support</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Universal Credit:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Available to eligible students</li>
@@ -582,7 +582,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Apply through local council</li>
 <li>Backdated claims possible</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🤝 Charity Support</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Charity Support</p>
 <p class="mb-4 text-gray-700 leading-relaxed">National Charities:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Turn2us (grants database)</li>
@@ -616,7 +616,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">9. Side Hustle Ideas for Students</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Flexible income streams that work around your study schedule. For more comprehensive side hustle opportunities, see our Tax-Free Side Hustles Guide.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">High-Earning Flexible Options</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 Top Earners (£15-40/hour)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Top Earners (£15-40/hour)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Private Tutoring</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Use subjects you're strong in</li>
@@ -631,7 +631,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Platforms: Upwork, Fiverr, Contently</li>
 <li>Build portfolio with personal projects</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🎯 Skill-Based (£10-25/hour)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Skill-Based (£10-25/hour)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Social Media Management</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Manage accounts for small businesses</li>
@@ -647,7 +647,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Build portfolio with friends' projects</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Low-Skill, High-Flexibility Options</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🚗 Gig Economy (£8-15/hour + tips)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Gig Economy (£8-15/hour + tips)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Food Delivery:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Deliveroo, Uber Eats, Just Eat</li>
@@ -662,7 +662,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Pet sitting via Rover</li>
 <li>House sitting and cleaning</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📱 Online Work (£5-12/hour)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Online Work (£5-12/hour)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Survey & Testing:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Swagbucks, Survey Junkie</li>
@@ -678,7 +678,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Flexible hours arrangement</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Creative & Passion Projects</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🎨 Creative Services</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Creative Services</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Design logos and graphics (Canva skills)</li>
 <li>Photography for events and profiles</li>
@@ -686,7 +686,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Music lessons or performance</li>
 <li>Video editing for YouTubers</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📚 Academic Services</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Academic Services</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Note-taking services for students</li>
 <li>Essay proofreading and editing</li>
@@ -720,7 +720,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>4. Career Preparation: Build skills and network for future employment</li>
 <li>5. Social Life: Maintain relationships and university experience</li>
 </ol>
-<p class="mb-4 text-gray-700 leading-relaxed">##### ✅ Healthy Balance Indicators</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Healthy Balance Indicators</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Maintaining required GPA/grades</li>
 <li>Sleeping 7-8 hours most nights</li>
@@ -728,7 +728,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Time for friends and activities</li>
 <li>Manageable stress levels</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### ⚠️ Warning Signs</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Warning Signs</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Declining academic performance</li>
 <li>Chronic sleep deprivation</li>
@@ -737,7 +737,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Burnout and exhaustion</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Time Management Frameworks</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📅 Weekly Planning Template</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Weekly Planning Template</p>
 <div class="overflow-x-auto mb-6">
 <table class="w-full border-collapse text-sm">
 <thead><tr class="bg-emerald-800 text-white">
@@ -781,7 +781,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Free/Work</td>
 </tr>
 </tbody></table></div>
-<p class="mb-4 text-gray-700 leading-relaxed">##### ⏰ Productivity Techniques</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Productivity Techniques</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Pomodoro Technique:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>25min focused work + 5min break</li>
@@ -797,7 +797,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Review and adjust weekly</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Financial Stress Management</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🧠 Mental Health Strategies</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Mental Health Strategies</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Regular exercise (free university gym)</li>
 <li>Mindfulness and meditation apps</li>
@@ -805,7 +805,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Join student support groups</li>
 <li>Maintain perspective on temporary nature</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💪 Practical Coping Tools</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Practical Coping Tools</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Create detailed budgets to reduce anxiety</li>
 <li>Set small, achievable financial goals</li>
@@ -828,7 +828,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">11. Cost Calculators and Planning Tools</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Digital and manual tools to track, plan, and optimize your student finances</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Essential Financial Calculators</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🎓 Student-Specific Calculators</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Student-Specific Calculators</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Student Finance Calculator</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Official gov.uk calculator</li>
@@ -843,7 +843,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Salary projection scenarios</li>
 <li>Total repayment estimates</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 General Finance Tools</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### General Finance Tools</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Accommodation Cost Calculator</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Compare halls vs private rental</li>
@@ -859,7 +859,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Net earnings after expenses</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">DIY Spreadsheet Templates</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📊 Master Budget Tracker</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Master Budget Tracker</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Comprehensive Excel/Google Sheets template with the following tabs:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Income Tracking:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -877,7 +877,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Course materials and equipment</li>
 <li>Entertainment and social</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📈 Goal Tracking Templates</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Goal Tracking Templates</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Emergency Fund Tracker:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Target: £500-1000</li>
@@ -893,7 +893,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Interest calculations</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Recommended Planning Apps</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🏦 Banking Apps with Budgeting</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Banking Apps with Budgeting</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Monzo Bank:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Automatic categorization</li>
@@ -910,7 +910,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Receipt storage</li>
 <li>Connected accounts view</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📱 Dedicated Budgeting Apps</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Dedicated Budgeting Apps</p>
 <p class="mb-4 text-gray-700 leading-relaxed">YNAB (You Need A Budget):</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Free for students (1 year)</li>
@@ -929,22 +929,22 @@ export const studentFinanceSurvivalUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">##### Monthly Financial Review Checklist</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Income Review:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>☐ Student loan payment received</li>
-<li>☐ Work hours and pay verified</li>
-<li>☐ Side hustle earnings calculated</li>
-<li>☐ Any unexpected income noted</li>
+<li> Student loan payment received</li>
+<li> Work hours and pay verified</li>
+<li> Side hustle earnings calculated</li>
+<li> Any unexpected income noted</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Expense Analysis:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>☐ All categories reviewed for accuracy</li>
-<li>☐ Unexpected expenses investigated</li>
-<li>☐ Subscription services audited</li>
-<li>☐ Next month's budget adjusted</li>
+<li> All categories reviewed for accuracy</li>
+<li> Unexpected expenses investigated</li>
+<li> Subscription services audited</li>
+<li> Next month's budget adjusted</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">12. Money Management Templates</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Ready-to-use templates and frameworks for effective student financial management. If you need help with irregular income, check our Break Paycheck Cycle Guide for specialized strategies.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Weekly Money Management Routine</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📅 Weekly Schedule Template</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Weekly Schedule Template</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Monday - Week Setup (10 minutes)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Review previous week's spending</li>
@@ -959,7 +959,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Plan weekend spending</li>
 <li>Prepare for next week</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 💰 Daily Money Check Template</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Daily Money Check Template</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Morning (2 minutes):</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Check account balance</li>
@@ -973,7 +973,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Note any impulse purchases for review</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Termly Financial Planning Templates</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📚 Academic Year Budget Framework</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Academic Year Budget Framework</p>
 <div class="overflow-x-auto mb-6">
 <table class="w-full border-collapse text-sm">
 <thead><tr class="bg-emerald-800 text-white">
@@ -1005,7 +1005,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Exams, graduation prep</td>
 </tr>
 </tbody></table></div>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🎯 Monthly Goal Tracking Template</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Monthly Goal Tracking Template</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Financial Goals:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Emergency fund: £XX saved / £500 target</li>
@@ -1021,7 +1021,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Networking events attended</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Decision-Making Templates</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🤔 Purchase Decision Framework</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Purchase Decision Framework</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Before any non-essential purchase, ask:</p>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>1. Do I need this for my studies or wellbeing?</li>
@@ -1031,7 +1031,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>5. Will I still want this in a month?</li>
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">If 3+ answers are "yes," proceed with purchase.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### ⚖️ Work-Study Balance Assessment</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Work-Study Balance Assessment</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Monthly Check Questions:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Are my grades maintaining required standards?</li>
@@ -1047,7 +1047,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Anxiety or depression symptoms</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Emergency Response Templates</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 🚨 Financial Crisis Action Plan</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Financial Crisis Action Plan</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Immediate Actions (within 24 hours):</p>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>1. Calculate exact financial shortfall</li>
@@ -1063,7 +1063,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>3. Access food banks or meal support</li>
 <li>4. Review academic options (deferral, part-time)</li>
 </ol>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 📞 Emergency Contact Template</p>
+<p class="mb-4 text-gray-700 leading-relaxed">##### Emergency Contact Template</p>
 <p class="mb-4 text-gray-700 leading-relaxed">University Support:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Student Services: [Phone number]</li>

@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const employerNiChangesUk2026: Article = {
-    slug: 'employer-ni-changes-uk-2026',
-    title: 'Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026',
-    category: 'earning-and-benefits',
-    readingTime: 15,
-    seoTitle: 'Employer NI Changes 2026: Your Pay Impact',
-    metaDescription: 'How employer National Insurance changes in 2026 affect your take-home pay. What the increases mean, who pays, and how to protect your UK paycheque.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Employment • 2026 Tax Changes</p>
+ slug: 'employer-ni-changes-uk-2026',
+ title: 'Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026',
+ category: 'earning-and-benefits',
+ readingTime: 15,
+ seoTitle: 'Employer NI Changes 2026: Your Pay Impact',
+ metaDescription: 'How employer National Insurance changes in 2026 affect your take-home pay. What the increases mean, who pays, and how to protect your UK paycheque.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Employment • 2026 Tax Changes</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Protect Your Pay from 2026 NI Changes</h2>
@@ -103,12 +103,12 @@ export const employerNiChangesUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Immediate Threats to Your Paycheque</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Red Flag Warning Signs</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✗ Company-wide salary freeze announcements</li>
-<li>✗ Delayed or cancelled bonus payments</li>
-<li>✗ Reduced hours or temporary layoffs</li>
-<li>✗ Elimination of overtime opportunities</li>
-<li>✗ Pension contribution reductions</li>
-<li>✗ Benefits package cuts (healthcare, car allowances)</li>
+<li> Company-wide salary freeze announcements</li>
+<li> Delayed or cancelled bonus payments</li>
+<li> Reduced hours or temporary layoffs</li>
+<li> Elimination of overtime opportunities</li>
+<li> Pension contribution reductions</li>
+<li> Benefits package cuts (healthcare, car allowances)</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Protecting Your Current Position</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Immediate Action Checklist</h4>

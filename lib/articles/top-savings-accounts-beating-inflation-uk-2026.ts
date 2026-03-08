@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const topSavingsAccountsBeatingInflationUk2026: Article = {
-    slug: 'top-savings-accounts-beating-inflation-uk-2026',
-    title: 'Top Savings Accounts Beating Inflation in 2026',
-    category: 'savings-and-investing',
-    readingTime: 8,
-    seoTitle: 'Savings Accounts Beating Inflation UK 2026',
-    metaDescription: 'UK savings accounts that actually beat inflation in 2026. Rates, FSCS protection, terms compared, and switching strategies to grow your money.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your cash is losing value daily in standard accounts. Discover the best UK savings accounts offering 4.5-5.25% returns to actually grow your money in 2026.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings</p>
+ slug: 'top-savings-accounts-beating-inflation-uk-2026',
+ title: 'Top Savings Accounts Beating Inflation in 2026',
+ category: 'savings-and-investing',
+ readingTime: 8,
+ seoTitle: 'Savings Accounts Beating Inflation UK 2026',
+ metaDescription: 'UK savings accounts that actually beat inflation in 2026. Rates, FSCS protection, terms compared, and switching strategies to grow your money.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your cash is losing value daily in standard accounts. Discover the best UK savings accounts offering 4.5-5.25% returns to actually grow your money in 2026.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Savings</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Top Savings Accounts Beating Inflation in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your cash is losing value daily in standard accounts. Discover the best UK savings accounts offering 4.5-5.25% returns to actually grow your money in 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
@@ -173,10 +173,10 @@ export const topSavingsAccountsBeatingInflationUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Many brands share the same banking license. If you have £85k with HSBC and £85k with First Direct, you're only protected for £85k total (they share a license). Spread savings across different licenses.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Example safe split for £100k: £85k with Chase (own license), £15k with Marcus (different license). Both fully protected.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ All UK-regulated banks offer FSCS protection automatically</li>
-<li>✓ Check bank's FSCS certificate before depositing (on their website)</li>
-<li>✓ Joint accounts get £85k per person (£170k total protection)</li>
-<li>✓ If holding over £85k, split across multiple banking licenses</li>
+<li>All UK-regulated banks offer FSCS protection automatically</li>
+<li>Check bank's FSCS certificate before depositing (on their website)</li>
+<li>Joint accounts get £85k per person (£170k total protection)</li>
+<li>If holding over £85k, split across multiple banking licenses</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Switching Bonuses: Free Money for Moving</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Some banks pay you £100-£200 just for opening an account and meeting simple criteria (usually deposit £X within Y days). Stack these with high interest rates for maximum return.</p>

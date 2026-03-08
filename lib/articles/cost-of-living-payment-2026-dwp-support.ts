@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const costOfLivingPayment2026DwpSupport: Article = {
-    slug: 'cost-of-living-payment-2026-dwp-support',
-    title: 'Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September',
-    category: 'earning-and-benefits',
-    readingTime: 13,
-    seoTitle: 'DWP Cost of Living Payment 2026: £500 Guide',
-    metaDescription: 'How to claim your £500 Cost of Living Payment from DWP in September 2026. Eligibility checker, payment dates, and what to do if your payment is missing.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Government Support • September 2026</p>
+ slug: 'cost-of-living-payment-2026-dwp-support',
+ title: 'Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September',
+ category: 'earning-and-benefits',
+ readingTime: 13,
+ seoTitle: 'DWP Cost of Living Payment 2026: £500 Guide',
+ metaDescription: 'How to claim your £500 Cost of Living Payment from DWP in September 2026. Eligibility checker, payment dates, and what to do if your payment is missing.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Government Support • September 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Check Your Eligibility</p>
@@ -103,14 +103,14 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Step 1: Check Your Benefit</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Are you receiving any of these benefits?</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Universal Credit</li>
-<li>✅ Pension Credit</li>
-<li>✅ Income-based Jobseeker's Allowance</li>
-<li>✅ Working Tax Credit</li>
-<li>✅ Income-related Employment Support Allowance</li>
-<li>✅ Child Tax Credit</li>
-<li>✅ Income Support</li>
-<li>✅ Housing Benefit</li>
+<li>Universal Credit</li>
+<li>Pension Credit</li>
+<li>Income-based Jobseeker's Allowance</li>
+<li>Working Tax Credit</li>
+<li>Income-related Employment Support Allowance</li>
+<li>Child Tax Credit</li>
+<li>Income Support</li>
+<li>Housing Benefit</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Step 2: Check the Date</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Were you receiving your benefit on 26 September 2026? If yes, you should receive the payment automatically.</p>
@@ -375,12 +375,12 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Help & Support</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Citizens Advice</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Free, confidential advice</p>
-<p class="mb-4 text-gray-700 leading-relaxed font-medium">🌐 citizensadvice.org.uk</p>
-<p class="mb-4 text-gray-700 leading-relaxed font-medium">📞 03444 111 444</p>
+<p class="mb-4 text-gray-700 leading-relaxed font-medium"> citizensadvice.org.uk</p>
+<p class="mb-4 text-gray-700 leading-relaxed font-medium"> 03444 111 444</p>
 <p class="mb-4 text-gray-700 leading-relaxed">StepChange Debt Charity</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Free debt advice</p>
-<p class="mb-4 text-gray-700 leading-relaxed font-medium">🌐 stepchange.org</p>
-<p class="mb-4 text-gray-700 leading-relaxed font-medium">📞 0800 138 1111</p>
+<p class="mb-4 text-gray-700 leading-relaxed font-medium"> stepchange.org</p>
+<p class="mb-4 text-gray-700 leading-relaxed font-medium"> 0800 138 1111</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stay Updated on UK Money News</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Get alerts about new government support schemes, benefit changes, and money-saving opportunities delivered to your inbox.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe to Money Updates</p>

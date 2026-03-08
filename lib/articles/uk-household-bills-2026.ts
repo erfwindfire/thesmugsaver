@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const ukHouseholdBills2026: Article = {
-    slug: 'uk-household-bills-2026',
-    title: 'Ultimate Guide to UK Household Bills in 2026',
-    category: 'energy-bills',
-    readingTime: 13,
-    seoTitle: 'UK Household Bills 2026: Complete Guide',
-    metaDescription: 'Complete guide to managing UK household bills in 2026. Average costs breakdown, switching strategies, and how to reduce every bill in your home.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'UK household bills reached record highs in 2024, with the average family spending over £3,000 annually on energy alone. While the energy crisis has stabilized, 2026 brings new challenges and opportuni',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Household Bills Guide 2026</p>
+ slug: 'uk-household-bills-2026',
+ title: 'Ultimate Guide to UK Household Bills in 2026',
+ category: 'energy-bills',
+ readingTime: 13,
+ seoTitle: 'UK Household Bills 2026: Complete Guide',
+ metaDescription: 'Complete guide to managing UK household bills in 2026. Average costs breakdown, switching strategies, and how to reduce every bill in your home.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'UK household bills reached record highs in 2024, with the average family spending over £3,000 annually on energy alone. While the energy crisis has stabilized, 2026 brings new challenges and opportuni',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Household Bills Guide 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to UK Household Bills in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Electric, Gas, Water, Council Tax & Broadband Saving Strategies</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Summary: What You'll Learn</h2>

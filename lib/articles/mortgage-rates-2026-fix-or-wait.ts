@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const mortgageRates2026FixOrWait: Article = {
-    slug: 'mortgage-rates-2026-fix-or-wait',
-    title: 'Mortgage Rates September 2026: Should You Fix Now or Wait?',
-    category: 'housing',
-    readingTime: 8,
-    seoTitle: 'Mortgage Rates 2026: Fix Now or Wait?',
-    metaDescription: 'Should you fix your mortgage rate in 2026 or wait for cuts? Expert analysis of current rates, Bank of England forecasts, and decision framework for UK homeowners.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating September 2026\'s rate landscape and making the right fixing decision.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Mortgages & Property</p>
+ slug: 'mortgage-rates-2026-fix-or-wait',
+ title: 'Mortgage Rates September 2026: Should You Fix Now or Wait?',
+ category: 'housing',
+ readingTime: 8,
+ seoTitle: 'Mortgage Rates 2026: Fix Now or Wait?',
+ metaDescription: 'Should you fix your mortgage rate in 2026 or wait for cuts? Expert analysis of current rates, Bank of England forecasts, and decision framework for UK homeowners.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating September 2026\'s rate landscape and making the right fixing decision.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Mortgages & Property</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Mortgage Rates September 2026: Should You Fix Now or Wait?</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating September 2026's rate landscape and making the right fixing decision.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Executive Summary</h3>
@@ -51,27 +51,27 @@ export const mortgageRates2026FixOrWait: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Fixed vs Variable: The September 2026 Reality</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Fixed Rate Mortgages</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best for: Budgeters and risk-avoiders</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Payment certainty for term length</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Protection if rates rise</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Easier household budgeting</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✗</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Miss savings if rates fall significantly</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✗</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Early Repayment Charges if circumstances change</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Variable Rate Mortgages</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best for: Risk-takers betting on rate falls</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Benefit immediately from rate cuts</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">No Early Repayment Charges</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✓</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Can fix later when rates bottom</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✗</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Payments increase if rates rise</p>
-<p class="mb-4 text-gray-700 leading-relaxed">✗</p>
+<p class="mb-4 text-gray-700 leading-relaxed"></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Budgeting uncertainty and stress</p>
 <p class="mb-4 text-gray-700 leading-relaxed">September 2026's variable rates (Standard Variable Rates averaging 7.8-8.3%) make them unattractive for most borrowers. However, tracker mortgages following base rate movements offer a middle ground:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -107,7 +107,7 @@ export const mortgageRates2026FixOrWait: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Balance seekers, moderate flexibility</td>
 </tr>
 <tr class="bg-gray-50">
-<td class="px-4 py-3 border-b border-gray-200">5 Year ⭐</td>
+<td class="px-4 py-3 border-b border-gray-200">5 Year </td>
 <td class="px-4 py-3 border-b border-gray-200">4.29%</td>
 <td class="px-4 py-3 border-b border-gray-200">4.52%</td>
 <td class="px-4 py-3 border-b border-gray-200">£1,106</td>
@@ -137,9 +137,9 @@ export const mortgageRates2026FixOrWait: Article = {
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">Base rate by Q4 2026</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Inflation returns to 2%</li>
-<li>✓ 4 more 0.25% cuts</li>
-<li>✓ Mortgage rates to 3.8-4.2%</li>
+<li>Inflation returns to 2%</li>
+<li>4 more 0.25% cuts</li>
+<li>Mortgage rates to 3.8-4.2%</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Base Case Scenario</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
@@ -147,9 +147,9 @@ export const mortgageRates2026FixOrWait: Article = {
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">Base rate by Q4 2026</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Inflation hovers 2-2.5%</li>
-<li>✓ 2-3 cautious cuts</li>
-<li>✓ Mortgage rates to 4.3-4.7%</li>
+<li>Inflation hovers 2-2.5%</li>
+<li>2-3 cautious cuts</li>
+<li>Mortgage rates to 4.3-4.7%</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Pessimistic Scenario</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
@@ -157,9 +157,9 @@ export const mortgageRates2026FixOrWait: Article = {
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">Base rate stays elevated</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✗ Inflation resurges to 3%+</li>
-<li>✗ No rate cuts, possible hike</li>
-<li>✗ Mortgage rates to 5.5-6.0%</li>
+<li> Inflation resurges to 3%+</li>
+<li> No rate cuts, possible hike</li>
+<li> Mortgage rates to 5.5-6.0%</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Major bank predictions (September 2026):</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -274,9 +274,9 @@ export const mortgageRates2026FixOrWait: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Take Action This Week</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">September 2026's mortgage market rewards those who act decisively with proper research. Don't let indecision cost you £200-400/month.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Get 3 Agreement in Principles today</li>
-<li>✓ Compare total costs over full initial term</li>
-<li>✓ Lock rate if within 6 months of expiry</li>
-<li>✓ Use broker for access to exclusive deals</li>
+<li>Get 3 Agreement in Principles today</li>
+<li>Compare total costs over full initial term</li>
+<li>Lock rate if within 6 months of expiry</li>
+<li>Use broker for access to exclusive deals</li>
 </ul>`
 };

@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const energyBillsRisingOctober2026: Article = {
-    slug: 'energy-bills-rising-october-2026',
-    title: 'Energy Bills Rising October 2026: 10 Ways to Reduce Your £1,755 Annual Cost',
-    category: 'energy-bills',
-    readingTime: 18,
-    seoTitle: 'Energy Bills Rising October 2026: Save Now',
-    metaDescription: 'Energy bills rising to £1,755 in October 2026. Ten practical ways to reduce your costs including tariff switching, smart meters, and insulation grants.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Ofgem\'s October price cap increases hit 28 million households. Here\'s exactly how to fight back and slash your energy costs by up to £400 annually.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Energy Crisis Alert</p>
+ slug: 'energy-bills-rising-october-2026',
+ title: 'Energy Bills Rising October 2026: 10 Ways to Reduce Your £1,755 Annual Cost',
+ category: 'energy-bills',
+ readingTime: 18,
+ seoTitle: 'Energy Bills Rising October 2026: Save Now',
+ metaDescription: 'Energy bills rising to £1,755 in October 2026. Ten practical ways to reduce your costs including tariff switching, smart meters, and insulation grants.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Ofgem\'s October price cap increases hit 28 million households. Here\'s exactly how to fight back and slash your energy costs by up to £400 annually.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Energy Crisis Alert</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bills Rising October 2026: 10 Ways to Reduce Your £1,755 Annual Cost</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Ofgem's October price cap increases hit 28 million households. Here's exactly how to fight back and slash your energy costs by up to £400 annually.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Executive Summary: Your Energy Bills Battle Plan</h3>
@@ -127,11 +127,11 @@ export const energyBillsRisingOctober2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Fixed tariffs typically become unavailable or expensive as winter approaches. If you're considering a fix, lock in rates before 31st October 2026.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Fixed Tariff Switching Checklist:</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Check exit fees on current tariff</li>
-<li>✓ Compare annual costs, not just unit rates</li>
-<li>✓ Verify supplier's customer service ratings</li>
-<li>✓ Confirm tariff length and price guarantee terms</li>
-<li>✓ Set calendar reminder to review before renewal</li>
+<li>Check exit fees on current tariff</li>
+<li>Compare annual costs, not just unit rates</li>
+<li>Verify supplier's customer service ratings</li>
+<li>Confirm tariff length and price guarantee terms</li>
+<li>Set calendar reminder to review before renewal</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Government Support: What You're Entitled To</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Despite Winter Fuel Payment cuts, multiple government schemes remain available. The key is knowing exactly what you qualify for and how to apply efficiently.</p>
@@ -360,14 +360,14 @@ export const energyBillsRisingOctober2026: Article = {
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Installation & Setup Checklist</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Verify boiler compatibility before purchase</li>
-<li>✓ Use Gas Safe registered installer</li>
-<li>✓ Test all heating zones post-installation</li>
-<li>✓ Download and configure mobile app</li>
-<li>✓ Set up geofencing if available</li>
-<li>✓ Enable learning mode for smart thermostats</li>
-<li>✓ Schedule annual system review</li>
-<li>✓ Keep manual override instructions accessible</li>
+<li>Verify boiler compatibility before purchase</li>
+<li>Use Gas Safe registered installer</li>
+<li>Test all heating zones post-installation</li>
+<li>Download and configure mobile app</li>
+<li>Set up geofencing if available</li>
+<li>Enable learning mode for smart thermostats</li>
+<li>Schedule annual system review</li>
+<li>Keep manual override instructions accessible</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Strategic Switching: Timing & Tactics for Maximum Savings</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Energy switching isn't just about finding the cheapest rate—it's about understanding market cycles, exit fees, and switching windows to maximize long-term savings.</p>
@@ -589,61 +589,61 @@ export const energyBillsRisingOctober2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Week 1: Immediate Wins (0-7 days)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">No-cost changes with immediate impact</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Lower thermostat by 1°C (saves £75/year)</li>
-<li>✓ Set heating timer for 6-hour daily window</li>
-<li>✓ Switch to 30°C washing machine cycles</li>
-<li>✓ Unplug appliances on standby overnight</li>
-<li>✓ Close curtains at dusk</li>
-<li>✓ Check smart meter readings daily</li>
-<li>✓ Apply for Warm Home Discount</li>
-<li>✓ Register for Priority Services if eligible</li>
-<li>✓ Contact supplier about hardship funds</li>
-<li>✓ Download energy monitoring app</li>
+<li>Lower thermostat by 1°C (saves £75/year)</li>
+<li>Set heating timer for 6-hour daily window</li>
+<li>Switch to 30°C washing machine cycles</li>
+<li>Unplug appliances on standby overnight</li>
+<li>Close curtains at dusk</li>
+<li>Check smart meter readings daily</li>
+<li>Apply for Warm Home Discount</li>
+<li>Register for Priority Services if eligible</li>
+<li>Contact supplier about hardship funds</li>
+<li>Download energy monitoring app</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Expected savings: £100-150/year</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Week 2: Low-Cost Improvements (8-14 days)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Small investments with fast payback</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Install LED bulbs in high-use areas (£35/year savings)</li>
-<li>✓ Buy draft excluders for doors (£30/year savings)</li>
-<li>✓ Purchase radiator reflector panels (£25/year savings)</li>
-<li>✓ Install water-saving shower head (£50/year savings)</li>
-<li>✓ Insulate hot water cylinder (£30/year savings)</li>
-<li>✓ Compare tariffs using annual usage data</li>
-<li>✓ Calculate exit fees for current contract</li>
-<li>✓ Research fixed tariff options</li>
-<li>✓ Check eligibility for social tariffs</li>
-<li>✓ Book smart meter installation if needed</li>
+<li>Install LED bulbs in high-use areas (£35/year savings)</li>
+<li>Buy draft excluders for doors (£30/year savings)</li>
+<li>Purchase radiator reflector panels (£25/year savings)</li>
+<li>Install water-saving shower head (£50/year savings)</li>
+<li>Insulate hot water cylinder (£30/year savings)</li>
+<li>Compare tariffs using annual usage data</li>
+<li>Calculate exit fees for current contract</li>
+<li>Research fixed tariff options</li>
+<li>Check eligibility for social tariffs</li>
+<li>Book smart meter installation if needed</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Expected savings: £75-100/year | Investment: £50-100</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Week 3: Technology Upgrades (15-21 days)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Smart controls and switching decisions</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Install programmable thermostat (£75/year savings)</li>
-<li>✓ Switch to fixed tariff if beneficial</li>
-<li>✓ Set up geofencing on smart thermostat</li>
-<li>✓ Configure time-of-use optimization</li>
-<li>✓ Install smart power strips (£25/year savings)</li>
-<li>✓ Apply for insulation grants</li>
-<li>✓ Schedule boiler service</li>
-<li>✓ Research local council energy schemes</li>
-<li>✓ Set calendar reminders for tariff reviews</li>
-<li>✓ Join collective switching schemes</li>
+<li>Install programmable thermostat (£75/year savings)</li>
+<li>Switch to fixed tariff if beneficial</li>
+<li>Set up geofencing on smart thermostat</li>
+<li>Configure time-of-use optimization</li>
+<li>Install smart power strips (£25/year savings)</li>
+<li>Apply for insulation grants</li>
+<li>Schedule boiler service</li>
+<li>Research local council energy schemes</li>
+<li>Set calendar reminders for tariff reviews</li>
+<li>Join collective switching schemes</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Expected savings: £100-150/year | Investment: £100-300</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Week 4: Long-term Strategy (22-30 days)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Insulation planning and habit optimization</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Get quotes for loft insulation</li>
-<li>✓ Research cavity wall insulation eligibility</li>
-<li>✓ Plan renewable energy options</li>
-<li>✓ Optimize heating schedules based on usage data</li>
-<li>✓ Establish monthly energy review routine</li>
-<li>✓ Track actual vs projected savings</li>
-<li>✓ Refine energy-saving habits</li>
-<li>✓ Share successful strategies with household</li>
-<li>✓ Plan next switching review date</li>
-<li>✓ Build emergency energy fund</li>
+<li>Get quotes for loft insulation</li>
+<li>Research cavity wall insulation eligibility</li>
+<li>Plan renewable energy options</li>
+<li>Optimize heating schedules based on usage data</li>
+<li>Establish monthly energy review routine</li>
+<li>Track actual vs projected savings</li>
+<li>Refine energy-saving habits</li>
+<li>Share successful strategies with household</li>
+<li>Plan next switching review date</li>
+<li>Build emergency energy fund</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Expected savings: £150-250/year | Investment: Planning phase</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Total Expected Annual Savings: £300-450</h4>

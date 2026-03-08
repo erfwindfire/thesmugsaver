@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const streamingSubscriptionsAuditUk2026: Article = {
-    slug: 'streaming-subscriptions-audit-uk-2026',
-    title: 'The Real Cost of Streaming, Subscriptions, and How to Ruthlessly Audit Yours',
-    category: 'broadband-and-subscriptions',
-    readingTime: 23,
-    seoTitle: 'Audit Your Streaming Subscriptions UK 2026',
-    metaDescription: 'How to audit and slash your streaming and subscription costs. Netflix, Disney+, Spotify, gym, and app subscriptions reviewed with cancellation strategies.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Stop bleeding money on forgotten subscriptions and streaming services you don\'t use. This comprehensive UK guide reveals how the average household wastes £400+ annually on subscriptions—and exactly ho',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Subscription Management</p>
+ slug: 'streaming-subscriptions-audit-uk-2026',
+ title: 'The Real Cost of Streaming, Subscriptions, and How to Ruthlessly Audit Yours',
+ category: 'broadband-and-subscriptions',
+ readingTime: 23,
+ seoTitle: 'Audit Your Streaming Subscriptions UK 2026',
+ metaDescription: 'How to audit and slash your streaming and subscription costs. Netflix, Disney+, Spotify, gym, and app subscriptions reviewed with cancellation strategies.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Stop bleeding money on forgotten subscriptions and streaming services you don\'t use. This comprehensive UK guide reveals how the average household wastes £400+ annually on subscriptions—and exactly ho',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Subscription Management</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">The Real Cost of Streaming, Subscriptions, and How to Ruthlessly Audit Yours</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop bleeding money on forgotten subscriptions and streaming services you don't use. This comprehensive UK guide reveals how the average household wastes £400+ annually on subscriptions—and exactly how to reclaim every penny.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
@@ -757,7 +757,7 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Often yields bigger discounts than individual negotiations</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Negotiation Do's and Don'ts</h3>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">✓ DO</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> DO</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Be polite and respectful to agents</li>
 <li>Have specific competitor prices ready</li>
@@ -766,7 +766,7 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 <li>Get any discount confirmation in writing</li>
 <li>Be prepared to actually cancel if needed</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">✗ DON'T</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> DON'T</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Get angry or aggressive with agents</li>
 <li>Accept the first "no" as final</li>

@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const beatFoodPriceHikesUk2026: Article = {
-    slug: 'beat-food-price-hikes-uk-2026',
-    title: 'How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families',
-    category: 'supermarket-savings',
-    readingTime: 20,
-    seoTitle: 'Beat Food Price Hikes: UK Grocery Guide 2026',
-    metaDescription: 'Smart grocery shopping strategies for UK families facing rising food prices. Markdown timing, loyalty app hacks, and bulk buying tactics that cut bills by 30%.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your complete guide to cutting grocery bills by 30-50% in 2026. Proven strategies, apps, and tactics that actually work for UK shoppers.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Food Savings Guide</p>
+ slug: 'beat-food-price-hikes-uk-2026',
+ title: 'How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families',
+ category: 'supermarket-savings',
+ readingTime: 20,
+ seoTitle: 'Beat Food Price Hikes: UK Grocery Guide 2026',
+ metaDescription: 'Smart grocery shopping strategies for UK families facing rising food prices. Markdown timing, loyalty app hacks, and bulk buying tactics that cut bills by 30%.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your complete guide to cutting grocery bills by 30-50% in 2026. Proven strategies, apps, and tactics that actually work for UK shoppers.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Food Savings Guide</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to cutting grocery bills by 30-50% in 2026. Proven strategies, apps, and tactics that actually work for UK shoppers.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
@@ -71,7 +71,7 @@ export const beatFoodPriceHikesUk2026: Article = {
 <td class="px-4 py-3 border-b border-gray-200">Almost Everything</td>
 </tr>
 </tbody></table></div>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✓ Safe Swaps (Always Good)</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Safe Swaps (Always Good)</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Basic grains (rice, pasta, flour)</li>
 <li>Tinned vegetables and legumes</li>
@@ -82,7 +82,7 @@ export const beatFoodPriceHikesUk2026: Article = {
 <li>Toilet paper and tissues</li>
 <li>Breakfast cereals (most)</li>
 </ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✗ Risky Swaps (Test First)</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Risky Swaps (Test First)</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Chocolate and premium biscuits</li>
 <li>Skincare and beauty products</li>
@@ -379,7 +379,7 @@ export const beatFoodPriceHikesUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Smart Bulk Buying and Storage Strategies</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Bulk buying can save 20-50% on staples, but only if you do it right. The key is understanding what to buy in bulk, how to store it properly, and how to avoid the trap of buying more than you can use. Smart bulk buying isn't about hoarding—it's about strategic purchasing.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✓ Perfect for Bulk Buying</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Perfect for Bulk Buying</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Long-Life Pantry Staples</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Rice, pasta, flour (2+ year shelf life)</li>
@@ -401,7 +401,7 @@ export const beatFoodPriceHikesUk2026: Article = {
 <li>Frozen vegetables</li>
 <li>Herbs (in ice cube trays with oil)</li>
 </ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✗ Avoid Bulk Buying</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Avoid Bulk Buying</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Fresh Produce</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Fresh fruits and vegetables</li>

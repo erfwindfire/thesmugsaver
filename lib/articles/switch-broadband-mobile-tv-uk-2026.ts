@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const switchBroadbandMobileTvUk2026: Article = {
-    slug: 'switch-broadband-mobile-tv-uk-2026',
-    title: 'How to Switch Broadband, Mobile, and TV for Maximum Savings',
-    category: 'broadband-and-subscriptions',
-    readingTime: 25,
-    seoTitle: 'Switch Broadband & Mobile UK: Save Hundreds',
-    metaDescription: 'How to switch broadband, mobile, and TV packages for maximum savings in the UK. Comparison tools, negotiation scripts, and timing your switch perfectly.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Communications Savings</p>
+ slug: 'switch-broadband-mobile-tv-uk-2026',
+ title: 'How to Switch Broadband, Mobile, and TV for Maximum Savings',
+ category: 'broadband-and-subscriptions',
+ readingTime: 25,
+ seoTitle: 'Switch Broadband & Mobile UK: Save Hundreds',
+ metaDescription: 'How to switch broadband, mobile, and TV packages for maximum savings in the UK. Comparison tools, negotiation scripts, and timing your switch perfectly.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Communications Savings</p>
 <p class="mb-4 text-gray-700 leading-relaxed">UK 2026</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">How to Switch Broadband, Mobile, and TV for Maximum Savings</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.</p>
@@ -572,14 +572,14 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Optimal Timing Strategies: When to Switch</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Maximize savings by timing your switches strategically</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best Times to Switch Throughout the Year</h3>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">🎯 Prime Switching Periods</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Prime Switching Periods</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>January-February: New Year deals, providers clearing budgets</li>
 <li>Black Friday (November): Best annual deals on bundles and broadband</li>
 <li>Back to School (September): Student-focused offers benefit all</li>
 <li>Post-Christmas (December 27-31): Last-minute targets drive aggressive deals</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">❌ Avoid These Periods</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Avoid These Periods</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>April: Annual price rises kick in (CPI increases)</li>
 <li>Summer (June-August): Fewer promotional offers</li>
@@ -598,7 +598,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Service activates</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your Complete Switching Checklist</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Don't miss a step—follow this comprehensive guide</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✅ Before You Switch</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Before You Switch</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Confirm contract end dates for all services</li>
 <li>Calculate potential exit fees if switching early</li>
@@ -609,7 +609,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <li>Read customer reviews on Trustpilot for target providers</li>
 <li>Contact retention teams—try to negotiate first</li>
 </ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✅ During the Switch</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> During the Switch</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Get PAC code for mobile (text PAC to 65075)</li>
 <li>Order new services—auto-switch handles broadband cancellation</li>
@@ -618,7 +618,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <li>Notify TV provider if cancelling (30 days notice typically)</li>
 <li>Prepare return packaging for old equipment</li>
 </ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">✅ After the Switch</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> After the Switch</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Test new broadband speeds (fast.com, speedtest.net)</li>
 <li>Verify mobile number ported correctly</li>
@@ -631,29 +631,29 @@ export const switchBroadbandMobileTvUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Scam Avoidance: Protect Yourself While Switching</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Common switching scams and how to avoid them</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">⚠️ Top Switching Scams in 2026</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Top Switching Scams in 2026</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">1. Fake Provider Representatives</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">The Scam: Caller claims to be from your provider offering "exclusive renewal deals" requiring immediate card details.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Protection: Never give payment details over unsolicited calls. Hang up and call provider's official number yourself.</li>
+<li>Protection: Never give payment details over unsolicited calls. Hang up and call provider's official number yourself.</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">2. Comparison Site Clones</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">The Scam: Fake comparison sites (uswitch-deals.co.uk instead of uswitch.com) harvest personal data and payment details.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Protection: Only use verified comparison sites—Uswitch, MoneySavingExpert, Cable.co.uk. Check URLs carefully.</li>
+<li>Protection: Only use verified comparison sites—Uswitch, MoneySavingExpert, Cable.co.uk. Check URLs carefully.</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">3. "Too Good to Be True" Offers</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">The Scam: Social media ads for "Gigabit broadband £10/month"—leads to fake signup forms stealing bank details.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Protection: If deals seem impossible, they are. Cross-reference all offers on official provider websites.</li>
+<li>Protection: If deals seem impossible, they are. Cross-reference all offers on official provider websites.</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">4. Slamming (Unauthorized Switching)</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">The Scam: Rogue salespeople switch your service without consent by obtaining account details through deception.</p>
 <ul class="list-none pl-2 mb-6 space-y-2 text-gray-700">
-<li>✅ Protection: Never share account numbers or PINs with door-to-door salespeople. All legitimate switches require your explicit written consent.</li>
+<li>Protection: Never share account numbers or PINs with door-to-door salespeople. All legitimate switches require your explicit written consent.</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How to Verify Legitimate Offers</h3>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">✓ Legitimate Provider Traits:</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Legitimate Provider Traits:</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Doesn't pressure for immediate decisions</li>
 <li>Provides written terms before payment</li>
@@ -662,7 +662,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <li>Has verifiable Trustpilot reviews</li>
 <li>Doesn't request payment over phone</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">✗ Red Flags (Avoid):</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Red Flags (Avoid):</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>"Act now or lose this deal"</li>
 <li>Requests bank details before service confirmation</li>
@@ -696,7 +696,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£61/mo</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Cost:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£732</p>
-<p class="mb-4 text-gray-700 leading-relaxed">💰 Annual Savings: £444 (38% reduction)</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> Annual Savings: £444 (38% reduction)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Switching Actions: Bought out mobile contract 8 months early (£240 ETF), recouped in 6.5 months. Upgraded from 67 Mbps to 500 Mbps while saving £7/month on broadband. Total switching time: 3 hours over 2 weeks.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Case Study 2: The Family of Four</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Before Switch:</h4>
@@ -721,7 +721,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£123/mo</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Cost:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£1,476</p>
-<p class="mb-4 text-gray-700 leading-relaxed">💰 Annual Savings: £1,200 (45% reduction)</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> Annual Savings: £1,200 (45% reduction)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Switching Actions: Replaced full Sky package with NOW seasonal subscriptions (only pay for sports Sept-May). Negotiated Virgin broadband upgrade from M250 to Gig1 for less money using retention team. Moved all family mobiles to budget SIM-only plans. Total switching time: 5 hours over 3 weeks.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Case Study 3: The Retiree Couple</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Before Switch:</h4>
@@ -746,7 +746,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£53/mo</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Cost:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£636</p>
-<p class="mb-4 text-gray-700 leading-relaxed">💰 Annual Savings: £840 (57% reduction)</p>
+<p class="mb-4 text-gray-700 leading-relaxed"> Annual Savings: £840 (57% reduction)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Switching Actions: Replaced expensive BT TV with Netflix plus free Freely service (BBC, ITV, Channel 4 live via internet). Downgraded broadband to more appropriate speed for usage. Switched to budget mobile plans with adequate data for light users. Total switching time: 2 hours over 1 week.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How long does it actually take to switch broadband providers in 2026?</h3>

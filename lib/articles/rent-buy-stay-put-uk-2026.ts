@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const rentBuyStayPutUk2026: Article = {
-    slug: 'rent-buy-stay-put-uk-2026',
-    title: 'Rent, Buy, or Stay Put? 2026\'s Best UK Housing Strategies',
-    category: 'housing',
-    readingTime: 27,
-    seoTitle: 'Rent, Buy or Stay Put? UK Housing 2026',
-    metaDescription: 'Should you rent, buy, or stay put in 2026? UK housing market analysis with cost calculators, regional comparisons, and strategies for every budget level.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Housing Strategies</p>
+ slug: 'rent-buy-stay-put-uk-2026',
+ title: 'Rent, Buy, or Stay Put? 2026\'s Best UK Housing Strategies',
+ category: 'housing',
+ readingTime: 27,
+ seoTitle: 'Rent, Buy or Stay Put? UK Housing 2026',
+ metaDescription: 'Should you rent, buy, or stay put in 2026? UK housing market analysis with cost calculators, regional comparisons, and strategies for every budget level.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Housing Strategies</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Rent, Buy, or Stay Put? 2026's Best UK Housing Strategies</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate Britain's brutal housing market with evidence-based strategies. Whether you're trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finances.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">At-a-Glance Summary</h2>
@@ -453,10 +453,10 @@ export const rentBuyStayPutUk2026: Article = {
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Pros & Cons:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Huge discount (£45k-£75k typically)</li>
-<li>✓ Need smaller deposit</li>
-<li>✗ Limited availability</li>
-<li>✗ Resale restrictions apply</li>
+<li>Huge discount (£45k-£75k typically)</li>
+<li>Need smaller deposit</li>
+<li> Limited availability</li>
+<li> Resale restrictions apply</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Verdict: Excellent IF you can find properties available under the scheme in your area. Check with local housing associations and developers.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Shared Ownership</h3>
@@ -469,11 +469,11 @@ export const rentBuyStayPutUk2026: Article = {
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Pros & Cons:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Lower deposit needed</li>
-<li>✓ Get on property ladder sooner</li>
-<li>✗ Pay rent on portion you don't own</li>
-<li>✗ Service charges can be expensive</li>
-<li>✗ Selling is more complex</li>
+<li>Lower deposit needed</li>
+<li>Get on property ladder sooner</li>
+<li> Pay rent on portion you don't own</li>
+<li> Service charges can be expensive</li>
+<li> Selling is more complex</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Verdict: Useful stepping stone if you're priced out entirely, but factor in ALL costs (mortgage + rent + service charge). Ensure you can afford to staircase to 100% ownership eventually.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Lifetime ISA (LISA)</h3>
@@ -604,45 +604,45 @@ export const rentBuyStayPutUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Single, 20s-30s, No Kids</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best strategy: Rent flexibly OR buy small if staying 5+ years in same city.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Prioritize career and income growth—don't sacrifice a career-boosting move for property ownership</li>
-<li>✓ House-share aggressively to save deposit faster</li>
-<li>✓ If buying, get 1-bed flat in good location—easy to rent out if you need to relocate</li>
-<li>✓ Max out Lifetime ISA even if not buying immediately—gives you options</li>
+<li>Prioritize career and income growth—don't sacrifice a career-boosting move for property ownership</li>
+<li>House-share aggressively to save deposit faster</li>
+<li>If buying, get 1-bed flat in good location—easy to rent out if you need to relocate</li>
+<li>Max out Lifetime ISA even if not buying immediately—gives you options</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Couple, No Kids Yet</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best strategy: Buy 2-3 bed property if planning kids within 5 years.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Both partners max Lifetime ISAs = £10,000/year with bonuses (deposit in 3 years)</li>
-<li>✓ Buy slightly bigger than current needs to avoid moving again when kids arrive</li>
-<li>✓ Target areas with good schools even if not relevant yet—protects resale value</li>
-<li>✓ Consider one working, one saving all income for 12-18 months to turbocharge deposit</li>
+<li>Both partners max Lifetime ISAs = £10,000/year with bonuses (deposit in 3 years)</li>
+<li>Buy slightly bigger than current needs to avoid moving again when kids arrive</li>
+<li>Target areas with good schools even if not relevant yet—protects resale value</li>
+<li>Consider one working, one saving all income for 12-18 months to turbocharge deposit</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Family with Young Kids</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best strategy: Buy for stability—moving with kids is brutal.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ School catchment areas become critical—research before buying</li>
-<li>✓ Need 3+ beds minimum—kids need separate space as they grow</li>
-<li>✓ Garden/outdoor space becomes much more valuable with kids</li>
-<li>✓ If renting, negotiate longer lease (2-3 years) for stability</li>
-<li>✗ Don't over-leverage—childcare costs are brutal and you need financial buffer</li>
+<li>School catchment areas become critical—research before buying</li>
+<li>Need 3+ beds minimum—kids need separate space as they grow</li>
+<li>Garden/outdoor space becomes much more valuable with kids</li>
+<li>If renting, negotiate longer lease (2-3 years) for stability</li>
+<li> Don't over-leverage—childcare costs are brutal and you need financial buffer</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Empty Nesters (50s-60s)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best strategy: Downsize if mortgage-free, or stay put and remortgage.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ If you own outright: consider downsizing to release equity (£100k-£200k potential)</li>
-<li>✓ Use released equity to boost pension, help kids with deposits, or invest</li>
-<li>✓ If still mortgaged: remortgage to lowest rate and overpay to be mortgage-free by retirement</li>
-<li>✓ Consider ground-floor flat or bungalow—easier as mobility decreases</li>
-<li>✗ Don't take on new mortgage after 55 unless you're certain about repayment before retirement</li>
+<li>If you own outright: consider downsizing to release equity (£100k-£200k potential)</li>
+<li>Use released equity to boost pension, help kids with deposits, or invest</li>
+<li>If still mortgaged: remortgage to lowest rate and overpay to be mortgage-free by retirement</li>
+<li>Consider ground-floor flat or bungalow—easier as mobility decreases</li>
+<li> Don't take on new mortgage after 55 unless you're certain about repayment before retirement</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Retirement (65+)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best strategy: Own outright. If still renting, this is crisis territory.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>✓ Ideally own home outright—massively reduces retirement living costs</li>
-<li>✓ If still have mortgage: consider equity release or lifetime mortgage (but beware high costs)</li>
-<li>✓ If renting: explore social housing, retirement communities, or downsizing to cheaper area</li>
-<li>✓ Flat better than house—less maintenance burden</li>
-<li>✗ Don't sell and rent unless absolutely necessary—inflation destroys renters over time</li>
+<li>Ideally own home outright—massively reduces retirement living costs</li>
+<li>If still have mortgage: consider equity release or lifetime mortgage (but beware high costs)</li>
+<li>If renting: explore social housing, retirement communities, or downsizing to cheaper area</li>
+<li>Flat better than house—less maintenance burden</li>
+<li> Don't sell and rent unless absolutely necessary—inflation destroys renters over time</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Housing Pitfalls & How to Avoid Them</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Here are the expensive mistakes people make with housing decisions—and how to sidestep them:</p>

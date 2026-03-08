@@ -1,17 +1,17 @@
 import { Article } from '../articles';
 
 export const costOfLivingUk2026SurvivalGuide: Article = {
-    slug: 'cost-of-living-uk-2026-survival-guide',
-    title: 'Cost of Living UK 2026: Survival Guide',
-    category: 'cost-of-living',
-    readingTime: 28,
-    seoTitle: 'Cost of Living Survival Guide UK 2026',
-    metaDescription: 'Practical survival strategies for the UK cost of living crisis. Energy bill reduction, grocery savings, benefit maximisation, and building financial resilience.',
-    datePublished: '2026-02-20',
-    dateModified: '2026-02-20',
-    author: 'The Smug Saver',
-    excerpt: 'Navigate the ongoing cost of living crisis with evidence-based strategies, government support navigation, and regional survival tactics for every income level.',
-    body: `<p class="mb-4 text-gray-700 leading-relaxed">Cost of Living Crisis</p>
+ slug: 'cost-of-living-uk-2026-survival-guide',
+ title: 'Cost of Living UK 2026: Survival Guide',
+ category: 'cost-of-living',
+ readingTime: 28,
+ seoTitle: 'Cost of Living Survival Guide UK 2026',
+ metaDescription: 'Practical survival strategies for the UK cost of living crisis. Energy bill reduction, grocery savings, benefit maximisation, and building financial resilience.',
+ datePublished: '2026-02-20',
+ dateModified: '2026-02-20',
+ author: 'The Smug Saver',
+ excerpt: 'Navigate the ongoing cost of living crisis with evidence-based strategies, government support navigation, and regional survival tactics for every income level.',
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Cost of Living Crisis</p>
 <h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living UK 2026: Survival Guide</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate the ongoing cost of living crisis with evidence-based strategies, government support navigation, and regional survival tactics for every income level.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Survival Strategies</h3>
