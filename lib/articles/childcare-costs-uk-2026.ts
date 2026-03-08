@@ -38,7 +38,7 @@ export const childcareCostsUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Nursery and Childminder Costs Breakdown (2026)</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Understanding the full spectrum of childcare costs is essential for effective planning. UK childcare fees vary significantly by location, provider type, and age group, with additional costs often hidden in the small print.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/family-and-lifestyle/back-to-school-costs-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">back-to-school costs</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/family-and-lifestyle/back-to-school-costs-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">back-to-school costs</a>.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Average UK Childcare Costs (2026)</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Nursery Costs (per week)</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

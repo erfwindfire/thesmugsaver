@@ -38,7 +38,7 @@ export const ukHouseholdBills2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Electricity and Gas Bill Regional Breakdown (2026)</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Energy costs vary significantly across the UK due to distribution network charges, regional infrastructure, and local market dynamics. Understanding these variations helps optimize provider selection and budgeting strategies.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/energy-bills/energy-bills-rising-october-2026" class="text-emerald-700 underline hover:text-emerald-900">energy price rises</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/energy-bills/energy-bills-rising-october-2026" class="text-emerald-700 underline hover:text-emerald-900">energy price rises</a>.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Average Annual Energy Bills by Region (2026)</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Electricity (Annual Average)</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -134,7 +134,7 @@ export const ukHouseholdBills2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Standing Charge Optimization Tactics</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">1. Dual Fuel vs Single Fuel Analysis</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Many households assume dual fuel deals save money, but this isn't always true:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">how to negotiate bills</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">how to negotiate bills</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Standing Charge Comparison Example:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Dual fuel deal (electricity + gas):</p>
 <p class="mb-4 text-gray-700 leading-relaxed">45p + 35p = 80p daily</p>

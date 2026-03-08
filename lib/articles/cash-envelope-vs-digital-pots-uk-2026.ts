@@ -49,7 +49,7 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Cash Envelope System Fundamentals: The Original Spending Guardrail</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The cash envelope system forces spending constraints through physical limits—when the money in your "groceries" envelope is gone, you're done spending on food. No overdrafts, no "just this once" exceptions, no mental gymnastics about whether something fits the budget.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">proven budgeting methods</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">proven budgeting methods</a>.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How Cash Envelopes Work in Practice</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Basic Setup Process</h4>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">

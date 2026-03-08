@@ -17,7 +17,7 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Self-Employment Ready</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Variable Income Strategies</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Practical Templates Included</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/budgeting/budget-rule-article" class="text-emerald-700 underline hover:text-emerald-900">50/30/20 rule</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/budgeting/budget-rule-article" class="text-emerald-700 underline hover:text-emerald-900">50/30/20 rule</a>.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Quick Takeaways</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Essential strategies for managing irregular income in the UK</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Build flexible budgets using percentage-based allocation rather than fixed amounts</p>

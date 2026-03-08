@@ -31,7 +31,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">From maximizing your student finance to finding the cheapest accommodation, mastering student discounts to building emergency funds, we'll cover everything you need to know to maintain financial stability while focusing on your studies. Whether you're looking for proven budgeting techniques, need help managing the rising cost of living, want to learn about loan repayment strategies, or explore tax-free side hustles, this guide has you covered. Whether you're a first-year fresher or a final-year student, these strategies will help you make every pound count.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">1. Student Budgeting Fundamentals</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Master the art of student budgeting with proven frameworks and tools</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/student-loan-repayment-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">student loan repayment</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/student-loan-repayment-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">student loan repayment</a>.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">The 50/30/20 Student Budget Rule</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Adapt the classic budgeting rule for student life: 50% for essentials (rent, food, transport), 30% for lifestyle (entertainment, eating out, clothes), and 20% for savings and emergency fund.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Monthly Budget Example (£800 income):</p>
@@ -42,7 +42,7 @@ export const studentFinanceSurvivalUk2026: Article = {
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Essential Budgeting Tools</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Free Apps</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">side hustle income</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">side hustle income</a>.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Monzo/Starling Bank (spending categories)</li>
 <li>Mint (comprehensive tracking)</li>

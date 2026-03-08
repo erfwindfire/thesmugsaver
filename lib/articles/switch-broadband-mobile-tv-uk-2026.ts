@@ -17,16 +17,16 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete 2026 guide to slashing communication bills through strategic provider switching—with step-by-step processes, negotiation scripts, and real-world savings of £500+ annually.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Last updated: March 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Expert reviewed</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">negotiation tactics</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">negotiation tactics</a>.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Executive Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The Reality: UK households pay an average of £150+ monthly for broadband, mobile, and TV services—yet switching providers could save £40-80 monthly (£480-960 annually) with minimal disruption.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The Opportunity: The 2026 UK communications market is fiercely competitive. Ofcom's auto-switching system makes changing broadband providers seamless, mobile number portability takes under 24 hours, and new customer deals offer savings of 30-50% compared to out-of-contract rates.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">This Guide Delivers: A comprehensive switching framework covering every provider, bundle option, negotiation tactic, and pitfall—enabling you to confidently navigate the switching process and maximize household savings without compromising service quality.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/broadband-and-subscriptions/streaming-subscriptions-audit-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">streaming subscription audit</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/broadband-and-subscriptions/streaming-subscriptions-audit-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">streaming subscription audit</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£540</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Average Annual Saving</p>
 <p class="mb-4 text-gray-700 leading-relaxed">7 Days</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/energy-bills/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">managing household bills</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/energy-bills/uk-household-bills-2026" class="text-emerald-700 underline hover:text-emerald-900">managing household bills</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Typical Switch Duration</p>
 <p class="mb-4 text-gray-700 leading-relaxed">3 Steps</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Core Process Stages</p>

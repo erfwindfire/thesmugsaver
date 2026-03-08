@@ -49,13 +49,13 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. New 2026 Government Schemes: What Actually Works</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate the maze of government homebuying schemes launched or updated in 2026, from the expanded First Homes initiative to new regional programs. Learn which schemes stack together, eligibility requirements that actually matter, and application strategies that work in the real world.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/housing/mortgage-rates-2026-fix-or-wait" class="text-emerald-700 underline hover:text-emerald-900">current mortgage rates</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/housing/mortgage-rates-2026-fix-or-wait" class="text-emerald-700 underline hover:text-emerald-900">current mortgage rates</a>.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">First Homes Scheme 2026 Expansion</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Key Features</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">30-50% Market Discount</p>
 <p class="mb-4 text-gray-700 leading-relaxed">New build homes sold at 30-50% below market value. Discount tied to property permanently through restrictive covenant.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Priority for Key Workers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/housing/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">rent vs buy analysis</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/housing/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">rent vs buy analysis</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Teachers, nurses, police, firefighters, social workers get first dibs. Some councils add local workers to priority list.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Income Cap: £80,000</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Household income limit (£90,000 in London). Recent increase from previous £70,000 cap makes more people eligible.</p>

@@ -11,13 +11,8 @@ export const grocerySavings2026: Article = {
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'Your weekly grocery bill has become financial terrorism. £120 for basics? £4 for a loaf of bread? The supermarkets are playing psychological warfare with your wallet while their CEOs collect bonuses t',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">The Sm</p>
-<p class="mb-4 text-gray-700 leading-relaxed">••</p>
-<p class="mb-4 text-gray-700 leading-relaxed">u</p>
-<p class="mb-4 text-gray-700 leading-relaxed">g Saver</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">10 Grocery Saving Hacks You Haven't Tried Yet(UK Edition)</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">10 Grocery Saving Hacks You Haven't Tried Yet(UK Edition)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your weekly grocery bill has become financial terrorism. £120 for basics? £4 for a loaf of bread? The supermarkets are playing psychological warfare with your wallet while their CEOs collect bonuses that could fund small nations. But here's the thing about rigged games: once you learn the rules, you can beat them at their own system.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/supermarket-savings/beat-food-price-hikes-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">food price hike strategies</a> covers this in more detail.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: 10 Proven Grocery Savings Hacks</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Master supermarket loyalty schemes and apps for maximum savings (Which? comparison)</li>
@@ -30,13 +25,12 @@ export const grocerySavings2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Master the Art of Yellow Sticker Timing</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Every UK supermarket has specific times when they markdown perishables with yellow stickers. Tesco typically reduces items at 9am, 11am, 3pm, and 6pm. Sainsbury's often does their final markdowns between 7-8pm. ASDA usually marks down bakery items early morning and fresh items in the evening.</p>
 <div class="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6 rounded-r-lg"><p class="text-amber-800 font-medium">Pro tip: Befriend staff in different departments and ask about their specific markdown schedules. Many stores have slightly different timing based on their customer patterns and delivery schedules.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/supermarket-savings/christmas-super-savings-2026-supermarkets-ranked" class="text-emerald-700 underline hover:text-emerald-900">Christmas supermarket savings</a> covers this in more detail.</p></div>
+<p class="text-amber-800 mt-2">Stock up on non-perishables and store-cupboard items in late December when supermarkets clear Christmas lines — tinned goods, chocolates, and premium items routinely drop 50–70% on 26–27 December. The same logic applies to Easter in April and Halloween in early November.</p></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. Exploit Supermarket App Exclusives</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Beyond basic loyalty points, supermarket apps offer hidden gems. Tesco Clubcard app often has exclusive digital coupons worth £10-20 monthly. The Sainsbury's app frequently offers "personalised prices" that can save 20-30% on items you regularly buy.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Advanced strategy: Use multiple family members' accounts (with their permission) to access different personalised offers. Each account gets tailored deals based on shopping history.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3. The 'Click & Collect' Price Hack</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Many UK supermarkets offer different prices online versus in-store. Tesco, ASDA, and Morrisons often have online-exclusive deals. Use click & collect to get online prices without delivery fees.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/supermarket-savings/food-inflation-2026-smart-shopping" class="text-emerald-700 underline hover:text-emerald-900">food inflation strategies</a> covers this in more detail.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The hack: Build your weekly shop online first to see total cost and available deals, then decide whether to collect or adjust your in-store shopping list accordingly.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. Strategic Bulk Buying with Freezer Planning</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">UK supermarkets regularly run "3 for 2" or "buy 2 get 1 free" deals on meat, fish, and frozen items. The key is having a freezer strategy. Portion and freeze fresh meat immediately, batch cook meals when vegetables are on offer, and always check the freezer section for the same items at lower prices.</p>

@@ -17,7 +17,7 @@ export const openBankingUk2026Impact: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">12M+ UK Users</p>
 <p class="mb-4 text-gray-700 leading-relaxed">FCA Regulated</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Bank-Grade Security</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/budgeting/money-manager-tools" class="text-emerald-700 underline hover:text-emerald-900">financial management tools</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/budgeting/money-manager-tools" class="text-emerald-700 underline hover:text-emerald-900">financial management tools</a>.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Open banking has quietly revolutionised how 12 million+ UK consumers manage money in 2026—yet most people still don't understand what it is or how to use it safely.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">This comprehensive guide covers everything from how open banking works technically, to privacy risks, to advanced strategies that could save you £500+ annually. Whether you're considering your first budgeting app or maximising cashback opportunities, you'll learn exactly what's safe, what's risky, and what's worth your time.</p>

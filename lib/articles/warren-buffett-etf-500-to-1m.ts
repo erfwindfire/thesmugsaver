@@ -18,11 +18,11 @@ export const warrenBuffettEtf500To1m: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">10 min read</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Warren Buffett has spent decades recommending one investment to everyday investors: a low-cost S&P 500 index fund. His own will instructs 90% of his estate to be invested this way. The mathematics are compelling.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">high-yield savings options</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">high-yield savings options</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Monthly Investment</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£500</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Consistent contribution</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/savings-and-investing/how-to-save-100k-in-8-years" class="text-emerald-700 underline hover:text-emerald-900">£100k savings plan</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/savings-and-investing/how-to-save-100k-in-8-years" class="text-emerald-700 underline hover:text-emerald-900">£100k savings plan</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Time Horizon</p>
 <p class="mb-4 text-gray-700 leading-relaxed">30 Years</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Long-term compound</p>

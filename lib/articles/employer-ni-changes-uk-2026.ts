@@ -32,7 +32,7 @@ export const employerNiChangesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">The short answer is yes—but the extent depends on your employer, sector, and how well you navigate these changes. This comprehensive guide arms you with everything you need to protect your financial interests during this transition.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Numbers That Matter</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Current Rate:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/cost-of-living-payment-2026-dwp-support" class="text-emerald-700 underline hover:text-emerald-900">£500 DWP payment</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/cost-of-living-payment-2026-dwp-support" class="text-emerald-700 underline hover:text-emerald-900">£500 DWP payment</a>.</p>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>8%</li>
 </ol>
@@ -42,13 +42,13 @@ export const employerNiChangesUk2026: Article = {
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Impact:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£25bn industry-wide</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">tax-free side hustles</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">tax-free side hustles</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Whether you're concerned about salary cuts, worried about job security, or planning your next career move, this guide provides practical strategies backed by employment law expertise and real-world examples from UK workplaces already adapting to these changes. For broader cost of living strategies, see our Cost of Living Guide, Bill Negotiation Tactics, or Household Bills Optimization. Don't wait—start documenting your value today before April 2026 reviews begin.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Understanding the 2026 NI Changes: What's Really Happening</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The 2026 National Insurance changes aren't just numbers on a government spreadsheet—they're a fundamental shift in how UK businesses calculate employment costs. Here's exactly what's changing and when.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Key Changes at a Glance</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Employer NI Rate Increase</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/uk-budget-2026-rachel-reeves-autumn-statement" class="text-emerald-700 underline hover:text-emerald-900">Autumn Statement breakdown</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/uk-budget-2026-rachel-reeves-autumn-statement" class="text-emerald-700 underline hover:text-emerald-900">Autumn Statement breakdown</a>.</p>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>8% → 15.0%</li>
 </ol>

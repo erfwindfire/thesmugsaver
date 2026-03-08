@@ -49,7 +49,7 @@ export const ukBankAccountHacks2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. High-Yield Savings Account Strategies: 5%+ Returns in 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Transform your cash from earning pennies to pounds with high-yield savings accounts offering 5.1-5.4% returns. Learn which banks offer the best rates, eligibility requirements that actually matter, and strategies to maximize returns while maintaining FSCS protection.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">high-yield savings accounts</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">high-yield savings accounts</a>.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best High-Yield Accounts 2026</h3>
 <div class="overflow-x-auto mb-6">
 <table class="w-full border-collapse text-sm">
@@ -100,7 +100,7 @@ export const ukBankAccountHacks2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">FSCS Limit Optimization</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Spread £85,000 across different banking groups to stay within Financial Services Compensation Scheme protection while maximizing returns.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Rate Stacking</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/earning-and-benefits/open-banking-uk-2026-impact" class="text-emerald-700 underline hover:text-emerald-900">Open Banking impact</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/open-banking-uk-2026-impact" class="text-emerald-700 underline hover:text-emerald-900">Open Banking impact</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Use highest rate account for emergency fund, second-highest for savings goals, and optimize based on access requirements.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Rate Tracking</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Rates change monthly. Set calendar reminders to review and switch between providers to maintain top rates.</p>

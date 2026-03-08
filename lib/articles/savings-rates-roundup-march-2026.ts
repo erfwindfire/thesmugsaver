@@ -137,7 +137,7 @@ export const savingsRatesRoundupMarch2026: Article = {
 
 <p class="mb-4 text-gray-700 leading-relaxed"> The government has announced plans to cut the cash ISA allowance from £20,000 to £12,000 for under-65s from April 2027. This is proposed, not yet law — but if it passes, you'll permanently lose the ability to shelter that extra £8,000 per year. The 2025/26 and 2026/27 tax years are your last guaranteed chance to use the full £20,000 limit. Use them.</p>
 
-<p class="mb-4 text-gray-700 leading-relaxed">If you're a basic-rate taxpayer with less than £1,000 in savings interest annually, your Personal Savings Allowance already shelters you from tax — so the ISA rate advantage matters less. Higher-rate taxpayers (£500 PSA) and additional-rate taxpayers (no PSA at all) should prioritise their ISA as a matter of urgency. See our full breakdown in <a href="/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">top savings accounts beating inflation</a>.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">If you're a basic-rate taxpayer with less than £1,000 in savings interest annually, your Personal Savings Allowance already shelters you from tax — so the ISA rate advantage matters less. Higher-rate taxpayers (£500 PSA) and additional-rate taxpayers (no PSA at all) should prioritise their ISA as a matter of urgency. MoneySavingExpert maintains a <a href="https://www.moneysavingexpert.com/savings/best-cash-isa/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">live best-buy Cash ISA table</a> updated daily.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. The Zopa Biscuit Stitch-Up</h2>
 

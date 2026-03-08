@@ -17,7 +17,7 @@ export const bnplVsCreditCardsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">FCA Regulation Analysis</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Consumer Rights Focus</p>
 <p class="mb-4 text-gray-700 leading-relaxed">2026 Market Updates</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Our guide to <a href="/credit-cards-and-debt/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">debt payoff strategies</a> covers this in more detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/credit-cards-and-debt/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">debt payoff strategies</a>.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: BNPL offers short-term 0% credit but lacks Section 75 protection and credit score benefits. Credit cards provide stronger consumer protections, Section 75 coverage (£100-£30k purchases), and credit building, but charge 18-29% APR on unpaid balances. New FCA regulations in 2026 bring BNPL under formal oversight.</strong></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Key Decision: Use BNPL for small purchases (under £100) if you're certain of repayment. Use credit cards for large purchases and build credit, paying in full monthly to avoid interest.</p>
