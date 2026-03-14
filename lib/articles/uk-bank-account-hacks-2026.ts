@@ -380,6 +380,26 @@ export const ukBankAccountHacks2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the difference between AER and gross rate?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">AER (Annual Equivalent Rate) includes compound interest; gross rate doesn't. Example: 5% gross compounded monthly = 5.12% AER. Always compare AER figures.</p>
 
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How many current accounts can I hold simultaneously?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Most UK adults maintain 2-4 current accounts simultaneously with different providers for distinct purposes: your primary account for daily spending, a switching-bonus-harvest account (held 6 months then switched), an instant-access savings account with the same bank for convenience, and a premium account for benefits. There's no legal limit on account numbers, though managing more than 3 becomes cumbersome. Strategic multi-account management optimizes both switching bonuses and rate arbitrage across providers.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How often should I switch current accounts to harvest bonuses?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Annual switching can generate £300-500 in free bonuses by rotating between different banking groups. Most eligibility restrictions prevent switching to the same bank within 6-12 months, so maintain a cycling pattern: HSBC Year 1, Lloyds Year 2, NatWest Year 3. Each switch requires meeting credit requirements (typically £1,000-£1,500 monthly deposits and 2-3 active direct debits), so ensure your income patterns comfortably exceed these thresholds.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the safest way to spread savings across multiple banks?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">FSCS protection covers £85,000 per person per banking group. Different groups include: Lloyds, Halifax, and Bank of Scotland (one group); Barclays; HSBC; NatWest Group; and Santander. Spread money across different groups to maximize FSCS protection—you can safely hold up to £85,000 with each while maintaining full protection. Joint accounts double this (£170,000 total), making couples effective at protecting larger balances across multiple banks.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Should I fix my interest rates or keep them variable?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">A mixed approach works best: fix some money (1-2 year fixed accounts) to lock in current rates; keep some variable for flexibility. A 50/50 split hedges your bets while protecting against falling rates. Fixed rates typically exceed variable by 0.1-0.3%, so fixing a portion of your portfolio guarantees those premiums while maintaining liquid access to the rest.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is stoozing still worth attempting with current rates?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Stoozing—moving money between 0% balance transfer cards and earning interest on the float—was profitable a decade ago with 4-5% savings rates and abundant 0% cards. In 2026, rising credit card fees (1-3% transfer fee), stricter 0% availability, and only marginally higher savings rates (5%) make it less lucrative for most savers. Switching bonuses and high-yield accounts generate better returns with far less hassle than complex stoozing strategies.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the difference between AER and gross rate when comparing accounts?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">AER (Annual Equivalent Rate) includes compound interest over the year; gross rate doesn't. Example: 5% gross compounded monthly equals approximately 5.12% AER. Always compare using AER figures across different accounts, as gross rates can be misleading when interest compounds frequently. A 5% AER account paying quarterly is roughly equivalent to a 5.01% gross account paying annually, despite appearing identical without proper comparison.</p>
+
 <div class="mt-12 pt-8 border-t border-gray-200">
 
   <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">

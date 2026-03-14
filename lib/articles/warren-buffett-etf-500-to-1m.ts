@@ -130,7 +130,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">With £500 monthly, you cross £1 million at year 30 instead of year 35 with £300 monthly. That's 5 years sooner—and the difference compounds. By continuing to year 35, you have £1.86 million instead of £1.12 million. The higher contribution accelerates wealth building dramatically.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Historical S&P 500 Returns: What to Realistically Expect</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The S&P 500 has delivered approximately 10-11% annual returns since 1928—nearly a century of data. But this isn't a smooth line upward. It's a volatile rollercoaster that ultimately climbs higher over time.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Best Years</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best Years</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>1954: +52.6%</li>
 <li>1958: +43.4%</li>
@@ -138,7 +138,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <li>2013: +32.4%</li>
 <li>2019: +31.5%</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Worst Years</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Worst Years</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>1931: -43.3%</li>
 <li>2008: -37.0%</li>
@@ -171,7 +171,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Bottom line: Always max out your Stocks & Shares ISA first. Only invest outside an ISA if you're contributing more than £20,000 annually. For most people following the £500 monthly strategy, staying within an ISA makes taxes completely irrelevant.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Practical Steps to Start Investing in S&P 500 ETFs from the UK</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Ready to follow Buffett's advice? Here's your step-by-step action plan.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">1Choose Your Platform</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">1Choose Your Platform</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Top UK platforms for S&P 500 investing:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Vanguard UK: Direct access to Vanguard funds, 0.15% platform fee, excellent for long-term holding</li>
@@ -180,7 +180,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <li>Interactive Investor: Flat monthly fee (£4.99-9.99), best for larger portfolios</li>
 <li>Freetrade/Trading 212: Zero commission trading, good for beginners</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">2Open a Stocks & Shares ISA</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">2Open a Stocks & Shares ISA</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Takes 10-20 minutes online. You'll need:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>National Insurance number</li>
@@ -188,7 +188,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <li>Proof of address (bank statement or utility bill)</li>
 <li>Bank account for transfers</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">3Select Your S&P 500 Fund</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">3Select Your S&P 500 Fund</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">UK investors should choose from:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Vanguard S&P 500 UCITS ETF (VUSA): 0.07% fee, accumulates dividends automatically</li>
@@ -196,7 +196,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <li>SPDR S&P 500 UCITS ETF (SPY5): 0.09% fee, older established fund</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">All track the same index. Choose based on platform availability and whether you want accumulating (reinvests dividends automatically) or distributing (pays dividends to your account).</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">4Set Up Automatic Monthly Investments</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">4Set Up Automatic Monthly Investments</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">This is crucial. Automation removes emotion and ensures consistency.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Set up a standing order to transfer £500 monthly to your ISA</li>
@@ -204,23 +204,23 @@ export const warrenBuffettEtf500To1m: Article = {
 <li>Choose the same day each month (e.g., day after payday)</li>
 <li>Enable dividend reinvestment if available</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">5Stay the Course</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">5Stay the Course</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The hardest part: doing nothing. Don't check daily. Don't panic during crashes. Don't try to time the market. Just keep investing £500 monthly regardless of market conditions. This is called dollar-cost averaging, and it's your secret weapon against volatility.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Risks and Considerations: What Could Go Wrong?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Let's be brutally honest about the risks. This strategy is not guaranteed, and understanding what could go wrong is essential for staying committed during difficult times.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Market Volatility and Crashes</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Market Volatility and Crashes</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">You will experience gut-wrenching drops. Your £500,000 portfolio might temporarily fall to £300,000. This will test your resolve.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Mitigation: Remember that crashes are temporary. Every major crash (1929, 1987, 2000, 2008, 2020) has fully recovered. Continuing to invest during crashes buys you shares at discount prices, accelerating long-term gains.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Sequence of Returns Risk</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Sequence of Returns Risk</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">If you hit a major bear market in your final 5-10 years of investing, it could significantly impact your final portfolio value. A 2008-style crash at year 28 would hurt.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Mitigation: As you approach your goal (e.g., year 25+), consider gradually shifting 10-20% into bonds or cash to reduce volatility. This sacrifices some upside for protection.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Currency Risk (GBP vs USD)</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Currency Risk (GBP vs USD)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">S&P 500 funds are denominated in USD. Pound strengthening against the dollar reduces your returns in GBP terms. Pound weakening increases them.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Reality: Over 30+ years, currency fluctuations tend to even out. The underlying business growth matters more than short-term exchange rates.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Concentration in US Markets</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Concentration in US Markets</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">You're betting entirely on American capitalism. What if China or emerging markets outperform? What if US dominance fades?</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Counterpoint: The S&P 500 companies are global businesses earning profits worldwide. Apple, Google, Microsoft, and Amazon dominate globally, not just in America. You're buying the world's winners.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Inflation Risk</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Inflation Risk</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">If inflation averages 4% annually and the market returns 8%, your real return is only 4%. £1 million in 35 years won't buy what £1 million buys today.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Reality: True, but stocks are one of the best inflation hedges. Companies raise prices during inflation, protecting profits. Cash and bonds get destroyed by inflation. Stocks at least keep pace.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Despite these risks, the S&P 500 strategy remains one of the most reliable paths to wealth for ordinary investors. The key is accepting volatility as the price of admission to extraordinary long-term returns.</p>

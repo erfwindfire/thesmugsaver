@@ -199,7 +199,7 @@ export const costOfLiving2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">UK telecoms is highly competitive, but providers rely on customer inertia. Active management can cut your bills by 40-60% annually.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Contract Negotiation Scripts</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Retention Call Script:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">"I'm calling to cancel my contract as I've found a better deal elsewhere. Before I go ahead, is there anything you can offer to match [competitor's offer]? I've been a customer for [X years] and would prefer to stay if the price works."</p>
+<p class="mb-4 text-gray-700 leading-relaxed">"I'm calling to cancel my contract as I've found a better deal elsewhere. Before I go ahead, is there anything you can offer to match a competitor's lower price? I've been a customer for several years and would prefer to stay if the price works."</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Mid-contract Price Rise Response:</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">"I received notification of a price increase. Under Ofcom rules, this is a material change to my contract, so I'd like to exercise my right to leave penalty-free. Can you process my cancellation, or do you have alternative offers?"</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Pro Negotiation Tips:</h4>
@@ -215,24 +215,25 @@ export const costOfLiving2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Broadband: Hyperoptic and Community Fibre provide ultrafast speeds in selected areas at competitive prices. For budget options, Plusnet and Now Broadband offer reliable service with frequent cashback deals.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Social tariffs: BT, Sky, Virgin, and others offer discounted broadband for benefit recipients (£10-20 monthly). These aren't widely advertised but provide full-speed internet at social rates.</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Comprehensive FAQ: Cost of Living in the UK</h2>
-<h3>1. How do I know if I'm getting the best energy deal in 2026?</h3>
-<p>The energy market remains complex post-price cap, but comparison is crucial. Use Ofgem's official price comparison tool rather than commercial comparison sites, which often don't show all available deals. Look beyond headline unit rates - standing charges, payment method discounts, and contract terms matter significantly.</p>
-<h3>2. What's the difference between direct debit and pay-as-you-go for utilities, and which saves more money?</h3>
-<p>Direct debit typically offers 3-5% discounts on energy bills, but requires careful management to avoid building up credit balances. Monthly direct debits spread costs evenly but may result in overpaying during low-usage periods. Variable direct debits charge actual usage but can cause budget volatility.</p>
-<h3>3. How do I optimize my grocery shopping for inflation while maintaining nutrition and variety?</h3>
-<p>Strategic grocery shopping during inflation requires focusing on nutritional value per pound rather than absolute cost. Plan meals around seasonal produce and store promotions rather than fixed weekly menus. Bulk-buy non-perishables during offers, but calculate cost per unit to ensure real savings.</p>
-<h3>4. Are there regional differences in cost-saving opportunities across the UK?</h3>
-<p>Significant regional variations exist in both costs and savings opportunities across the UK. Scotland offers additional benefits like free prescriptions, different council tax structures, and the Scottish Child Payment. Northern Ireland has separate utility providers and different transport systems.</p>
-<h3>5. How do I handle rent increases and what are my rights as a tenant?</h3>
-<p>Rent increase procedures depend on your tenancy type and agreement terms. For assured shorthold tenancies (most private rentals), landlords can only increase rent once yearly unless your agreement allows more frequent increases. They must provide proper notice - usually one month for monthly tenancies, six months for yearly agreements.</p>
-<h3>6. What subscriptions should I audit and how do I effectively manage them?</h3>
-<p>Regular subscription audits can easily save £50-100 monthly for the average household. Start by checking bank statements for the last three months to identify all recurring payments, including annual subscriptions that may be forgotten. Use apps like Honey or Truebill to automatically identify subscriptions.</p>
-<h3>7. How can families with children maximize their cost savings while meeting everyone's needs?</h3>
-<p>Family cost optimization requires balancing immediate savings with long-term investment in children's development. Maximize government support first: ensure you're claiming all eligible benefits including Child Benefit, Tax-Free Childcare, and free school meals. Use school holiday activity programs, which provide meals and activities at reduced cost.</p>
-<h3>8. What are the most effective ways to reduce transport costs without affecting work or lifestyle?</h3>
-<p>Transport optimization starts with understanding your actual travel patterns rather than perceived needs. Track all journeys for one month to identify potential savings. For regular commuting, season tickets almost always offer better value than daily purchasing - many employers offer interest-free season ticket loans.</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What benefits am I missing that I could claim today?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Many working households miss £1,000+ annually in legitimate benefits. Start with GOV.UK's benefit checker. Tax-Free Childcare provides up to £2,000 yearly (25% government top-up). Working Tax Credit or Universal Credit top-ups may apply even while employed. Turn2Us Grant Search identifies charity support. Local councils run discretionary welfare schemes. Spend 30 minutes identifying benefits you're not claiming—this typically uncovers immediate £50-200 monthly income increases.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How can I guarantee my energy bills don't skyrocket unexpectedly?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Fixed-rate contracts guarantee your rates for specified periods (typically 12 months), protecting you from price cap increases. Monitor for price cap announcements and book fixed deals before they take effect. Direct debit payments on fixed contracts usually offer 2-3% additional discounts. Setup monthly direct debits that adjust with actual usage rather than estimates, preventing overpayment accumulation that disrupts budget planning.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is it really worth optimizing grocery shopping?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Strategic grocery shopping saves 20-35% on weekly bills—roughly £20-40 per shop. Dedicate one hour monthly to strategic shopping: use Tesco Price Match against Aldi, time shopping for 7-8pm yellow sticker reductions (30-75% off), buy store brands instead of premiums where quality differences are minimal. This hourly investment generates £80-160 monthly savings, representing £960-1,920 annually combined with subscription audits and bill negotiation.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Should I move if I live in an expensive area?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Moving costs (estate agent fees, solicitors, removals) typically exceed savings for 2-3 years. Calculate your monthly rent difference versus moving costs; if moving saves £200 monthly, you break even after 15-20 months but face £2,000-5,000 upfront costs. Urban dwellers benefit from lower bills through competition and side-hustle opportunities. Rural residents benefit from lower housing costs but higher transport expenses. Evaluate your specific location's complete cost structure.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How do I budget when inflation makes planning impossible?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Build flexible budgets with percentages rather than fixed amounts: 50% needs, 30% wants, 20% savings. When inflation increases your needs, reduce wants proportionally rather than abandoning savings. Setup automated savings transfers immediately after payday before you see the money. This ensures savings happen automatically regardless of inflation. Review and adjust your budget quarterly, not monthly, to avoid decision fatigue.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the single most effective cost-of-living hack I can implement today?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Automating a standing order to savings immediately after payday is single most effective hack. Even £50-100 monthly becomes £600-1,200 annually, plus interest. Combined with one annual energy switch (£100-150 savings) and benefit claiming (£50-200 monthly), you've generated £1,000+ annual relief through automatic systems requiring minimal ongoing effort and zero willpower.</p>
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 

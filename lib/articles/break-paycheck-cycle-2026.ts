@@ -25,7 +25,7 @@ export const breakPaycheckCycle2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Understanding the Paycheck-to-Paycheck Cycle</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Here's the brutal arithmetic: 78% of UK workers live paycheck to paycheck, including 48% of those earning over £50,000. This isn't a poverty problem—it's a wealth-extraction system masquerading as personal responsibility. Your emergency fund isn't failing because you lack discipline; it's failing because the cost of existing in modern Britain has been weaponized against financial stability.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Why the Cycle Persists in the UK (2026 Context)</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Why the Cycle Persists in the UK (2026 Context)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Structural Issues</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/budgeting/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">savings automation strategies</a>.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -120,7 +120,7 @@ export const breakPaycheckCycle2026: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Negotiate Remote Days</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Email Template:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/credit-cards-and-debt/conquer-your-debt-2026" class="text-emerald-700 underline hover:text-emerald-900">debt elimination</a>.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">"Hi [Manager], I'd like to discuss implementing 2-3 remote days per week. Based on my research, this could save me £150/month in commuting costs while maintaining productivity..."</p>
+<p class="mb-4 text-gray-700 leading-relaxed">"Hi your manager, I'd like to discuss implementing 2-3 remote days per week. Based on my research, this could save me £150/month in commuting costs while maintaining productivity..."</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Freelancing Platforms</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Upwork (global clients)</li>

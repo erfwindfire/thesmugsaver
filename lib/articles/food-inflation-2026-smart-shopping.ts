@@ -17,15 +17,15 @@ export const foodInflation2026SmartShopping: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#price-calculator" class="text-emerald-700 underline hover:text-emerald-900">Calculate Savings</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">The most impactful single change for food savings is switching the majority of your grocery shop to a discounter — Aldi or Lidl. For a family of four, this switch typically saves £60–£100/month versus Tesco or Asda on like-for-like items. Covering staples (meat, dairy, produce, tinned goods, cleaning products) at a discounter while shopping branded deals at major supermarkets gives you 80% of the savings with full access to specific favourites.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Loyalty scheme prices — Tesco Clubcard, Sainsbury's Nectar, Boots Advantage — effectively create a two-tier pricing system where non-members pay significantly more for identical items. Using these schemes costs nothing and typically saves 15–25% on own-brand and promoted products. Stack loyalty pricing with a cashback credit card such as the Amex Cashback card to earn an additional 0.5–1% back on grocery spend.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">5.1%</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5.1%</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Food Price Inflation 2026</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">£360+</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">£360+</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Extra Annual Cost Per Family</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Batch cooking and freezer-filling are the most time-efficient food saving strategies for UK households. Spending 2–3 hours cooking on a Sunday can provide 4–5 weekday meals, cutting per-meal costs by 40–60% versus ready meals or takeaways. The key is a rotating list of 6–8 batch-cook recipes your household genuinely enjoys — variety prevents the "I can't face it again" fatigue that derails most batch cooking plans within a month.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">30-40%</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">30-40%</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Potential Savings With Strategy</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Planning ahead for seasonal spending is one of the most underrated household budget strategies. Christmas food, decorations, and gifts bought in January sales or year-round on supermarket yellow-sticker clearances can reduce December's total cost by 30–40% compared to buying at full price in November or December. A dedicated Christmas savings pot — even £20–£30/month from January — means the season requires no debt or financial stress.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">2 Hours</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2 Hours</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Weekly Time Investment</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your Grocery Budget Is Under Attack—Here's How to Fight Back</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Let's not sugarcoat it: food inflation is devastating UK families. That £100 weekly shop now costs £105.10—and that's just the start. By year's end, you'll have paid an extra £360+ for exactly the same food. For families already stretched thin, this isn't just inconvenient—it's financially catastrophic.</p>
@@ -37,8 +37,7 @@ export const foodInflation2026SmartShopping: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Batch cooking isn't just convenient—it's your secret weapon against inflation. By buying ingredients in bulk and cooking efficiently, you can slash food costs by 40-50% while eating better.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Economics of Batch Cooking</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Real Cost Comparison: Family of 4, One Week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Ready Meals & Takeaways</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Convenience-focused week</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Ready Meals & Takeaways</p><p class="mb-4 text-gray-700 leading-relaxed">Convenience-focused week</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£180-220</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£9,360-11,440/year</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Daily Fresh Shopping</p>
@@ -73,8 +72,7 @@ export const foodInflation2026SmartShopping: Article = {
 </ol>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Week-Long Meal Plan from One Shopping Trip</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Shopping List (£45-55 total)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Proteins:</p>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+<p class="mb-4 text-gray-700 leading-relaxed">Proteins:</p><ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>2kg chicken thighs</li>
 <li>1kg dried beans</li>
 <li>2 dozen eggs</li>
@@ -167,8 +165,7 @@ export const foodInflation2026SmartShopping: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Smart Multi-Store Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">No single store has the best prices on everything. Strategic multi-store shopping maximizes savings:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Weekly Rotation (Example)</p>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+<p class="mb-4 text-gray-700 leading-relaxed">Weekly Rotation (Example)</p><ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Monday (Aldi): Main shop - produce, meat, dairy, basics</li>
 <li>Wednesday (Traditional Supermarket): Top-up - branded items, specific needs</li>
 <li>Friday (Iceland/Farmfoods): Frozen goods, bulk items</li>
@@ -188,8 +185,7 @@ export const foodInflation2026SmartShopping: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">UK households throw away £1,500 worth of edible food annually. With inflation hitting 5.1%, that waste hurts even more. Turn food rescue into serious savings with systematic waste reduction.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The True Cost of Food Waste</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">What UK Families Actually Waste (Annual Averages)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fresh Produce</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fruit, vegetables, salads</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Fresh Produce</p><p class="mb-4 text-gray-700 leading-relaxed">Fruit, vegetables, salads</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£450-550</p>
 <p class="mb-4 text-gray-700 leading-relaxed">30% of total waste</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Bread & Bakery</p>
@@ -210,8 +206,7 @@ export const foodInflation2026SmartShopping: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The FIFO Revolution (First In, First Out)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Restaurants use FIFO to minimize waste. Apply the same professional system at home:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Fridge Organization System</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Eye-Level Shelf</p>
-<p class="mb-4 text-gray-700 leading-relaxed">"Use First" zone - items expiring in 1-2 days</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Eye-Level Shelf</p><p class="mb-4 text-gray-700 leading-relaxed">"Use First" zone - items expiring in 1-2 days</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Top Shelf</p>
 <p class="mb-4 text-gray-700 leading-relaxed">New purchases, items with longer dates</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Crisper Drawers</p>
@@ -228,8 +223,7 @@ export const foodInflation2026SmartShopping: Article = {
 </ol>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Rescue Cooking Techniques</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Transform near-expiry items into preserved foods that last weeks or months:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Wilting Vegetables → Flavor Powerhouses</p>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
+<p class="mb-4 text-gray-700 leading-relaxed">Wilting Vegetables → Flavor Powerhouses</p><ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Soup base: Onions, carrots, celery (freeze in portions)</li>
 <li>Vegetable stock: Scraps + water, simmer 2 hours, freeze</li>
 <li>Pestos & herb oils: Basil, spinach, garlic (freeze in ice cubes)</li>
@@ -269,8 +263,7 @@ export const foodInflation2026SmartShopping: Article = {
 <li>First in, first out: Label everything with freezing dates</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">The 50% Challenge</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Start with a goal of reducing food waste by 50% in your first month. Track what you throw away for one week to establish baseline.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Realistic outcome: Save £600-800 annually through systematic waste reduction. That's equivalent to finding money down the back of the sofa every single day.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Start with a goal of reducing food waste by 50% in your first month. Track what you throw away for one week to establish baseline.</p><p class="mb-4 text-gray-700 leading-relaxed">Realistic outcome: Save £600-800 annually through systematic waste reduction. That's equivalent to finding money down the back of the sofa every single day.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Strategic Meal Planning: The Inflation-Fighting Formula</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Random meal choices lead to expensive shopping and food waste. Strategic meal planning during inflation means planning around sales, seasonal produce, and bulk ingredients for maximum savings.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Reverse Planning Method</h3>
@@ -284,8 +277,7 @@ export const foodInflation2026SmartShopping: Article = {
 </ol>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The £3-Per-Person Formula</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Target £3 per person per meal for nutritious, satisfying dinners. Here's how to hit that target consistently:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Meal Cost Breakdown (Family of 4)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Protein (150g per person)</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Meal Cost Breakdown (Family of 4)</p><p class="mb-4 text-gray-700 leading-relaxed">Protein (150g per person)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£4.00-6.00</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Vegetables (200g per person)</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£2.00-3.50</p>
@@ -314,8 +306,7 @@ export const foodInflation2026SmartShopping: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">14-Day Rotating Menu System</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Create a 2-week rotation of proven, budget-friendly meals. Reduces decision fatigue and allows bulk buying for repeated ingredients.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Week 1 Template</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Monday: Bean & veg curry</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.80/person</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Monday: Bean & veg curry</p><p class="mb-4 text-gray-700 leading-relaxed">£2.80/person</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Tuesday: Pasta with tinned fish</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£2.50/person</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Wednesday: Chicken thigh stir-fry</p>
@@ -349,19 +340,14 @@ export const foodInflation2026SmartShopping: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Key principle: Having a system prevents expensive last-minute decisions while allowing adaptation to opportunities and circumstances.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Food Inflation 2026: Your Questions Answered</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much has food inflation really affected UK families in 2026?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Which foods have seen the biggest price increases?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Are discount supermarkets actually cheaper during inflation?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much can I realistically save with meal planning?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When is the best time to do grocery shopping for deals?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the most effective single change I can make today?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Related Money Guides</h3>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques UK 2026Master budgeting fundamentals to allocate more money for food savings</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/supermarket-savings/grocery-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">10 Grocery Saving Hacks You Haven't Tried YetUK-specific grocery saving strategies and advanced techniques</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.ons.gov.uk/economy/inflationandpriceindices" class="text-emerald-700 underline hover:text-emerald-900">ONS Inflation DataOfficial UK inflation statistics and food price indices</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="https://www.bbc.co.uk/news/business" class="text-emerald-700 underline hover:text-emerald-900">BBC Business NewsLatest UK food inflation and economic news</a></p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Saving Money Daily</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Get personalized money-saving tips and financial strategies delivered to your inbox every morning. Join thousands who are building wealth one tip at a time.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Subscribe</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Food inflation at 5.1% means a family's £100 weekly shop now costs £105.10—adding £360+ to annual grocery bills for identical items. More painfully: meat prices jumped 8.2%, fresh vegetables up 6.7%, and bread climbed 4.3%. A family of four notices the difference on every shopping trip but struggles to quantify it until year-end accounting reveals the true cost.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Combined with other living cost increases (energy, transport, childcare), food inflation forces families into deficit spending or calorie reduction. Using smart strategies can offset 30-40% of these increases, meaning families can spend as much now and get quality equivalent to £10 better shopping two years ago.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Which foods have seen the biggest price increases?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Meat leads inflation at 8.2%, followed by fresh vegetables at 6.7%, bread at 4.3%, and dairy at 5.9%. Processed foods show lower inflation (2-3%) since producers absorb some costs rather than passing full burden to consumers. Luxury items like out-of-season produce have inflation exceeding 10%.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Strategic response: buy seasonal British vegetables (winter: roots, cabbage, sprouts), substitute meat with eggs and legumes (£1-3/kg), choose bread from budget stores (60% cheaper), and batch-cook to stretch meat further. Processed foods offer better value per calorie in inflation context—budget beans beat premium fresh equally nutritionally.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Are discount supermarkets actually cheaper during inflation?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Absolutely yes—Aldi and Lidl save 25-35% during inflation because their costs rise less than traditional supermarkets due to simpler operations and lower margins. While mainstream inflation hits 5%, discounters often increase prices just 2-3%. Over a year, this 2-3% difference compounds to £200-£400 in annual savings.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Blind taste tests consistently show budget supermarket own-brands beating premium alternatives. During inflationary periods, shopping habits adjust: traditional supermarket shoppers discover Aldi/Lidl quality rivals premium versions, creating permanent customer migration that survives inflation recovery.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much can I realistically save with meal planning?</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Systematic meal planning reduces food costs by 30-40% compared to unplanned shopping. Batch cooking specifically saves £3,640-£4,160 annually versus daily shopping. The mechanism: planned meals allow bulk purchasing of ingredients, reduce impulse buying, prevent food waste, and eliminate convenience premium items.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Time investment: 2-3 hours weekly planning and cooking yields £70-£80 weekly savings for a family of four. That's £1,500+ annual savings for 2 hours weekly investment—equivalent to £750/hour return. Even modest planning (one meal planned daily) saves £20-30 weekly through reduced impulse purchasing.</p>
 <div class="mt-12 pt-8 border-t border-gray-200">
   <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
     <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>

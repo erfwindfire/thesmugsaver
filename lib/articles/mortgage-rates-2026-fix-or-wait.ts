@@ -13,7 +13,7 @@ export const mortgageRates2026FixOrWait: Article = {
  excerpt: 'Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating March 2026\'s rate landscape and making the right fixing decision.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Mortgage Rates March 2026: Should You Fix Now or Wait?</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating March 2026's rate landscape and making the right fixing decision.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Executive Summary</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Executive Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The March 2026 mortgage market presents a critical decision point for UK borrowers.</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Current rates: 2-year fixes averaging 4.89%, 5-year fixes at 4.52%</li>
@@ -158,7 +158,7 @@ export const mortgageRates2026FixOrWait: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stress Testing Your Decision</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Lenders stress test at around 7-8%, but you should run personal scenarios:</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Personal Stress Test Questions:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Personal Stress Test Questions:</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>Can I afford payments if rates were 2% higher?</li>
 <li>What if I lost income for 6 months?</li>
@@ -191,7 +191,7 @@ export const mortgageRates2026FixOrWait: Article = {
 <li>You believe base rate will fall below 4% in next 12 months</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Action Plan: Your Next Steps</h2>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">This Week:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">This Week:</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>Check your current mortgage end date and rate</li>
 <li>Use mortgage calculator to stress test different scenarios</li>

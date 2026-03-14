@@ -210,7 +210,7 @@ export const carTradingSellingUk2026: Article = {
 <li>Avoid desperate situations: Never trade under pressure</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">The Trade-In Negotiation Script</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 1: "I've had this valued at £X by [other dealer]. Can you match or beat that?"</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Step 1: "I've had this valued at £X by a competing dealer. Can you match or beat that?"</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Step 2: "I'm happy to do the deal today if we can agree on the trade value."</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Step 3: "What's your best possible offer? I need to make a decision this week."</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Step 4: If they won't budge: "I'll take your details and get back to you after considering all options."</p>

@@ -13,7 +13,7 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
  excerpt: 'Stop paying for insurance you don\'t need or getting caught with coverage that won\'t protect you when it matters. This complete guide reveals what insurance companies don\'t want you to know about premi',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Premium vs Budget Insurance: How Not to Get Ripped Off in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop paying for insurance you don't need or getting caught with coverage that won't protect you when it matters. This complete guide reveals what insurance companies don't want you to know about premium vs budget policies.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is Insurance Excess (Deductible)?</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What is Insurance Excess (Deductible)?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The excess is the amount you pay towards a claim before your insurance kicks in. For example, with a £250 excess on car insurance, you pay the first £250 of any repair, and the insurer covers the rest. Higher excess = lower premiums, but you'll pay more out-of-pocket if you need to claim. Choosing the right excess level is key to balancing upfront costs against potential claim expenses.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Answers: Insurance Essentials</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is premium insurance always better than budget insurance?</h3>
@@ -388,13 +388,13 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Negotiation Scripts That Work</h4>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Opening Gambit</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">"I've been with [Company] for [X] years and received my renewal quote. I've also gotten quotes from [Competitor 1] and [Competitor 2] that are significantly lower for similar coverage. I'd prefer to stay with you, but I need to understand if there's a better rate available."</p>
+<p class="mb-4 text-gray-700 leading-relaxed">"I've been with your current insurer for [X] years and received my renewal quote. I've also gotten quotes from Aviva and Direct Line that are significantly lower for similar coverage. I'd prefer to stay with you, but I need to understand if there's a better rate available."</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Why it works: Shows loyalty, demonstrates you've done research, creates urgency, and opens door for counter-offers.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Value Reinforcement</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">"I have [list all policies] with you, which represents £[X] annually. I've never made a claim and have been a loyal customer. What's the best rate you can offer to keep all my business?"</p>
+<p class="mb-4 text-gray-700 leading-relaxed">"I have all your policies with you, which represents £[X] annually. I've never made a claim and have been a loyal customer. What's the best rate you can offer to keep all my business?"</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Why it works: Quantifies relationship value, emphasizes low risk profile, asks for specific action.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Final Ultimatum (Use Carefully)</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">"I appreciate the offer, but it's still £[X] more than [Competitor]. Is that truly your best rate? If so, I'll need to switch to [Competitor] by [Date] to avoid any coverage gaps."</p>
+<p class="mb-4 text-gray-700 leading-relaxed">"I appreciate the offer, but it's still £[X] more than a competitor. Is that truly your best rate? If so, I'll need to switch to a competitor by the date to avoid any coverage gaps."</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Why it works: Creates real deadline pressure, shows you're serious about switching, often triggers "final" offers.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Negotiation Leverage Points</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

@@ -14,8 +14,8 @@ export const studentFinanceSurvivalUk2026: Article = {
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies</p>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Takeaways</h3>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Money Management</h4>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Takeaways</h2>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Money Management</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Set up student-specific budgeting systems</li>
 <li>Master discount codes and student deals</li>
@@ -30,10 +30,10 @@ export const studentFinanceSurvivalUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Student life in the UK has become increasingly expensive, with average student debt reaching £45,800 in 2026 (per Student Loans Company data). Maintenance loans cover just 72% of living costs according to Save the Student 2024 survey. But with the right financial strategies, you can not only survive but thrive during your university years—64% of students using structured budgeting save £200+ monthly. This comprehensive guide provides practical, tested strategies specifically designed for UK students navigating the 2026 financial landscape. Start implementing these tactics today to build better money habits for life.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">From maximizing your student finance to finding the cheapest accommodation, mastering student discounts to building emergency funds, we'll cover everything you need to know to maintain financial stability while focusing on your studies. Whether you're looking for proven budgeting techniques, need help managing the rising cost of living, want to learn about loan repayment strategies, or explore tax-free side hustles, this guide has you covered. Whether you're a first-year fresher or a final-year student, these strategies will help you make every pound count.</p>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">1. Student Budgeting Fundamentals</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Student Budgeting Fundamentals</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Master the art of student budgeting with proven frameworks and tools</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/earning-and-benefits/student-loan-repayment-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">student loan repayment</a>.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">The 50/30/20 Student Budget Rule</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 50/30/20 Student Budget Rule</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Adapt the classic budgeting rule for student life: 50% for essentials (rent, food, transport), 30% for lifestyle (entertainment, eating out, clothes), and 20% for savings and emergency fund.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Monthly Budget Example (£800 income):</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -65,9 +65,9 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>4. Sunday: Prep for the week ahead and adjust budget if needed</li>
 </ol>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">2. Housing and Rent Strategies</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. Housing and Rent Strategies</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Navigate UK student accommodation markets and minimize housing costs</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Accommodation Cost Breakdown by Region (2026)</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Accommodation Cost Breakdown by Region (2026)</h3>
 <div class="overflow-x-auto mb-6">
 <table class="w-full border-collapse text-sm">
 <thead><tr class="bg-emerald-800 text-white">
@@ -136,9 +136,9 @@ export const studentFinanceSurvivalUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">For early applications:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">"I'm very interested in this property and can sign today. Is there any flexibility on the rent for early commitment?"</p>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">3. Part-Time Job Optimization</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3. Part-Time Job Optimization</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Maximize earnings while protecting your studies and mental health</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Student Work Rights & Limits (2026)</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Student Work Rights & Limits (2026)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### UK/EU Students</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>No hour restrictions during studies</li>
@@ -210,9 +210,9 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Requires support systems</li>
 </ul>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">4. Student Discount Mastery</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. Student Discount Mastery</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Unlock hundreds of pounds in savings with strategic discount usage</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Essential Student Discount Platforms</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Essential Student Discount Platforms</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### UNiDAYS</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>10% off ASOS, Nike, Adidas</li>
@@ -270,9 +270,9 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>5. Loyalty Points: Accumulate points for future discounts</li>
 </ol>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">5. Food Shopping and Meal Prep Hacks</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5. Food Shopping and Meal Prep Hacks</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Eat well on £15-25 per week with smart shopping and meal planning</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Budget Food Shopping Strategy</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Budget Food Shopping Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Shopping Schedule</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Shop yellow-sticker items after 6pm</li>
@@ -365,9 +365,9 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Religious centers often provide meals</li>
 </ul>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">6. Essential Money Apps for Students</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">6. Essential Money Apps for Students</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Leverage technology to track spending, find deals, and maximize savings</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Banking & Budgeting Apps</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Banking & Budgeting Apps</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Monzo Bank</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Free student account with smart budgeting features</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -438,9 +438,9 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>5. Monthly: Analyze trends and optimize app settings (15 min)</li>
 </ol>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">8. Crisis Grants and Emergency Support</h3>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">8. Crisis Grants and Emergency Support</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Access emergency funding when facing unexpected financial difficulties</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">University Hardship Funds</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">University Hardship Funds</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Emergency Situations</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Unexpected family financial crisis</li>
@@ -532,8 +532,8 @@ export const studentFinanceSurvivalUk2026: Article = {
 <li>Know who to contact in emergencies</li>
 </ul>
 
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Frequently Asked Questions</h3>
-<h4>How much should I budget for food as a UK student in 2026?</h4>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
+<h3>How much should I budget for food as a UK student in 2026?</h3>
 <p>A realistic food budget for UK students ranges from £15-40 per week, depending on your cooking skills and dietary requirements. Budget students can manage on £15-20 by shopping at Aldi/Lidl, buying own-brand products, and cooking from scratch. With meal planning and batch cooking, you can eat nutritiously including fresh fruits and vegetables within this budget.</p>
 <h4>Can international students work part-time in the UK, and what are the restrictions?</h4>
 <p>International students on Tier 4/Student visas can work up to 20 hours per week during term time and full-time during holidays, provided their visa specifically permits work. Check your visa sticker or BRP card for work restrictions - some foundation and pre-sessional courses may not allow work at all. On-campus work for your own institution often has fewer restrictions and may not count toward the 20-hour limit.</p>
@@ -564,14 +564,14 @@ export const studentFinanceSurvivalUk2026: Article = {
   </div>
 
   <div class="mb-8">
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <h2 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h2>
     <ul class="space-y-2 text-sm text-gray-600">
       <li><a href="https://www.legislation.gov.uk/uksi/2009/1622/contents/made" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Higher Education (Higher Amount) (England) Regulations 2010</a> — Establishes student loan amounts and eligibility criteria for UK students.</li>
     </ul>
   </div>
 
   <div>
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <h2 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h2>
     <ul class="space-y-2 text-sm text-gray-600">
       <li><a href="https://www.slc.co.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Student Loans Company</a> — Official student finance portal with loan information and repayment details.</li>
       <li><a href="https://www.moneyhelper.org.uk/en/young-people/student-money" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Student Money</a> — Independent guidance on student budgeting and financial planning.</li>

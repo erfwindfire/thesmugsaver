@@ -39,7 +39,7 @@ export const conquerYourDebt2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. The Debt Snowball: Psychology Meets Mathematics</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The debt snowball method focuses on paying off your smallest debts first, regardless of interest rates. While it might not be the most mathematically optimal approach, it's incredibly effective because it leverages human psychology.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">How It Works:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How It Works:</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>List all your non-priority debts from smallest to largest balance</li>
 <li>Make minimum payments on all debts</li>
@@ -56,7 +56,7 @@ export const conquerYourDebt2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3. The Debt Avalanche: Mathematical Optimisation</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The debt avalanche method focuses on paying off debts with the highest interest rates first. This approach minimises the total interest you'll pay over time, potentially saving you hundreds or thousands of pounds.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">How It Works:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How It Works:</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>List all your non-priority debts by interest rate (highest first)</li>
 <li>Make minimum payments on all debts</li>
@@ -68,10 +68,10 @@ export const conquerYourDebt2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Choose Snowball If: You need motivation boosts, Interest rates are similar, You've failed at debt reduction before, Psychology matters more than maths for you. Choose Avalanche If: You're motivated by saving money, Interest rates vary significantly, You're disciplined with long-term goals, Mathematics motivates you.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. Master Debt Negotiation: Scripts That Work</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">UK creditors often have more flexibility than they initially let on. With the right approach, you can negotiate reduced payments, payment holidays, or even debt settlements.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Phone Script for Payment Reduction</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">You: "Hello, I'm calling about my account [account number]. I'm experiencing financial difficulties and need to discuss my payment options." Explain your situation with specific circumstances (not vague "money troubles"), propose a specific new payment and timeframe, ask them to note the call on your account.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Email Template for Hardship Application</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Subject: Hardship Application - Account [Number]. Dear [Creditor Name], I am writing to formally request assistance under your hardship provisions. Current Situation: Due to [specific reason - redundancy/illness/divorce], my monthly income has [reduced/stopped]. Current Debt: Outstanding balance £[amount]. Current monthly payment £[amount]. Payment I can sustain: £[amount]. Request: I respectfully request a reduced payment plan of £[amount] per month. I have attached [budget worksheet/benefit letters] to support this application. I look forward to your response within 10 working days as per FCA guidelines.</p>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Phone Script for Payment Reduction</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">You: "Hello, I'm calling about my account your account number. I'm experiencing financial difficulties and need to discuss my payment options." Explain your situation with specific circumstances (not vague "money troubles"), propose a specific new payment and timeframe, ask them to note the call on your account.</p>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Email Template for Hardship Application</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Subject: Hardship Application - Account your reference number. Dear your creditor, I am writing to formally request assistance under your hardship provisions. Current Situation: Due to redundancy, illness, or other hardship, my monthly income has reduced or stopped. Current Debt: Outstanding balance £your current amount. Current monthly payment £your current amount. Payment I can sustain: £your current amount. Request: I respectfully request a reduced payment plan of £your current amount per month. I have attached your financial documents to support this application. I look forward to your response within 10 working days as per FCA guidelines.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">UK Consumer Rights in Debt Negotiations:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Creditors must treat you fairly (FCA rules)</li>
@@ -82,14 +82,14 @@ export const conquerYourDebt2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5. Strategic Balance Transfers and Consolidation</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Balance transfers and debt consolidation can be powerful tools when used correctly. In the UK market, 0% balance transfer deals can save thousands in interest.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Best UK Balance Transfer Cards (2026):</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best UK Balance Transfer Cards (2026):</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Virgin Money: 0% for 29 months (3% transfer fee)</li>
 <li>Santander: 0% for 27 months (2.95% transfer fee)</li>
 <li>MBNA: 0% for 26 months (2.9% transfer fee)</li>
 <li>Barclaycard: 0% for 24 months (2.9% transfer fee)</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Balance Transfer Success Formula:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Balance Transfer Success Formula:</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>Calculate total debt + transfer fees</li>
 <li>Divide by 0% period months = required monthly payment</li>
@@ -100,14 +100,14 @@ export const conquerYourDebt2026: Article = {
 </ol>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">6. The £1,000 Emergency Buffer Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Saving money while you have debt seems counterintuitive, but a small emergency fund prevents you from going deeper into debt when life happens. A £1,000 emergency fund covers most common UK emergencies (boiler repair, car MOT failure), is small enough to achieve quickly, and is large enough to avoid most credit card usage.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Quick £1,000 Fund Building Methods:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Quick £1,000 Fund Building Methods:</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Immediate Actions: Sell unused items (Facebook Marketplace, eBay). Cancel unused subscriptions. Meal plan for 2 weeks (save £100+). Take on extra shifts/freelance work. Use cashback apps (TopCashback, Airtime Rewards).</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Ongoing Habits: Save all £5 notes and 20p coins. Round up purchases (apps like Monzo/Starling). Save tax refunds, bonus payments. Use loyalty points for cash, not purchases. Take on mystery shopping.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">7. Break Expensive Habits with Smart Rituals</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Getting out of debt isn't just about spreadsheets and payment plans—it's about changing the daily habits that created the debt in the first place.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">The 24-Hour Rule for UK Shoppers</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 24-Hour Rule for UK Shoppers</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Before any non-essential purchase over £25: Add item to basket/take photo in store. Walk away or close the website. Wait 24 hours. If you still want it, check three UK comparison sites. Look for discount codes (HotUKDeals, VoucherCodes). Ask yourself: "Will I use this 10+ times?" Result: 70% of impulse purchases avoided.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Expensive UK Habits vs. Smart Alternatives</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Expensive UK Habits vs. Smart Alternatives</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Meal deals (£3-5 daily = £1,300/year) → Batch cook Sunday, reheat at work. Coffee shop visits (£3 daily = £1,095/year) → Thermos flask + instant coffee/tea. Contactless payments under £100 → Use cash for small purchases. Subscription boxes you forget about → Annual subscription audit in calendar. Brand loyalty without price checking → Price comparison apps (Honey, InvisibleHand).</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">8. Rebuild Your UK Credit Score While Paying Off Debt</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Your credit score affects everything from mobile phone contracts to mortgage rates. While paying off debt, you can simultaneously rebuild your credit rating using UK-specific strategies.</p>
@@ -127,14 +127,14 @@ export const conquerYourDebt2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">9. Your Debt-Prevention Framework</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Getting out of debt is only half the battle. The other half is building systems that prevent you from falling back into debt.</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Financial Structure:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Financial Structure:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Emergency fund: 3-6 months expenses</li>
 <li>Automatic savings: 20% of income minimum</li>
 <li>Annual expenses fund (car MOT, insurance, etc.)</li>
 <li>Investment account for long-term wealth</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">UK-Specific Long-term Strategies:</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">UK-Specific Long-term Strategies:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Maximize UK Tax-Advantaged Accounts: ISA allowance (£20,000/year tax-free growth), Pension contributions (tax relief + employer matching)</li>
 <li>Annual UK Money Maintenance: January (Switch energy supplier), April (Review ISA contributions), July (Compare insurance renewals), October (Review mobile/broadband contracts)</li>

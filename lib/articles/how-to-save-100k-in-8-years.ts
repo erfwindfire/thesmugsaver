@@ -394,6 +394,17 @@ export const howToSave100kIn8Years: Article = {
 
 <p class="mb-4 text-gray-700 leading-relaxed">What matters most is starting. Open an ISA this week. Set up your first standing order. Then repeat month after month, year after year. Your £100,000 awaits.</p>
 
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
+
+
+
+
+
+
+
+
+
+
 <div class="mt-12 pt-8 border-t border-gray-200">
 
   <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">

@@ -64,19 +64,19 @@ export const backToSchoolCostsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Replacement items: £50-150/year</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Lost jumpers, broken equipment</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Master the Strategic Shopping Calendar</h2>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">April-May</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">April-May</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Start planning and budgeting. Research school lists.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Prep Phase</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">June-July</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">June-July</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Best prices! Buy uniforms, shoes, and non-perishable stationery.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Prime Shopping</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">August</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">August</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Last-minute shopping at higher prices. Check sizing.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Final Prep</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">September</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">September</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Peak prices! Emergency purchases only.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Avoid Shopping</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Monthly Shopping Strategy</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Monthly Shopping Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### January-March: Planning Phase</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Start a school costs savings pot</li>
@@ -172,7 +172,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Rotate between multiple items to reduce wear</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stationery & Equipment Cost-Cutting</h2>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Essential Items Only</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Essential Items Only</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Basic pens (blue, black, red)</li>
 <li>Pencils and eraser</li>
@@ -181,7 +181,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Glue stick</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Cost: £15-25</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Secondary Additions</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Secondary Additions</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Scientific calculator</li>
 <li>Geometry set</li>
@@ -190,7 +190,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Subject dividers</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Additional: £25-40</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Avoid Initially</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Avoid Initially</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Branded stationery</li>
 <li>Expensive fountain pens</li>
@@ -199,7 +199,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Designer pencil cases</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Saves: £20-50</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Bulk Buying & Sharing Strategies</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Bulk Buying & Sharing Strategies</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Group Purchasing Power</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Organize with 3-4 families to buy wholesale</li>
@@ -233,21 +233,21 @@ export const backToSchoolCostsUk2026: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">School Equipment Loans</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Ask about calculator loans or tablet lending programs.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Managing Transportation & Additional Costs</h2>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Free Transport Eligibility</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Free Transport Eligibility</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Primary: Over 2 miles from school</li>
 <li>Secondary: Over 3 miles from school</li>
 <li>Any distance if family receives FSM</li>
 <li>Unsafe walking route</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Alternative Transport</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Alternative Transport</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Walking groups with neighbors</li>
 <li>Car sharing arrangements</li>
 <li>Cycling (free cycle training available)</li>
 <li>Public transport student discounts</li>
 </ul>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Hidden Cost Management</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Hidden Cost Management</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Pack lunches vs school meals</li>
 <li>Set activity budgets early</li>
@@ -255,7 +255,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Join PTA for insider information</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Master Your School Budget Planning</h2>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Annual School Budget Template</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Annual School Budget Template</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Fixed Annual Costs</p>
 <p class="mb-4 text-gray-700 leading-relaxed">School uniform replacement</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£100-200</p>
@@ -278,7 +278,7 @@ export const backToSchoolCostsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£50-150</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Variable Total</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£230-750</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Monthly Savings Plan</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Monthly Savings Plan</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Target: £600 per child annually</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Save £50 per month starting in January</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Jan-Mar: Planning phase</p>
@@ -289,7 +289,7 @@ export const backToSchoolCostsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">£100/month</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Sep-Dec: Maintenance</p>
 <p class="mb-4 text-gray-700 leading-relaxed">£25/month</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Emergency Fund Strategy</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Emergency Fund Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Build a separate emergency fund for unexpected school costs:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>£50-100 for lost/damaged uniform items</li>
@@ -298,7 +298,7 @@ export const backToSchoolCostsUk2026: Article = {
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Recommended emergency fund: £100-200</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">DIY Solutions & Upcycling</h2>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Simple Repairs</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Simple Repairs</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Sew on name labels yourself</li>
 <li>Patch holes before they grow</li>
@@ -306,7 +306,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Hem trousers at home</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Save: £20-50 annually</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Creative Upcycling</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Creative Upcycling</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Convert adult clothes to child sizes</li>
 <li>Turn old jeans into school bags</li>
@@ -314,7 +314,7 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Refresh worn items with fabric paint</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Save: £30-80 annually</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Stationery Hacks</h4>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Stationery Hacks</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Make pencil cases from containers</li>
 <li>Create dividers from cardboard</li>
@@ -334,7 +334,7 @@ export const backToSchoolCostsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Some food banks also distribute school supplies and uniforms.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Online Communities</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Local Facebook Groups</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">"[Your Area] School Uniform Exchange" or "[School Name] Parents" groups.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">"your local area School Uniform Exchange" or "your child's school Parents" groups.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Nextdoor App</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Neighborhood-based app for local exchanges and recommendations.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Freecycle Groups</h4>
