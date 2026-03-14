@@ -4,7 +4,7 @@ export const universalCredit2026Changes: Article = {
  slug: 'universal-credit-2026-changes',
  title: 'Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)',
  category: 'earning-and-benefits',
- readingTime: 14,
+ readingTime: 12,
  seoTitle: 'Universal Credit 2026 Changes: Full UK Guide',
  metaDescription: 'Everything changing with Universal Credit in 2026 — managed migration, legacy benefit endings, new payment amounts, two-child limit update, and what you must do before your deadline.',
  heroImage: '/assets/images/universal-credit-2026-changes-hero.jpg',
@@ -12,8 +12,7 @@ export const universalCredit2026Changes: Article = {
  dateModified: '2026-03-03',
  author: 'The Smug Saver',
  excerpt: 'The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they\'re ready or not. Miss your migration notice deadline and your payments stop. This is everything you need to know to protect your income.',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">UK Benefits • 2026 DWP Changes</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they're ready or not. Miss your migration notice deadline and your payments stop. Full stop. This is everything you need to know to protect your income.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — Universal Credit 2026 at a Glance</h2>
@@ -145,70 +144,6 @@ export const universalCredit2026Changes: Article = {
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">The system is designed so working always pays more than not working. Track your earnings carefully in your UC journal every month — UC is calculated on actual earnings reported each assessment period, not annually. Our <a href="/budgeting/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">income tracking guide</a> can help you stay on top of monthly reporting.</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">7. Self-Employment and the Minimum Income Floor</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">If you're self-employed and on UC, the Minimum Income Floor (MIF) is the rule that catches most people out. After a 12-month "start-up" grace period, DWP assumes you're earning at least the equivalent of the National Living Wage for your expected hours — even if you're actually earning less.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">If you're self-employed working 30 hours a week, DWP will assume you're earning roughly 30 × £12.21 (April 2026 NLW) = about £1,586/month — regardless of your actual profits. Your UC is then calculated as if you earned the MIF, not your real income.</p>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>The MIF can be suspended if your earnings drop due to circumstances outside your control</li>
-<li>It doesn't apply during your 12-month start-up period</li>
-<li>It doesn't apply if you have a health condition limiting your work capacity</li>
-<li>It doesn't apply during illness or caring responsibilities</li>
-</ul>
-<p class="mb-4 text-gray-700 leading-relaxed">Report all business income and expenses every month through your online UC account — late or missing reports can trigger MIF calculations or sanctions. See our <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">self-employed tax guide</a> for what expenses you can legitimately deduct.</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">8. UC Sanctions: Know Your Rights</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Sanctions — temporary reductions to your UC payment — are handed out when DWP believes you've failed to meet your Claimant Commitment without good reason. They're more common than most people realise, and they're overturned more often than DWP would like to admit.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Common Reasons for Sanctions</h3>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>Missing a jobcentre appointment without notifying them in advance</li>
-<li>Failing to apply for a job you were directed to apply for</li>
-<li>Leaving a job voluntarily without what DWP considers a good reason</li>
-<li>Not completing agreed job search activities</li>
-<li>Refusing or failing to attend a training course</li>
-</ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Your Rights If You're Sanctioned</h3>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>You have the right to request a <strong>Mandatory Reconsideration</strong> within one month of the decision</li>
-<li>If that fails, you can appeal to an independent tribunal — success rates are significant</li>
-<li>While a sanction is in place, you can request a <strong>hardship payment</strong> (a reduced loan against future UC)</li>
-<li>Citizens Advice can help you challenge sanctions for free — use them</li>
-</ul>
-<p class="mb-4 text-gray-700 leading-relaxed">Around 25% of Mandatory Reconsiderations result in the sanction being lifted. At appeal, that number is even higher. Challenge everything, especially if you had a genuine reason for missing the requirement.</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">9. How to Make a Universal Credit Claim in 2026</h2>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Step-by-Step: Claiming UC</h3>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li><strong>Step 1:</strong> Go to gov.uk/universal-credit — have your NI number, bank details, rent or mortgage info, and income details ready</li>
-<li><strong>Step 2:</strong> Verify your identity using GOV.UK One Login — you'll need a passport or driving licence</li>
-<li><strong>Step 3:</strong> Complete your claim form — be thorough about health conditions, childcare, housing costs, and caring responsibilities</li>
-<li><strong>Step 4:</strong> Attend your New Claimant Interview at your local Jobcentre Plus — this is when your Claimant Commitment is agreed</li>
-<li><strong>Step 5:</strong> Wait five weeks for your first payment — this applies to all new claims</li>
-</ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Five-Week Wait: What to Do</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Five weeks is a long time to wait with no income. You can request an <strong>Advance Payment</strong> — an interest-free loan of up to one month's UC, repaid from future payments over up to 24 months. Ask for it at your New Claimant Interview or through your online journal immediately after claiming.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">If you're migrating from legacy benefits, your existing payments continue until you claim UC — which is another reason not to delay your claim once you've received your migration notice. The moment your UC claim is approved, your legacy payments stop.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Information You'll Need Ready</h3>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>National Insurance number (yours and your partner's if joint claim)</li>
-<li>Bank, building society or credit union account details</li>
-<li>Email address and phone number</li>
-<li>Rent amount, landlord's name and address (or mortgage details)</li>
-<li>Details of any savings or investments over £6,000</li>
-<li>Details of any income from employment or self-employment</li>
-<li>Details of any other benefits you currently receive</li>
-<li>Childcare costs and provider details if relevant</li>
-</ul>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">10. Common UC Mistakes That Cost People Money</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">The DWP processes millions of claims and gets things wrong more often than they'd admit. Here are the most common errors — and what to do about them.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Not Reporting Everything in Your Claim</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">The more you tell DWP upfront, the more elements you may receive. Many people don't declare health conditions they consider "minor," not realising these may qualify them for the LCW or LCWRA element. Always mention every health or disability issue that affects your ability to work.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Not Reporting Changes in Circumstances Quickly Enough</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">You must report changes within one month. Changes include starting or stopping work, having a child, moving home, a partner moving in or out, or changes in childcare costs. Fail to report and you may be underpaid — or overpaid and expected to repay.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Missing the Childcare Costs Report Window</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Childcare costs must be reported within the same assessment period they're paid, or within one month. Miss the window and you lose that month's childcare element. Set a calendar reminder every month without fail.</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Assuming Your Award Is Correct</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">DWP makes mistakes. If your payment looks wrong, check it against a benefits calculator, then challenge via your online journal. Keep notes of every conversation and every message sent.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do Right Now</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -223,34 +158,28 @@ export const universalCredit2026Changes: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is the Universal Credit standard allowance for 2026?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">From April 2026, the standard allowance is £311.68/month if you're single and under 25, or £393.45/month if you're single and 25 or over. Joint claimants where both are under 25 receive £489.23/month, and joint claimants where one or both are 25+ receive £617.60/month. These are the base amounts before any additional elements for children, disability, housing, or caring responsibilities are added.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">From April 2026: single under 25 = £311.68/month; single 25+ = £393.45/month; joint both under 25 = £489.23/month; joint one or both 25+ = £617.60/month. Add child, disability, housing, and care elements as needed.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What happens if I miss my Universal Credit migration deadline?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">If you miss the deadline stated in your Migration Notice letter, your existing legacy benefits will stop automatically. You can still claim Universal Credit after the deadline, but you'll lose your right to transitional protection — the top-up payment that compensates you if UC pays less than your old benefits. You'll also lose any gap in payments between your benefits stopping and your first UC payment arriving. Don't miss the deadline. If you're struggling to claim in time, call the UC migration helpline on 0800 169 0328 immediately.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Your legacy benefits stop automatically. You'll lose transitional protection and any gap in payments. Call the UC helpline on 0800 169 0328 immediately if you're struggling to claim in time.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Will I be worse off on Universal Credit than my current benefits?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">It depends entirely on your circumstances — there's no single answer. Some people receive more on UC, particularly working households with childcare costs. Others — especially those on legacy ESA with disability premiums — can be significantly worse off. The only way to know is to use a free benefits calculator such as <a href="https://www.turn2us.org.uk" class="text-emerald-700 underline hover:text-emerald-900">Turn2Us</a> or <a href="https://www.entitledto.co.uk" class="text-emerald-700 underline hover:text-emerald-900">Entitledto</a> before you make your claim. If you would be worse off, transitional protection may apply — but only if you claim before your deadline.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How long does Universal Credit take to pay out?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">All new UC claimants wait five weeks for their first payment — this is built into how UC works, as it pays a month in arrears after a one-week assessment period. If you can't wait five weeks, request an Advance Payment through your online journal or at your New Claimant Interview. This is an interest-free loan of up to one month's UC, repaid from future payments over up to 24 months. If you're being migrated from legacy benefits, your old payments continue up until the point your UC is approved — so claim as soon as your migration notice arrives rather than waiting until the deadline.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Five weeks for your first payment. Request an Advance Payment (interest-free loan, repaid over 24 months) through your online journal if you can't wait. Legacy benefits continue until your UC is approved, so claim immediately when your migration notice arrives.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I work and still claim Universal Credit?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Yes — and you're actively encouraged to. UC is designed to taper as you earn more, not cut off abruptly. For every £1 you earn above your work allowance, UC reduces by 55p — so you keep 45p of every pound earned above the threshold. If you have children or a qualifying disability, you get a work allowance (£673/month without the housing element, or £404/month with it) before the taper even starts. This means work always pays more than not working under UC, even if the gains can feel frustratingly small at lower income levels. See our <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">guide to earning extra while on benefits</a> for what to watch out for.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Yes. For every £1 earned above your work allowance, UC reduces by 55p. With children or disability, your work allowance is £673/month (without housing) or £404/month (with housing). Work always pays more than not working.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is transitional protection and how do I get it?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Transitional protection is an extra payment added to your UC to make up the difference if your total UC award is lower than your previous legacy benefit entitlement. It's calculated automatically at the point you make your UC claim — you don't need to separately apply for it, but you must claim UC before your migration deadline for it to be available. Transitional protection gradually erodes as your UC elements increase over time, and it ends entirely if your circumstances change significantly. Check <a href="https://www.citizensadvice.org.uk/benefits/universal-credit/before-you-apply/check-if-you-ll-be-better-off-on-universal-credit" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> for full eligibility details.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Transitional protection tops up UC if it pays less than your previous legacy benefit. Calculated automatically at claim — but you must claim before your migration deadline. It gradually erodes as your UC elements increase. Check <a href="https://www.citizensadvice.org.uk/benefits/universal-credit/before-you-apply/check-if-you-ll-be-better-off-on-universal-credit" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> for details.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Does the two-child limit affect my Universal Credit?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">If you have three or more children and your third (or subsequent) child was born on or after 6 April 2017, you will not automatically receive the UC child element for them — this is the two-child limit. However, exceptions exist for multiple births (twins or triplets in the same pregnancy as the second child), children adopted from local authority care, and pregnancies resulting from non-consensual conception. If an exception applies to you, you must actively claim it — contact Citizens Advice or the UC helpline rather than waiting for DWP to apply it automatically. For more family-related financial support, see our <a href="/family-and-lifestyle/childcare-costs-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">childcare costs guide</a>.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How does Universal Credit affect self-employed people?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Self-employed UC claimants face the Minimum Income Floor (MIF) after a 12-month start-up grace period. This means DWP assumes you earn at least the National Living Wage equivalent for your reported hours — currently £12.21/hour from April 2026 — regardless of your actual profits. If you earn less than the MIF in a month, your UC is still calculated as if you hit it. The MIF can be suspended during illness, caring responsibilities, or circumstances outside your control, and it doesn't apply during your first 12 months of self-employment. Keep meticulous monthly records and report all income and expenses through your UC journal on time every assessment period. Our <a href="/earning-and-benefits/tax-free-side-hustles-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">self-employment tax guide</a> covers allowable expenses in detail.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">If you have three or more children born on or after 6 April 2017, exceptions exist for multiple births, adopted children, and non-consensual conception. Contact Citizens Advice if an exception applies. For more on family support, see our <a href="/family-and-lifestyle/childcare-costs-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">childcare costs guide</a>.</p>
 
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I appeal a Universal Credit sanction?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Yes — and you should, especially if you had a genuine reason for not meeting your Claimant Commitment. Start by requesting a Mandatory Reconsideration within one month of the sanction decision — this is a free internal DWP review, and around 25% of them result in the sanction being overturned. If the Mandatory Reconsideration fails, you can appeal to an independent Social Security and Child Support Tribunal, where success rates are higher still. While a sanction is active, you can request a hardship payment — a reduced UC loan to cover essentials, repaid from future payments. <a href="https://www.citizensadvice.org.uk/benefits/universal-credit/claiming/if-you-get-a-sanction" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> provides free support through every stage of the process.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What benefits are NOT replaced by Universal Credit?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Several benefits remain separate and are not replaced by UC. Personal Independence Payment (PIP) and Disability Living Allowance (DLA) for children continue independently and can be claimed alongside UC. Contribution-based (New Style) JSA and contributory (New Style) ESA also remain separate — you may be able to claim these in addition to UC if you have sufficient National Insurance contributions. Carer's Allowance remains a separate benefit, though receiving it affects your UC carer element. Pension Credit, Council Tax Reduction, and the Warm Home Discount are also separate. Pensioners are not moved to UC — they keep Housing Benefit and move to Pension Credit instead. For a full picture of support available, see our <a href="/earning-and-benefits/cost-of-living-payment-2026-dwp-support" class="text-emerald-700 underline hover:text-emerald-900">DWP support guide</a>.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Yes. Request a Mandatory Reconsideration within one month of the sanction decision — around 25% are overturned. If that fails, appeal to an independent tribunal. While sanctioned, you can request a hardship payment. <a href="https://www.citizensadvice.org.uk/benefits/universal-credit/claiming/if-you-get-a-sanction" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> provides free support.</p>
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 

@@ -6,13 +6,12 @@ export const childcareCostsUk2026: Article = {
  category: 'family-and-lifestyle',
  readingTime: 13,
  seoTitle: 'Childcare Costs UK 2026: Complete Guide',
- metaDescription: 'Navigate UK childcare costs in 2026. Free hours entitlement, tax-free childcare, childcare vouchers, and strategies to reduce your annual bill.',
+ metaDescription: 'Navigate UK childcare costs 2026: government support schemes, free hours, tax-free childcare, and practical budgeting strategies for families.',
  datePublished: '2026-02-20',
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'UK childcare costs have reached unprecedented levels in 2026, with average nursery fees now £14,836 annually (per Family and Childcare Trust)—up 8.2% from 2024. However, significant government reforms',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Childcare Guide 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to Navigating Childcare Costs in the UK (2026)</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to Navigating Childcare Costs in the UK (2026)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Strategies, Schemes, & Savings for Parents</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate UK Childcare Costs in 2026</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -442,5 +441,39 @@ export const childcareCostsUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stay Updated on UK Childcare Changes</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Get the latest updates on childcare schemes, policy changes, and money-saving tips delivered to your inbox.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>
-<p class="mb-4 text-gray-700 leading-relaxed">No spam, unsubscribe anytime. Join 10,000+ UK parents saving money on childcare.</p>`
+<p class="mb-4 text-gray-700 leading-relaxed">No spam, unsubscribe anytime. Join 10,000+ UK parents saving money on childcare.</p>
+
+<div class="mt-12 pt-8 border-t border-gray-200">
+
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">Childcare support entitlements vary significantly by family circumstances, income, location, and provider acceptance. This article provides general information about UK childcare costs, government schemes, and budgeting strategies as of 2026. It is not personalised benefits or financial advice. Eligibility for free hours, Tax-Free Childcare, and other schemes depends on your specific situation. For personalised guidance on available support and your entitlement, use the Childcare Choices calculator, contact Citizens Advice, or speak to your local authority family information service.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Cost data based on Family and Childcare Trust 2026 research, government scheme information from Childcare Choices website, and regional local authority support schemes current as of March 2026.</p>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://legislation.gov.uk/ukpga/1989/41/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Children Act 1989</a> — establishes local authority duty to safeguard and promote welfare of children in childcare</li>
+      <li><a href="https://legislation.gov.uk/ukpga/2006/21/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Childcare Act 2006</a> — enables government funding for early education and childcare, establishes free hours entitlements</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://childcarechoices.gov.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Childcare Choices — Official Calculator and Guidance</a> — government-backed tool for calculating entitlements and support available</li>
+      <li><a href="https://www.citizensadvice.org.uk/family/childcare/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — Childcare Support</a> — free, impartial guidance on available schemes and support options</li>
+      <li><a href="https://www.gov.uk/childcare-support" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Childcare Support</a> — official information on free hours, Tax-Free Childcare, and eligibility criteria</li>
+      <li><a href="https://www.turn2us.org.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Turn2us — Benefits Information and Grants</a> — searchable database of emergency childcare support funds and grants</li>
+      <li><a href="https://www.familyandchildcaretrust.org.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Family and Childcare Trust — Research and Guidance</a> — independent research on childcare costs and family financial impact</li>
+      <li><a href="https://www.ofsted.gov.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Ofsted — Childcare Provider Search</a> — check quality ratings and inspection reports for nurseries and childminders</li>
+    </ul>
+  </div>
+
+</div>`
 };

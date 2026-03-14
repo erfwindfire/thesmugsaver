@@ -11,8 +11,7 @@ export const warrenBuffettEtf500To1m: Article = {
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'The Oracle of Omaha\'s simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here\'s the exact strategy and mathematics behind building over £1 million with ',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">Wealth Building</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The Oracle of Omaha's simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here's the exact strategy and mathematics behind building over £1 million with just £500 a month.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">10 min read</p>
@@ -260,5 +259,31 @@ export const warrenBuffettEtf500To1m: Article = {
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Vanguard S&P 500 ETF (VOO) Official Page</li>
 <li>S&P 500 Index Historical Performance Data</li>
-</ul>`
+</ul>
+
+<div class="mt-12 pt-8 border-t border-gray-200">
+
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">Investing in ETFs and index funds involves market risk, including potential loss of capital. Past performance is not a guarantee of future returns. This article provides general information about S&P 500 index investing and historical performance. It is not personalised investment advice. Your suitability for this strategy depends on your personal financial situation, risk tolerance, investment timeline, and goals. Before investing, speak to MoneyHelper for free guidance or consult an FCA-authorised independent financial adviser who can assess your circumstances.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Historical S&P 500 returns data sourced from S&P Global. Fund information reflects Vanguard S&P 500 ETF (VOO) and UK UCITS equivalents current as of March 2026. Calculations assume 10% average annual return based on historical performance since 1928.</p>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.moneyhelper.org.uk/en/investments" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Investment Guidance</a> — free, impartial guidance on index funds, ETFs, and investment risk</li>
+      <li><a href="https://www.vanguard.co.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Vanguard UK — S&P 500 Funds</a> — information on Vanguard S&P 500 UCITS ETF and platform options</li>
+      <li><a href="https://www.gov.uk/government/organisations/financial-conduct-authority" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FCA — Financial Conduct Authority</a> — regulation of investment platforms and adviser verification</li>
+      <li><a href="https://www.fscs.org.uk/what-we-cover/investments/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FSCS — Investment Protection Scheme</a> — protection limits for investments and ETFs held through FCA-authorised platforms</li>
+      <li><a href="https://www.bankofengland.co.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Bank of England — Monetary Policy</a> — UK interest rates and economic outlook affecting pound/dollar exchange rates</li>
+      <li><a href="https://www.gov.uk/individual-savings-accounts" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Stocks &amp; Shares ISA Information</a> — tax-free investment allowances and current £20,000 annual limit</li>
+    </ul>
+  </div>
+
+</div>`
 };

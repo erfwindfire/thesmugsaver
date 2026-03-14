@@ -6,13 +6,12 @@ export const mortgageRates2026FixOrWait: Article = {
  category: 'housing',
  readingTime: 8,
  seoTitle: 'Mortgage Rates 2026: Fix Now or Wait?',
- metaDescription: 'Should you fix your mortgage rate in 2026 or wait for cuts? Expert analysis of current rates, Bank of England forecasts, and decision framework for UK homeowners.',
+ metaDescription: 'Should you fix your mortgage now or wait? March 2026 rate analysis: rates, Bank of England forecasts, and complete decision framework for UK homeowners.',
  datePublished: '2026-02-20',
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating March 2026\'s rate landscape and making the right fixing decision.',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">Mortgages & Property</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Mortgage Rates March 2026: Should You Fix Now or Wait?</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Mortgage Rates March 2026: Should You Fix Now or Wait?</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating March 2026's rate landscape and making the right fixing decision.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Executive Summary</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The March 2026 mortgage market presents a critical decision point for UK borrowers.</p>
@@ -256,5 +255,39 @@ export const mortgageRates2026FixOrWait: Article = {
 <li>Compare total costs over full initial term</li>
 <li>Lock rate if within 6 months of expiry</li>
 <li>Use broker for access to exclusive deals</li>
-</ul>`
+</ul>
+
+<div class="mt-12 pt-8 border-t border-gray-200">
+
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">This guide provides mortgage market analysis and considerations for UK homeowners. For personalized mortgage advice, consult a regulated mortgage adviser or use MoneyHelper's resources. Mortgage decisions depend on individual circumstances, risk tolerance, and financial stability. Always get independent financial advice before making major borrowing decisions. This information is educational and not personal mortgage advice.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Mortgage rates, Bank of England base rate, and market forecasts reflect March 2026 data. Rates and terms sourced from FCA-regulated lenders and publicly available mortgage comparison platforms.</p>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.legislation.gov.uk/ukpga/1974/39/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Consumer Credit Act 1974</a> — Protects mortgage and lending consumers with disclosure and conduct requirements</li>
+      <li><a href="https://www.legislation.gov.uk/ukpga/2000/8/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Financial Services and Markets Act 2000</a> — Establishes FCA regulation of mortgage providers and adviser standards</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.bankofengland.co.uk/monetary-policy" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Bank of England — Base rate decisions and monetary policy updates</a></li>
+      <li><a href="https://www.fca.org.uk/consumers/mortgages" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FCA Consumer Mortgages — Mortgage regulation and consumer protection</a></li>
+      <li><a href="https://www.moneyhelper.org.uk/en/homes/buying-a-home/mortgage-calculator" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Mortgage calculator and buying guidance</a></li>
+      <li><a href="https://www.ons.gov.uk/economy/inflationandpriceindices" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">ONS — UK inflation and economic data</a></li>
+      <li><a href="https://www.which.co.uk/money/mortgages-and-property/mortgages" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Which? — Mortgage comparison and ratings</a></li>
+      <li><a href="https://www.moneyaverage.com" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Money Average — Mortgage rate tracking and lender information</a></li>
+    </ul>
+  </div>
+
+</div>`
 };

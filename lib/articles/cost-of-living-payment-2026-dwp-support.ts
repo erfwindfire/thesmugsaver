@@ -6,13 +6,12 @@ export const costOfLivingPayment2026DwpSupport: Article = {
  category: 'earning-and-benefits',
  readingTime: 13,
  seoTitle: 'DWP Cost of Living Payment 2026: £500 Guide',
- metaDescription: 'How to claim your £500 Cost of Living Payment from DWP in September 2026. Eligibility checker, payment dates, and what to do if your payment is missing.',
+ metaDescription: 'How to claim your £500 DWP Cost of Living Payment in September 2026. Complete eligibility guide, payment dates, and what to do if payment is missing.',
  datePublished: '2026-02-20',
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">Government Support • September 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Check Your Eligibility</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Payment Calculator</p>
@@ -384,5 +383,39 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stay Updated on UK Money News</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Get alerts about new government support schemes, benefit changes, and money-saving opportunities delivered to your inbox.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe to Money Updates</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Join 50,000+ UK families staying ahead of the cost of living crisis</p>`
+<p class="mb-4 text-gray-700 leading-relaxed">Join 50,000+ UK families staying ahead of the cost of living crisis</p>
+
+<div class="mt-12 pt-8 border-t border-gray-200">
+
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">This guide explains the Cost of Living Payment scheme eligibility and process. For additional support, contact Citizens Advice for free benefits advice or Turn2us to find local grants and hardship support. StepChange offers free debt counseling if you're struggling financially. This information is educational and not substitute for official DWP guidance. Always verify details on gov.uk.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Cost of Living Payment eligibility, qualifying benefits, and payment dates reflect September 2026 DWP announcements. Benefit system information sourced from official government guidance current as of March 2026.</p>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.legislation.gov.uk/ukpga/2012/5/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Welfare Reform Act 2012</a> — Establishes the structure of UK benefits including Universal Credit and means-tested payments</li>
+      <li><a href="https://www.legislation.gov.uk/ukpga/1992/5/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Social Security Administration Act 1992</a> — Governs benefit administration, appeals, and social security delivery</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.gov.uk/cost-of-living-payment" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Official Cost of Living Payment information</a></li>
+      <li><a href="https://www.gov.uk/benefits" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">DWP Benefits — Complete benefits guide and eligibility tools</a></li>
+      <li><a href="https://www.citizensadvice.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — Free benefits advice and support</a></li>
+      <li><a href="https://www.turn2us.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Turn2us — Grant finder and financial support locator</a></li>
+      <li><a href="https://www.stepchange.org" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">StepChange — Free debt counseling and money management support</a></li>
+      <li><a href="https://www.moneyhelper.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Government financial guidance and budgeting tools</a></li>
+    </ul>
+  </div>
+
+</div>`
 };

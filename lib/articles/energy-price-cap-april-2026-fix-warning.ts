@@ -7,15 +7,12 @@ export const energyPriceCapApril2026FixWarning: Article = {
  author: 'The Smug Saver',
  datePublished: '2026-03-06',
  dateModified: '2026-03-06',
- readingTime: 6,
+ readingTime: 14,
  seoTitle: 'Energy Price Cap April 2026 — Fix Now or Pay More in July?',
  metaDescription: "April's energy cap falls £117. But wholesale gas just spiked 90% in a week. Here's why you may have days to lock in a fix before the deals disappear.",
  heroImage: '/assets/images/energy-price-cap-april-2026-fix-warning-hero.jpg',
  excerpt: "April's energy price cap is dropping £117 for the average household. Good news — except wholesale gas prices just spiked 90% in a single week because of the Middle East conflict. If that's sustained, the July cap could reverse every penny of the April saving. Here's what to do right now, before the cheapest fixes get pulled.",
- body: `
-<p class="mb-4 text-gray-700 leading-relaxed">Energy Bills • March 2026</p>
-
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July</h1>
 
 <p class="mb-4 text-gray-700 leading-relaxed">On 1 April 2026, the Ofgem energy price cap falls 6.7%. For a typical dual-fuel household, that's £117 off your annual bill — around £10 a month cheaper. It's real money, and it should be good news.</p>
 
@@ -179,23 +176,36 @@ export const energyPriceCapApril2026FixWarning: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When does Ofgem announce the July 2026 price cap?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Ofgem typically announces the next quarterly cap around 6–8 weeks before it takes effect. For the July 2026 cap, expect an announcement in late May 2026. This gives you a narrow window to act before the new rate kicks in — particularly important if the wholesale spike feeds through into a cap rise.</p>
 
-<hr class="my-10 border-gray-200" />
+<div class="mt-12 pt-8 border-t border-gray-200">
 
-<div class="bg-amber-50 border border-amber-200 rounded-lg p-6 mb-6">
- <p class="text-gray-800 leading-relaxed"><strong>This article is general information, not personal financial advice.</strong> Energy deals and price caps change frequently — what's accurate at publication may shift within days in the current wholesale market. Before switching tariffs, compare deals based on your actual usage and circumstances. If you're on a prepay meter, in debt to your supplier, or receiving means-tested benefits, contact <a href="https://www.citizensadvice.org.uk" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice</a> or <a href="https://www.moneyhelper.org.uk" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">MoneyHelper</a> for tailored guidance. The Smug Saver is not responsible for decisions made on the basis of this article.</p>
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">Energy prices and tariff availability change rapidly. This article reflects Ofgem's confirmed April–June 2026 price cap and wholesale data from early March 2026. Before switching suppliers or locking in fixed rates, compare deals on your actual usage with an Ofgem-accredited comparison service. If you're on prepay, in debt to your supplier, or receiving means-tested benefits, contact MoneyHelper or Citizens Advice for tailored support.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">April–June 2026 price cap rates reflect Ofgem's confirmed determination. Wholesale data accurate at time of writing (early March 2026). July 2026 cap determination expected late May 2026.</p>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.legislation.gov.uk/ukpga/2023/24/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Energy Act 2023</a> — Establishes the framework for the energy price cap mechanism and Ofgem's regulatory authority.</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-april-and-30-june-2026" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Ofgem — Changes to energy price cap, April–June 2026</a> — Quarterly cap announcement and unit rate breakdown.</li>
+      <li><a href="https://www.ofgem.gov.uk/information-consumers/energy-advice-households/energy-price-cap-explained" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Ofgem — Energy price cap explained</a> — How the cap is set and who it applies to.</li>
+      <li><a href="https://www.gov.uk/government/publications/autumn-budget-2025" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">HM Treasury — Autumn Budget 2025</a> — Energy Company Obligation removal and household bill impacts.</li>
+      <li><a href="https://www.citizensadvice.org.uk/consumer/energy/energy-supply/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — Energy advice for households</a> — Support for those struggling with bills and switching guidance.</li>
+      <li><a href="https://www.moneyhelper.org.uk/en/homes/saving-on-household-bills/check-if-youre-on-the-cheapest-energy-deal" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Check if you're on the cheapest energy deal</a> — Independent switching and comparison guidance.</li>
+    </ul>
+  </div>
+
 </div>
-
-<p class="text-sm text-gray-500 mb-2"><strong>Last updated: 6 March 2026</strong></p>
-<p class="text-sm text-gray-500 mb-6">Unit rates and standing charges reflect Ofgem's confirmed April–June 2026 price cap. Wholesale market data accurate at time of writing (early March 2026). The July 2026 cap will be set based on wholesale prices in the period up to Ofgem's determination, expected late May 2026.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Sources & References</h3>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
- <li><a href="https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-january-and-31-march-2026" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Ofgem — Changes to energy price cap, January–March 2026</a> — Quarterly cap announcement and rate breakdown</li>
- <li><a href="https://www.ofgem.gov.uk/information-consumers/energy-advice-households/energy-price-cap-explained" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Ofgem — Energy price cap explained</a> — How the cap is set, what it covers, and who it applies to</li>
- <li><a href="https://www.gov.uk/government/publications/autumn-budget-2025" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">HM Treasury — Autumn Budget 2025</a> — Energy Company Obligation removal and household energy cost commitments</li>
- <li><a href="https://commonslibrary.parliament.uk/research-briefings/cbp-9714/" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">House of Commons Library — Gas and electricity prices during the energy crisis and beyond</a> — Historical context and pre-crisis price comparisons</li>
- <li><a href="https://www.citizensadvice.org.uk/consumer/energy/energy-supply/" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">Citizens Advice — Energy advice for households</a> — Rights, switching guidance, and support for those struggling with bills</li>
- <li><a href="https://www.moneyhelper.org.uk/en/homes/saving-on-household-bills/check-if-youre-on-the-cheapest-energy-deal" target="_blank" rel="noopener noreferrer" class="text-emerald-700 underline hover:text-emerald-900">MoneyHelper — Check if you're on the cheapest energy deal</a> — Independent switching and comparison guidance</li>
-</ul>
 `,
 };

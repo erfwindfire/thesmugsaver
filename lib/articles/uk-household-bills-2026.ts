@@ -6,13 +6,12 @@ export const ukHouseholdBills2026: Article = {
  category: 'energy-bills',
  readingTime: 13,
  seoTitle: 'UK Household Bills 2026: Complete Guide',
- metaDescription: 'Complete guide to managing UK household bills in 2026. Average costs breakdown, switching strategies, and how to reduce every bill in your home.',
+ metaDescription: 'Complete UK household bills guide for 2026: energy costs by region, switching suppliers, government support schemes, budgeting and money-saving strategies.',
  datePublished: '2026-02-20',
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'UK household bills reached record highs in 2024, with the average family spending over £3,000 annually on energy alone. While the energy crisis has stabilized, 2026 brings new challenges and opportuni',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">Ultimate Household Bills Guide 2026</p>
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to UK Household Bills in 2026</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Ultimate Guide to UK Household Bills in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Electric, Gas, Water, Council Tax & Broadband Saving Strategies</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Summary: What You'll Learn</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -360,5 +359,40 @@ export const ukHouseholdBills2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Stay Updated on UK Bill Changes</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Get the latest updates on energy prices, government schemes, and money-saving tips delivered to your inbox.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscribe Free</p>
-<p class="mb-4 text-gray-700 leading-relaxed">No spam, unsubscribe anytime. Join 10,000+ UK households saving money on bills.</p>`
+<p class="mb-4 text-gray-700 leading-relaxed">No spam, unsubscribe anytime. Join 10,000+ UK households saving money on bills.</p>
+
+<div class="mt-12 pt-8 border-t border-gray-200">
+
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">This guide provides strategies for managing UK household bills and energy costs. For support with bill payments, visit MoneyHelper or contact your local authority about hardship funds. Energy suppliers have obligations to offer payment plans; contact yours if struggling. Citizens Advice offers free energy debt advice. This information is educational and not professional financial advice.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Energy prices, standing charges, and government support schemes reflect March 2026 rates and eligibility criteria. Regional variations sourced from Ofgem price cap data and energy supplier comparison platforms.</p>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.legislation.gov.uk/ukpga/2000/27/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Utilities Act 2000</a> — Establishes energy supplier licensing and consumer protection frameworks in the UK</li>
+      <li><a href="https://www.legislation.gov.uk/ukpga/2010/27/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Water Services Act 2014</a> — Governs water company operations and consumer tariff structures</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.ofgem.gov.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Ofgem — Energy price cap, supplier information, and consumer protection</a></li>
+      <li><a href="https://www.moneyhelper.org.uk/en/utilities" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Energy bills guidance and money-saving tips</a></li>
+      <li><a href="https://www.citizensadvice.org.uk/about-us/our-work/policy/policy-research-topics/energy-policy-research-and-consultation-responses/energy-energy-policy/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — Energy bill support and advice</a></li>
+      <li><a href="https://www.ofwat.gov.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Ofwat — Water company regulation and consumer rights</a></li>
+      <li><a href="https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">UK Government Energy Department — Policy updates and support schemes</a></li>
+      <li><a href="https://www.britishgasenergytrust.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">British Gas Energy Trust — Emergency grants for energy bill debt</a></li>
+      <li><a href="https://www.fca.org.uk" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FCA Consumer Resources — Financial conduct authority guidance</a></li>
+    </ul>
+  </div>
+
+</div>`
 };

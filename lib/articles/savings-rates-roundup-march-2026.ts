@@ -12,10 +12,7 @@ export const savingsRatesRoundupMarch2026: Article = {
  dateModified: '2026-03-05',
  author: 'The Smug Saver',
  excerpt: 'Savings rates are still defying gravity. Despite the Bank of England cutting its base rate — with more cuts expected through 2026 — competitive pressure between banks means some accounts are still paying 6%, 7%, even 7.5% AER this week. That won\'t last. Here\'s where your money should be sitting right now.',
- body: `
-<p class="mb-4 text-gray-700 leading-relaxed">Savings &amp; Investing • March 2026 Rates Round-Up</p>
-
-<h1 class="text-3xl font-bold text-gray-900 mb-6">Savings Rates Round-Up: Best Accounts This Week (March 2026)</h1>
+ body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Savings Rates Round-Up: Best Accounts This Week (March 2026)</h1>
 
 <p class="mb-4 text-gray-700 leading-relaxed">Savings rates are still defying gravity. Despite the Bank of England cutting its base rate — and more cuts expected to bring it down to 3.25%–3.50% by end of 2026 — competitive pressure between banks means some accounts are still paying 6%, 7%, even 7.5% AER this week.</p>
 
@@ -197,23 +194,30 @@ export const savingsRatesRoundupMarch2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Will savings rates go down in 2026?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Almost certainly, yes. The Bank of England base rate is widely expected to fall to 3.25%–3.50% by end of 2026, and savings rates typically follow within weeks of any cut. The current window of 6%+ easy-access rates is unlikely to last beyond mid-2026. If you want to lock in a high rate for longer, consider a fixed-term account — our breakdown of <a href="/savings-and-investing/lock-in-48-percent-bonds-vs-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">fixing versus staying flexible</a> covers when it makes sense.</p>
 
-<hr class="my-10 border-t border-gray-200" />
+<div class="mt-12 pt-8 border-t border-gray-200">
 
-<div class="bg-amber-50 border-l-4 border-amber-400 p-4 mb-6">
- <p class="text-sm text-amber-900 leading-relaxed"><strong>Information, not advice.</strong> This article sets out general information about savings products available in the UK as of March 2026. It is not personalised financial advice, and the right account for you depends on your individual tax position, access needs, and financial circumstances. If you're unsure what to do with your savings, <a href="https://www.moneyhelper.org.uk" class="underline" target="_blank" rel="noopener noreferrer">MoneyHelper</a> offers free, impartial guidance backed by the government. For regulated advice tailored to your situation, speak to an FCA-authorised independent financial adviser. The Smug Saver is not liable for decisions made on the basis of this article.</p>
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">Savings rates change frequently and vary by individual circumstances, tax position, and bank policy. This article provides general information about savings accounts and rates available in the UK as of March 2026. It is not personalised financial advice. Your choice of account depends on your personal tax situation, access needs, and financial goals. For impartial, regulated guidance tailored to your circumstances, visit MoneyHelper or speak to an FCA-authorised independent financial adviser.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Rates verified directly from provider websites as of 4–5 March 2026. All rates shown are AER (Annual Equivalent Rate) unless stated as fixed. Variable rates can change at any time without notice.</p>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Bank of England — Bank Rate and Monetary Policy</a> — current base rate and rate expectations through 2026</li>
+      <li><a href="https://www.gov.uk/individual-savings-accounts" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Individual Savings Accounts (ISAs)</a> — ISA allowance rules, proposed changes, and tax treatment</li>
+      <li><a href="https://www.fscs.org.uk/what-we-cover/deposits/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FSCS — Deposit Protection Scheme</a> — £85,000 protection limits and how compensation works</li>
+      <li><a href="https://www.santander.co.uk/personal/savings/edge-saver" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Santander UK — Edge Saver Account</a> — current rates, terms, and linked current account requirements</li>
+      <li><a href="https://www.principality.co.uk/savings" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Principality Building Society — Savings Accounts</a> — regular saver rates and eligibility criteria</li>
+      <li><a href="https://www.moneyhelper.org.uk/en/savings" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Savings Guidance</a> — free impartial guidance on savings products and tax-free allowances</li>
+    </ul>
+  </div>
+
 </div>
-
-<p class="text-sm text-gray-500 mb-1"><strong>Last updated:</strong> 5 March 2026</p>
-<p class="text-sm text-gray-500 mb-6">Savings rates correct as of 4–5 March 2026 and sourced directly from provider websites. Rates are variable unless stated as fixed and can change at any time. ISA allowance figures reflect current government proposal — check GOV.UK for legislative status before the 2027/28 tax year.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Sources &amp; References</h3>
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700 text-sm">
- <li><a href="https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Bank of England — Bank Rate and monetary policy</a> — current base rate and rate expectations</li>
- <li><a href="https://www.gov.uk/individual-savings-accounts" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Individual Savings Accounts (ISAs)</a> — ISA allowance rules, eligibility, and tax treatment</li>
- <li><a href="https://www.fscs.org.uk/what-we-cover/deposits/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FSCS — Deposit Protection</a> — what the £85,000 limit covers and how compensation works</li>
- <li><a href="https://www.santander.co.uk/personal/savings/edge-saver" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Santander UK — Edge Saver</a> — current rate, terms, and Edge current account requirement</li>
- <li><a href="https://www.principality.co.uk/savings" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Principality Building Society — Savings</a> — regular saver rate, term, and eligibility</li>
- <li><a href="https://www.moneyhelper.org.uk/en/savings/types-of-savings/cash-isas" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — Cash ISAs explained</a> — impartial guidance on ISA types, tax-free interest, and allowances</li>
-</ul>
 `
 };

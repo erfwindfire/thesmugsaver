@@ -479,5 +479,39 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Children's Commissioner - School Uniform Report</li>
 <li>Citizens Advice - Uniformly Expensive Report</li>
 <li>Family Fund - Support for Families</li>
-</ul>`
+</ul>
+
+<div class="mt-12 pt-8 border-t border-gray-200">
+
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">Back-to-school costs and budgeting strategies vary significantly by family circumstances, local authority, and school policies. This article provides general information about typical costs, available support schemes, and cost-reduction techniques as of 2026. It is not personalised financial or benefits advice. If you're struggling to afford school essentials or unsure about eligibility for grants and support, contact Citizens Advice or Turn2us for confidential guidance tailored to your family's situation. Many schools also have discretionary hardship funds available.</p>
+  </div>
+
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Cost figures based on 2026 retail pricing from major UK retailers, government grant data from local authority schemes, and ONS inflation statistics for education costs.</p>
+  </div>
+
+  <div class="mb-8">
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Key Legislation</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://legislation.gov.uk/ukpga/1996/56/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Education Act 1996</a> — establishes right to free school education and local authority duty to support families with school costs</li>
+      <li><a href="https://legislation.gov.uk/ukpga/2000/27/contents" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Child Poverty Act 2010</a> — requires schools and local authorities to reduce child poverty and support disadvantaged families</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.citizensadvice.org.uk/about-us/our-work/policy/policy-research-topics/education-policy-research-and-consultation/education-school-uniform/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Citizens Advice — School Uniform Costs</a> — guidance on challenging expensive uniform policies and accessing support</li>
+      <li><a href="https://www.gov.uk/guidance/apply-for-free-school-meals" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Free School Meals Eligibility</a> — current eligibility criteria and application process</li>
+      <li><a href="https://www.turn2us.org.uk/get-support/grants" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Turn2us — Grants Database</a> — searchable database of emergency grants and family support funds</li>
+      <li><a href="https://www.familyfund.org.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Family Fund — Support for Families with Disabled Children</a> — grants up to £500 for school essentials</li>
+      <li><a href="https://www.ons.gov.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Office for National Statistics — Inflation and Education Costs</a> — UK inflation data tracking education cost increases</li>
+      <li><a href="https://www.familyandchildcaretrust.org.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Family and Childcare Trust — Research</a> — annual school costs research and family financial impact studies</li>
+    </ul>
+  </div>
+
+</div>`
 };

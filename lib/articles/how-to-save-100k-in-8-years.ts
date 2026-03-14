@@ -4,7 +4,7 @@ export const howToSave100kIn8Years: Article = {
  slug: 'how-to-save-100k-in-8-years',
  title: 'How to Save £100,000 Over 8 Years',
  category: 'savings-and-investing',
- readingTime: 14,
+ readingTime: 11,
  seoTitle: 'How to Save £100,000 Over 8 Years',
  metaDescription: 'A realistic plan to save £100,000 in 8 years on an average UK salary. Monthly targets, account strategies, and compound interest calculations broken down.',
  datePublished: '2026-02-20',
@@ -202,7 +202,7 @@ export const howToSave100kIn8Years: Article = {
 <li>Once this buffer exists, your remaining savings go toward the £100,000 goal</li>
 </ul>
 
-<p class="mb-4 text-gray-700 leading-relaxed">This separation matters psychologically and practically. You're less likely to raid your long-term goal savings for emergencies if you've explicitly set aside emergency funds. The discipline required to save £100,000 demands you not undermine it with poor safety practices.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">This separation matters psychologically and practically. You're less likely to raid your long-term savings for emergencies when you've explicitly set aside emergency funds first.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Month-by-Month Savings Ladder Structure</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">To make £100,000 feel achievable, break it into milestone targets. Celebrating progress maintains motivation across an 8-year journey.</p>
@@ -371,18 +371,8 @@ export const howToSave100kIn8Years: Article = {
 <li>Expected balance: £108,000–£115,000 depending on investment returns</li>
 </ul>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What £100,000 Enables in Your Life</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Reaching six figures is transformative. This isn't just a number—it unlocks genuine life options.</p>
-
-<ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li><strong>House Deposit:</strong> £100,000 is a 20% deposit on a £500,000 property—eliminating mortgage insurance costs and giving you serious negotiating power.</li>
-<li><strong>Career Freedom:</strong> With a six-figure emergency fund, you can negotiate salary, change jobs without desperation, or take 6–12 months out if needed.</li>
-<li><strong>Financial Security:</strong> Unexpected job loss? Major car repair? Family emergency? At £100,000, these don't force you into debt or stress.</li>
-<li><strong>Investment Runway:</strong> Beyond £100,000, your next £100,000 grows faster due to larger base and continued contributions. Wealth acceleration kicks in.</li>
-<li><strong>Psychological Shift:</strong> You've proven you can achieve long-term goals through discipline. This confidence extends to every area of life—career, health, relationships.</li>
-</ul>
-
-<p class="mb-4 text-gray-700 leading-relaxed">Many who reach this milestone continue saving. The habits ingrained over 8 years become part of identity. Your next goal might be £250,000 or early retirement—but you know you can achieve it because you've already done something similar.</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What £100,000 Enables</h2>
+<p class="mb-4 text-gray-700 leading-relaxed">Reaching six figures is transformative. A £100,000 house deposit (20% on £500k) eliminates mortgage insurance. Career freedom arrives—negotiate salary, change jobs, or take 6-12 months out. Financial security handles emergencies without debt. Your next £100,000 grows faster due to the larger base. Psychologically, you've proven discipline and long-term goal achievement. Many continue saving; the habits become identity. Your next target might be £250,000 or early retirement—and you know you can achieve it.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Staying Motivated Across 8 Years</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">An 8-year goal is long. Staying motivated requires more than willpower. Build systems that keep you engaged.</p>
@@ -397,29 +387,35 @@ export const howToSave100kIn8Years: Article = {
 </ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Pitfalls to Avoid</h2>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Lifestyle Inflation</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Every pay rise, you spend it. This is the single biggest threat to your goal. Commit to saving 50% of every raise before it hits your account.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Poor Account Selection</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Leaving your money in a 0.5% bank account wastes thousands in potential interest. Spend 30 minutes researching current best rates. The effort pays for itself many times over.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Panic Selling During Market Downturns</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">In Year 6 or 7, stock markets might drop 15–20%. Don't sell. You're not using this money for 8 years. Downturns are temporary. Stay invested.</p>
-
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Raiding Your Savings for Non-Emergencies</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">A holiday or new gadget isn't an emergency. If you need to tap your savings for discretionary spending, the goal becomes unachievable. Maintain discipline.</p>
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Lifestyle inflation:</strong> Save 50% of pay rises. <strong>Account selection:</strong> Choose 5%+ accounts; poor ones waste thousands. <strong>Panic selling:</strong> Market downturns are temporary; stay invested 8 years. <strong>Raiding savings:</strong> Don't treat as discretionary spending.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Final Thoughts: You Can Absolutely Do This</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Saving £100,000 in 8 years is genuinely achievable for most UK workers willing to be deliberate about it. The mathematics is straightforward. The account options—Cash ISAs returning 5%+, Stocks & Shares ISAs sheltering investment growth from tax—are specifically designed for this goal. The automation tools (standing orders, savings apps) remove willpower from the equation.</p>
 
-<p class="mb-4 text-gray-700 leading-relaxed">What matters most is starting. Open an ISA this week. Set up your first standing order. Then repeat month after month, year after year. The £100,000 is waiting for you on the other side.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">What matters most is starting. Open an ISA this week. Set up your first standing order. Then repeat month after month, year after year. Your £100,000 awaits.</p>
 
-<p class="mb-4 text-gray-700 leading-relaxed">Disclaimer: The information provided on this website is for general informational purposes only and does not constitute financial advice. You should always consult with a qualified financial advisor before making any financial decisions. We are not liable for any losses or damages arising from your use of this information.</p>
+<div class="mt-12 pt-8 border-t border-gray-200">
 
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/terms-and-conditions" class="text-emerald-700 underline hover:text-emerald-900">Terms & Conditions</a></p>
+  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
+    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-amber-700 leading-relaxed">Savings strategies, investment returns, and interest rates discussed in this article are based on March 2026 data and reflect historical performance. Past returns do not guarantee future results. Before opening savings accounts, investing in index funds, or making decisions about mortgage overpayments, consult MoneyHelper or a qualified financial advisor familiar with your specific circumstances and risk tolerance.</p>
+  </div>
 
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/cookie-policy" class="text-emerald-700 underline hover:text-emerald-900">Cookie Policy</a></p>
+  <div class="mb-6">
+    <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>
+    <p class="text-xs text-gray-500">Savings rates, ISA allowances, and tax treatment reflect current UK regulations as of March 2026. Interest rates and provider offerings change monthly.</p>
+  </div>
 
-<p class="mb-4 text-gray-700 leading-relaxed">© 2026 The Smug Saver. All rights reserved.</p>`
+  <div>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <ul class="space-y-2 text-sm text-gray-600">
+      <li><a href="https://www.moneyhelper.org.uk/en/savings/individual-savings-accounts-isas" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneyHelper — ISA guidance</a> — Tax-free savings accounts.</li>
+      <li><a href="https://www.vanguard.co.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">Vanguard — Index funds</a> — Low-cost investment options.</li>
+      <li><a href="https://www.moneysupermarket.com/savings-accounts/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">MoneySuperMarket — Savings comparison</a> — Current rates.</li>
+      <li><a href="https://www.fca.org.uk/" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">FCA — Financial Conduct Authority</a> — Provider protections.</li>
+    </ul>
+  </div>
+
+</div>
+`
 };
