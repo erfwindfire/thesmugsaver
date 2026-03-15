@@ -13,7 +13,7 @@ export const energyBillsRisingOctober2026: Article = {
  excerpt: 'October 2026 energy bills are forecast to rise for 28 million households. Here\'s exactly how to fight back and slash your energy costs by up to £400 annually.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bills Rising October 2026: Forecasts, What to Expect, and How to Prepare</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Ofgem's October price cap increases hit 28 million households. Here's exactly how to fight back and slash your energy costs by up to £400 annually.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Executive Summary: Your Energy Bills Battle Plan</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Summary: Your Energy Bills Battle Plan</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The essential facts you need to know about October 2026's energy price increases</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Key Changes October 2026:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
