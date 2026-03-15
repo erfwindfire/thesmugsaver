@@ -10,7 +10,7 @@ export const taxFreeSideHustlesUk2026: Article = {
  datePublished: '2026-02-20',
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
- excerpt: 'HMRC allows £1,000 trading allowance, £7,500 rent-a-room relief, and £1,000 property income entirely tax-free. Here's how to earn legally without paying tax.',
+ excerpt: 'HMRC allows £1,000 trading allowance, £7,500 rent-a-room relief, and £1,000 property income entirely tax-free. Here\'s how to earn legally without paying tax.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Tax-Free Side Hustles in the UK—2026 Guide to Earning Without Extra Tax</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC legally allows you to earn up to £1,000 from casual trading, £7,500 from letting rooms, and £1,000 from property income entirely tax-free. Most people have no idea these allowances exist, costing themselves thousands annually.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The key is understanding what qualifies, tracking correctly, and staying under thresholds. Couples can double these allowances, and stacking multiple allowances together creates £11,000+ in potential tax-free earning annually.</p>
@@ -141,7 +141,7 @@ export const taxFreeSideHustlesUk2026: Article = {
   </div>
 
   <div>
-    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources &amp; References</h3>
+    <h3 class="text-base font-semibold text-gray-800 mb-3">Sources & References</h3>
     <ul class="space-y-2 text-sm text-gray-600">
       <li><a href="https://www.gov.uk/income-tax" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Income Tax</a> — Official guide to tax allowances and thresholds</li>
       <li><a href="https://www.gov.uk/trading-allowance" class="text-emerald-700 underline hover:text-emerald-900" target="_blank" rel="noopener noreferrer">GOV.UK — Trading Allowance</a> — Specific guidance on the £1,000 trading allowance for self-employed individuals</li>

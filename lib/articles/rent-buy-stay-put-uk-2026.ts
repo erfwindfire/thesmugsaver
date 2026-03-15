@@ -155,5 +155,5 @@ export const rentBuyStayPutUk2026: Article = {
 
 
 
-`,,,,,,
+`
 };

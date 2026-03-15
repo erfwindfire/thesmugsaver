@@ -2,7 +2,7 @@ import { Article } from '../articles';
 
 export const firstTimeHomeBuyerSchemesUk2026: Article = {
  slug: 'first-time-home-buyer-schemes-uk-2026',
- title: 'First-Time Home Buyer Schemes UK: What\',
+ title: 'First-Time Home Buyer Schemes UK 2026',
  category: 'housing',
  readingTime: 13,
  seoTitle: 'First-Time Buyer Schemes UK 2026 Guide',

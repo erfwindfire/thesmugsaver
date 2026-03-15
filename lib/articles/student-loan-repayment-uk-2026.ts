@@ -149,5 +149,5 @@ export const studentLoanRepaymentUk2026: Article = {
 
 
 
-`,,,,
+`
 };
