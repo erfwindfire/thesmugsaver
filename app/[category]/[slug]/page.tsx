@@ -166,32 +166,22 @@ export default function ArticlePage({ params }: PageProps) {
                         {/* Content */}
                         <div
                             className={`prose prose-lg max-w-none font-sans
-                                prose-headings:font-serif prose-headings:font-bold
-                                [&_h2]:border-b [&_h2]:pb-5 [&_h2]:mb-8 [&_h2]:pt-8 [&_h2]:mt-14
-                                prose-h4:font-bold prose-h4:text-gray-900
                                 prose-img:rounded-xl prose-img:shadow-md
-                                prose-strong:font-bold
                                 prose-ul:list-disc prose-ol:list-decimal
                                 [&_table]:w-full [&_table]:text-left [&_table]:border-collapse [&_table]:my-8
                                 [&_th]:bg-gray-100 [&_th]:p-4 [&_th]:font-serif
                                 prose-td:p-4 prose-td:border-b prose-td:border-gray-100
                                 prose-blockquote:border-none prose-blockquote:pl-0 prose-blockquote:not-italic prose-blockquote:font-normal prose-blockquote:text-gray-600
                                 ${isBuilderStyle
-                                    ? `text-gray-800
-                                       prose-headings:text-[#1A2744]
-                                       [&_h2]:border-gray-200 [&_h2]:text-[#1A2744]
-                                       [&_h3]:text-[#1A2744] [&_h3]:mt-10 [&_h3]:mb-4 [&_h3]:font-bold
-                                       prose-p:leading-[1.85] prose-p:mb-7 prose-p:text-[17px]
-                                       prose-a:text-[#B8962E] hover:prose-a:underline prose-a:no-underline
-                                       prose-strong:text-[#1A2744]
-                                       prose-li:marker:text-[#B8962E]`
+                                    ? 'article-builder'
                                     : `text-gray-700
-                                       prose-headings:text-neutral-dark
-                                       [&_h2]:border-gray-300
+                                       prose-headings:font-serif prose-headings:text-neutral-dark prose-headings:font-bold
+                                       [&_h2]:border-b [&_h2]:border-gray-300 [&_h2]:pb-4 [&_h2]:mb-8 [&_h2]:pt-8 [&_h2]:mt-12
                                        [&_h3]:font-bold [&_h3]:text-gray-900 [&_h3]:mt-8 [&_h3]:mb-4
+                                       prose-h4:font-bold prose-h4:text-gray-900
                                        prose-p:leading-[1.8] prose-p:mb-6
                                        prose-a:text-[#1B4D3E] prose-a:no-underline hover:prose-a:underline
-                                       prose-strong:text-neutral-dark
+                                       prose-strong:text-neutral-dark prose-strong:font-bold
                                        prose-li:marker:text-[#1B4D3E]`
                                 }`}
                             style={{

@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Inter, Merriweather } from 'next/font/google'
+import { Inter, Merriweather, Playfair_Display } from 'next/font/google'
 import './globals.css'
 import Footer from '@/components/Footer';
 import Header from '@/components/Header';
@@ -15,6 +15,12 @@ const merriweather = Merriweather({
   weight: ['300', '400', '700', '900'],
   subsets: ['latin'],
   variable: '--font-merriweather',
+})
+
+const playfair = Playfair_Display({
+  weight: ['400', '500', '600', '700', '800', '900'],
+  subsets: ['latin'],
+  variable: '--font-playfair',
 })
 
 export const metadata: Metadata = {
@@ -44,7 +50,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className={`${inter.variable} ${merriweather.variable} font-sans min-h-screen flex flex-col`}>
+      <body className={`${inter.variable} ${merriweather.variable} ${playfair.variable} font-sans min-h-screen flex flex-col`}>
         <Header navData={navData} />
         <main className="flex-grow">
           {children}

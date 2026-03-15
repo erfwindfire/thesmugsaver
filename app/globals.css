@@ -147,6 +147,71 @@ body {
   border-radius: 0.5rem;
 }
 
+/* =============================================
+   Builder-style article UX (test: grocery-savings-2026)
+   ============================================= */
+
+.article-builder h2 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-size: 1.875rem;   /* 30px */
+  font-weight: 700;
+  color: #1A2744;
+  line-height: 1.25;
+  margin-top: 3.5rem;
+  margin-bottom: 0;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #E0E0E0;
+}
+
+.article-builder h3 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-size: 1.375rem;   /* 22px */
+  font-weight: 700;
+  color: #1A2744;
+  line-height: 1.3;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.article-builder h4 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #1A2744;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.article-builder p {
+  font-family: var(--font-inter), sans-serif;
+  font-size: 1.0625rem;  /* 17px */
+  line-height: 1.85;
+  color: #2C2C2C;
+  margin-bottom: 1.625rem;
+}
+
+.article-builder strong {
+  color: #1A2744;
+  font-weight: 600;
+}
+
+.article-builder a {
+  color: #B8962E;
+  text-decoration: none;
+}
+
+.article-builder a:hover {
+  text-decoration: underline;
+}
+
+.article-builder ul > li::before {
+  color: #B8962E;
+}
+
+.article-builder ol > li::before {
+  color: #B8962E;
+}
+
 /* Custom class for Negotiation Scripts if used as simple HTML */
 .negotiation-script {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
