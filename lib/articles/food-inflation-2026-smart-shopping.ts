@@ -12,20 +12,28 @@ export const foodInflation2026SmartShopping: Article = {
  author: 'The Smug Saver',
  excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain's most expensive food market.</p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="#smart-strategies" class="text-emerald-700 underline hover:text-emerald-900">View Smart Strategies</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="#price-calculator" class="text-emerald-700 underline hover:text-emerald-900">Calculate Savings</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">The most impactful single change for food savings is switching the majority of your grocery shop to a discounter — Aldi or Lidl. For a family of four, this switch typically saves £60–£100/month versus Tesco or Asda on like-for-like items. Covering staples (meat, dairy, produce, tinned goods, cleaning products) at a discounter while shopping branded deals at major supermarkets gives you 80% of the savings with full access to specific favourites.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Loyalty scheme prices — Tesco Clubcard, Sainsbury's Nectar, Boots Advantage — effectively create a two-tier pricing system where non-members pay significantly more for identical items. Using these schemes costs nothing and typically saves 15–25% on own-brand and promoted products. Stack loyalty pricing with a cashback credit card such as the Amex Cashback card to earn an additional 0.5–1% back on grocery spend.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5.1%</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Food Price Inflation 2026</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">£360+</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Extra Annual Cost Per Family</p>
+<div class="grid grid-cols-2 gap-4 my-8 md:grid-cols-4">
+  <div class="bg-[#EBF2F1] rounded-lg p-5 text-center border-l-4 border-[#1B4D3E]">
+    <p class="text-3xl font-bold text-[#1B4D3E]">5.1%</p>
+    <p class="text-sm text-gray-600 mt-1">Food Price Inflation 2026</p>
+  </div>
+  <div class="bg-[#EBF2F1] rounded-lg p-5 text-center border-l-4 border-[#1B4D3E]">
+    <p class="text-3xl font-bold text-[#1B4D3E]">£360+</p>
+    <p class="text-sm text-gray-600 mt-1">Extra Annual Cost Per Family</p>
+  </div>
+  <div class="bg-[#EBF2F1] rounded-lg p-5 text-center border-l-4 border-[#1B4D3E]">
+    <p class="text-3xl font-bold text-[#1B4D3E]">30–40%</p>
+    <p class="text-sm text-gray-600 mt-1">Potential Savings With Strategy</p>
+  </div>
+  <div class="bg-[#EBF2F1] rounded-lg p-5 text-center border-l-4 border-[#1B4D3E]">
+    <p class="text-3xl font-bold text-[#1B4D3E]">2 Hours</p>
+    <p class="text-sm text-gray-600 mt-1">Weekly Time Investment</p>
+  </div>
+</div>
 <p class="mb-4 text-gray-700 leading-relaxed">Batch cooking and freezer-filling are the most time-efficient food saving strategies for UK households. Spending 2–3 hours cooking on a Sunday can provide 4–5 weekday meals, cutting per-meal costs by 40–60% versus ready meals or takeaways. The key is a rotating list of 6–8 batch-cook recipes your household genuinely enjoys — variety prevents the "I can't face it again" fatigue that derails most batch cooking plans within a month.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">30-40%</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Potential Savings With Strategy</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Planning ahead for seasonal spending is one of the most underrated household budget strategies. Christmas food, decorations, and gifts bought in January sales or year-round on supermarket yellow-sticker clearances can reduce December's total cost by 30–40% compared to buying at full price in November or December. A dedicated Christmas savings pot — even £20–£30/month from January — means the season requires no debt or financial stress.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2 Hours</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Weekly Time Investment</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your Grocery Budget Is Under Attack—Here's How to Fight Back</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Let's not sugarcoat it: food inflation is devastating UK families. That £100 weekly shop now costs £105.10—and that's just the start. By year's end, you'll have paid an extra £360+ for exactly the same food. For families already stretched thin, this isn't just inconvenient—it's financially catastrophic.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">While politicians debate and corporations post record profits, you're left standing in supermarket aisles watching basic necessities become luxuries. ONS data confirms food inflation at 5.1% in 2026: Meat prices soaring 8.2%, fresh vegetables up 6.7%, even bread climbing 4.3% higher.</p>
@@ -35,23 +43,20 @@ export const foodInflation2026SmartShopping: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Batch Cooking Revolution: Cook Once, Eat All Week</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Batch cooking isn't just convenient—it's your secret weapon against inflation. By buying ingredients in bulk and cooking efficiently, you can slash food costs by 40-50% while eating better.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Economics of Batch Cooking</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Real Cost Comparison: Family of 4, One Week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Ready Meals & Takeaways</p><p class="mb-4 text-gray-700 leading-relaxed">Convenience-focused week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£180-220</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£9,360-11,440/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Daily Fresh Shopping</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Small quantities, brand names</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£120-150</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£6,240-7,800/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Traditional Weekly Shop</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Mixed brands, some meal planning</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£85-105</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,420-5,460/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Batch Cooking Strategy</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Bulk buying, own brands, efficient cooking</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-70</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,600-3,640/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual savings vs daily shopping: £3,640-4,160. That's a family holiday or emergency fund contribution.</p>
+<div class="overflow-x-auto mb-6">
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Shopping Method</th>
+<th class="px-4 py-3 text-left font-semibold">Description</th>
+<th class="px-4 py-3 text-left font-semibold">Weekly Cost</th>
+<th class="px-4 py-3 text-left font-semibold">Annual Cost</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Ready Meals &amp; Takeaways</td><td class="px-4 py-3 border-b border-gray-200">Convenience-focused week</td><td class="px-4 py-3 border-b border-gray-200">£180–220</td><td class="px-4 py-3 border-b border-gray-200">£9,360–11,440</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Daily Fresh Shopping</td><td class="px-4 py-3 border-b border-gray-200">Small quantities, brand names</td><td class="px-4 py-3 border-b border-gray-200">£120–150</td><td class="px-4 py-3 border-b border-gray-200">£6,240–7,800</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Traditional Weekly Shop</td><td class="px-4 py-3 border-b border-gray-200">Mixed brands, some meal planning</td><td class="px-4 py-3 border-b border-gray-200">£85–105</td><td class="px-4 py-3 border-b border-gray-200">£4,420–5,460</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200 font-semibold text-[#1B4D3E]">Batch Cooking Strategy</td><td class="px-4 py-3 border-b border-gray-200">Bulk buying, own brands, efficient cooking</td><td class="px-4 py-3 border-b border-gray-200 font-semibold text-[#1B4D3E]">£50–70</td><td class="px-4 py-3 border-b border-gray-200 font-semibold text-[#1B4D3E]">£2,600–3,640</td></tr>
+</tbody></table></div>
+<p class="mb-4 text-gray-700 leading-relaxed">Annual savings vs daily shopping: £3,640–4,160. That's a family holiday or emergency fund contribution.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Perfect Batch Cooking Setup</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Essential Equipment (One-time investment)</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -183,35 +188,35 @@ export const foodInflation2026SmartShopping: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Food Waste = Money Waste: Your £1,500 Annual Recovery Plan</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">UK households throw away £1,500 worth of edible food annually. With inflation hitting 5.1%, that waste hurts even more. Turn food rescue into serious savings with systematic waste reduction.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The True Cost of Food Waste</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">What UK Families Actually Waste (Annual Averages)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fresh Produce</p><p class="mb-4 text-gray-700 leading-relaxed">Fruit, vegetables, salads</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£450-550</p>
-<p class="mb-4 text-gray-700 leading-relaxed">30% of total waste</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Bread & Bakery</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Loaves, rolls, pastries</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£280-350</p>
-<p class="mb-4 text-gray-700 leading-relaxed">20% of total waste</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Meat & Fish</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fresh and cooked proteins</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£350-420</p>
-<p class="mb-4 text-gray-700 leading-relaxed">25% of total waste</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Dairy Products</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Milk, yogurt, cheese</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£210-280</p>
-<p class="mb-4 text-gray-700 leading-relaxed">15% of total waste</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total Annual Food Waste:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,290-1,600</p>
-<p class="mb-4 text-gray-700 leading-relaxed">With 5.1% inflation: That same waste now costs £1,356-1,682. Every item you save is worth even more in 2026.</p>
+<div class="overflow-x-auto mb-6">
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Category</th>
+<th class="px-4 py-3 text-left font-semibold">Items</th>
+<th class="px-4 py-3 text-left font-semibold">Annual Cost Wasted</th>
+<th class="px-4 py-3 text-left font-semibold">Share of Waste</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Fresh Produce</td><td class="px-4 py-3 border-b border-gray-200">Fruit, vegetables, salads</td><td class="px-4 py-3 border-b border-gray-200">£450–550</td><td class="px-4 py-3 border-b border-gray-200">30%</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Bread &amp; Bakery</td><td class="px-4 py-3 border-b border-gray-200">Loaves, rolls, pastries</td><td class="px-4 py-3 border-b border-gray-200">£280–350</td><td class="px-4 py-3 border-b border-gray-200">20%</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Meat &amp; Fish</td><td class="px-4 py-3 border-b border-gray-200">Fresh and cooked proteins</td><td class="px-4 py-3 border-b border-gray-200">£350–420</td><td class="px-4 py-3 border-b border-gray-200">25%</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Dairy Products</td><td class="px-4 py-3 border-b border-gray-200">Milk, yogurt, cheese</td><td class="px-4 py-3 border-b border-gray-200">£210–280</td><td class="px-4 py-3 border-b border-gray-200">15%</td></tr>
+<tr class="bg-gray-50 font-semibold"><td class="px-4 py-3 border-b border-gray-200 text-[#1B4D3E]">Total Annual Waste</td><td class="px-4 py-3 border-b border-gray-200"></td><td class="px-4 py-3 border-b border-gray-200 text-[#1B4D3E]">£1,290–1,600</td><td class="px-4 py-3 border-b border-gray-200">100%</td></tr>
+</tbody></table></div>
+<p class="mb-4 text-gray-700 leading-relaxed">With 5.1% inflation: that same waste now costs £1,356–1,682. Every item you save is worth even more in 2026.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The FIFO Revolution (First In, First Out)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Restaurants use FIFO to minimize waste. Apply the same professional system at home:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Fridge Organization System</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Eye-Level Shelf</p><p class="mb-4 text-gray-700 leading-relaxed">"Use First" zone - items expiring in 1-2 days</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Top Shelf</p>
-<p class="mb-4 text-gray-700 leading-relaxed">New purchases, items with longer dates</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Crisper Drawers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Organized by expiry: front = first to use</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Door Storage</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Condiments, long-life items only</p>
+<div class="overflow-x-auto mb-6">
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Zone</th>
+<th class="px-4 py-3 text-left font-semibold">What Goes Here</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200 font-medium">Eye-Level Shelf</td><td class="px-4 py-3 border-b border-gray-200">"Use First" zone — items expiring in 1–2 days</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200 font-medium">Top Shelf</td><td class="px-4 py-3 border-b border-gray-200">New purchases, items with longer dates</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200 font-medium">Crisper Drawers</td><td class="px-4 py-3 border-b border-gray-200">Organised by expiry: front = first to use</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200 font-medium">Door Storage</td><td class="px-4 py-3 border-b border-gray-200">Condiments, long-life items only</td></tr>
+</tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Weekly Routine</h4>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>1. Sunday audit: Check all expiry dates, move soon-to-expire to "use first" zone</li>
@@ -276,18 +281,19 @@ export const foodInflation2026SmartShopping: Article = {
 </ol>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The £3-Per-Person Formula</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Target £3 per person per meal for nutritious, satisfying dinners. Here's how to hit that target consistently:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Meal Cost Breakdown (Family of 4)</p><p class="mb-4 text-gray-700 leading-relaxed">Protein (150g per person)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4.00-6.00</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Vegetables (200g per person)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.00-3.50</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Carbohydrates (rice/pasta/potato)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1.00-2.00</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Seasonings, oils, herbs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1.00-1.50</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total meal cost:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£8.00-13.00</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Per person cost:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.00-3.25</p>
+<div class="overflow-x-auto mb-6">
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Component</th>
+<th class="px-4 py-3 text-left font-semibold">Cost (Family of 4)</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Protein (150g per person)</td><td class="px-4 py-3 border-b border-gray-200">£4.00–6.00</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Vegetables (200g per person)</td><td class="px-4 py-3 border-b border-gray-200">£2.00–3.50</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Carbohydrates (rice/pasta/potato)</td><td class="px-4 py-3 border-b border-gray-200">£1.00–2.00</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Seasonings, oils, herbs</td><td class="px-4 py-3 border-b border-gray-200">£1.00–1.50</td></tr>
+<tr class="bg-gray-50 font-semibold"><td class="px-4 py-3 border-b border-gray-200 text-[#1B4D3E]">Total meal cost</td><td class="px-4 py-3 border-b border-gray-200 text-[#1B4D3E]">£8.00–13.00</td></tr>
+<tr class="bg-white font-semibold"><td class="px-4 py-3 border-b border-gray-200 text-[#1B4D3E]">Per person cost</td><td class="px-4 py-3 border-b border-gray-200 text-[#1B4D3E]">£2.00–3.25</td></tr>
+</tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Budget Protein Strategies</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Chicken thighs (£3-4/kg) vs breast (£6-8/kg)</li>
@@ -305,34 +311,37 @@ export const foodInflation2026SmartShopping: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">14-Day Rotating Menu System</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Create a 2-week rotation of proven, budget-friendly meals. Reduces decision fatigue and allows bulk buying for repeated ingredients.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Week 1 Template</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Monday: Bean & veg curry</p><p class="mb-4 text-gray-700 leading-relaxed">£2.80/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tuesday: Pasta with tinned fish</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.50/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Wednesday: Chicken thigh stir-fry</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3.20/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Thursday: Egg fried rice</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.00/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Friday: Lentil soup + bread</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1.80/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Saturday: Potato hash + eggs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.20/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Sunday: Roast chicken (batch)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3.50/person</p>
+<div class="overflow-x-auto mb-6">
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Day</th>
+<th class="px-4 py-3 text-left font-semibold">Meal</th>
+<th class="px-4 py-3 text-left font-semibold">Cost/Person</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Monday</td><td class="px-4 py-3 border-b border-gray-200">Bean &amp; veg curry</td><td class="px-4 py-3 border-b border-gray-200">£2.80</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Tuesday</td><td class="px-4 py-3 border-b border-gray-200">Pasta with tinned fish</td><td class="px-4 py-3 border-b border-gray-200">£2.50</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Wednesday</td><td class="px-4 py-3 border-b border-gray-200">Chicken thigh stir-fry</td><td class="px-4 py-3 border-b border-gray-200">£3.20</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Thursday</td><td class="px-4 py-3 border-b border-gray-200">Egg fried rice</td><td class="px-4 py-3 border-b border-gray-200">£2.00</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Friday</td><td class="px-4 py-3 border-b border-gray-200">Lentil soup + bread</td><td class="px-4 py-3 border-b border-gray-200">£1.80</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Saturday</td><td class="px-4 py-3 border-b border-gray-200">Potato hash + eggs</td><td class="px-4 py-3 border-b border-gray-200">£2.20</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Sunday</td><td class="px-4 py-3 border-b border-gray-200">Roast chicken (batch)</td><td class="px-4 py-3 border-b border-gray-200">£3.50</td></tr>
+</tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Week 2 Template</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Monday: Leftover chicken soup</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1.50/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tuesday: Bean chili + rice</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.30/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Wednesday: Tuna pasta bake</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.70/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Thursday: Vegetable curry</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.10/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Friday: Scrambled eggs + toast</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1.90/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Saturday: Minced meat pasta</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3.40/person</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Sunday: Fish + chips (homemade)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3.80/person</p>
+<div class="overflow-x-auto mb-6">
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Day</th>
+<th class="px-4 py-3 text-left font-semibold">Meal</th>
+<th class="px-4 py-3 text-left font-semibold">Cost/Person</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Monday</td><td class="px-4 py-3 border-b border-gray-200">Leftover chicken soup</td><td class="px-4 py-3 border-b border-gray-200">£1.50</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Tuesday</td><td class="px-4 py-3 border-b border-gray-200">Bean chili + rice</td><td class="px-4 py-3 border-b border-gray-200">£2.30</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Wednesday</td><td class="px-4 py-3 border-b border-gray-200">Tuna pasta bake</td><td class="px-4 py-3 border-b border-gray-200">£2.70</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Thursday</td><td class="px-4 py-3 border-b border-gray-200">Vegetable curry</td><td class="px-4 py-3 border-b border-gray-200">£2.10</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Friday</td><td class="px-4 py-3 border-b border-gray-200">Scrambled eggs + toast</td><td class="px-4 py-3 border-b border-gray-200">£1.90</td></tr>
+<tr class="bg-white"><td class="px-4 py-3 border-b border-gray-200">Saturday</td><td class="px-4 py-3 border-b border-gray-200">Minced meat pasta</td><td class="px-4 py-3 border-b border-gray-200">£3.40</td></tr>
+<tr class="bg-gray-50"><td class="px-4 py-3 border-b border-gray-200">Sunday</td><td class="px-4 py-3 border-b border-gray-200">Fish + chips (homemade)</td><td class="px-4 py-3 border-b border-gray-200">£3.80</td></tr>
+</tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Average cost: £2.55 per person per meal. Compare to £8-12 for equivalent restaurant meals or £4-6 for ready meals.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Flexibility Within Structure</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The 14-day rotation provides framework, not rigid rules. Swap meals based on what's on offer, seasonal availability, or family preferences.</p>
