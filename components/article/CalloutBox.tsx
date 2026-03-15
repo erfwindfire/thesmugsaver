@@ -11,42 +11,42 @@ interface CalloutBoxProps {
 const CalloutBox = ({ type, title, children }: CalloutBoxProps) => {
     const styles = {
         important: {
-            border: 'border-l-[#C5A065]', // Gold/Bronze
-            bg: 'bg-[#F9F9F7]', // Warm Off-White/Beige
-            icon: null, // Removed icon for this specific "Breaking News" look or keep subtle
-            titleColor: 'text-gray-900 font-serif italic', // Serif Italic Title
+            border: 'border-l-[#1B4D3E]',
+            bg: 'bg-stone-50',
+            icon: null,
+            titleColor: 'text-stone-900 font-serif italic',
             defaultTitle: 'Breaking News',
-            containerRunningClass: 'shadow-sm' // subtle shadow
+            containerRunningClass: 'shadow-sm'
         },
         warning: {
-            border: 'border-l-amber-600',
-            bg: 'bg-amber-50',
-            icon: <AlertTriangle className="w-6 h-6 text-gray-500" />,
-            titleColor: 'text-amber-900',
+            border: 'border-l-[#1B4D3E]',
+            bg: 'bg-[#FAFAF8]',
+            icon: <AlertTriangle className="w-6 h-6 text-[#1B4D3E]" />,
+            titleColor: 'text-stone-900',
             defaultTitle: 'Warning',
             containerRunningClass: 'shadow-sm'
         },
         tip: {
-            border: 'border-l-[#385F5E]', // Branding Teal
+            border: 'border-l-[#1B4D3E]',
             bg: 'bg-[#EBF2F1]',
-            icon: <CheckCircle2 className="w-6 h-6 text-gray-500" />,
+            icon: <CheckCircle2 className="w-6 h-6 text-[#1B4D3E]" />,
             titleColor: 'text-[#1B4D3E]',
             defaultTitle: 'Good News',
             containerRunningClass: 'shadow-sm'
         },
         'pro-tip': {
-            border: 'border-l-indigo-500',
-            bg: 'bg-indigo-50',
-            icon: <Lightbulb className="w-6 h-6 text-gray-500" />,
-            titleColor: 'text-indigo-900',
+            border: 'border-l-[#1B4D3E]',
+            bg: 'bg-slate-50',
+            icon: <Lightbulb className="w-6 h-6 text-[#1B4D3E]" />,
+            titleColor: 'text-[#1B4D3E]',
             defaultTitle: 'Pro Tip',
             containerRunningClass: 'shadow-sm'
         },
         note: {
-            border: 'border-none',
+            border: 'border-l-[#1B4D3E]',
             bg: 'bg-gray-50',
-            icon: <Info className="w-6 h-6 text-gray-500" />,
-            titleColor: 'text-gray-800',
+            icon: <Info className="w-6 h-6 text-[#1B4D3E]" />,
+            titleColor: 'text-gray-700',
             defaultTitle: 'Note',
             containerRunningClass: ''
         }
