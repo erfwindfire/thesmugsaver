@@ -24,7 +24,7 @@ import { budgetRuleArticle } from './articles/budget-rule-article';
 import { carTradingSellingUk2026 } from './articles/car-trading-selling-uk-2026';
 import { cashEnvelopeVsDigitalPotsUk2026 } from './articles/cash-envelope-vs-digital-pots-uk-2026';
 import { childcareCostsUk2026 } from './articles/childcare-costs-uk-2026';
-import { christmasSuperSavings2026SupermarketsRanked } from './articles/christmas-super-savings-2026-supermarkets-ranked';
+import { christmasSuperSavings2025SupermarketsRanked } from './articles/christmas-super-savings-2025-supermarkets-ranked';
 import { conquerYourDebt2026 } from './articles/conquer-your-debt-2026';
 import { costOfLiving2026 } from './articles/cost-of-living-2026';
 import { costOfLivingPayment2026DwpSupport } from './articles/cost-of-living-payment-2026-dwp-support';
@@ -72,7 +72,7 @@ export const articles: Article[] = [
     carTradingSellingUk2026,
     cashEnvelopeVsDigitalPotsUk2026,
     childcareCostsUk2026,
-    christmasSuperSavings2026SupermarketsRanked,
+    christmasSuperSavings2025SupermarketsRanked,
     conquerYourDebt2026,
     costOfLiving2026,
     costOfLivingPayment2026DwpSupport,
