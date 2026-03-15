@@ -9,7 +9,7 @@ export const christmasSuperSavings2025SupermarketsRanked: Article = {
  metaDescription: 'UK supermarkets ranked by Christmas 2025 discounts. Lidl, Asda, and Aldi compared on festive food deals. Save £150-300 with multi-store strategy.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Which supermarket saves you the most at Christmas? We ranked UK retailers by festive deals—Lidl leads with 22-28% savings.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">2025 Christmas Super Savings: UK Supermarkets Ranked By Biggest Festive Discounts</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Which supermarket saves you the most this Christmas? We've ranked all major UK retailers by their festive deals and discounts. Lidl dominates with 22-28% savings on Christmas baskets versus traditional supermarkets. A family Christmas dinner for eight costs around £85 at Lidl versus £120-140 elsewhere. This guide shows exactly which supermarket wins for your shopping style and reveals the multi-store strategy that saves families £150-300 on total Christmas spending.</p>

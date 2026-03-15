@@ -9,7 +9,7 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
  metaDescription: 'Premium vs budget insurance compared for UK consumers in 2026. Hidden exclusions, claims data, and when paying more actually saves you money.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Stop paying for insurance you don\'t need or getting caught with coverage that won\'t protect you when it matters. This complete guide reveals what insurance companies don\'t want you to know about premi',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop paying for insurance you don't need or getting caught with coverage that won't protect you when it matters. This complete guide reveals what insurance companies don't want you to know about premium vs budget policies.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What is Insurance Excess (Deductible)?</h2>

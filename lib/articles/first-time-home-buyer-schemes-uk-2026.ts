@@ -9,7 +9,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
  metaDescription: 'First-time buyer schemes in the UK for 2026. Lifetime ISAs, shared ownership, deposit unlock, mortgage guarantees, and government help explained clearly.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a "starter',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a "starter home" costs £300k and the government's "help" comes with more strings than a puppet show. Here's how to actually get on the ladder without selling your organs.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate 2026 First-Time Buyer Schemes</h2>

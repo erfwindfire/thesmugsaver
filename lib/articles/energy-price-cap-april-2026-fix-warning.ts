@@ -4,7 +4,7 @@ export const energyPriceCapApril2026FixWarning: Article = {
  slug: 'energy-price-cap-april-2026-fix-warning',
  title: "Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July",
  category: 'energy-bills',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  datePublished: '2026-03-06',
  dateModified: '2026-03-15',
  readingTime: 14,

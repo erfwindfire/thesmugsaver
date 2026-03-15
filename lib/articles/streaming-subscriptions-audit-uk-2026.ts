@@ -9,7 +9,7 @@ export const streamingSubscriptionsAuditUk2026: Article = {
  metaDescription: 'How to audit and slash your streaming and subscription costs. Netflix, Disney+, Spotify, gym, and app subscriptions reviewed with cancellation strategies.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Stop bleeding money on forgotten subscriptions and streaming services you don\'t use. This comprehensive UK guide reveals how the average household wastes £400+ annually on subscriptions—and exactly ho',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The Real Cost of Streaming, Subscriptions, and How to Ruthlessly Audit Yours</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Stop bleeding money on forgotten subscriptions and streaming services you don't use. This comprehensive UK guide reveals how the average household wastes £400+ annually on subscriptions—and exactly how to reclaim every penny.</p>

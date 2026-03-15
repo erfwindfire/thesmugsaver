@@ -9,7 +9,7 @@ export const studentLoanRepaymentUk2026: Article = {
  metaDescription: 'UK student loan repayment explained for every plan type in 2026. Thresholds, rates, overpayment strategies, and when your loan gets written off.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Navigate the complex world of UK student loans with confidence. From Plan 1 to Postgraduate loans, we\'ll show you exactly how to manage, optimize, and potentially escape your student debt.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Navigate the complex world of UK student loans with confidence. From Plan 1 to Postgraduate loans, we'll show you exactly how to manage, optimize, and potentially escape your student debt.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The UK student loan system is deliberately complex—designed to confuse borrowers so they don't optimize their repayments. This guide cuts through the complexity with specific numbers, thresholds, and strategies tailored to your plan type.</p>

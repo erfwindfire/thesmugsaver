@@ -9,7 +9,7 @@ export const costOfLivingPayment2026DwpSupport: Article = {
  metaDescription: 'How to claim your £500 DWP Cost of Living Payment in September 2026. Complete eligibility guide, payment dates, and what to do if payment is missing.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Cost of Living Payment 2026: How to Claim Your £500 DWP Support in September</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.</p>

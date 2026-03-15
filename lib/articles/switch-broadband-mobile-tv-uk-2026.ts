@@ -9,7 +9,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
  metaDescription: 'Complete guide to switching broadband, mobile and TV for savings in 2026. Negotiation scripts, step-by-step process, and provider comparison.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Your complete 2026 guide to slashing communication bills through strategic provider switching with proven negotiation tactics and real-world savings.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Switch Broadband, Mobile, and TV for Maximum Savings</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">UK households pay an average of £150+ monthly for broadband, mobile, and TV—yet switching providers could save £40-80 monthly (£480-960 annually). With Ofcom's auto-switching system and mobile number portability taking under 24 hours, switching has never been easier. This guide delivers exact scripts, step-by-step processes, and real-world examples proving that strategic switching saves £500+ annually in 2026.</p>

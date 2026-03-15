@@ -9,7 +9,7 @@ export const openBankingUk2026Impact: Article = {
  metaDescription: 'How Open Banking is changing personal finance in the UK. Security safeguards, money-saving apps, and how to use open banking to cut costs and grow savings.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">12M+ UK Users</p>

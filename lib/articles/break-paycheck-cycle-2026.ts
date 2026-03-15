@@ -9,7 +9,7 @@ export const breakPaycheckCycle2026: Article = {
  metaDescription: 'Break the paycheck-to-paycheck cycle with automation, budgeting strategies, and income diversification. Complete step-by-step UK guide for financial stability.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'The paycheck-to-paycheck cycle isn\'t a character flaw—it\'s economic quicksand designed to keep you trapped while banks profit from your desperation. But here\'s the thing about quicksand: the more you ',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">The paycheck-to-paycheck cycle isn't a character flaw—it's economic quicksand designed to keep you trapped while banks profit from your desperation. But here's the thing about quicksand: the more you panic, the deeper you sink. Time to stop flailing and start climbing.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Break the Algorithm</p>

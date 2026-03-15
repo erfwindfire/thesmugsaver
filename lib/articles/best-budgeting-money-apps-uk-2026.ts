@@ -9,7 +9,7 @@ export const bestBudgetingMoneyAppsUk2026: Article = {
  metaDescription: 'Independent review of the best budgeting and money management apps for UK households in 2026. Free and paid options compared with real savings potential.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Navigate the digital finance landscape with confidence. Expert analysis of the top money management apps helping UK families take control of their finances in 2026.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The Best Budgeting & Money Apps for UK Households (2026)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The UK's Open Banking rules require every major bank to let FCA-authorised apps read your transaction data securely — no sharing passwords, no screen scraping. That changed personal finance software permanently. There are now dozens of genuinely useful budgeting and money management apps built for UK bank accounts, ranging from completely free to around £10/month. This guide cuts through the noise to tell you which ones actually work, who each one suits, and what to watch out for.</p>

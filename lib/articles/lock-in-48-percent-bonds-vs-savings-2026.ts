@@ -9,7 +9,7 @@ export const lockIn48PercentBondsVsSavings2026: Article = {
  metaDescription: 'UK government bonds at 4.8% versus savings accounts. Comparison, buying guide, tax strategies, and when to lock in rates for 2026.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'With Bank of England rate cuts expected throughout 2026, locking in today\'s 4.8% bond rates could protect your returns while savings rates fall. Here\'s how to decide.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Lock in 4.8% Returns: UK Government Bonds vs High-Yield Savings Accounts in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">UK government bonds currently offer 4.8% for one year and 4.52% for five years—rates locked at purchase. With Bank of England rate cuts expected throughout 2026, savings rates will likely fall from 4.8-5% to 3.5-4%. For money you won't need 1-5 years, bonds protect against this decline.</p>

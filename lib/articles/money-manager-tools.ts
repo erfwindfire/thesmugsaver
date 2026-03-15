@@ -9,7 +9,7 @@ export const moneyManagerTools: Article = {
  metaDescription: 'Money management tools and automation strategies for UK savers. App comparisons, budgeting tactics, and smart saving habits for 2026.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Cut through fintech noise and build a money management system that works. Essential tools, automation strategies, and smart saving tactics.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The Ultimate Money Manager: Tools and Tactics</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Cut through fintech noise and build a money management system that actually works. Your financial life doesn't need seventeen apps—it needs the right tools and smart automation. According to Which? research, UK households using automated money management save an average of £284/month in 2026. The best money management system is invisible: savings happen automatically before you see the money, bills pay themselves, and providers switch to cheaper options without your intervention.</p>

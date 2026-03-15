@@ -9,7 +9,7 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
  metaDescription: 'Practical cost of living strategies for UK households: energy bills, food savings, government support, and regional tactics for every income level in 2026.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Navigate the ongoing cost of living crisis with evidence-based strategies, government support navigation, and regional survival tactics for every income level.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Navigate the ongoing cost of living crisis with evidence-based strategies, government support navigation, and regional survival tactics for every income level. This guide covers energy bill reduction, grocery savings, benefit maximisation, and building financial resilience for UK households in 2026.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Reality of Cost of Living in 2026</h2>

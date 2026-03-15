@@ -9,7 +9,7 @@ export const ukHouseholdBills2026: Article = {
  metaDescription: 'Complete UK household bills guide for 2026: energy costs by region, switching suppliers, government support schemes, budgeting and money-saving strategies.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'UK household bills reached record highs in 2024, with the average family spending over £3,000 annually on energy alone. While the energy crisis has stabilized, 2026 brings new challenges and opportuni',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Electric, Gas, Water, Council Tax & Broadband Saving Strategies</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Summary: What You'll Learn</h2>

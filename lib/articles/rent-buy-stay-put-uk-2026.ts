@@ -9,7 +9,7 @@ export const rentBuyStayPutUk2026: Article = {
  metaDescription: 'Should you rent, buy, or stay put in 2026? UK housing market analysis with cost calculators, regional comparisons, and strategies for every budget level.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Navigate Britain's brutal housing market with evidence-based strategies. Whether you're trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finances.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Britain's housing market in 2026 remains punishingly expensive, but your best move depends entirely on your personal circumstances—not blanket advice. This guide cuts through the noise with data, calculators, and decision frameworks for renters, buyers, and remortgagers alike.</p>

@@ -9,7 +9,7 @@ export const bestHighYieldSavingsUk2026: Article = {
  metaDescription: 'Compare UK high-yield savings accounts in 2026. Rates up to 7.5%, FSCS protection, and switching strategies to maximise your returns on savings.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Building substantial savings requires combining a high-yield account for your emergency buffer with longer-term vehicles for growth. Once you have 3–6 months of expenses secured in an instant-access account at 5.25%, excess savings should move into a Cash ISA for tax-free growth or fixed-term bonds for higher rates.</p>

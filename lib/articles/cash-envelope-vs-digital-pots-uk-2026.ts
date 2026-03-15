@@ -9,7 +9,7 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
  metaDescription: 'Cash envelopes vs. digital pots: which budgeting method actually stops overspending? Complete UK 2026 comparison with pros, cons, and apps.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Stop falling for budgeting advice written by people who think spending is solved with an app and discipline. This comparison between cash envelopes',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop falling for budgeting advice that ignores how humans actually behave with money. This is the definitive analysis of envelope budgeting versus digital pots—including the psychological warfare your spending habits wage against your financial goals, and which system actually wins in the real world.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Takeaways</h2>

@@ -10,7 +10,7 @@ export const savingsRatesRoundupMarch2026: Article = {
  heroImage: '/assets/images/savings-rates-roundup-march-2026-hero.jpg',
  datePublished: '2026-03-05',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Savings rates are still defying gravity. Despite the Bank of England cutting its base rate — with more cuts expected through 2026 — competitive pressure between banks means some accounts are still paying 6%, 7%, even 7.5% AER this week. That won\'t last. Here\'s where your money should be sitting right now.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Savings Rates Round-Up: Best Accounts This Week (March 2026)</h1>
 

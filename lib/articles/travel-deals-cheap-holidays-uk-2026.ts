@@ -9,7 +9,7 @@ export const travelDealsCheapHolidaysUk2026: Article = {
  metaDescription: 'How to find the cheapest holidays and travel deals from the UK in 2026. Flight hacking, booking windows, and package deal comparison strategies.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Stop overpaying for holidays. This guide reveals insider strategies to slash travel costs by 50-70%.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices for.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>

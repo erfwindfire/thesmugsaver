@@ -9,7 +9,7 @@ export const studentFinanceSurvivalUk2026: Article = {
  metaDescription: 'Complete financial survival guide for UK university students in 2026. Loans, grants, budgeting, part-time work, and maximising every pound of student income.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies</p>

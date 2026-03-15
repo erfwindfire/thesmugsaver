@@ -9,7 +9,7 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
  metaDescription: 'How to budget with irregular or freelance income in the UK. Percentage-based systems, baseline budgeting, and buffer strategies for variable earnings.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Flexible Budgets forIrregular Income</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026</p>

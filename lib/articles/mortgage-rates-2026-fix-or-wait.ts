@@ -9,7 +9,7 @@ export const mortgageRates2026FixOrWait: Article = {
  metaDescription: 'Should you fix your mortgage now or wait? March 2026 rate analysis: rates, Bank of England forecasts, and complete decision framework for UK homeowners.',
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Rob Jones',
  excerpt: 'Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating March 2026\'s rate landscape and making the right fixing decision.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Bank of England holds rates at 4.75% but market uncertainty creates mortgage dilemma. Your complete guide to navigating March 2026's rate landscape and making the right fixing decision.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Summary</h2>

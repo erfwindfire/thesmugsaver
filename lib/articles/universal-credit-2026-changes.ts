@@ -10,7 +10,7 @@ export const universalCredit2026Changes: Article = {
  heroImage: '/assets/images/universal-credit-2026-changes-hero.jpg',
  datePublished: '2026-03-03',
  dateModified: '2026-03-15',
- author: 'The Smug Saver',
+ author: 'Ed Djazmi',
  excerpt: 'The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they\'re ready or not. Miss your migration notice deadline and your payments stop. This is everything you need to know to protect your income.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)</h1>
 <p class="mb-4 text-gray-700 leading-relaxed">The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they're ready or not. Miss your migration notice deadline and your payments stop. Full stop. This is everything you need to know to protect your income.</p>
