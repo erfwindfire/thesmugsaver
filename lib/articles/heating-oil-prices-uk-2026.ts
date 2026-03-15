@@ -10,7 +10,6 @@ export const heatingOilPricesUk2026: Article = {
     readingTime: 18,
     seoTitle: 'Heating Oil Prices UK 2026 — Kerosene Crisis Guide for Off-Grid Homes',
     metaDescription: 'Heating oil prices UK doubled in 12 days in March 2026. Kerosene hit 128p per litre. Here\'s what off-grid households must do now — buying groups, timing, rights, and support.',
-    heroImage: '/assets/images/heating-oil-prices-uk-2026-hero.jpg',
     excerpt: 'The national average kerosene price doubled from 63.1p to 128.1p per litre between 1 and 13 March 2026. 1.5 million off-grid UK households — with no Ofgem price cap protection — bore the full shock. Here\'s the complete guide to your rights, how to find the cheapest heating oil UK suppliers, when to buy, and what financial support exists.',
     body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Heating Oil Prices UK 2026: What Off-Grid Households Must Do Now</h1>
 
