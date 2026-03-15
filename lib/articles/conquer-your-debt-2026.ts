@@ -126,19 +126,34 @@ export const conquerYourDebt2026: Article = {
 <li>MSE Credit Club: Free Experian data through MoneySavingExpert</li>
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">9. Your Debt-Prevention Framework</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Getting out of debt is only half the battle. The other half is building systems that prevent you from falling back into debt.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Getting out of debt is only half the battle. The other half is building systems that prevent you from falling back into debt. Research from the Money Advice Trust shows that 73% of people who exit debt without changing underlying behaviors re-accumulate debt within two years. The difference between people who stay debt-free and those who cycle back lies entirely in systems and habits implemented after payoff.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Financial Structure:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>Emergency fund: 3-6 months expenses</li>
-<li>Automatic savings: 20% of income minimum</li>
-<li>Annual expenses fund (car MOT, insurance, etc.)</li>
-<li>Investment account for long-term wealth</li>
+<li>Emergency fund: 3-6 months expenses (prevent emergency borrowing)</li>
+<li>Automatic savings: 20% of income minimum (pay yourself first before discretionary spending)</li>
+<li>Annual expenses fund (car MOT, insurance, etc.—£50-100 monthly into separate account)</li>
+<li>Investment account for long-term wealth (build assets, not just avoid debt)</li>
 </ul>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Building Resilience: The Three-Layer Safety System</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Debt-free people typically employ three layers of protection: Layer 1 (Immediate): Quick-access emergency fund of £1,000-£2,000 covering most urgent expenses (medical, car repair, boiler failure). This prevents taking on credit card debt for genuine emergencies. Layer 2 (Medium-term): 3-month emergency fund in higher-yield savings account covering full monthly expenses if income stops. This provides security during redundancy or illness. Layer 3 (Long-term): Invested portfolio creating passive income that partially covers expenses. At this stage, temporary income loss is uncomfortable but never creates debt spiral.</p>
+
+<p class="mb-4 text-gray-700 leading-relaxed">Most people try building all three simultaneously and fail from overwhelm. Instead: build Layer 1 in first 2-3 months (£1,000), then Layer 2 over 6-12 months (£6,000-£10,000), then Layer 3 over years (investments). This progression builds genuine financial resilience progressively while avoiding the common pattern of getting to "six-month emergency fund" and then immediately depleting it through lifestyle creep.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">UK-Specific Long-term Strategies:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
-<li>Maximize UK Tax-Advantaged Accounts: ISA allowance (£20,000/year tax-free growth), Pension contributions (tax relief + employer matching)</li>
-<li>Annual UK Money Maintenance: January (Switch energy supplier), April (Review ISA contributions), July (Compare insurance renewals), October (Review mobile/broadband contracts)</li>
+<li>Maximize UK Tax-Advantaged Accounts: ISA allowance (£20,000/year tax-free growth), Pension contributions (tax relief up to £60,000/year plus employer matching)</li>
+<li>Annual UK Money Maintenance: January (Switch energy supplier, save £100-300), April (Review ISA contributions, maximize tax efficiency), July (Compare insurance renewals, save £100-200), October (Review mobile/broadband contracts, save £50-150)</li>
+<li>Prevent Subscription Creep: Most people accumulate £50-100 monthly in forgotten subscriptions within 2 years of reaching debt freedom. Audit subscriptions quarterly and ruthlessly cancel anything unused.</li>
 </ul>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Psychology of Staying Debt-Free</h2>
+<p class="mb-4 text-gray-700 leading-relaxed">Beyond systems and structures, staying debt-free requires understanding your personal relationship with money and spending triggers. People who re-accumulate debt typically do so due to emotional spending rather than financial emergencies. Common triggers include stress, boredom, social pressure, and the "I deserve a treat" mentality that creeps back after months of discipline. Successful long-term debt avoiders develop alternative coping mechanisms: instead of stress-shopping, they exercise; instead of "treat myself" purchases, they use free alternatives (hiking, parks, library books); instead of lifestyle inflation when income rises, they automatically increase savings and investments.</p>
+
+<p class="mb-4 text-gray-700 leading-relaxed">One powerful technique is "spending visibility"—using apps like Emma or Money Dashboard to see every transaction in real-time, creating immediate awareness when patterns shift. Many people report that simply seeing spending data prevents impulse purchases because the transparency removes the "I can justify this" rationalization. Additionally, sharing your debt-free goal with an accountability partner (friend, family member, online community) increases follow-through rates by 65% according to behavioral research. People who tell others about goals are dramatically more likely to achieve them versus those keeping goals private.</p>
+
+<p class="mb-4 text-gray-700 leading-relaxed">Finally, celebrate milestones visibly. When you've been debt-free for six months, acknowledge the achievement. When you reach your first £5,000 emergency fund, mark it. These celebrations don't need to be expensive—a special meal at home, a day off work, or telling friends your progress—but they reinforce that staying debt-free is worth the effort and restriction. Many financial advisors recommend treating debt payoff and staying debt-free like training for an athletic event: it requires discipline, but the payoff (financial freedom) justifies temporary deprivation.</p>
+
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Q: Should I pay off debt or save money first?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">In the UK, the general rule is to build a small emergency fund (£1,000) first, then focus on high-interest debt, then build a larger emergency fund. Always prioritise priority debts (council tax, mortgage, utilities) over savings. The psychological benefit of having some emergency money often outweighs the mathematical argument of paying debt first, especially if your debt interest rates are below 10-15%.</p>

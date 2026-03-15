@@ -156,6 +156,23 @@ export const savingsRatesRoundupMarch2026: Article = {
 
 <p class="mb-4 text-gray-700 leading-relaxed">All three accounts are FSCS-protected up to £85,000 per institution, so your money is safe. The key is moving fast — every month rates slip, the banks quietly reprice, and the window to capture these returns narrows. See how to set this up on autopilot in our guide to <a href="/budgeting/automate-savings-2026" class="text-emerald-700 underline hover:text-emerald-900">automating your savings</a>.</p>
 
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rate Forecasting for 2026: When to Lock In</h2>
+<p class="mb-4 text-gray-700 leading-relaxed">The Bank of England is expected to cut rates three to four times throughout 2026, bringing the base rate from current levels to 3.25-3.75% by year-end. This creates a critical decision point: should you lock in today's 4.8% rates in fixed bonds, or maintain flexibility with easy-access accounts? The mathematics suggest locking in is wise, but execution timing matters.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Base Case Scenario (Most Likely)</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">Base rate falls from current 4.5% to 3.75% by December 2026 (three 0.25% cuts). Savings rates, which typically fall 1.1-1.25% for every 1% base rate cut, drop from 4.8% to 3.5% by mid-year. Easy-access account savers starting the year at 4.8% would earn total interest of roughly 3.9% average over 12 months (declining throughout). Fixed-rate savers locking 4.8% earn the full amount regardless of cuts. The difference: £200 per £10,000 saved annually.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Downside Scenario (Economic Crisis/Rapid Cuts)</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">If recession indicators worsen, the Bank of England might cut 0.5% (50 basis points) in a single month rather than steady quarterly cuts. Savings rates could collapse from 4.8% to 2.5% within weeks. Fixed-rate savers would be very happy. This scenario is assigned 20% probability but carries massive upside protection. Even a 10% recession probability justifies locking in today's rates for peace of mind.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Upside Scenario (Sticky Inflation/No Cuts)</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">If inflation remains elevated and the Bank of England holds rates, savers with easy-access accounts might still earn 4.8% throughout 2026. Fixed-rate savers would lock in a rate they could have maintained anyway. However, this scenario is assigned only 15% probability given prevailing economic expectations. Additionally, even if rates don't fall, the margin between 4.8% and competitive easy-access account rates is narrow—the insurance premium is small.</p>
+
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Strategic Decision Framework</h3>
+<p class="mb-4 text-gray-700 leading-relaxed">For most savers with £10,000-£50,000 in cash: split the difference. Lock 50-70% into fixed bonds (1-5 year ladder, averaging 4.6%) and maintain 30-50% in easy-access savings for flexibility and emergencies. This provides rate protection on a majority of capital while preserving liquidity if circumstances change. For savers with £100,000+: the mathematics clearly favor locking in 60-80% through bond laddering, with only 20-40% in easy-access for true emergencies. For savers with under £5,000: the transaction costs and complexity of laddering bonds outweigh benefits—stay in competitive easy-access accounts and switch providers every 12 months when bonuses expire.</p>
+
+<p class="mb-4 text-gray-700 leading-relaxed">Additionally, consider your personal risk tolerance. If the idea of rates falling and your account earning less stresses you, lock in today's rates for peace of mind—the psychological value of certainty is worth the 0.2% average return sacrifice. If you're naturally optimistic and believe rates won't fall, maintain flexibility. Neither approach is objectively "wrong"—the right decision is the one you'll actually stick with throughout 2026.</p>
+
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do Right Now</h2>
 
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

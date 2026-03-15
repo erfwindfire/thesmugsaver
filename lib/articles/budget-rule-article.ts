@@ -171,7 +171,7 @@ export const budgetRuleArticle: Article = {
 <li>Make micro-adjustments if needed (52% needs → adjust transfer 1-2%)</li>
 <li>Set first savings goal: £1,000 emergency fund, then ISA or house deposit</li>
 </ul>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The 50/30/20 Rule FAQ</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What if my needs exceed 50% of my income?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">This is extremely common in the UK, particularly in London and the South East. If you're facing this, you have options: adjust to 60/20/20 or 70/20/10 temporarily while building savings for a deposit or career advancement. Look at your biggest cost (usually housing) first. Could you house-share, move to a more affordable area with commutable distance to work, or move a housemate in? According to the Institute for Fiscal Studies, the typical solution isn't cutting wants—it's incrementally increasing income through career progression or developing complementary skills for remote work opportunities.</p>
 

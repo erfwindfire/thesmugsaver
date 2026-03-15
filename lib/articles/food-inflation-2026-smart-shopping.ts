@@ -338,16 +338,25 @@ export const foodInflation2026SmartShopping: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Flexibility Within Structure</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The 14-day rotation provides framework, not rigid rules. Swap meals based on what's on offer, seasonal availability, or family preferences.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Key principle: Having a system prevents expensive last-minute decisions while allowing adaptation to opportunities and circumstances.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Food Inflation 2026: Your Questions Answered</h2>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much has food inflation really affected UK families in 2026?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Food inflation at 5.1% means a family's £100 weekly shop now costs £105.10—adding £360+ to annual grocery bills for identical items. More painfully: meat prices jumped 8.2%, fresh vegetables up 6.7%, and bread climbed 4.3%. A family of four notices the difference on every shopping trip but struggles to quantify it until year-end accounting reveals the true cost.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Combined with other living cost increases (energy, transport, childcare), food inflation forces families into deficit spending or calorie reduction. Using smart strategies can offset 30-40% of these increases, meaning families can spend as much now and get quality equivalent to £10 better shopping two years ago.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Which foods have seen the biggest price increases?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Meat leads inflation at 8.2%, followed by fresh vegetables at 6.7%, bread at 4.3%, and dairy at 5.9%. Processed foods show lower inflation (2-3%) since producers absorb some costs rather than passing full burden to consumers. Luxury items like out-of-season produce have inflation exceeding 10%.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Strategic response: buy seasonal British vegetables (winter: roots, cabbage, sprouts), substitute meat with eggs and legumes (£1-3/kg), choose bread from budget stores (60% cheaper), and batch-cook to stretch meat further. Processed foods offer better value per calorie in inflation context—budget beans beat premium fresh equally nutritionally.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Are discount supermarkets actually cheaper during inflation?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Absolutely yes—Aldi and Lidl save 25-35% during inflation because their costs rise less than traditional supermarkets due to simpler operations and lower margins. While mainstream inflation hits 5%, discounters often increase prices just 2-3%. Over a year, this 2-3% difference compounds to £200-£400 in annual savings.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Blind taste tests consistently show budget supermarket own-brands beating premium alternatives. During inflationary periods, shopping habits adjust: traditional supermarket shoppers discover Aldi/Lidl quality rivals premium versions, creating permanent customer migration that survives inflation recovery.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much can I realistically save with meal planning?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Systematic meal planning reduces food costs by 30-40% compared to unplanned shopping. Batch cooking specifically saves £3,640-£4,160 annually versus daily shopping. The mechanism: planned meals allow bulk purchasing of ingredients, reduce impulse buying, prevent food waste, and eliminate convenience premium items.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Time investment: 2-3 hours weekly planning and cooking yields £70-£80 weekly savings for a family of four. That's £1,500+ annual savings for 2 hours weekly investment—equivalent to £750/hour return. Even modest planning (one meal planned daily) saves £20-30 weekly through reduced impulse purchasing.</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
+
+          <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much have UK food prices risen in 2026 compared to 2023?</h3>
+          <p class="mb-4 text-gray-700 leading-relaxed">Food inflation stands at 5.1% in 2026, meaning a £100 weekly shop now costs £105.10. Meat prices rose 8.2%, vegetables 6.7%, and bread 4.3% year-on-year. Strategic shopping with discounters and meal planning can offset 30-40% of these increases.</p>
+
+          <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Which supermarkets offer the best value for money in 2026?</h3>
+          <p class="mb-4 text-gray-700 leading-relaxed">Aldi and Lidl deliver 25-35% savings due to simpler operations and lower price inflation (2-3% vs mainstream 5%). Iceland and Farmfoods excel for frozen goods and bulk meat. Most UK shoppers find a multi-store strategy balancing discount retailers (60% spend) with traditional supermarkets (40% spend) maximizes savings.</p>
+
+          <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Does switching to own-brand products really save money?</h3>
+          <p class="mb-4 text-gray-700 leading-relaxed">Absolutely. Blind taste tests show Aldi/Lidl own-brands beat premium alternatives, yet cost 30-50% less. Many own-brands come from the same factories as premium versions. Switching just the main shop to own-brands saves £40-60 monthly for families.</p>
+
+          <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is it worth using cashback apps and loyalty points for groceries?</h3>
+          <p class="mb-4 text-gray-700 leading-relaxed">Yes—loyalty schemes (Tesco Clubcard, Sainsbury's Nectar) save 15-25% on promoted items at no cost. Stacking cashback credit cards adds 0.5-1% extra. Combined, these strategies save £200-300 annually with minimal effort.</p>
+
+          <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How can meal planning reduce food bills?</h3>
+          <p class="mb-4 text-gray-700 leading-relaxed">Meal planning reduces costs by 30-40% through bulk purchasing, reduced impulse buying, and prevented waste. Batch cooking saves £3,640-4,160 annually. A 2-3 hour weekly investment yields £70-80 savings for families of four.</p>
+
+          <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Are food banks still available if I'm struggling with grocery costs?</h3>
+          <p class="mb-4 text-gray-700 leading-relaxed">Yes. The Trussell Trust operates 1,300+ food banks across the UK, distributing 3+ million parcels annually. Food bank access is a safety net that exists for cost-of-living crises. Using one frees cash for bills with dire consequences for non-payment.</p>
 <div class="mt-12 pt-8 border-t border-gray-200">
   <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
     <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
