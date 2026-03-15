@@ -22,6 +22,8 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — Energy Price Cap April 2026 at a Glance</h2>
 
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> April's projected £117 price cap drop could reverse entirely by July when wholesale gas markets spike; fixed-rate deals available 14% below the cap offer genuine rate protection despite the temporary relief, making now the time to lock in longer-term security.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Key Facts</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
  <li>The April 2026 price cap drops to <strong>£1,641/year</strong> for a typical household on direct debit — down from £1,758 (a 6.7% fall).</li>

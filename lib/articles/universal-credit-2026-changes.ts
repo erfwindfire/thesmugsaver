@@ -16,6 +16,9 @@ export const universalCredit2026Changes: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they're ready or not. Miss your migration notice deadline and your payments stop. Full stop. This is everything you need to know to protect your income.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — Universal Credit 2026 at a Glance</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> Missing your Universal Credit migration deadline means automatic payment stops; use the benefits calculator to understand changes before switching, and act on migration notices immediately to avoid loss of income during transition from legacy benefits.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Big Changes</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Managed migration completing by end of 2026 — Tax Credits, ESA, Housing Benefit, Income Support all ending</li>

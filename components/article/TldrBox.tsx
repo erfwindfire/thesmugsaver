@@ -1,7 +1,7 @@
 import { Check } from 'lucide-react';
 
 interface TldrBoxProps {
-    summary: string;
+    summary?: string;
     actions?: string[];
 }
 
@@ -13,9 +13,11 @@ const TldrBox = ({ summary, actions }: TldrBoxProps) => {
                     <span className="text-sm font-bold uppercase tracking-widest text-[#1B4D3E]/70 border-b-2 border-[#1B4D3E]/20 pb-1">Key Takeaways</span>
                 </h3>
 
-                <div className="mb-4 text-gray-800 leading-relaxed font-medium">
-                    <strong className="text-neutral-dark">Bottom Line:</strong> {summary}
-                </div>
+                {summary && summary.trim() && (
+                    <div className="mb-4 text-gray-800 leading-relaxed font-medium">
+                        <strong className="text-neutral-dark">Bottom Line:</strong> {summary}
+                    </div>
+                )}
 
                 {actions && actions.length > 0 && (
                     <div className="mt-4 pt-4 border-t border-amber-200/50">

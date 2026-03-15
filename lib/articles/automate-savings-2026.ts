@@ -16,6 +16,8 @@ export const automateSavings2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How can I automate my savings in 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Use standing orders, direct debits, or round-up apps (Monzo, Starling, Chip, Plum) to transfer money automatically into savings. But start small (£10/week), maintain a £500+ buffer, verify FCA authorization, and understand withdrawal timeframes before automating.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> Automation requires proper setup and risk management to safely save £2,400+ annually; success depends on understanding tools, managing overdraft fees, and matching your income patterns to sustainable automation rules.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best Automation Tools</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Monzo Pots: Instant access, free</li>

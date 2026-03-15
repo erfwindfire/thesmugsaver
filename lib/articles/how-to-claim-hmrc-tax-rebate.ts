@@ -16,6 +16,9 @@ export const howToClaimHmrcTaxRebate: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">A tax rebate — also called a tax refund or tax repayment — is money HMRC owes you because you paid more income tax than you should have. This isn't a loophole, a scheme, or anything remotely complicated. It's your money. They took too much. You want it back. This guide explains exactly how to get it.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — HMRC Tax Rebate at a Glance</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> Millions miss out on legitimate refunds despite simple online claiming process; common triggers include wrong tax codes, multiple jobs, and unclaimed allowances, with most claims processed in 3-5 working days after a quick 15-minute online submission.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Key Facts</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Millions of UK workers overpay income tax every year through wrong tax codes, multiple jobs, or unclaimed allowances</li>

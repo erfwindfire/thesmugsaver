@@ -15,6 +15,9 @@ export const taxFreeSideHustlesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC legally allows you to earn up to £1,000 from casual trading, £7,500 from letting rooms, and £1,000 from property income entirely tax-free. Most people have no idea these allowances exist, costing themselves thousands annually.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The key is understanding what qualifies, tracking correctly, and staying under thresholds. Couples can double these allowances, and stacking multiple allowances together creates £11,000+ in potential tax-free earning annually.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Maximum Tax-Free Earning 2026</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> HMRC allows £11,000+ in tax-free earning across multiple allowances (trading, rent-a-room, property income, dividends); proper tracking and reporting keeps you compliant while couples can double their allowances through individual usage.</p>
+
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Trading Allowance: £1,000/year (eBay, crafts, freelance services)</li>
 <li>Rent-a-Room Scheme: £7,500/year (furnished room in your home)</li>

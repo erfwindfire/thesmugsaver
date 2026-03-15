@@ -146,7 +146,20 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
         const sectionHtml = processedContent.slice(headerEnd, endIndex);
 
         const actions = [];
-        const summaryText = tldrMatch[0].includes('Quick') ? "Quick Takeaways" : "Key Takeaways";
+
+        // Extract actual Bottom Line text if present
+        let actualSummary = '';
+        const bottomLineMatch = sectionHtml.match(/<p[^>]*>[\s\S]*?<strong[^>]*>Bottom Line[:\s]*<\/strong>\s*([\s\S]*?)<\/p>/i);
+        if (bottomLineMatch) {
+            actualSummary = bottomLineMatch[1].replace(/<[^>]+>/g, '').trim();
+        }
+        // Fall back: look for a plain "Bottom Line:" in a paragraph
+        if (!actualSummary) {
+            const plainBottomLine = sectionHtml.match(/Bottom Line[:\s]+(.*?)(?:<\/p>|<br)/i);
+            if (plainBottomLine) {
+                actualSummary = plainBottomLine[1].replace(/<[^>]+>/g, '').trim();
+            }
+        }
 
         // Strategy: Parse ANY list-like items (<li> or lines in <p> starting with bullets)
 
@@ -163,7 +176,7 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
                 lines.forEach(line => {
                     if (line.trim().length > 0) {
                         const cleaned = cleanText(line);
-                        // Check if it was a list item (had a marker). 
+                        // Check if it was a list item (had a marker).
                         // If we are in "Quick Takeaways", almost lines are items.
                         if (cleaned) actions.push(cleaned);
                     }
@@ -173,7 +186,7 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
 
         if (actions.length > 0) {
             const actionsJson = JSON.stringify(actions).replace(/"/g, '&quot;');
-            const replacementTag = `<div data-component="tldr" data-summary="${summaryText}" data-actions="${actionsJson}"></div>`;
+            const replacementTag = `<div data-component="tldr" data-summary="${actualSummary.replace(/"/g, '&quot;')}" data-actions="${actionsJson}"></div>`;
 
             // Replace header + section
             processedContent = processedContent.slice(0, headerIndex) + replacementTag + processedContent.slice(endIndex);

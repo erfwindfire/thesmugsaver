@@ -20,6 +20,8 @@ export const savingsRatesRoundupMarch2026: Article = {
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — This Week's Best Savings Rates at a Glance</h2>
 
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> Current 6%+ easy-access and 7%+ regular saver rates won't last; move fast before banks reprice downward in response to expected Bank of England rate cuts throughout 2026, with window closing rapidly as each week delays costing £140+ annually per £10,000.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Key Rates</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
  <li><strong>Best easy access:</strong> Santander Edge Saver 6.00% AER on up to £4,000 — the highest easy-access rate in the UK right now</li>

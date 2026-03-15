@@ -16,6 +16,9 @@ export const warrenBuffettEtf500To1m: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">10 min read</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> £500 monthly into S&P 500 ETF reaches £1 million by year 30 through compound growth; market volatility requires emotional discipline and long-term commitment, but consistent contributions combined with historical 10% returns build substantial wealth without market timing or stock picking.</p>
+
 <p class="mb-4 text-gray-700 leading-relaxed">Warren Buffett has spent decades recommending one investment to everyday investors: a low-cost S&P 500 index fund. His own will instructs 90% of his estate to be invested this way. The mathematics are compelling.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">high-yield savings options</a>.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Monthly Investment</p>

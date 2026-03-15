@@ -15,6 +15,9 @@ export const costOfLiving2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Here's what the government won't tell you: inflation hit 11.1% while wages rose 2.8%, which means you're not being dramatic—you really are getting poorer. But wallowing won't warm your house or feed your family, so let's get to work.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Save £200+ Monthly on UK Cost of Living</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> Compounding small savings across utilities, groceries, housing, and subscriptions can generate £200+ monthly savings through systematic approach; 2026's volatile energy market and cost-of-living pressures demand immediate defensive action across multiple spending categories.</p>
+
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Immediate Actions</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Switch energy provider via Ofgem-approved comparison sites</li>

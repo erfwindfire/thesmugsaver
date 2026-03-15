@@ -16,6 +16,9 @@ export const savingTipsNewsGuide2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What's the smartest savings move in March 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Prioritize building a 3-month emergency buffer in a high-yield account (4.5-5.25% AER), audit recurring expenses to cut £200-£500 monthly, and lock in competitive mortgage rates if your fixed term expires soon. Today's economic volatility makes defensive savings essential.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
+
+<p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> March 2026's volatile environment requires defensive savings through emergency buffers, expense cutting, and strategic rate-locking before expected Bank of England rate cuts erode savings returns through 2026.</p>
+
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Emergency buffer first: Target 3 months of expenses in instant-access savings</li>
 <li>Audit subscriptions & recurring bills: Save £200-£500/month by canceling unused services</li>
