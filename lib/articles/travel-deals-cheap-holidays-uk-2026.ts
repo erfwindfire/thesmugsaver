@@ -419,9 +419,9 @@ export const travelDealsCheapHolidaysUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general travel strategies and booking information. Travel costs, availability, and insurance requirements vary by destination, traveler profile, and booking date. Always verify current prices, check ATOL protection for package holidays, and review travel insurance terms for your specific needs. Consult FCA-regulated travel advisors for personalised guidance.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides general travel strategies and booking information. Travel costs, availability, and insurance requirements vary by destination, traveler profile, and booking date. Always verify current prices, check ATOL protection for package holidays, and review travel insurance terms for your specific needs. Consult FCA-regulated travel advisors for personalised guidance.</p>
   </div>
 
   <div class="mb-6">

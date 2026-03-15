@@ -122,9 +122,9 @@ export const taxFreeSideHustlesUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about HMRC tax-free allowances. Tax situations vary widely by individual circumstances, income type, and benefit status. Readers with complex self-employment income, substantial side hustle activity, or questions about benefits eligibility should contact HMRC directly (gov.uk) or seek advice from a qualified accountant. TaxAid (taxaid.org.uk) offers free tax advice for people on lower incomes.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides general information about HMRC tax-free allowances. Tax situations vary widely by individual circumstances, income type, and benefit status. Readers with complex self-employment income, substantial side hustle activity, or questions about benefits eligibility should contact HMRC directly (gov.uk) or seek advice from a qualified accountant. TaxAid (taxaid.org.uk) offers free tax advice for people on lower incomes.</p>
   </div>
 
   <div class="mb-6">

@@ -306,9 +306,9 @@ export const automateSavings2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Savings automation involves your personal bank details and financial commitments. This article provides general information on automation strategies and technologies available in 2026. It is not personalised financial advice. Before automating your savings, consider your individual circumstances, income stability, and emergency fund needs. For regulated guidance on savings automation tailored to your situation, contact MoneyHelper or speak with an FCA-authorised independent financial adviser.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Savings automation involves your personal bank details and financial commitments. This article provides general information on automation strategies and technologies available in 2026. It is not personalised financial advice. Before automating your savings, consider your individual circumstances, income stability, and emergency fund needs. For regulated guidance on savings automation tailored to your situation, contact MoneyHelper or speak with an FCA-authorised independent financial adviser.</p>
   </div>
 
   <div class="mb-6">

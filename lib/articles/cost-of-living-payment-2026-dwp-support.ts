@@ -387,9 +387,9 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide explains the Cost of Living Payment scheme eligibility and process. For additional support, contact Citizens Advice for free benefits advice or Turn2us to find local grants and hardship support. StepChange offers free debt counseling if you're struggling financially. This information is educational and not substitute for official DWP guidance. Always verify details on gov.uk.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide explains the Cost of Living Payment scheme eligibility and process. For additional support, contact Citizens Advice for free benefits advice or Turn2us to find local grants and hardship support. StepChange offers free debt counseling if you're struggling financially. This information is educational and not substitute for official DWP guidance. Always verify details on gov.uk.</p>
   </div>
 
   <div class="mb-6">

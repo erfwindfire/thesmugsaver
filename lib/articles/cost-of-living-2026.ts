@@ -240,9 +240,9 @@ export const costOfLiving2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide provides general financial information based on 2026 UK regulations and current market conditions. For personalized advice on benefits, energy support, or cost-of-living assistance, consult Citizens Advice (citizensadvice.org.uk) or use MoneyHelper (moneyhelper.org.uk), which offer free, impartial guidance tailored to your circumstances.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide provides general financial information based on 2026 UK regulations and current market conditions. For personalized advice on benefits, energy support, or cost-of-living assistance, consult Citizens Advice (citizensadvice.org.uk) or use MoneyHelper (moneyhelper.org.uk), which offer free, impartial guidance tailored to your circumstances.</p>
   </div>
 
   <div class="mb-6">

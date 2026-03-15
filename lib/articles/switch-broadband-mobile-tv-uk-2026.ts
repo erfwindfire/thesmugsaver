@@ -54,9 +54,9 @@ export const switchBroadbandMobileTvUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed"><strong>Timeline:</strong> Set calendar 60 days before contract end. Research at day 45. Negotiate retention at day 30. Place order at day 14. Switch happens day 0 (1-2 hour downtime for broadband; mobile switches same working day). <strong>Price rise escape:</strong> If mid-contract increases exceed CPI + rate in your terms, you can exit free within 30 days. <strong>Scams to avoid:</strong> Never give payment details over unsolicited calls. Verify any deal on official provider websites. Avoid cloned comparison sites. <strong>Real savings:</strong> Young professionals: £400-500/year. Families: £1,000-1,500/year. Retirees: £600-900/year by switching to streaming services plus budget broadband and SIM-only mobiles.</p>
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides information about switching communications providers in the UK. For complaints about switching issues, contact Citizens Advice or Ofcom. Information reflects March 2026 market conditions. Prices and provider offers change frequently. Verify current rates before switching by using comparison sites like Uswitch, MoneySavingExpert, or Cable.co.uk.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides information about switching communications providers in the UK. For complaints about switching issues, contact Citizens Advice or Ofcom. Information reflects March 2026 market conditions. Prices and provider offers change frequently. Verify current rates before switching by using comparison sites like Uswitch, MoneySavingExpert, or Cable.co.uk.</p>
   </div>
 
   <div class="mb-6">

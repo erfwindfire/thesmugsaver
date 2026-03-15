@@ -215,9 +215,9 @@ export const savingsRatesRoundupMarch2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Savings rates change frequently and vary by individual circumstances, tax position, and bank policy. This article provides general information about savings accounts and rates available in the UK as of March 2026. It is not personalised financial advice. Your choice of account depends on your personal tax situation, access needs, and financial goals. For impartial, regulated guidance tailored to your circumstances, visit MoneyHelper or speak to an FCA-authorised independent financial adviser.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Savings rates change frequently and vary by individual circumstances, tax position, and bank policy. This article provides general information about savings accounts and rates available in the UK as of March 2026. It is not personalised financial advice. Your choice of account depends on your personal tax situation, access needs, and financial goals. For impartial, regulated guidance tailored to your circumstances, visit MoneyHelper or speak to an FCA-authorised independent financial adviser.</p>
   </div>
 
   <div class="mb-6">

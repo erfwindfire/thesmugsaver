@@ -213,9 +213,9 @@ export const christmasSuperSavings2026SupermarketsRanked: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Downloading all loyalty apps (free to join) before shopping and checking each app for available digital coupons adds 5-15% savings. Stacking loyalty benefits across multiple stores can save £40-60 in total throughout November-December.</p>
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general consumer information about UK supermarket pricing and Christmas shopping strategies. Price comparisons reflect January 2026 data; current prices vary by location and time. For independent supermarket price comparisons, visit Which? magazine. This is educational content, not financial advice.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides general consumer information about UK supermarket pricing and Christmas shopping strategies. Price comparisons reflect January 2026 data; current prices vary by location and time. For independent supermarket price comparisons, visit Which? magazine. This is educational content, not financial advice.</p>
   </div>
 
   <div class="mb-6">

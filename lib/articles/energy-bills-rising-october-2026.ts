@@ -160,7 +160,7 @@ export const energyBillsRisingOctober2026: Article = {
 <li>Response: Usually within 10 working days</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Apply via Supplier</p>
-<div class="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6 rounded-r-lg"><p class="text-amber-800 font-medium">Pro Tip:</p></div>
+<div class="bg-white border border-[#E8E8E8] rounded-lg p-4 mb-6 shadow-sm"><p class="text-[#B8962E] font-medium">Pro Tip:</p></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Apply for multiple schemes simultaneously. They don't usually affect each other's eligibility, and processing times vary significantly between schemes.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Proven Energy-Saving Strategies: £200+ Annual Savings</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">These aren't generic tips—they're specific actions that typically save UK households £15-40 per month based on actual energy monitoring data.</p>
@@ -439,9 +439,9 @@ export const energyBillsRisingOctober2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">A 12-month fix currently offers the best balance of savings and flexibility — prices may fall further as wholesale markets stabilise. A 24-month fix provides more certainty but locks you in at potentially above-market rates if wholesale energy continues to soften. For most households, a 12-month fix at £75–£135 below the projected cap is the sensible choice in March 2026.</p>
 
 <div class="mt-12 pt-8 border-t border-gray-200">
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides information based on Ofgem data and Energy Saving Trust research as of March 2026. Energy prices and government support schemes change frequently. Always verify current rates with Ofgem and your energy supplier before making decisions.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides information based on Ofgem data and Energy Saving Trust research as of March 2026. Energy prices and government support schemes change frequently. Always verify current rates with Ofgem and your energy supplier before making decisions.</p>
   </div>
   <div class="mb-6">
     <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>

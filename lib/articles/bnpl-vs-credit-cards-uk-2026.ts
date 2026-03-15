@@ -373,9 +373,9 @@ export const bnplVsCreditCardsUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">BNPL and credit products are complex with varying terms and protections. This article reflects FCA regulatory changes coming into effect in 2026, but regulations continue to evolve. Before using BNPL, understand your payment obligations and potential late fees. For concerns about affordability, missed payments, or debt, contact StepChange or Citizens Advice for free, confidential support. Never borrow more than you can afford to repay.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">BNPL and credit products are complex with varying terms and protections. This article reflects FCA regulatory changes coming into effect in 2026, but regulations continue to evolve. Before using BNPL, understand your payment obligations and potential late fees. For concerns about affordability, missed payments, or debt, contact StepChange or Citizens Advice for free, confidential support. Never borrow more than you can afford to repay.</p>
   </div>
 
   <div class="mb-6">

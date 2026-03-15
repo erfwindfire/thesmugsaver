@@ -200,9 +200,9 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Beyond deposit, budget £5,000-£7,000 for legal fees, surveys, and moving costs. Total cash requirement: £30,000 minimum for realistic first-time buying on average UK property.</p>
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide explains available first-time buyer schemes and options. For mortgage-specific decisions, consult MoneyHelper's mortgage advice service or a regulated mortgage adviser. Eligibility criteria and scheme terms change regularly—verify current requirements directly with the government body or lender before applying.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide explains available first-time buyer schemes and options. For mortgage-specific decisions, consult MoneyHelper's mortgage advice service or a regulated mortgage adviser. Eligibility criteria and scheme terms change regularly—verify current requirements directly with the government body or lender before applying.</p>
   </div>
 
   <div class="mb-6">

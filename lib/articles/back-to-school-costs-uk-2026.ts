@@ -480,9 +480,9 @@ export const backToSchoolCostsUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Back-to-school costs and budgeting strategies vary significantly by family circumstances, local authority, and school policies. This article provides general information about typical costs, available support schemes, and cost-reduction techniques as of 2026. It is not personalised financial or benefits advice. If you're struggling to afford school essentials or unsure about eligibility for grants and support, contact Citizens Advice or Turn2us for confidential guidance tailored to your family's situation. Many schools also have discretionary hardship funds available.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Back-to-school costs and budgeting strategies vary significantly by family circumstances, local authority, and school policies. This article provides general information about typical costs, available support schemes, and cost-reduction techniques as of 2026. It is not personalised financial or benefits advice. If you're struggling to afford school essentials or unsure about eligibility for grants and support, contact Citizens Advice or Turn2us for confidential guidance tailored to your family's situation. Many schools also have discretionary hardship funds available.</p>
   </div>
 
   <div class="mb-6">

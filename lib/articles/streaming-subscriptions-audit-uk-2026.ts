@@ -633,9 +633,9 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide provides strategies for auditing and negotiating subscription costs but is not personalised financial advice. For consumer rights disputes with subscription providers, contact Citizens Advice or MoneyHelper. Always check terms of service for family plan restrictions before sharing accounts. Subscription pricing and features change frequently—verify current offers directly with providers before deciding.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide provides strategies for auditing and negotiating subscription costs but is not personalised financial advice. For consumer rights disputes with subscription providers, contact Citizens Advice or MoneyHelper. Always check terms of service for family plan restrictions before sharing accounts. Subscription pricing and features change frequently—verify current offers directly with providers before deciding.</p>
   </div>
 
   <div class="mb-6">

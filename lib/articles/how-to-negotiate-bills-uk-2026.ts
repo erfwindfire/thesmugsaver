@@ -232,9 +232,9 @@ export const howToNegotiateBillsUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide provides negotiation strategies and information about bill reduction. For specific guidance, consult Ofcom (ofcom.org.uk) for broadband and mobile issues, Ofgem for energy concerns, and Citizens Advice for general consumer rights. Always verify terms with your provider before acting.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide provides negotiation strategies and information about bill reduction. For specific guidance, consult Ofcom (ofcom.org.uk) for broadband and mobile issues, Ofgem for energy concerns, and Citizens Advice for general consumer rights. Always verify terms with your provider before acting.</p>
   </div>
 
   <div class="mb-6">

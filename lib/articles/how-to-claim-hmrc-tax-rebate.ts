@@ -162,9 +162,9 @@ export const howToClaimHmrcTaxRebate: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
- <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
- <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
- <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about claiming tax rebates from HMRC in 2026. It is not personalised tax or financial advice. Your individual tax position depends on your specific circumstances, which this article cannot assess. If your tax affairs are complex — including multiple income sources, Self-Assessment obligations, higher-rate pension relief, or overseas income — speak to a qualified tax adviser or contact <a href="https://taxaid.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">TaxAid</a> (free help for people on lower incomes) or the <a href="https://www.litrg.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Low Incomes Tax Reform Group (LITRG)</a>. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
+ <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+ <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+ <p class="text-sm text-gray-700 leading-relaxed">This article provides general information about claiming tax rebates from HMRC in 2026. It is not personalised tax or financial advice. Your individual tax position depends on your specific circumstances, which this article cannot assess. If your tax affairs are complex — including multiple income sources, Self-Assessment obligations, higher-rate pension relief, or overseas income — speak to a qualified tax adviser or contact <a href="https://taxaid.org.uk" class="text-[#B8962E] underline hover:text-[#96741F] font-medium">TaxAid</a> (free help for people on lower incomes) or the <a href="https://www.litrg.org.uk" class="text-[#B8962E] underline hover:text-[#96741F] font-medium">Low Incomes Tax Reform Group (LITRG)</a>. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
  </div>
 
  <div class="mb-6">

@@ -258,9 +258,9 @@ export const mortgageRates2026FixOrWait: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide provides mortgage market analysis and considerations for UK homeowners. For personalized mortgage advice, consult a regulated mortgage adviser or use MoneyHelper's resources. Mortgage decisions depend on individual circumstances, risk tolerance, and financial stability. Always get independent financial advice before making major borrowing decisions. This information is educational and not personal mortgage advice.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide provides mortgage market analysis and considerations for UK homeowners. For personalized mortgage advice, consult a regulated mortgage adviser or use MoneyHelper's resources. Mortgage decisions depend on individual circumstances, risk tolerance, and financial stability. Always get independent financial advice before making major borrowing decisions. This information is educational and not personal mortgage advice.</p>
   </div>
 
   <div class="mb-6">

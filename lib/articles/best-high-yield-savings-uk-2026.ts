@@ -471,9 +471,9 @@ export const bestHighYieldSavingsUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides information about UK savings accounts and rates current as of March 2026. It is not financial advice. Before opening savings accounts or choosing between providers, consider your personal circumstances and consult MoneyHelper (moneyhelper.org.uk) for guidance, or speak with a regulated independent financial adviser registered with the FCA. FSCS protection is guaranteed for eligible institutions, but always verify current protection status at fscs.org.uk.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides information about UK savings accounts and rates current as of March 2026. It is not financial advice. Before opening savings accounts or choosing between providers, consider your personal circumstances and consult MoneyHelper (moneyhelper.org.uk) for guidance, or speak with a regulated independent financial adviser registered with the FCA. FSCS protection is guaranteed for eligible institutions, but always verify current protection status at fscs.org.uk.</p>
   </div>
 
   <div class="mb-6">

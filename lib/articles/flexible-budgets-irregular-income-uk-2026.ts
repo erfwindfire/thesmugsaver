@@ -267,9 +267,9 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Recovery planning: During crisis years, focus on survival and positioning for recovery rather than maintaining previous lifestyle. Use the time to retrain, network, or pivot your business model. Keep detailed records of income loss for potential future tax relief. Remember that most irregular income careers have natural cycles—today's crisis often becomes next year's comeback story.</p>
 
 <div class="mt-12 pt-8 border-t border-gray-200">
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides information based on 2026 UK tax rates and freelancer experiences. Tax legislation, benefits eligibility, and business deductions change regularly. Always consult with a qualified accountant or tax advisor for personal tax planning and IR35 assessments.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides information based on 2026 UK tax rates and freelancer experiences. Tax legislation, benefits eligibility, and business deductions change regularly. Always consult with a qualified accountant or tax advisor for personal tax planning and IR35 assessments.</p>
   </div>
   <div class="mb-6">
     <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>

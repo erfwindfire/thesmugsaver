@@ -269,9 +269,9 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide draws information from Citizens Advice, MoneyHelper, Ofgem, and government support documentation. Strategies are evidence-based but individual circumstances vary. For personalized debt or welfare advice, contact Citizens Advice (0800 144 8848) or StepChange (0800 138 1111).</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide draws information from Citizens Advice, MoneyHelper, Ofgem, and government support documentation. Strategies are evidence-based but individual circumstances vary. For personalized debt or welfare advice, contact Citizens Advice (0800 144 8848) or StepChange (0800 138 1111).</p>
   </div>
 
   <div class="mb-6">

@@ -32,8 +32,8 @@ export const grocerySavings2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Most people use just 1-2 of these hacks. Combining all 10 can reduce your annual grocery bill from £4,610 to £3,000-3,500—saving £1,100-1,600 yearly. Even using just markdown timing and supermarket apps typically saves 15-20% (£690-920 annually).</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Master the Art of Yellow Sticker Timing</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Every UK supermarket has specific times when they markdown perishables with yellow stickers. Tesco typically reduces items at 9am, 11am, 3pm, and 6pm. Sainsbury's often does their final markdowns between 7-8pm. ASDA usually marks down bakery items early morning and fresh items in the evening.</p>
-<div class="bg-amber-50 border-l-4 border-amber-500 p-4 mb-6 rounded-r-lg"><p class="text-amber-800 font-medium">Pro tip: Befriend staff in different departments and ask about their specific markdown schedules. Many stores have slightly different timing based on their customer patterns and delivery schedules.</p>
-<p class="text-amber-800 mt-2">Stock up on non-perishables and store-cupboard items in late December when supermarkets clear Christmas lines — tinned goods, chocolates, and premium items routinely drop 50–70% on 26–27 December. The same logic applies to Easter in April and Halloween in early November.</p></div>
+<div class="bg-white border border-[#E8E8E8] rounded-lg p-4 mb-6 shadow-sm"><p class="text-[#B8962E] font-medium">Pro tip: Befriend staff in different departments and ask about their specific markdown schedules. Many stores have slightly different timing based on their customer patterns and delivery schedules.</p>
+<p class="text-[#B8962E] mt-2">Stock up on non-perishables and store-cupboard items in late December when supermarkets clear Christmas lines — tinned goods, chocolates, and premium items routinely drop 50–70% on 26–27 December. The same logic applies to Easter in April and Halloween in early November.</p></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. Exploit Supermarket App Exclusives</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Beyond basic loyalty points, supermarket apps offer hidden gems. Tesco Clubcard app often has exclusive digital coupons worth £10-20 monthly. The Sainsbury's app frequently offers "personalised prices" that can save 20-30% on items you regularly buy.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Advanced strategy: Use multiple family members' accounts (with their permission) to access different personalised offers. Each account gets tailored deals based on shopping history.</p>
@@ -121,9 +121,9 @@ export const grocerySavings2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Information, Not Consumer Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general consumer information about UK grocery shopping strategies. It is not consumer advice. Supermarket policies, rates, and offers change regularly. For consumer complaints about supermarkets, contact Citizens Advice Consumer Service. Always verify current offers and policies directly with supermarkets.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Information, Not Consumer Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides general consumer information about UK grocery shopping strategies. It is not consumer advice. Supermarket policies, rates, and offers change regularly. For consumer complaints about supermarkets, contact Citizens Advice Consumer Service. Always verify current offers and policies directly with supermarkets.</p>
   </div>
 
   <div class="mb-6">

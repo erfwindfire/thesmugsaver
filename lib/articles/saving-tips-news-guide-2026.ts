@@ -96,9 +96,9 @@ export const savingTipsNewsGuide2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Interest rates, energy prices, and benefit eligibility change frequently. The rates and figures in this article reflect March 2026 data but may shift within weeks. Before opening savings accounts or switching providers, verify current rates on comparison sites like MoneySuperMarket or Finder UK. For means-tested benefits or energy support, use the government's eligibility checkers on GOV.UK or contact MoneyHelper for tailored guidance.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Interest rates, energy prices, and benefit eligibility change frequently. The rates and figures in this article reflect March 2026 data but may shift within weeks. Before opening savings accounts or switching providers, verify current rates on comparison sites like MoneySuperMarket or Finder UK. For means-tested benefits or energy support, use the government's eligibility checkers on GOV.UK or contact MoneyHelper for tailored guidance.</p>
   </div>
 
   <div class="mb-6">

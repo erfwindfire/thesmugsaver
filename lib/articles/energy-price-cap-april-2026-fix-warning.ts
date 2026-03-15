@@ -180,9 +180,9 @@ export const energyPriceCapApril2026FixWarning: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Energy prices and tariff availability change rapidly. This article reflects Ofgem's confirmed April–June 2026 price cap and wholesale data from early March 2026. Before switching suppliers or locking in fixed rates, compare deals on your actual usage with an Ofgem-accredited comparison service. If you're on prepay, in debt to your supplier, or receiving means-tested benefits, contact MoneyHelper or Citizens Advice for tailored support.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Energy prices and tariff availability change rapidly. This article reflects Ofgem's confirmed April–June 2026 price cap and wholesale data from early March 2026. Before switching suppliers or locking in fixed rates, compare deals on your actual usage with an Ofgem-accredited comparison service. If you're on prepay, in debt to your supplier, or receiving means-tested benefits, contact MoneyHelper or Citizens Advice for tailored support.</p>
   </div>
 
   <div class="mb-6">

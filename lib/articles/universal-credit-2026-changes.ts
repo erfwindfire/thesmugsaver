@@ -186,9 +186,9 @@ export const universalCredit2026Changes: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
- <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
- <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
- <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about Universal Credit and DWP benefit changes in 2026. It is not personalised financial, legal, or welfare advice. Benefit entitlements depend on your individual circumstances, which this article cannot assess. Before making any decisions about claiming or migrating to Universal Credit, use a free benefits calculator and, where possible, speak to an adviser at <a href="https://www.citizensadvice.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Citizens Advice</a>, <a href="https://www.turn2us.org.uk" class="text-amber-800 underline hover:text-amber-900 font-medium">Turn2Us</a>, or your local welfare rights service. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
+ <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+ <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+ <p class="text-sm text-gray-700 leading-relaxed">This article provides general information about Universal Credit and DWP benefit changes in 2026. It is not personalised financial, legal, or welfare advice. Benefit entitlements depend on your individual circumstances, which this article cannot assess. Before making any decisions about claiming or migrating to Universal Credit, use a free benefits calculator and, where possible, speak to an adviser at <a href="https://www.citizensadvice.org.uk" class="text-[#B8962E] underline hover:text-[#96741F] font-medium">Citizens Advice</a>, <a href="https://www.turn2us.org.uk" class="text-[#B8962E] underline hover:text-[#96741F] font-medium">Turn2Us</a>, or your local welfare rights service. The Smug Saver is not responsible for decisions made on the basis of information in this article.</p>
  </div>
 
  <div class="mb-6">

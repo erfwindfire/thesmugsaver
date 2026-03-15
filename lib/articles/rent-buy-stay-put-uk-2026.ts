@@ -124,9 +124,9 @@ export const rentBuyStayPutUk2026: Article = {
 </div>
 
 <div class="mt-12 pt-8 border-t border-gray-200">
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This article provides general information about UK housing options, market conditions, and financial concepts. It is not personalized financial or legal advice; consult a qualified mortgage advisor, solicitor, or financial planner before making major decisions about renting, buying, or remortgaging your home.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This article provides general information about UK housing options, market conditions, and financial concepts. It is not personalized financial or legal advice; consult a qualified mortgage advisor, solicitor, or financial planner before making major decisions about renting, buying, or remortgaging your home.</p>
   </div>
   <div class="mb-6">
     <p class="text-xs text-gray-500 mb-1">Last updated: <time datetime="2026-03-13">13 March 2026</time></p>

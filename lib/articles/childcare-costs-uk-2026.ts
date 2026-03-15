@@ -445,9 +445,9 @@ export const childcareCostsUk2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Childcare support entitlements vary significantly by family circumstances, income, location, and provider acceptance. This article provides general information about UK childcare costs, government schemes, and budgeting strategies as of 2026. It is not personalised benefits or financial advice. Eligibility for free hours, Tax-Free Childcare, and other schemes depends on your specific situation. For personalised guidance on available support and your entitlement, use the Childcare Choices calculator, contact Citizens Advice, or speak to your local authority family information service.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Childcare support entitlements vary significantly by family circumstances, income, location, and provider acceptance. This article provides general information about UK childcare costs, government schemes, and budgeting strategies as of 2026. It is not personalised benefits or financial advice. Eligibility for free hours, Tax-Free Childcare, and other schemes depends on your specific situation. For personalised guidance on available support and your entitlement, use the Childcare Choices calculator, contact Citizens Advice, or speak to your local authority family information service.</p>
   </div>
 
   <div class="mb-6">

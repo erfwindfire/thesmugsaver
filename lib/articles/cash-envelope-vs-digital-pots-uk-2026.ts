@@ -275,9 +275,9 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">For maximum envelope functionality, Monzo provides the closest digital replication of physical envelope psychology. For interest-earning and automation, Starling or Chase UK offer superior features. All feature real-time balance updates and spending categorization that physical cash can't provide.</p>
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">This guide compares budgeting methods for managing personal finances. For specific financial advice, use MoneyHelper's budgeting tools and resources. Always verify your bank's digital features and security settings before linking accounts or enabling automated transfers.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">This guide compares budgeting methods for managing personal finances. For specific financial advice, use MoneyHelper's budgeting tools and resources. Always verify your bank's digital features and security settings before linking accounts or enabling automated transfers.</p>
   </div>
 
   <div class="mb-6">

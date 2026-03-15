@@ -406,9 +406,9 @@ export const howToSave100kIn8Years: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">Savings strategies, investment returns, and interest rates discussed in this article are based on March 2026 data and reflect historical performance. Past returns do not guarantee future results. Before opening savings accounts, investing in index funds, or making decisions about mortgage overpayments, consult MoneyHelper or a qualified financial advisor familiar with your specific circumstances and risk tolerance.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">Savings strategies, investment returns, and interest rates discussed in this article are based on March 2026 data and reflect historical performance. Past returns do not guarantee future results. Before opening savings accounts, investing in index funds, or making decisions about mortgage overpayments, consult MoneyHelper or a qualified financial advisor familiar with your specific circumstances and risk tolerance.</p>
   </div>
 
   <div class="mb-6">

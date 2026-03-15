@@ -381,9 +381,9 @@ export const goodBudgetingTechniques2026: Article = {
 
 <div class="mt-12 pt-8 border-t border-gray-200">
 
-  <div class="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-8">
-    <p class="text-sm font-semibold text-amber-800 mb-1">Important: Information, Not Advice</p>
-    <p class="text-sm text-amber-700 leading-relaxed">These budgeting techniques are general financial guidance. Individual circumstances vary widely, and what works for one household may not suit another. For personalized budgeting advice or if you're struggling financially, MoneyHelper (moneyhelper.org.uk) offers free, professional guidance to help you create a budget that fits your specific situation.</p>
+  <div class="bg-white border border-[#E8E8E8] rounded-lg p-5 mb-8 shadow-sm">
+    <p class="text-sm font-semibold text-[#B8962E] mb-1">Important: Information, Not Advice</p>
+    <p class="text-sm text-gray-700 leading-relaxed">These budgeting techniques are general financial guidance. Individual circumstances vary widely, and what works for one household may not suit another. For personalized budgeting advice or if you're struggling financially, MoneyHelper (moneyhelper.org.uk) offers free, professional guidance to help you create a budget that fits your specific situation.</p>
   </div>
 
   <div class="mb-6">
