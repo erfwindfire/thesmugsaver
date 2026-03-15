@@ -159,7 +159,7 @@ body {
   line-height: 1.25 !important;
   margin-top: 3.75rem !important;   /* 60px — big air above section */
   margin-bottom: 1.75rem !important; /* 28px — space between grey line and first paragraph */
-  padding-bottom: 0.875rem !important; /* 14px — gap between title text and grey rule */
+  padding-bottom: 1.5rem !important;  /* 24px — gap between title text and grey rule */
   border-bottom: 1px solid #E0E0E0 !important;
   border-top: none !important;
   padding-top: 0 !important;
