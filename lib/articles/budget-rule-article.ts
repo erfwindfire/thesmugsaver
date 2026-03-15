@@ -97,7 +97,7 @@ export const budgetRuleArticle: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">4</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Adjust and Optimize</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Fine-tune your percentages based on your actual spending patterns</p>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Pro Tips for Success</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Tips for Success</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Start with a conservative estimate of your wants</li>
 <li>Use separate accounts for each category</li>

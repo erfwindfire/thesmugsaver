@@ -32,7 +32,7 @@ export const costOfLiving2026: Article = {
 <li>Build multiple income streams</li>
 <li>Access hidden council and charity support</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed font-medium"> Pro Tip for 2026:</p>
+<p class="mb-4 text-gray-700 leading-relaxed font-medium"> Tip for 2026:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">With inflation cooling but costs still elevated, focus on "compound savings" - strategies that save money this month AND next month. According to the ONS, strategic cost management is now essential.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Energy and Bills Mastery</h2>

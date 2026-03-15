@@ -860,7 +860,7 @@ const ArticleContent = ({ content }: ArticleContentProps) => {
                     else if (text.startsWith('Warning:')) { type = 'warning'; title = 'Warning'; content = text.replace('Warning:', '').trim(); }
                     else if (text.startsWith('Good news:')) { type = 'tip'; title = 'Good News'; content = text.replace('Good news:', '').trim(); }
                     else if (text.startsWith('Tip:')) { type = 'tip'; title = 'Tip'; content = text.replace('Tip:', '').trim(); }
-                    else if (text.startsWith('Pro tip:')) { type = 'pro-tip'; title = 'Pro Tip'; content = text.replace('Pro tip:', '').trim(); }
+                    else if (text.startsWith('Pro tip:')) { type = 'pro-tip'; title = 'Tip'; content = text.replace('Pro tip:', '').trim(); }
                     else if (text.startsWith('Note:')) { type = 'note'; title = 'Note'; content = text.replace('Note:', '').trim(); }
 
                     if (type) {

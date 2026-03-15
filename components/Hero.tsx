@@ -15,14 +15,14 @@ const Hero = () => {
                         <span className="text-emerald-400">We are.</span>
                     </h1>
                     <p className="text-white/80 text-base md:text-lg leading-relaxed">
-                        Real UK money advice — energy bills, savings, benefits, and everyday costs. No jargon, no fluff, no ads.
+                        Real UK money advice — energy bills, savings, benefits, and everyday costs.
                     </p>
                 </div>
 
                 {/* Right: email signup */}
                 <div className="md:min-w-[320px] flex-shrink-0">
                     <p className="text-emerald-400 text-xs font-bold uppercase tracking-widest mb-2">Free Weekly Tips</p>
-                    <p className="text-white font-bold text-xl mb-4">Join 12,000+ smart savers</p>
+
                     <form className="flex flex-col gap-3" action="#">
                         <input
                             type="email"

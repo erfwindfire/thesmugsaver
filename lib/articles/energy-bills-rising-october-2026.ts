@@ -160,7 +160,7 @@ export const energyBillsRisingOctober2026: Article = {
 <li>Response: Usually within 10 working days</li>
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Apply via Supplier</p>
-<div class="bg-white border border-[#E8E8E8] rounded-lg p-4 mb-6 shadow-sm"><p class="text-[#B8962E] font-medium">Pro Tip:</p></div>
+<div class="bg-white border border-[#E8E8E8] rounded-lg p-4 mb-6 shadow-sm"><p class="text-[#B8962E] font-medium">Tip:</p></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Apply for multiple schemes simultaneously. They don't usually affect each other's eligibility, and processing times vary significantly between schemes.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Proven Energy-Saving Strategies: £200+ Annual Savings</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">These aren't generic tips—they're specific actions that typically save UK households £15-40 per month based on actual energy monitoring data.</p>

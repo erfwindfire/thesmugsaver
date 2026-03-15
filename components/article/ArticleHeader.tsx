@@ -6,11 +6,10 @@ interface ArticleHeaderProps {
     category: string;
     author: string;
     date: string;
-    readingTime?: string;
     imageUrl?: string;
 }
 
-const ArticleHeader = ({ title, category, author, date, readingTime = "5 min read", imageUrl }: ArticleHeaderProps) => {
+const ArticleHeader = ({ title, category, author, date, imageUrl }: ArticleHeaderProps) => {
     return (
         <header className="mb-12 text-center max-w-[720px] mx-auto px-6 md:px-0">
             <div className="flex justify-center gap-3 mb-6 text-sm font-bold uppercase tracking-widest text-[#1B4D3E]">
@@ -28,7 +27,7 @@ const ArticleHeader = ({ title, category, author, date, readingTime = "5 min rea
                 <span className="text-gray-300">|</span>
                 <span>{date}</span>
                 <span className="text-gray-300">|</span>
-                <span>{readingTime}</span>
+
             </div>
 
             {imageUrl && (

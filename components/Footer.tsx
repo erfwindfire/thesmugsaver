@@ -56,11 +56,10 @@ export default function Footer() {
                     </div>
                 </div>
 
-                <div className="pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
+                <div className="pt-8 border-t border-white/10">
                     <p className="text-xs text-gray-400 text-center sm:text-left">
                         © {new Date().getFullYear()} The Smug Saver. All rights reserved. None of the information on this website constitutes financial advice.
                     </p>
-                    <Image src="/logo.png" alt="The Smug Saver" width={48} height={48} className="logo-float opacity-80 flex-shrink-0" />
                 </div>
             </div>
         </footer>

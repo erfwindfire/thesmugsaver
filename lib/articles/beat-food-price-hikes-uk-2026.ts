@@ -89,7 +89,7 @@ export const beatFoodPriceHikesUk2026: Article = {
 <li>Specialty diet foods</li>
 <li>Pet food (check ingredients)</li>
 </ul>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Pro Tips for Brand Swapping</h3>
+<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Tips for Brand Swapping</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Read the labels: Look for "produced for" or "manufactured by" - often the same as branded versions</li>
 <li>Test gradually: Try one new own-brand item per shop to find what works for your family</li>

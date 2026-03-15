@@ -24,7 +24,7 @@ const CalloutBox = ({ type, title, children }: CalloutBoxProps) => {
         },
         'pro-tip': {
             icon: <Lightbulb className="w-5 h-5" style={{ color: '#B8962E' }} />,
-            defaultTitle: 'Pro Tip',
+            defaultTitle: 'Tip',
         },
         note: {
             icon: <Info className="w-5 h-5" style={{ color: '#B8962E' }} />,

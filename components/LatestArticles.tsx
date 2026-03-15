@@ -65,19 +65,6 @@ export default function LatestArticles({ variant = 'top' }: LatestArticlesProps)
         <section className="bg-gray-50 py-12 md:py-16">
             <div className="container mx-auto px-4">
 
-                {/* Section header */}
-                <div className="flex items-center justify-between mb-8">
-                    <div>
-                        <span className="inline-block bg-emerald-700 text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full mb-2">
-                            Latest
-                        </span>
-                        <h2 className="font-serif text-2xl md:text-3xl font-bold text-gray-900">
-                            This Week&apos;s Top Reads
-                        </h2>
-                    </div>
-                    <span className="hidden sm:block text-sm text-gray-500"></span>
-                </div>
-
                 {/* Featured tile — most recent article */}
                 <Link
                     href={`/${featured.category}/${featured.slug}`}
