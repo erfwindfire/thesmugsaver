@@ -12,8 +12,7 @@ export const howToClaimHmrcTaxRebate: Article = {
  dateModified: '2026-03-03',
  author: 'The Smug Saver',
  excerpt: 'HMRC quietly overpays millions of people in tax every year — and then sits back and waits to see if you\'ll notice. Most people don\'t. Here\'s how to find out if they owe you money, and exactly how to get it back.',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Claim an HMRC Tax Rebate in 2026: The Step-by-Step UK Guide</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">HMRC quietly overpays millions of people in tax every single year. Then they sit back and wait to see if you notice. Most people don't. The money just disappears into Treasury coffers while you carry on assuming your tax code was correct all along. Spoiler: it often wasn't.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">HMRC quietly overpays millions of people in tax every single year. Then they sit back and wait to see if you notice. Most people don't. The money just disappears into Treasury coffers while you carry on assuming your tax code was correct all along. Spoiler: it often wasn't.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">A tax rebate — also called a tax refund or tax repayment — is money HMRC owes you because you paid more income tax than you should have. This isn't a loophole, a scheme, or anything remotely complicated. It's your money. They took too much. You want it back. This guide explains exactly how to get it.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — HMRC Tax Rebate at a Glance</h2>

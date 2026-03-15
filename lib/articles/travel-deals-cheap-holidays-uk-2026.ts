@@ -11,8 +11,7 @@ export const travelDealsCheapHolidaysUk2026: Article = {
  dateModified: '2026-03-14',
  author: 'The Smug Saver',
  excerpt: 'Stop overpaying for holidays. This guide reveals insider strategies to slash travel costs by 50-70%.',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Unlocking Travel Deals and Cheap Holidays for Brits</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices for.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for holidays and start traveling smarter. This comprehensive guide reveals insider strategies to slash your travel costs by 50-70% while unlocking experiences others pay premium prices for.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Money-Saving Strategies:</h3>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

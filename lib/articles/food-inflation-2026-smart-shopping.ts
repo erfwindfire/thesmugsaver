@@ -11,8 +11,7 @@ export const foodInflation2026SmartShopping: Article = {
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Food Inflation 2026: Smart Shopping Strategies to Combat 5.1% Price Increases</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain's most expensive food market.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain's most expensive food market.</p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#smart-strategies" class="text-emerald-700 underline hover:text-emerald-900">View Smart Strategies</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="#price-calculator" class="text-emerald-700 underline hover:text-emerald-900">Calculate Savings</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">The most impactful single change for food savings is switching the majority of your grocery shop to a discounter — Aldi or Lidl. For a family of four, this switch typically saves £60–£100/month versus Tesco or Asda on like-for-like items. Covering staples (meat, dairy, produce, tinned goods, cleaning products) at a discounter while shopping branded deals at major supermarkets gives you 80% of the savings with full access to specific favourites.</p>

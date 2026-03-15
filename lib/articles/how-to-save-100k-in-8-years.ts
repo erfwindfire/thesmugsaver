@@ -11,8 +11,7 @@ export const howToSave100kIn8Years: Article = {
  dateModified: '2026-03-08',
  author: 'The Smug Saver',
  excerpt: 'Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Save £100,000 Over 8 Years</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Can I really save £100k in 8 years?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Yes, absolutely. Saving £100,000 in 8 years is achievable for most UK households willing to commit to a disciplined savings plan. The good news is that you don't need to rely on earning a six-figure salary to make this happen. With the right account strategy and consistent contributions, compound interest does much of the heavy lifting for you.</p>

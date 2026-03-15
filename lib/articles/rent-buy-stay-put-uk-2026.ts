@@ -11,8 +11,7 @@ export const rentBuyStayPutUk2026: Article = {
  dateModified: '2026-02-20',
  author: 'The Smug Saver',
  excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Rent, Buy, or Stay Put? 2026's Best UK Housing Strategies</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Navigate Britain's brutal housing market with evidence-based strategies. Whether you're trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finances.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Navigate Britain's brutal housing market with evidence-based strategies. Whether you're trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finances.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Britain's housing market in 2026 remains punishingly expensive, but your best move depends entirely on your personal circumstances—not blanket advice. This guide cuts through the noise with data, calculators, and decision frameworks for renters, buyers, and remortgagers alike.</p>
 
 <div class="bg-emerald-50 border border-emerald-200 rounded-lg p-5 mb-8">

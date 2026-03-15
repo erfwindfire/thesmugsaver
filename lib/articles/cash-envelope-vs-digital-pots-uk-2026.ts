@@ -11,8 +11,7 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
  dateModified: '2026-03-13',
  author: 'The Smug Saver',
  excerpt: 'Stop falling for budgeting advice written by people who think spending is solved with an app and discipline. This comparison between cash envelopes',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Cash Envelope System vs. Digital Pots: Which Works Best in 2026?</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Stop falling for budgeting advice that ignores how humans actually behave with money. This is the definitive analysis of envelope budgeting versus digital pots—including the psychological warfare your spending habits wage against your financial goals, and which system actually wins in the real world.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop falling for budgeting advice that ignores how humans actually behave with money. This is the definitive analysis of envelope budgeting versus digital pots—including the psychological warfare your spending habits wage against your financial goals, and which system actually wins in the real world.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Takeaways</h2>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Cash envelopes: Maximum psychological control, zero tech dependence</li>
