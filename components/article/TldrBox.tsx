@@ -7,34 +7,73 @@ interface TldrBoxProps {
 
 const TldrBox = ({ summary, actions }: TldrBoxProps) => {
     return (
-        <div className="not-prose my-10 rounded-lg overflow-hidden border-l-4 border-[#1B4D3E] bg-[#EBF2F1] shadow-sm max-w-[720px] mx-auto">
-            <div className="p-8">
-                <h3 className="font-serif font-bold text-xl text-[#1B4D3E] mb-4 flex items-center gap-3">
-                    <span className="text-sm font-bold uppercase tracking-widest text-[#1B4D3E]/70 border-b-2 border-[#1B4D3E]/20 pb-1">Key Takeaways</span>
-                </h3>
+        <div className="not-prose my-10 max-w-[720px] mx-auto" style={{
+            backgroundColor: '#FFFFFF',
+            border: '1px solid #E8E8E8',
+            borderRadius: '12px',
+            boxShadow: '0 2px 12px rgba(0, 0, 0, 0.06)',
+            padding: '36px 40px'
+        }}>
+            <h3 style={{
+                color: '#B8962E',
+                fontFamily: "'Playfair Display', serif",
+                fontSize: '15px',
+                fontWeight: 700,
+                letterSpacing: '0.08em',
+                marginBottom: '16px',
+                marginTop: 0,
+                textTransform: 'uppercase'
+            }}>
+                Key Takeaways
+            </h3>
 
-                {summary && summary.trim() && (
-                    <div className="mb-4 text-gray-800 leading-relaxed font-medium">
-                        <strong className="text-neutral-dark">Bottom Line:</strong> {summary}
-                    </div>
-                )}
+            {summary && summary.trim() && (
+                <div style={{
+                    color: '#333333',
+                    fontFamily: "'Inter', sans-serif",
+                    fontSize: '16px',
+                    lineHeight: 1.75,
+                    fontWeight: 400,
+                    marginBottom: actions && actions.length > 0 ? '20px' : 0
+                }}>
+                    <strong style={{ fontWeight: 600 }}>Bottom Line:</strong> {summary}
+                </div>
+            )}
 
-                {actions && actions.length > 0 && (
-                    <div className="mt-4 pt-4 border-t border-[#1B4D3E]/20">
-                        <h4 className="font-bold text-sm text-[#1B4D3E] uppercase tracking-wide mb-3">Key Actions:</h4>
-                        <ul className="space-y-2 !list-none">
-                            {actions.map((action, index) => (
-                                <li key={index} className="flex items-start gap-2 text-sm text-gray-700 !pl-0 before:!content-none">
-                                    <div className="mt-0.5 min-w-[16px]">
-                                        <Check className="w-4 h-4 text-gray-500 font-bold" strokeWidth={3} />
-                                    </div>
-                                    <span>{action}</span>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
-                )}
-            </div>
+            {actions && actions.length > 0 && (
+                <div style={{
+                    borderTop: '1px solid #E8E8E8',
+                    paddingTop: '20px'
+                }}>
+                    <h4 style={{
+                        color: '#B8962E',
+                        fontFamily: "'Playfair Display', serif",
+                        fontSize: '13px',
+                        fontWeight: 700,
+                        letterSpacing: '0.08em',
+                        textTransform: 'uppercase',
+                        marginBottom: '14px',
+                        marginTop: 0
+                    }}>
+                        Key Actions
+                    </h4>
+                    <ul className="space-y-2 !list-none" style={{ margin: 0, padding: 0 }}>
+                        {actions.map((action, index) => (
+                            <li key={index} className="flex items-start gap-2 !pl-0 before:!content-none" style={{
+                                color: '#333333',
+                                fontFamily: "'Inter', sans-serif",
+                                fontSize: '15px',
+                                lineHeight: 1.7
+                            }}>
+                                <div style={{ marginTop: '3px', minWidth: '16px' }}>
+                                    <Check className="w-4 h-4" style={{ color: '#B8962E' }} strokeWidth={3} />
+                                </div>
+                                <span>{action}</span>
+                            </li>
+                        ))}
+                    </ul>
+                </div>
+            )}
         </div>
     );
 };

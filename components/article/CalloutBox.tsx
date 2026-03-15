@@ -9,65 +9,67 @@ interface CalloutBoxProps {
 }
 
 const CalloutBox = ({ type, title, children }: CalloutBoxProps) => {
-    const styles = {
+    const config = {
         important: {
-            border: 'border-l-[#1B4D3E]',
-            bg: 'bg-[#EBF2F1]',
             icon: null,
-            titleColor: 'text-[#1B4D3E] font-serif italic',
             defaultTitle: 'Breaking News',
-            containerRunningClass: 'shadow-sm'
         },
         warning: {
-            border: 'border-l-[#1B4D3E]',
-            bg: 'bg-[#EBF2F1]',
-            icon: <AlertTriangle className="w-6 h-6 text-[#1B4D3E]" />,
-            titleColor: 'text-[#1B4D3E]',
+            icon: <AlertTriangle className="w-5 h-5" style={{ color: '#B8962E' }} />,
             defaultTitle: 'Warning',
-            containerRunningClass: 'shadow-sm'
         },
         tip: {
-            border: 'border-l-[#1B4D3E]',
-            bg: 'bg-[#EBF2F1]',
-            icon: <CheckCircle2 className="w-6 h-6 text-[#1B4D3E]" />,
-            titleColor: 'text-[#1B4D3E]',
+            icon: <CheckCircle2 className="w-5 h-5" style={{ color: '#B8962E' }} />,
             defaultTitle: 'Good News',
-            containerRunningClass: 'shadow-sm'
         },
         'pro-tip': {
-            border: 'border-l-[#1B4D3E]',
-            bg: 'bg-[#EBF2F1]',
-            icon: <Lightbulb className="w-6 h-6 text-[#1B4D3E]" />,
-            titleColor: 'text-[#1B4D3E]',
+            icon: <Lightbulb className="w-5 h-5" style={{ color: '#B8962E' }} />,
             defaultTitle: 'Pro Tip',
-            containerRunningClass: 'shadow-sm'
         },
         note: {
-            border: 'border-l-[#1B4D3E]',
-            bg: 'bg-[#EBF2F1]',
-            icon: <Info className="w-6 h-6 text-[#1B4D3E]" />,
-            titleColor: 'text-[#1B4D3E]',
+            icon: <Info className="w-5 h-5" style={{ color: '#B8962E' }} />,
             defaultTitle: 'Note',
-            containerRunningClass: ''
         }
     };
 
-    const style = styles[type] || styles.note;
-    const displayTitle = title || style.defaultTitle;
+    const { icon, defaultTitle } = config[type] || config.note;
+    const displayTitle = title || defaultTitle;
 
     return (
-        <div className={`my-8 p-8 rounded-r-lg border-l-4 ${style.border} ${style.bg} ${style.containerRunningClass} overflow-hidden`}>
-            <div className="flex gap-4">
-                {style.icon && (
-                    <div className="flex-shrink-0 mt-1">
-                        {style.icon}
+        <div style={{
+            backgroundColor: '#FFFFFF',
+            border: '1px solid #E8E8E8',
+            borderRadius: '12px',
+            boxShadow: '0 2px 12px rgba(0, 0, 0, 0.06)',
+            padding: '28px 32px',
+            margin: '32px 0'
+        }}>
+            <div className="flex gap-3">
+                {icon && (
+                    <div style={{ marginTop: '2px', flexShrink: 0 }}>
+                        {icon}
                     </div>
                 )}
                 <div>
-                    <h4 className={`font-bold text-xl mb-3 ${style.titleColor}`}>
+                    <h4 style={{
+                        color: '#B8962E',
+                        fontFamily: "'Playfair Display', serif",
+                        fontSize: '15px',
+                        fontWeight: 700,
+                        letterSpacing: '0.06em',
+                        textTransform: 'uppercase',
+                        marginBottom: '10px',
+                        marginTop: 0
+                    }}>
                         {displayTitle}
                     </h4>
-                    <div className="text-gray-800 leading-loose font-medium font-serif text-lg italic opacity-90">
+                    <div style={{
+                        color: '#333333',
+                        fontFamily: "'Inter', sans-serif",
+                        fontSize: '16px',
+                        lineHeight: 1.75,
+                        fontWeight: 400
+                    }}>
                         {children}
                     </div>
                 </div>
