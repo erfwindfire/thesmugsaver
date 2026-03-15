@@ -59,6 +59,7 @@ import { ukHouseholdBills2026 } from './articles/uk-household-bills-2026';
 import { warrenBuffettEtf500To1m } from './articles/warren-buffett-etf-500-to-1m';
 import { savingsRatesRoundupMarch2026 } from './articles/savings-rates-roundup-march-2026';
 import { energyPriceCapApril2026FixWarning } from './articles/energy-price-cap-april-2026-fix-warning';
+import { heatingOilPricesUk2026 } from './articles/heating-oil-prices-uk-2026';
 
 export const articles: Article[] = [
     automateSavings2026,
@@ -107,6 +108,7 @@ export const articles: Article[] = [
     warrenBuffettEtf500To1m,
     savingsRatesRoundupMarch2026,
     energyPriceCapApril2026FixWarning,
+    heatingOilPricesUk2026,
 ];
 
 export function getAllArticles(): Article[] {
