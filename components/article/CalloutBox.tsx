@@ -12,17 +12,17 @@ const CalloutBox = ({ type, title, children }: CalloutBoxProps) => {
     const styles = {
         important: {
             border: 'border-l-[#1B4D3E]',
-            bg: 'bg-stone-50',
+            bg: 'bg-[#EBF2F1]',
             icon: null,
-            titleColor: 'text-stone-900 font-serif italic',
+            titleColor: 'text-[#1B4D3E] font-serif italic',
             defaultTitle: 'Breaking News',
             containerRunningClass: 'shadow-sm'
         },
         warning: {
             border: 'border-l-[#1B4D3E]',
-            bg: 'bg-[#FAFAF8]',
+            bg: 'bg-[#EBF2F1]',
             icon: <AlertTriangle className="w-6 h-6 text-[#1B4D3E]" />,
-            titleColor: 'text-stone-900',
+            titleColor: 'text-[#1B4D3E]',
             defaultTitle: 'Warning',
             containerRunningClass: 'shadow-sm'
         },
@@ -36,7 +36,7 @@ const CalloutBox = ({ type, title, children }: CalloutBoxProps) => {
         },
         'pro-tip': {
             border: 'border-l-[#1B4D3E]',
-            bg: 'bg-slate-50',
+            bg: 'bg-[#EBF2F1]',
             icon: <Lightbulb className="w-6 h-6 text-[#1B4D3E]" />,
             titleColor: 'text-[#1B4D3E]',
             defaultTitle: 'Pro Tip',
@@ -44,9 +44,9 @@ const CalloutBox = ({ type, title, children }: CalloutBoxProps) => {
         },
         note: {
             border: 'border-l-[#1B4D3E]',
-            bg: 'bg-gray-50',
+            bg: 'bg-[#EBF2F1]',
             icon: <Info className="w-6 h-6 text-[#1B4D3E]" />,
-            titleColor: 'text-gray-700',
+            titleColor: 'text-[#1B4D3E]',
             defaultTitle: 'Note',
             containerRunningClass: ''
         }
