@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { List } from 'lucide-react';
 
 interface TocItem {
     id: string;
@@ -9,80 +8,88 @@ interface TocItem {
     level: number;
 }
 
-const TableOfContents = () => {
+interface Props {
+    /** 'desktop' = sticky sidebar panel (hidden on mobile)
+     *  'mobile'  = <details> disclosure (hidden on lg+, renders in article column) */
+    variant?: 'desktop' | 'mobile';
+}
+
+const TableOfContents = ({ variant = 'desktop' }: Props) => {
     const [headings, setHeadings] = useState<TocItem[]>([]);
     const [activeId, setActiveId] = useState<string>('');
 
     useEffect(() => {
-        // Find all H2 and H3 elements in the article content
-        // We assume the article content is wrapped in a class called 'article-body' or similar, 
-        // or just look inside 'main' or 'article'.
-        const elements = Array.from(document.querySelectorAll('article h2, article h3'));
+        // IDs are injected server-side by addHeadingIds() — just read them
+        const elements = Array.from(
+            document.querySelectorAll<HTMLElement>('article h2[id], article h3[id]')
+        );
 
-        const items = elements.map((elem, index) => {
-            // Ensure element has an ID
-            if (!elem.id) {
-                elem.id = `heading-${index}`;
-            }
+        setHeadings(
+            elements.map((el) => ({
+                id: el.id,
+                text: el.textContent || '',
+                level: Number(el.tagName[1]),
+            }))
+        );
 
-            return {
-                id: elem.id,
-                text: elem.textContent || '',
-                level: Number(elem.tagName.substring(1))
-            };
-        });
-
-        setHeadings(items);
-
-        // Scroll spy
+        // Scroll-spy
         const observer = new IntersectionObserver(
             (entries) => {
                 entries.forEach((entry) => {
-                    if (entry.isIntersecting) {
-                        setActiveId(entry.target.id);
-                    }
+                    if (entry.isIntersecting) setActiveId(entry.target.id);
                 });
             },
-            { rootMargin: '-100px 0px -66%' }
+            { rootMargin: '-80px 0px -66%' }
         );
-
-        elements.forEach((elem) => observer.observe(elem));
-
+        elements.forEach((el) => observer.observe(el));
         return () => observer.disconnect();
     }, []);
 
     if (headings.length < 2) return null;
 
-    return (
-        <div className="hidden lg:block w-64 flex-shrink-0">
-            <div className="sticky top-24 bg-gray-50 rounded-xl p-6 max-h-[calc(100vh-120px)] overflow-y-auto custom-scrollbar pb-10">
-                <h3 className="font-bold text-neutral-dark mb-4 flex items-center gap-2">
-                    <List className="w-5 h-5 text-[#1B4D3E]" />
-                    Table of Contents
-                </h3>
-                <nav className="space-y-1">
-                    {headings.map((heading) => (
-                        <a
-                            key={heading.id}
-                            href={`#${heading.id}`}
-                            className={`block text-sm py-1 transition-colors ${heading.level === 3 ? 'pl-4' : ''
-                                } ${activeId === heading.id
-                                    ? 'text-[#1B4D3E] font-bold'
-                                    : 'text-gray-600 hover:text-neutral-dark'
-                                }`}
-                            onClick={(e) => {
-                                e.preventDefault();
-                                document.getElementById(heading.id)?.scrollIntoView({
-                                    behavior: 'smooth'
-                                });
-                            }}
-                        >
-                            {heading.text}
-                        </a>
-                    ))}
-                </nav>
+    const links = headings.map((h) => (
+        <a
+            key={h.id}
+            href={`#${h.id}`}
+            className={`block text-sm py-1 transition-colors ${
+                h.level === 3 ? 'pl-4' : ''
+            } ${
+                activeId === h.id
+                    ? 'text-[#1B4D3E] font-bold'
+                    : 'text-gray-600 hover:text-[#1B4D3E]'
+            }`}
+            onClick={(e) => {
+                e.preventDefault();
+                document.getElementById(h.id)?.scrollIntoView({ behavior: 'smooth' });
+            }}
+        >
+            {h.text}
+        </a>
+    ));
+
+    /* ── Desktop sidebar ── */
+    if (variant === 'desktop') {
+        return (
+            <div className="bg-gray-50 rounded-xl p-6 max-h-[calc(100vh-140px)] overflow-y-auto">
+                <p className="font-bold text-sm text-[#1B4D3E] uppercase tracking-widest mb-4">
+                    On this page
+                </p>
+                <nav>{links}</nav>
             </div>
-        </div>
+        );
+    }
+
+    /* ── Mobile <details> disclosure ── */
+    return (
+        <details className="lg:hidden mb-8 border border-gray-200 rounded-xl overflow-hidden not-prose">
+            <summary className="cursor-pointer px-5 py-3 bg-gray-50 text-sm font-bold text-[#1B4D3E] uppercase tracking-widest select-none list-none flex items-center justify-between">
+                On this page
+                <span className="text-gray-400 text-xs font-normal normal-case tracking-normal">▾</span>
+            </summary>
+            <div className="px-5 py-4">
+                <nav>{links}</nav>
+            </div>
+        </details>
     );
 };
 

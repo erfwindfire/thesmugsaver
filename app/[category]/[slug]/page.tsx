@@ -10,6 +10,7 @@ import ArticleContent from '@/components/article/ArticleContent';
 import ArticleHeader from '@/components/article/ArticleHeader';
 import TableOfContents from '@/components/article/TableOfContents';
 import NewsletterCta from '@/components/article/NewsletterCta';
+import { addHeadingIds } from '@/lib/addHeadingIds';
 
 interface PageProps {
     params: {
@@ -124,6 +125,9 @@ export default function ArticlePage({ params }: PageProps) {
                             </p>
                         </div>
 
+                        {/* Mobile TOC disclosure — renders above content on small screens, hidden on lg+ */}
+                        <TableOfContents variant="mobile" />
+
                         {/* Content */}
                         <div
                             className="prose prose-lg max-w-none font-sans article-builder
@@ -135,13 +139,14 @@ export default function ArticlePage({ params }: PageProps) {
                                 prose-blockquote:border-none prose-blockquote:pl-0 prose-blockquote:not-italic prose-blockquote:font-normal prose-blockquote:text-gray-600"
                             style={{ fontFamily: 'var(--font-inter), sans-serif', lineHeight: '1.8' }}
                         >
-                            <ArticleContent content={article.body} />
+                            <ArticleContent content={addHeadingIds(article.body)} />
                         </div>
                     </div>
 
+                    {/* Desktop TOC sidebar */}
                     <div className="hidden lg:block lg:w-1/3">
                         <div className="sticky top-24">
-                            <TableOfContents />
+                            <TableOfContents variant="desktop" />
                         </div>
                     </div>
                 </article>
