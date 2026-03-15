@@ -61,9 +61,6 @@ export default function Home() {
             {/* 2. Hero — tagline */}
             <Hero />
 
-            {/* 3. Remaining articles — tiles without images */}
-            <LatestArticles variant="bottom" />
-
             {/* 5. Explore by category */}
             <FeatureGrid />
         </div>

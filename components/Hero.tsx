@@ -21,8 +21,6 @@ const Hero = () => {
 
                 {/* Right: email signup */}
                 <div className="md:min-w-[320px] flex-shrink-0">
-                    <p className="text-emerald-400 text-xs font-bold uppercase tracking-widest mb-2">Free Weekly Tips</p>
-
                     <form className="flex flex-col gap-3" action="#">
                         <input
                             type="email"
