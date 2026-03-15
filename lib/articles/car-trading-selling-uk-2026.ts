@@ -8,7 +8,7 @@ export const carTradingSellingUk2026: Article = {
  seoTitle: 'Sell or Trade Your Car UK: Best Value Guide',
  metaDescription: 'How to get the best price when selling or trading in your car in 2026. Valuation tools, dealer negotiation tactics, private sale tips, and timing strategies.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Comprehensive guide to maximizing your vehicle\'s value in 2026\'s challenging UK car market',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Get the Best Value When Trading In/Selling Your Car</h1>

@@ -9,7 +9,7 @@ export const universalCredit2026Changes: Article = {
  metaDescription: 'Everything changing with Universal Credit in 2026 — managed migration, legacy benefit endings, new payment amounts, two-child limit update, and what you must do before your deadline.',
  heroImage: '/assets/images/universal-credit-2026-changes-hero.jpg',
  datePublished: '2026-03-03',
- dateModified: '2026-03-03',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'The DWP is forcing millions of people off legacy benefits and onto Universal Credit in 2026 — whether they\'re ready or not. Miss your migration notice deadline and your payments stop. This is everything you need to know to protect your income.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Universal Credit 2026: Every Change You Need to Know (And What to Do Before Your Deadline)</h1>

@@ -8,7 +8,7 @@ export const ukBudget2026RachelReevesAutumnStatement: Article = {
  seoTitle: 'UK Budget 2026: What It Means for You',
  metaDescription: 'How Rachel Reeves\' Autumn Statement affects your personal finances. Tax changes, benefit updates, NI impacts, and what the UK Budget 2026 means for your wallet.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'The first Labour Budget in 14 years brings sweeping changes to tax, spending, and borrowing. Here\'s exactly how Rachel Reeves\' Autumn Statement 2026 affects your money—and what you need to do before April 2026.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">UK Budget 2026: How Rachel Reeves' Autumn Statement Will Impact Your Personal Finances</h1>

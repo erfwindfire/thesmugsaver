@@ -8,7 +8,7 @@ export const costOfLiving2026: Article = {
  seoTitle: 'Cost of Living UK 2026: Make Money Go Further',
  metaDescription: 'Comprehensive guide to beating the UK cost of living crisis in 2026. Energy bills, grocery hacks, benefit claims, and compound savings strategies that work.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Here\'s what the government won\'t tell you: inflation hit 11.1% while wages rose 2.8%, which means you\'re not being dramatic—you really are getting poorer. But wallowing won\'t warm your house or feed y',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Make Your Paycheck Go Further—Mastering Cost of Living in the UK (2026 Edition)</h1>

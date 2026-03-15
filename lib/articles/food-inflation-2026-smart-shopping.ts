@@ -8,7 +8,7 @@ export const foodInflation2026SmartShopping: Article = {
  seoTitle: 'Food Inflation 2026: Smart Shopping Strategies',
  metaDescription: 'Combat 5.1% food price increases with proven shopping strategies. Store comparison data, seasonal buying guides, and meal planning tactics to cut grocery bills.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain\'s most expensive food market.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Your complete survival guide to beating food inflation. Master strategic shopping, discover hidden savings, and slash grocery bills while eating well in Britain's most expensive food market.</p>

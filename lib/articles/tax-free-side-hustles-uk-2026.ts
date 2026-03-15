@@ -8,7 +8,7 @@ export const taxFreeSideHustlesUk2026: Article = {
  seoTitle: 'Tax-Free Side Hustles UK 2026: Full Guide',
  metaDescription: 'UK tax-free side hustle allowances for 2026: Trading (£1k), Rent-a-Room (£7.5k), Property Income (£1k), Dividend (£500). Full compliance guide.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'HMRC allows £1,000 trading allowance, £7,500 rent-a-room relief, and £1,000 property income entirely tax-free. Here\'s how to earn legally without paying tax.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Tax-Free Side Hustles in the UK—2026 Guide to Earning Without Extra Tax</h1>

@@ -8,7 +8,7 @@ export const bestBudgetingMoneyAppsUk2026: Article = {
  seoTitle: 'Best Budgeting Apps UK 2026: Honest Review',
  metaDescription: 'Independent review of the best budgeting and money management apps for UK households in 2026. Free and paid options compared with real savings potential.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Navigate the digital finance landscape with confidence. Expert analysis of the top money management apps helping UK families take control of their finances in 2026.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The Best Budgeting & Money Apps for UK Households (2026)</h1>

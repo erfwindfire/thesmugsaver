@@ -8,7 +8,7 @@ export const christmasSuperSavings2025SupermarketsRanked: Article = {
  seoTitle: 'Christmas Supermarket Savings 2025 Ranked',
  metaDescription: 'UK supermarkets ranked by Christmas 2025 discounts. Lidl, Asda, and Aldi compared on festive food deals. Save £150-300 with multi-store strategy.',
  datePublished: '2026-02-20',
- dateModified: '2026-03-14',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Which supermarket saves you the most at Christmas? We ranked UK retailers by festive deals—Lidl leads with 22-28% savings.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">2025 Christmas Super Savings: UK Supermarkets Ranked By Biggest Festive Discounts</h1>

@@ -8,7 +8,7 @@ export const howToSave100kIn8Years: Article = {
  seoTitle: 'How to Save £100,000 Over 8 Years',
  metaDescription: 'A realistic plan to save £100,000 in 8 years on an average UK salary. Monthly targets, account strategies, and compound interest calculations broken down.',
  datePublished: '2026-02-20',
- dateModified: '2026-03-08',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Proven UK strategies to reach six figures in savings with disciplined habits and smart account choices</p>

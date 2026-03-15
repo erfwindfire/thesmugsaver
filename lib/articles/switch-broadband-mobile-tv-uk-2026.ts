@@ -8,7 +8,7 @@ export const switchBroadbandMobileTvUk2026: Article = {
  seoTitle: 'Switch Broadband & Mobile UK: Save Hundreds',
  metaDescription: 'Complete guide to switching broadband, mobile and TV for savings in 2026. Negotiation scripts, step-by-step process, and provider comparison.',
  datePublished: '2026-02-20',
- dateModified: '2026-03-14',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Your complete 2026 guide to slashing communication bills through strategic provider switching with proven negotiation tactics and real-world savings.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Switch Broadband, Mobile, and TV for Maximum Savings</h1>

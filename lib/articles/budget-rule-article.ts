@@ -8,7 +8,7 @@ export const budgetRuleArticle: Article = {
  seoTitle: 'The 50/30/20 Budget Rule Explained Simply',
  metaDescription: 'How the 50/30/20 budget rule works and suits UK incomes. Setup guide with real examples for different salary levels.',
  datePublished: '2026-02-20',
- dateModified: '2026-03-14',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'The 50/30/20 rule works because it\'s simple. Divide after-tax income into 50% needs, 30% wants, 20% savings. Real examples included.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The 50/30/20 Budget Rule That Financial Experts Swear By</h1>

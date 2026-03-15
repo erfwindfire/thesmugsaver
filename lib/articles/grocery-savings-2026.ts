@@ -8,7 +8,7 @@ export const grocerySavings2026: Article = {
  seoTitle: '10 Grocery Saving Hacks UK 2026: Cut Your Bill',
  metaDescription: 'Top 10 grocery saving hacks for UK supermarkets. Markdown timing, app deals, price matching, and cashback strategies to reduce your shopping bill.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'The average UK household spends £4,610 on groceries annually. Here are 10 proven hacks: markdown timing, app deals, price matching, bulk buying, and strategic shopping to cut 25-35% from your bill.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">10 Grocery Saving Hacks You Haven't Tried Yet (UK Edition)</h1>

@@ -6,7 +6,7 @@ export const energyPriceCapApril2026FixWarning: Article = {
  category: 'energy-bills',
  author: 'The Smug Saver',
  datePublished: '2026-03-06',
- dateModified: '2026-03-06',
+ dateModified: '2026-03-15',
  readingTime: 14,
  seoTitle: 'Energy Price Cap April 2026 — Fix Now or Pay More in July?',
  metaDescription: "April's energy cap falls £117. But wholesale gas just spiked 90% in a week. Here's why you may have days to lock in a fix before the deals disappear.",

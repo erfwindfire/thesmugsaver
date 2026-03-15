@@ -8,7 +8,7 @@ export const warrenBuffettEtf500To1m: Article = {
  seoTitle: 'Buffett\'s Favourite ETF: £500 to £1 Million',
  metaDescription: 'How Warren Buffett\'s favourite ETF could turn £500 monthly into over £1 million. The exact strategy, compound maths, and why the Oracle of Omaha recommends it.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'The Oracle of Omaha\'s simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here\'s the exact strategy and mathematics behind building over £1 million with ',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h1>

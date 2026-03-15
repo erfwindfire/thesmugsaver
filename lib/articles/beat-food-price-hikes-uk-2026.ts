@@ -8,7 +8,7 @@ export const beatFoodPriceHikesUk2026: Article = {
  seoTitle: 'Beat Food Price Hikes: UK Grocery Guide 2026',
  metaDescription: 'Smart grocery shopping strategies for UK families facing rising food prices. Yellow sticker timing, loyalty apps, bulk buying tactics reducing bills by 30%.',
  datePublished: '2026-02-20',
- dateModified: '2026-03-14',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Cut grocery bills by 30-50% in 2026. Proven strategies for UK families: yellow stickers, loyalty apps, meal planning.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Beat Food Price Hikes—Smart Grocery Shopping for UK Families</h1>

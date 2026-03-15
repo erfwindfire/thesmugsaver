@@ -8,7 +8,7 @@ export const conquerYourDebt2026: Article = {
  seoTitle: 'Conquer Your Debt UK 2026: Proven Strategies',
  metaDescription: 'Battle-tested UK debt payoff strategies for 2026. Snowball vs avalanche methods, negotiation templates, free debt advice services, and priority debt system.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Let\'s be honest about debt: it\'s not a moral failing, it\'s a mathematical reality. 63% of UK adults carry consumer debt averaging £8,400.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Conquer Your Debt—UK Strategies for Getting Out (and Staying Out) for Good</h1>

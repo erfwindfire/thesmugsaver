@@ -8,7 +8,7 @@ export const employerNiChangesUk2026: Article = {
  seoTitle: 'Employer NI Changes 2026: Your Pay Impact',
  metaDescription: 'How employer National Insurance changes in 2026 affect your take-home pay. What the increases mean, who pays, and how to protect your UK paycheque.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Navigate the 2026 National Insurance increases with confidence. Learn how employer costs affect your salary, negotiate protection strategies, and secure your financial future despite policy changes.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Employer National Insurance Changes: How to Protect Your UK Paycheque in 2026</h1>

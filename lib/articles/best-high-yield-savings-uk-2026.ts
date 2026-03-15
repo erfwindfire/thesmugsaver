@@ -8,7 +8,7 @@ export const bestHighYieldSavingsUk2026: Article = {
  seoTitle: 'Best High-Yield Savings Accounts UK 2026',
  metaDescription: 'Compare UK high-yield savings accounts in 2026. Rates up to 7.5%, FSCS protection, and switching strategies to maximise your returns on savings.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to maximizing returns on your savings in 2026. Compare top providers, understand account types, and build a savings strategy that beats inflation.</p>

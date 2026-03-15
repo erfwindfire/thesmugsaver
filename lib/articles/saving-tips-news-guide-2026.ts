@@ -8,7 +8,7 @@ export const savingTipsNewsGuide2026: Article = {
  seoTitle: 'UK Saving Tips: March 2026 Money Guide',
  metaDescription: 'Actionable saving tips for March 2026 UK households. Energy price changes, benefit updates, and money moves to make right now.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Expert-backed strategies to navigate today\'s financial climate, protect your money, and capitalize on March 2026\'s opportunities',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Money Moves for March 2026</h1>

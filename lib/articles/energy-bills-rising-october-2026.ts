@@ -8,7 +8,7 @@ export const energyBillsRisingOctober2026: Article = {
  seoTitle: 'Energy Bills Rising October 2026: Save Now',
  metaDescription: 'October 2026 energy price cap projected to rise to around £1,755 for a typical household. Ten practical ways to cut your energy costs now and prepare for the increase.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'October 2026 energy bills are forecast to rise for 28 million households. Here\'s exactly how to fight back and slash your energy costs by up to £400 annually.',
  body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bills Rising October 2026: Forecasts, What to Expect, and How to Prepare</h1>

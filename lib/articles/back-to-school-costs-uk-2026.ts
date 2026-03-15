@@ -8,7 +8,7 @@ export const backToSchoolCostsUk2026: Article = {
  seoTitle: 'Back to School Costs UK 2026: Cut Your Bill',
  metaDescription: '15 proven ways to reduce your £1,200 back-to-school bill in 2026. Uniform hacks, free school meal eligibility, and secondhand savings for UK families.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop overpaying for school essentials. Master strategic buying, timing, and budget allocation to slash your back-to-school costs by 40-60% while giving your children everything they need to succeed.</p>

@@ -8,7 +8,7 @@ export const rentBuyStayPutUk2026: Article = {
  seoTitle: 'Rent, Buy or Stay Put? UK Housing 2026',
  metaDescription: 'Should you rent, buy, or stay put in 2026? UK housing market analysis with cost calculators, regional comparisons, and strategies for every budget level.',
  datePublished: '2026-02-20',
- dateModified: '2026-02-20',
+ dateModified: '2026-03-15',
  author: 'The Smug Saver',
  excerpt: 'Navigate Britain\'s brutal housing market with evidence-based strategies. Whether you\'re trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finance',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Navigate Britain's brutal housing market with evidence-based strategies. Whether you're trapped in expensive rent, considering buying, or remortgaging, make the smartest decision for your 2026 finances.</p>
