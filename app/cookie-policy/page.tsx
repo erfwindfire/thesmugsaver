@@ -4,6 +4,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
     title: 'Cookie Policy | The Smug Saver',
     description: 'Learn how The Smug Saver uses cookies to improve your experience.',
+    alternates: {
+        canonical: 'https://www.thesmugsaver.com/cookie-policy/',
+    },
 };
 
 export default function CookiePolicy() {

@@ -4,6 +4,9 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
     title: 'Terms & Conditions | The Smug Saver',
     description: 'Read the Terms & Conditions for using The Smug Saver website.',
+    alternates: {
+        canonical: 'https://www.thesmugsaver.com/terms-and-conditions/',
+    },
 };
 
 export default function TermsAndConditions() {
