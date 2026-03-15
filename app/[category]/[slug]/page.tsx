@@ -75,6 +75,8 @@ export default function ArticlePage({ params }: PageProps) {
         .filter(a => a.category === article.category && a.slug !== article.slug)
         .slice(0, 3);
 
+    const isBuilderStyle = article.slug === 'grocery-savings-2026';
+
     return (
         <div className="bg-white">
             <div className="container mx-auto px-4 py-8 lg:py-12">
@@ -93,60 +95,108 @@ export default function ArticlePage({ params }: PageProps) {
                         />
 
                         {/* Excerpt / Summary Card */}
-                        <div style={{
-                            backgroundColor: '#FFFFFF',
-                            border: '1px solid #E8E8E8',
-                            borderRadius: '12px',
-                            boxShadow: '0 2px 12px rgba(0, 0, 0, 0.06)',
-                            padding: '36px 40px',
-                            maxWidth: '850px',
-                            margin: '0 auto 48px auto'
-                        }}>
-                            <h3 style={{
-                                color: '#B8962E',
-                                fontFamily: "'Playfair Display', serif",
-                                fontSize: '17px',
-                                fontWeight: 700,
-                                letterSpacing: '0.02em',
-                                marginBottom: '16px',
-                                marginTop: 0,
-                                textTransform: 'uppercase'
+                        {isBuilderStyle ? (
+                            /* Builder-style: left gold border, italic serif, light bg */
+                            <div style={{
+                                borderLeft: '3px solid #B8962E',
+                                backgroundColor: '#F8F7F4',
+                                padding: '28px 36px',
+                                margin: '0 0 52px 0',
                             }}>
-                                {article.slug === 'money-moves-weird-2026' ? 'THE SITUATION' : 'SUMMARY'}
-                            </h3>
-                            <p style={{
-                                color: '#333333',
-                                fontFamily: "'Inter', sans-serif",
-                                fontSize: '17px',
-                                lineHeight: 1.75,
-                                fontWeight: 400,
-                                margin: 0
+                                <span style={{
+                                    color: '#B8962E',
+                                    fontFamily: "'Playfair Display', serif",
+                                    fontSize: '13px',
+                                    fontWeight: 700,
+                                    letterSpacing: '0.1em',
+                                    textTransform: 'uppercase',
+                                    display: 'block',
+                                    marginBottom: '14px'
+                                }}>
+                                    {article.slug === 'money-moves-weird-2026' ? 'THE SITUATION' : 'Summary'}
+                                </span>
+                                <p style={{
+                                    color: '#2C2C2C',
+                                    fontFamily: "'Playfair Display', Georgia, serif",
+                                    fontSize: '18px',
+                                    lineHeight: 1.8,
+                                    fontStyle: 'italic',
+                                    fontWeight: 400,
+                                    margin: 0
+                                }}>
+                                    {article.excerpt}
+                                </p>
+                            </div>
+                        ) : (
+                            /* Current style for all other articles */
+                            <div style={{
+                                backgroundColor: '#FFFFFF',
+                                border: '1px solid #E8E8E8',
+                                borderRadius: '12px',
+                                boxShadow: '0 2px 12px rgba(0, 0, 0, 0.06)',
+                                padding: '36px 40px',
+                                maxWidth: '850px',
+                                margin: '0 auto 48px auto'
                             }}>
-                                {article.excerpt}
-                            </p>
-                        </div>
+                                <h3 style={{
+                                    color: '#B8962E',
+                                    fontFamily: "'Playfair Display', serif",
+                                    fontSize: '17px',
+                                    fontWeight: 700,
+                                    letterSpacing: '0.02em',
+                                    marginBottom: '16px',
+                                    marginTop: 0,
+                                    textTransform: 'uppercase'
+                                }}>
+                                    {article.slug === 'money-moves-weird-2026' ? 'THE SITUATION' : 'SUMMARY'}
+                                </h3>
+                                <p style={{
+                                    color: '#333333',
+                                    fontFamily: "'Inter', sans-serif",
+                                    fontSize: '17px',
+                                    lineHeight: 1.75,
+                                    fontWeight: 400,
+                                    margin: 0
+                                }}>
+                                    {article.excerpt}
+                                </p>
+                            </div>
+                        )}
 
                         {/* Content */}
                         <div
-                            className="prose prose-lg max-w-none text-gray-700 font-sans
-                                prose-headings:font-serif prose-headings:text-neutral-dark prose-headings:font-bold
-                                [&_h2]:border-b [&_h2]:border-gray-300 [&_h2]:pb-4 [&_h2]:mb-8 [&_h2]:pt-8 [&_h2]:mt-12
-                                [&_h3]:font-bold [&_h3]:text-gray-900 [&_h3]:mt-8 [&_h3]:mb-4
+                            className={`prose prose-lg max-w-none font-sans
+                                prose-headings:font-serif prose-headings:font-bold
+                                [&_h2]:border-b [&_h2]:pb-5 [&_h2]:mb-8 [&_h2]:pt-8 [&_h2]:mt-14
                                 prose-h4:font-bold prose-h4:text-gray-900
-                                prose-p:leading-[1.8] prose-p:mb-6
-                                prose-a:text-[#1B4D3E] prose-a:no-underline hover:prose-a:underline
                                 prose-img:rounded-xl prose-img:shadow-md
-                                prose-strong:text-neutral-dark prose-strong:font-bold
+                                prose-strong:font-bold
                                 prose-ul:list-disc prose-ol:list-decimal
-                                prose-li:marker:text-[#1B4D3E]
                                 [&_table]:w-full [&_table]:text-left [&_table]:border-collapse [&_table]:my-8
                                 [&_th]:bg-gray-100 [&_th]:p-4 [&_th]:font-serif
                                 prose-td:p-4 prose-td:border-b prose-td:border-gray-100
                                 prose-blockquote:border-none prose-blockquote:pl-0 prose-blockquote:not-italic prose-blockquote:font-normal prose-blockquote:text-gray-600
-                            "
+                                ${isBuilderStyle
+                                    ? `text-gray-800
+                                       prose-headings:text-[#1A2744]
+                                       [&_h2]:border-gray-200 [&_h2]:text-[#1A2744]
+                                       [&_h3]:text-[#1A2744] [&_h3]:mt-10 [&_h3]:mb-4 [&_h3]:font-bold
+                                       prose-p:leading-[1.85] prose-p:mb-7 prose-p:text-[17px]
+                                       prose-a:text-[#B8962E] hover:prose-a:underline prose-a:no-underline
+                                       prose-strong:text-[#1A2744]
+                                       prose-li:marker:text-[#B8962E]`
+                                    : `text-gray-700
+                                       prose-headings:text-neutral-dark
+                                       [&_h2]:border-gray-300
+                                       [&_h3]:font-bold [&_h3]:text-gray-900 [&_h3]:mt-8 [&_h3]:mb-4
+                                       prose-p:leading-[1.8] prose-p:mb-6
+                                       prose-a:text-[#1B4D3E] prose-a:no-underline hover:prose-a:underline
+                                       prose-strong:text-neutral-dark
+                                       prose-li:marker:text-[#1B4D3E]`
+                                }`}
                             style={{
                                 fontFamily: 'var(--font-inter), sans-serif',
-                                lineHeight: '28.8px'
+                                lineHeight: isBuilderStyle ? '1.85' : '28.8px'
                             }}
                         >
                             <ArticleContent content={article.body} />
