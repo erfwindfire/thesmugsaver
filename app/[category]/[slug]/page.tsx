@@ -8,7 +8,6 @@ import Breadcrumbs from '@/components/Breadcrumbs';
 import { CATEGORIES } from '@/lib/articles';
 import ArticleContent from '@/components/article/ArticleContent';
 import ArticleHeader from '@/components/article/ArticleHeader';
-import TableOfContents from '@/components/article/TableOfContents';
 import NewsletterCta from '@/components/article/NewsletterCta';
 import { addHeadingIds } from '@/lib/addHeadingIds';
 
@@ -81,8 +80,8 @@ export default function ArticlePage({ params }: PageProps) {
             <div className="container mx-auto px-4 py-8 lg:py-12">
                 <Breadcrumbs categorySlug={params.category} articleTitle={article.title} />
 
-                <article className="max-w-7xl mx-auto flex flex-col lg:flex-row gap-12">
-                    <div className="flex-grow lg:w-2/3 max-w-3xl">
+                <article className="max-w-3xl mx-auto">
+                    <div className="w-full">
                         {/* Header */}
                         <ArticleHeader
                             title={article.title}
@@ -125,9 +124,6 @@ export default function ArticlePage({ params }: PageProps) {
                             </p>
                         </div>
 
-                        {/* Mobile TOC disclosure — renders above content on small screens, hidden on lg+ */}
-                        <TableOfContents variant="mobile" />
-
                         {/* Content */}
                         <div
                             className="prose prose-lg max-w-none font-sans article-builder
@@ -142,13 +138,6 @@ export default function ArticlePage({ params }: PageProps) {
                             <ArticleContent content={addHeadingIds(article.body)} />
                         </div>
                     </div>
-
-                    {/* Desktop TOC sidebar */}
-                    <div className="hidden lg:block lg:w-1/3">
-                        <div className="sticky top-24">
-                            <TableOfContents variant="desktop" />
-                        </div>
-                    </div>
                 </article>
 
                 <div className="max-w-3xl mx-auto">
@@ -156,7 +145,7 @@ export default function ArticlePage({ params }: PageProps) {
                 </div>
 
                 {/* Cross Links */}
-                <div className="mt-8 pt-10 border-t border-gray-100 max-w-3xl mx-auto lg:mx-0 lg:max-w-none">
+                <div className="mt-8 pt-10 border-t border-gray-100 max-w-3xl mx-auto">
                     <h2 className="text-2xl font-serif font-bold mb-6">More in {article.category.replace(/-/g, ' ')}</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         {relatedByCategory.map(rel => (
