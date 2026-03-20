@@ -11,8 +11,7 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
  dateModified: '2026-03-15',
  author: 'Ed Djazmi',
  excerpt: 'The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Flexible Budgets forIrregular Income</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Self-Employment Ready</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Variable Income Strategies</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Practical Templates Included</p>

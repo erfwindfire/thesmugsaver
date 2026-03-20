@@ -11,8 +11,7 @@ export const costOfLiving2026: Article = {
  dateModified: '2026-03-15',
  author: 'Rob Jones',
  excerpt: 'Here\'s what the government won\'t tell you: inflation hit 11.1% while wages rose 2.8%, which means you\'re not being dramatic—you really are getting poorer. But wallowing won\'t warm your house or feed y',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Make Your Paycheck Go Further—Mastering Cost of Living in the UK (2026 Edition)</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Here's what the government won't tell you: inflation hit 11.1% while wages rose 2.8%, which means you're not being dramatic—you really are getting poorer. But wallowing won't warm your house or feed your family, so let's get to work.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Here's what the government won't tell you: inflation hit 11.1% while wages rose 2.8%, which means you're not being dramatic—you really are getting poorer. But wallowing won't warm your house or feed your family, so let's get to work.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Save £200+ Monthly on UK Cost of Living</h2>
 

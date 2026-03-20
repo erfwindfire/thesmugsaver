@@ -12,8 +12,7 @@ export const heatingOilPricesUk2026: Article = {
     metaDescription: 'Heating oil prices UK doubled in 12 days in March 2026. Kerosene hit 128p per litre. Here\'s what off-grid households must do now — buying groups, timing, rights, and support.',
     heroImage: '/assets/images/heating-oil-prices-uk-2026-hero.jpg',
     excerpt: 'The national average kerosene price doubled from 63.1p to 128.1p per litre between 1 and 13 March 2026. 1.5 million off-grid UK households — with no Ofgem price cap protection — bore the full shock. Here\'s the complete guide to your rights, how to find the cheapest heating oil UK suppliers, when to buy, and what financial support exists.',
-    body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Heating Oil Prices UK 2026: What Off-Grid Households Must Do Now</h1>
-
+    body: `
 <p class="mb-4 text-gray-700 leading-relaxed">In twelve days, the cost of heating your home with oil nearly doubled. On 1 March 2026, the national average for kerosene was 63.1p per litre. By 13 March, it was 128.1p. If you ordered 1,000 litres last week, you paid roughly £1,180. The same order in February cost £451. That's not a rounding error — that's £729 extra, on top of everything else that's gone up this year.</p>
 
 <p class="mb-4 text-gray-700 leading-relaxed">The trigger was US-Israel military action against Iran at the end of February 2026, causing immediate market fear over Strait of Hormuz disruption — a chokepoint carrying roughly 20% of global daily oil supply. Brent crude surged above $110 a barrel from a range of £60–70. And because 1.5 million UK households heat with oil instead of mains gas, they absorbed the full force of that commodity shock with zero regulatory protection. No Ofgem price cap. No emergency freeze. Nothing.</p>

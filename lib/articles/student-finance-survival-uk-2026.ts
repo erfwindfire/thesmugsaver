@@ -11,8 +11,7 @@ export const studentFinanceSurvivalUk2026: Article = {
  dateModified: '2026-03-15',
  author: 'Ed Djazmi',
  excerpt: 'Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Financial Survival Skills for UK Students in 2026</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Your complete guide to budgeting, housing, food hacks, and work strategies to thrive financially during your studies</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Takeaways</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3"> Money Management</h3>

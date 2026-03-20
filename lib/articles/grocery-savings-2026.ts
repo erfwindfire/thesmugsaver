@@ -11,8 +11,7 @@ export const grocerySavings2026: Article = {
  dateModified: '2026-03-15',
  author: 'Rob Jones',
  excerpt: 'The average UK household spends £4,610 on groceries annually. Here are 10 proven hacks: markdown timing, app deals, price matching, bulk buying, and strategic shopping to cut 25-35% from your bill.',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">10 Grocery Saving Hacks You Haven't Tried Yet (UK Edition)</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">The average UK household spends £4,610 annually on groceries—up 15% since 2022. But supermarkets have exploitable weaknesses if you know where to look. This guide shows you 10 proven hacks to cut your shopping bill by 25-35%: markdown timing, app-exclusive deals, price matching, bulk buying, and strategic seasonality.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">The average UK household spends £4,610 annually on groceries—up 15% since 2022. But supermarkets have exploitable weaknesses if you know where to look. This guide shows you 10 proven hacks to cut your shopping bill by 25-35%: markdown timing, app-exclusive deals, price matching, bulk buying, and strategic seasonality.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: 10 Quick Hacks</h2>
 
 <p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> Combining 10 grocery hacks—timing, app deals, bulk buying, cashback stacking—can reduce annual bills from £4,610 to £3,000-£3,500, delivering 25-35% savings without requiring specialist knowledge, just consistent application across multiple channels.</p>

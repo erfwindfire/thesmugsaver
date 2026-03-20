@@ -11,8 +11,7 @@ export const warrenBuffettEtf500To1m: Article = {
  dateModified: '2026-03-15',
  author: 'Rob Jones',
  excerpt: 'The Oracle of Omaha\'s simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here\'s the exact strategy and mathematics behind building over £1 million with ',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Warren Buffett's Favourite ETF: How £500 Monthly Could Build £1 Million</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">The Oracle of Omaha's simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here's the exact strategy and mathematics behind building over £1 million with just £500 a month.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">The Oracle of Omaha's simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here's the exact strategy and mathematics behind building over £1 million with just £500 a month.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
 <p class="mb-4 text-gray-700 leading-relaxed">10 min read</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>

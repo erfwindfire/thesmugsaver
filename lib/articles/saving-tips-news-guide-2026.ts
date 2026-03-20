@@ -11,8 +11,7 @@ export const savingTipsNewsGuide2026: Article = {
  dateModified: '2026-03-15',
  author: 'Rob Jones',
  excerpt: 'Expert-backed strategies to navigate today\'s financial climate, protect your money, and capitalize on March 2026\'s opportunities',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Saving Smarter Right Now: UK Money Moves for March 2026</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Expert-backed strategies to navigate today's financial climate, protect your money, and capitalize on March 2026's opportunities</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Expert-backed strategies to navigate today's financial climate, protect your money, and capitalize on March 2026's opportunities</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What's the smartest savings move in March 2026?</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Prioritize building a 3-month emergency buffer in a high-yield account (4.5-5.25% AER), audit recurring expenses to cut £200-£500 monthly, and lock in competitive mortgage rates if your fixed term expires soon. Today's economic volatility makes defensive savings essential.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>

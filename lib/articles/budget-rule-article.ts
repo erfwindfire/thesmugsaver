@@ -11,8 +11,7 @@ export const budgetRuleArticle: Article = {
  dateModified: '2026-03-15',
  author: 'Rob Jones',
  excerpt: 'The 50/30/20 rule works because it\'s simple. Divide after-tax income into 50% needs, 30% wants, 20% savings. Real examples included.',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">The 50/30/20 Budget Rule That Financial Experts Swear By</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Here's what nobody tells you about the 50/30/20 rule: it works precisely because it's stupidly simple. While financial gurus peddle 47-step wealth systems that require a PhD in accounting, this three-number framework has quietly built more emergency funds than any Instagram investment scheme ever will.</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Here's what nobody tells you about the 50/30/20 rule: it works precisely because it's stupidly simple. While financial gurus peddle 47-step wealth systems that require a PhD in accounting, this three-number framework has quietly built more emergency funds than any Instagram investment scheme ever will.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: The 50/30/20 rule divides after-tax income into 50% needs (housing, food, utilities), 30% wants (entertainment, dining, hobbies), and 20% savings/debt repayment. This simple framework prevents lifestyle inflation while building emergency funds automatically.</strong></p>
 <p class="mb-4 text-gray-700 leading-relaxed">Key Action: Calculate your after-tax income, set up automatic 20% transfers to savings, and track spending for one month to optimize your allocations.</p>

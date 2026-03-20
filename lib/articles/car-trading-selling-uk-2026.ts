@@ -11,8 +11,7 @@ export const carTradingSellingUk2026: Article = {
  dateModified: '2026-03-15',
  author: 'Ed Djazmi',
  excerpt: 'Comprehensive guide to maximizing your vehicle\'s value in 2026\'s challenging UK car market',
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">How to Get the Best Value When Trading In/Selling Your Car</h1>
-<p class="mb-4 text-gray-700 leading-relaxed">Comprehensive guide to maximizing your vehicle's value in 2026's challenging UK car market</p>
+ body: `<p class="mb-4 text-gray-700 leading-relaxed">Comprehensive guide to maximizing your vehicle's value in 2026's challenging UK car market</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Car Finance</p>
 <p class="mb-4 text-gray-700 leading-relaxed">UK Specific</p>
 <p class="mb-4 text-gray-700 leading-relaxed">2026 Updated</p>

@@ -12,8 +12,7 @@ export const energyPriceCapApril2026FixWarning: Article = {
  metaDescription: "April's energy cap falls £117. But wholesale gas just spiked 90% in a week. Here's why you may have days to lock in a fix before the deals disappear.",
  heroImage: '/assets/images/energy-price-cap-april-2026-fix-warning-hero.jpg',
  excerpt: "April's energy price cap is dropping £117 for the average household. Good news — except wholesale gas prices just spiked 90% in a single week because of the Middle East conflict. If that's sustained, the July cap could reverse every penny of the April saving. Here's what to do right now, before the cheapest fixes get pulled.",
- body: `<h1 class="text-3xl font-bold text-gray-900 mb-6">Energy Bill Warning: April's Price Drop Could Be a False Dawn — Act Now Before July</h1>
-
+ body: `
 <p class="mb-4 text-gray-700 leading-relaxed">On 1 April 2026, the Ofgem energy price cap falls 6.7%. For a typical dual-fuel household, that's £117 off your annual bill — around £10 a month cheaper. It's real money, and it should be good news.</p>
 
 <p class="mb-4 text-gray-700 leading-relaxed">Here's the problem. In the same week Ofgem confirmed the April drop, wholesale gas prices spiked 90% in seven days — driven by escalating Middle East conflict. Wholesale rates are the single biggest driver of what Ofgem sets the cap at. If that spike is sustained, the July 2026 price cap could rise sharply — and wipe out everything April just saved you, and then some.</p>
