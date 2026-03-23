@@ -19,13 +19,12 @@ interface ArticleContentProps {
 }
 
 const ArticleContent = ({ content }: ArticleContentProps) => {
-    let processedContent = content;
-
-    // Debugging (will appear in footer or source)
-    // console.log("ArticleContent processing...");
-
-    // Debugging (will appear in footer or source)
-    // console.log("ArticleContent processing...");
+    // Strip any content (intro paragraphs) that appears before the first H2.
+    // The Summary box in the article header already shows the excerpt, so the
+    // opening paragraph is redundant. This ensures the layout goes straight
+    // from Summary → Key Takeaways (TL;DR) every time.
+    const firstH2 = content.indexOf('<h2');
+    let processedContent = firstH2 > 0 ? content.slice(firstH2) : content;
 
     const options = {
         replace: (domNode: DOMNode) => {
