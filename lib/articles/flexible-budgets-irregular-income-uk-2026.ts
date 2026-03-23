@@ -11,42 +11,26 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
  dateModified: '2026-03-15',
  author: 'Ed Djazmi',
  excerpt: 'The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Self-Employment Ready</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Variable Income Strategies</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Practical Templates Included</p>
+ body: `<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">The complete UK guide for freelancers, contractors, and commission earners to master variable income budgeting in 2026</td><td class="px-4 py-3">Self-Employment Ready</td></tr>
+<tr><td class="px-4 py-3">Variable Income Strategies</td><td class="px-4 py-3">Practical Templates Included</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/budgeting/budget-rule-article" class="text-emerald-700 underline hover:text-emerald-900">50/30/20 rule</a>.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Takeaways</h2>
-<p class="mb-4 text-gray-700 leading-relaxed">Essential strategies for managing irregular income in the UK</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Build flexible budgets using percentage-based allocation rather than fixed amounts</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Set aside 25-30% of each payment for taxes and National Insurance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Create a 3-6 month emergency fund as your income buffer</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Use baseline budgeting to cover essentials with your lowest expected month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Leverage UK-specific apps like FreeAgent and Crunch for income tracking</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Smooth income fluctuations using rolling 3-month averages</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Automate tax savings using separate business savings accounts</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Plan for seasonal dips and cash flow timing issues</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Rate</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Essential strategies for managing irregular income in the UK</td><td class="px-4 py-3">Build flexible budgets using percentage-based allocation rather than fixed amounts</td><td class="px-4 py-3">Set aside 25-30% of each payment for taxes and National Insurance</td></tr>
+<tr><td class="px-4 py-3">Create a 3-6 month emergency fund as your income buffer</td><td class="px-4 py-3">Use baseline budgeting to cover essentials with your lowest expected month</td><td class="px-4 py-3">Leverage UK-specific apps like FreeAgent and Crunch for income tracking</td></tr>
+<tr><td class="px-4 py-3">Smooth income fluctuations using rolling 3-month averages</td><td class="px-4 py-3">Automate tax savings using separate business savings accounts</td><td class="px-4 py-3">Plan for seasonal dips and cash flow timing issues</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Core Flexible Budgeting Strategies</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">1. Percentage-Based Allocation</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Forget fixed amounts. When your income varies by £5,000+ monthly, percentage-based budgeting is your lifeline. Every payment gets immediately split according to predetermined percentages.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 50/30/20 Variable Income Split</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Taxes & NI (30%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,500 on £5,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Essential expenses (40%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,000 on £5,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency fund (10%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£500 on £5,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Discretionary spending (20%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,000 on £5,000</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Taxes & NI (30%)</td><td class="px-4 py-3">£1,500 on £5,000</td></tr>
+<tr><td class="px-4 py-3">Essential expenses (40%)</td><td class="px-4 py-3">£2,000 on £5,000</td></tr>
+<tr><td class="px-4 py-3">Emergency fund (10%)</td><td class="px-4 py-3">£500 on £5,000</td></tr>
+<tr><td class="px-4 py-3">Discretionary spending (20%)</td><td class="px-4 py-3">£1,000 on £5,000</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">High-Variance Income Split</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Taxes & NI (35%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Higher tax buffer</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Essential expenses (30%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Reduced fixed costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency fund (20%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Aggressive savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Discretionary spending (15%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Conservative lifestyle</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Taxes & NI (35%)</td><td class="px-4 py-3">Higher tax buffer</td></tr>
+<tr><td class="px-4 py-3">Essential expenses (30%)</td><td class="px-4 py-3">Reduced fixed costs</td></tr>
+<tr><td class="px-4 py-3">Emergency fund (20%)</td><td class="px-4 py-3">Aggressive savings</td></tr>
+<tr><td class="px-4 py-3">Discretionary spending (15%)</td><td class="px-4 py-3">Conservative lifestyle</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">2. Baseline Budgeting Method</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Calculate your absolute minimum monthly income from the past 24 months. This becomes your baseline budget—what you can survive on during lean periods. Everything above this baseline gets allocated to taxes, savings, and lifestyle inflation.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Baseline Budget Example</h4>
@@ -57,49 +41,30 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">3. Rolling Average Smoothing</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Use a 3-month rolling average to smooth out extreme variations. Instead of budgeting based on last month's income, use the average of the past three months. This prevents over-spending during windfall months and under-budgeting during slow periods.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Rolling Average Calculation</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Actual Income</p>
-<p class="mb-4 text-gray-700 leading-relaxed">3-Month Average</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Budget Based On</p>
-<p class="mb-4 text-gray-700 leading-relaxed">January</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">February</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£7,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">March</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">April</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£6,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£5,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£5,000</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Month</td><td class="px-4 py-3">Actual Income</td></tr>
+<tr><td class="px-4 py-3">3-Month Average</td><td class="px-4 py-3">Budget Based On</td></tr>
+<tr><td class="px-4 py-3">January</td><td class="px-4 py-3">£3,000</td></tr>
+<tr><td class="px-4 py-3">£4,000</td><td class="px-4 py-3">£4,000</td></tr>
+<tr><td class="px-4 py-3">February</td><td class="px-4 py-3">£7,000</td></tr>
+<tr><td class="px-4 py-3">£4,500</td><td class="px-4 py-3">£4,500</td></tr>
+<tr><td class="px-4 py-3">March</td><td class="px-4 py-3">£2,000</td></tr>
+<tr><td class="px-4 py-3">£4,000</td><td class="px-4 py-3">£4,000</td></tr>
+<tr><td class="px-4 py-3">April</td><td class="px-4 py-3">£6,000</td></tr>
+<tr><td class="px-4 py-3">£5,000</td><td class="px-4 py-3">£5,000</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">UK-Specific Tax and Compliance Considerations</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Irregular income in the UK comes with unique tax complications that traditional employees never face. HMRC expects quarterly payments, but your income doesn't follow quarterly patterns. Here's how to handle the administrative nightmare.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Tax Obligation Planning</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">2026 UK Tax Rates</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Personal Allowance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£12,570</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Basic Rate (20%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£12,571 - £50,270</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Higher Rate (40%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50,271 - £125,140</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Additional Rate (45%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Over £125,140</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Personal Allowance</td><td class="px-4 py-3">£12,570</td></tr>
+<tr><td class="px-4 py-3">Basic Rate (20%)</td><td class="px-4 py-3">£12,571 - £50,270</td></tr>
+<tr><td class="px-4 py-3">Higher Rate (40%)</td><td class="px-4 py-3">£50,271 - £125,140</td></tr>
+<tr><td class="px-4 py-3">Additional Rate (45%)</td><td class="px-4 py-3">Over £125,140</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">National Insurance Rates</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Class 2 NI (if profits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">></p>
-<p class="mb-4 text-gray-700 leading-relaxed">£6,515)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3.45/week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Class 4 NI (9%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£12,570 - £50,270</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Class 4 NI (2%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Over £50,270</p>
-<p class="mb-4 text-gray-700 leading-relaxed">VAT Threshold</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£90,000</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Class 2 NI (if profits</td><td class="px-4 py-3">></td></tr>
+<tr><td class="px-4 py-3">£6,515)</td><td class="px-4 py-3">£3.45/week</td></tr>
+<tr><td class="px-4 py-3">Class 4 NI (9%)</td><td class="px-4 py-3">£12,570 - £50,270</td></tr>
+<tr><td class="px-4 py-3">Class 4 NI (2%)</td><td class="px-4 py-3">Over £50,270</td></tr>
+<tr><td class="px-4 py-3">VAT Threshold</td><td class="px-4 py-3">£90,000</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Quarterly Tax Planning Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">HMRC requires payments on account based on your previous year's tax bill. If your income varies wildly, this creates cash flow nightmares. Here's how to manage it:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Critical Tax Savings Formula</h4>
@@ -156,31 +121,7 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Income Smoothing Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Your emergency fund doubles as an income smoother. Instead of spending windfall months immediately, put excess into the fund. During lean months, withdraw to maintain your standard of living.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Income Smoothing Example</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Actual Income</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Target Spending</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fund Change</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fund Balance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">January</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">-£1,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£8,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">February</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£7,200</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">+£3,200</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£11,700</p>
-<p class="mb-4 text-gray-700 leading-relaxed">March</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,800</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">-£2,200</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£9,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">April</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£8,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">+£4,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£14,000</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Month</li><li class="mb-2">Actual Income</li><li class="mb-2">Target Spending</li><li class="mb-2">Fund Change</li><li class="mb-2">Fund Balance</li><li class="mb-2">January</li><li class="mb-2">£2,500</li><li class="mb-2">£4,000</li><li class="mb-2">-£1,500</li><li class="mb-2">£8,500</li><li class="mb-2">February</li><li class="mb-2">£7,200</li><li class="mb-2">£4,000</li><li class="mb-2">+£3,200</li><li class="mb-2">£11,700</li><li class="mb-2">March</li><li class="mb-2">£1,800</li><li class="mb-2">£4,000</li><li class="mb-2">-£2,200</li><li class="mb-2">£9,500</li><li class="mb-2">April</li><li class="mb-2">£8,500</li><li class="mb-2">£4,000</li><li class="mb-2">+£4,500</li><li class="mb-2">£14,000</li></ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Tools and Apps for UK Freelancers</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The right tools make irregular income management significantly easier. Here are the UK-specific apps and platforms that successful freelancers actually use (not sponsored recommendations—honest reviews).</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Accounting and Tax Tools</h3>
@@ -217,12 +158,8 @@ export const flexibleBudgetsIrregularIncomeUk2026: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Income Tracking and Forecasting</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Recommended Tracking Setup</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Daily Tracking</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monzo/Starling app for expense monitoring and instant spending alerts</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Weekly Analysis</p>
-<p class="mb-4 text-gray-700 leading-relaxed">FreeAgent dashboard review for income patterns and tax position</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monthly Planning</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Spreadsheet analysis for 3-month rolling averages and cash flow prediction</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Daily Tracking</td><td class="px-4 py-3">Monzo/Starling app for expense monitoring and instant spending alerts</td><td class="px-4 py-3">Weekly Analysis</td></tr>
+<tr><td class="px-4 py-3">FreeAgent dashboard review for income patterns and tax position</td><td class="px-4 py-3">Monthly Planning</td><td class="px-4 py-3">Spreadsheet analysis for 3-month rolling averages and cash flow prediction</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How much should I save for taxes with irregular income?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The safe approach is to set aside 35-45% of every payment for taxes and National Insurance. This might seem excessive, but irregular income creates several tax complications that require higher buffers.</p>

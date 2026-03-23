@@ -85,12 +85,8 @@ export const ukBankAccountHacks2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Rate Tracking</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Rates change monthly. Set calendar reminders to review and switch between providers to maintain top rates.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Real Returns Calculation</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">£20,000 Emergency Fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,030/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">At 5.15% vs £2 in typical current account</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50,000 House Deposit Fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,575/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">At 5.15% distributed across accounts</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">£20,000 Emergency Fund</td><td class="px-4 py-3">£1,030/year</td><td class="px-4 py-3">At 5.15% vs £2 in typical current account</td></tr>
+<tr><td class="px-4 py-3">£50,000 House Deposit Fund</td><td class="px-4 py-3">£2,575/year</td><td class="px-4 py-3">At 5.15% distributed across accounts</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> High-Yield Account Reality Check</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before you transfer everything, understand the limitations:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -104,18 +100,10 @@ export const ukBankAccountHacks2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">UK banks regularly offer £100-£200 bonuses to attract new current account customers. With the Current Account Switch Service making transfers automatic and risk-free, this is literally free money for anyone willing to switch accounts annually.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best Current Account Switching Offers 2026</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Active Switching Offers</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">First Direct: £175 Cash</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Switch by March 31, 2026. Must pay in £1,000+ within 3 months. No monthly fee.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">HSBC Advance: £200 Cash</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,500+ monthly credit for 3 months. Fee-free if you maintain £5,000+ balance.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">NatWest Reward: £150 Cash</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Plus ongoing cashback on household bills. £2/month fee after year one.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Santander Edge: £130 Cash</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Plus 1% cashback on household bills up to £20/month. £3/month fee.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">TSB Classic Plus: £100 Cash</p>
-<p class="mb-4 text-gray-700 leading-relaxed">5% interest on balances up to £500. No monthly fee.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Halifax Reward: £125 Cash</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£5 monthly reward if you stay in credit. £3/month fee.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">First Direct: £175 Cash</td><td class="px-4 py-3">Switch by March 31, 2026. Must pay in £1,000+ within 3 months. No monthly fee.</td><td class="px-4 py-3">HSBC Advance: £200 Cash</td></tr>
+<tr><td class="px-4 py-3">£1,500+ monthly credit for 3 months. Fee-free if you maintain £5,000+ balance.</td><td class="px-4 py-3">NatWest Reward: £150 Cash</td><td class="px-4 py-3">Plus ongoing cashback on household bills. £2/month fee after year one.</td></tr>
+<tr><td class="px-4 py-3">Santander Edge: £130 Cash</td><td class="px-4 py-3">Plus 1% cashback on household bills up to £20/month. £3/month fee.</td><td class="px-4 py-3">TSB Classic Plus: £100 Cash</td></tr>
+<tr><td class="px-4 py-3">5% interest on balances up to £500. No monthly fee.</td><td class="px-4 py-3">Halifax Reward: £125 Cash</td><td class="px-4 py-3">£5 monthly reward if you stay in credit. £3/month fee.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Switching Bonus Optimization Strategy</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Annual Switching Cycle</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -184,12 +172,8 @@ export const ukBankAccountHacks2026: Article = {
 </tr>
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Optimal ISA Allocation Strategies</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Conservative Approach (Low Risk)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000 Lifetime ISA + £16,000 Cash ISA. Guaranteed returns with government bonus and high interest rates.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Balanced Growth (Medium Risk)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000 Lifetime ISA + £8,000 Cash ISA + £8,000 Stocks & Shares ISA. Mix of safety and growth potential.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Maximum Growth (Higher Risk)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000 Lifetime ISA + £16,000 Stocks & Shares ISA. Focus on long-term wealth building with tax protection.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Conservative Approach (Low Risk)</td><td class="px-4 py-3">£4,000 Lifetime ISA + £16,000 Cash ISA. Guaranteed returns with government bonus and high interest rates.</td><td class="px-4 py-3">Balanced Growth (Medium Risk)</td></tr>
+<tr><td class="px-4 py-3">£4,000 Lifetime ISA + £8,000 Cash ISA + £8,000 Stocks & Shares ISA. Mix of safety and growth potential.</td><td class="px-4 py-3">Maximum Growth (Higher Risk)</td><td class="px-4 py-3">£4,000 Lifetime ISA + £16,000 Stocks & Shares ISA. Focus on long-term wealth building with tax protection.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">ISA Provider Switching Strategy</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Annual Rate Review</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Transfer ISAs to higher-rate providers each tax year. Previous year contributions can be moved without affecting current year allowance.</p>
@@ -259,19 +243,13 @@ export const ukBankAccountHacks2026: Article = {
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Multi-Account Strategy</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Layer Multiple Accounts</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Open regular savings with 3-4 different banks to maximize monthly deposits. Total potential: £1,500-£2,000 monthly at 6-7% rates.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Stagger Start Dates</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Start accounts in different months to create continuous 12-month cycles. Always have high-rate options available.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual Renewal Strategy</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Most accounts mature after 12 months. Plan to reinvest into new regular savings or transfer to high-yield accounts.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Stagger Start Dates</td><td class="px-4 py-3">Start accounts in different months to create continuous 12-month cycles. Always have high-rate options available.</td></tr>
+<tr><td class="px-4 py-3">Annual Renewal Strategy</td><td class="px-4 py-3">Most accounts mature after 12 months. Plan to reinvest into new regular savings or transfer to high-yield accounts.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Returns Calculation Example</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Single Account: First Direct</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£500/month × 12 months at 7%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£227</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Interest earned in year one</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Multi-Account Strategy</p>
-<p class="mb-4 text-gray-700 leading-relaxed">4 accounts × average £350/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£635</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual interest across all accounts</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Single Account: First Direct</td><td class="px-4 py-3">£500/month × 12 months at 7%</td></tr>
+<tr><td class="px-4 py-3">£227</td><td class="px-4 py-3">Interest earned in year one</td></tr>
+<tr><td class="px-4 py-3">Multi-Account Strategy</td><td class="px-4 py-3">4 accounts × average £350/month</td></tr>
+<tr><td class="px-4 py-3">£635</td><td class="px-4 py-3">Annual interest across all accounts</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Regular Savings Account Management Calendar</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Q1 (Jan-Mar)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -340,19 +318,11 @@ export const ukBankAccountHacks2026: Article = {
 </tr>
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Optimal Notice Account Uses</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency Fund Overflow</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Keep 3-month expenses in instant access, place additional 3-6 months in 30-60 day notice accounts for higher returns.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Planned Large Expenses</p>
-<p class="mb-4 text-gray-700 leading-relaxed">House deposits, car purchases, home improvements. Time notice period to end before needed spend date.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tax Payment Reserves</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Self-employed tax savings in 95-day accounts. Give notice in December for January payment deadlines.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Emergency Fund Overflow</td><td class="px-4 py-3">Keep 3-month expenses in instant access, place additional 3-6 months in 30-60 day notice accounts for higher returns.</td><td class="px-4 py-3">Planned Large Expenses</td></tr>
+<tr><td class="px-4 py-3">House deposits, car purchases, home improvements. Time notice period to end before needed spend date.</td><td class="px-4 py-3">Tax Payment Reserves</td><td class="px-4 py-3">Self-employed tax savings in 95-day accounts. Give notice in December for January payment deadlines.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Notice Period Strategy</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">30-Day Notice</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Best for semi-emergency funds. Small rate premium but reasonable access for unexpected needs.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">65-90 Day Notice</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Sweet spot for most savers. Meaningful rate boost while maintaining practical access for planned expenses.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">95+ Day Notice</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Maximum rates but requires careful planning. Best for predictable future expenses or risk-averse investors.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">30-Day Notice</td><td class="px-4 py-3">Best for semi-emergency funds. Small rate premium but reasonable access for unexpected needs.</td><td class="px-4 py-3">65-90 Day Notice</td></tr>
+<tr><td class="px-4 py-3">Sweet spot for most savers. Meaningful rate boost while maintaining practical access for planned expenses.</td><td class="px-4 py-3">95+ Day Notice</td><td class="px-4 py-3">Maximum rates but requires careful planning. Best for predictable future expenses or risk-averse investors.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Notice Account Management Tips</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Calendar reminders: Set alerts for notice periods before planned withdrawals</li>

@@ -249,17 +249,11 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Subscription Overlap Analysis</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Identify redundant services costing you money</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Music Services Overlap</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Spotify + Apple Music + Amazon Music</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£28.97/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Keep 1, save £19.98/month</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Spotify + Apple Music + Amazon Music</td><td class="px-4 py-3">£28.97/month</td><td class="px-4 py-3">Keep 1, save £19.98/month</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Cloud Storage Overlap</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">iCloud + Google Drive + Dropbox</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£15.97/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Keep 1, save £10.98/month</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">iCloud + Google Drive + Dropbox</td><td class="px-4 py-3">£15.97/month</td><td class="px-4 py-3">Keep 1, save £10.98/month</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Fitness App Overlap</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Gym + Peloton + Nike Training + MyFitnessPal</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£65/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Keep 1-2, save £35/month</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Gym + Peloton + Nike Training + MyFitnessPal</td><td class="px-4 py-3">£65/month</td><td class="px-4 py-3">Keep 1-2, save £35/month</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 50% Rule for Subscription Stacking</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">For every subscription category (music, video, fitness, productivity), aim to reduce your stack by at least 50%. This simple rule can save hundreds annually while maintaining core functionality.</p>
 <table class="w-full border-collapse text-sm">
@@ -571,10 +565,8 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 <li>Family Plan Possible?</li>
 <li>Action Required</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">Set up tracking spreadsheet or use subscription management app</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Add calendar reminders for all renewal dates</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Calculate total monthly and annual subscription costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Categorize subscriptions by type (entertainment, productivity, etc.)</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Set up tracking spreadsheet or use subscription management app</td><td class="px-4 py-3">Add calendar reminders for all renewal dates</td></tr>
+<tr><td class="px-4 py-3">Calculate total monthly and annual subscription costs</td><td class="px-4 py-3">Categorize subscriptions by type (entertainment, productivity, etc.)</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Phase 3: Evaluation (45 minutes)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Assess value and usage of each subscription</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">The "Last 30 Days" Test</h4>

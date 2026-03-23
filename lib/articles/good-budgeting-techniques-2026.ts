@@ -50,12 +50,8 @@ export const goodBudgetingTechniques2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Parking, fuel top-ups, taxi emergencies. Supplements Oyster/season tickets.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Buy Now Pay Later services like Klarna and Clearpay feel cost-free but can create hidden debt spirals — missed payments trigger late fees, and multiple open BNPL agreements are not always reported to credit reference agencies in real time, making it easy to overcommit. A 0% purchase credit card with a clear repayment schedule is almost always safer: the debt is visible, the interest clock is transparent, and prompt repayment builds your credit score.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Digital 'Envelopes'</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Fixed Bills (Direct Debits)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Rent, council tax, utilities, insurance. Auto-pay from main account.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Savings Goals</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency fund, holiday, house deposit. Separate savings accounts with standing orders.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Online Shopping</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Amazon, clothing, subscriptions. Dedicated debit card with set monthly limit.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Fixed Bills (Direct Debits)</td><td class="px-4 py-3">Rent, council tax, utilities, insurance. Auto-pay from main account.</td><td class="px-4 py-3">Savings Goals</td></tr>
+<tr><td class="px-4 py-3">Emergency fund, holiday, house deposit. Separate savings accounts with standing orders.</td><td class="px-4 py-3">Online Shopping</td><td class="px-4 py-3">Amazon, clothing, subscriptions. Dedicated debit card with set monthly limit.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> UK Bank Setup Guide</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Most UK banks offer multiple accounts. Create dedicated current accounts for each 'envelope':</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -343,21 +339,13 @@ export const goodBudgetingTechniques2026: Article = {
 </tr>
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Recommended UK Sinking Fund Accounts</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Marcus by Goldman Sachs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Easy access, competitive rates, no minimum balance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Starling Bank Spaces</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Multiple goal-based savings pots, visual progress tracking</p>
-<p class="mb-4 text-gray-700 leading-relaxed">NS&I Income Bonds</p>
-<p class="mb-4 text-gray-700 leading-relaxed">For longer-term sinking funds, government backing</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Marcus by Goldman Sachs</td><td class="px-4 py-3">Easy access, competitive rates, no minimum balance</td><td class="px-4 py-3">Starling Bank Spaces</td></tr>
+<tr><td class="px-4 py-3">Multiple goal-based savings pots, visual progress tracking</td><td class="px-4 py-3">NS&I Income Bonds</td><td class="px-4 py-3">For longer-term sinking funds, government backing</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Automation Setup Guide</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 1: Calculate Annual Costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Review last year's expenses, estimate upcoming costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 2: Set Up Separate Accounts</p>
-<p class="mb-4 text-gray-700 leading-relaxed">One account per major category, or use banking app 'pots'</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 3: Automate Transfers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Standing orders on payday, before discretionary spending</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 4: Track & Adjust</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Review quarterly, adjust amounts based on actual costs</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Year</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Step 1: Calculate Annual Costs</td><td class="px-4 py-3">Review last year's expenses, estimate upcoming costs</td></tr>
+<tr><td class="px-4 py-3">Step 2: Set Up Separate Accounts</td><td class="px-4 py-3">One account per major category, or use banking app 'pots'</td></tr>
+<tr><td class="px-4 py-3">Step 3: Automate Transfers</td><td class="px-4 py-3">Standing orders on payday, before discretionary spending</td></tr>
+<tr><td class="px-4 py-3">Step 4: Track & Adjust</td><td class="px-4 py-3">Review quarterly, adjust amounts based on actual costs</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 <h3>What exactly is 'good budgeting' and how do I know if mine is working?</h3>

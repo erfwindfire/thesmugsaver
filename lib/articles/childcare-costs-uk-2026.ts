@@ -10,7 +10,7 @@ export const childcareCostsUk2026: Article = {
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
  author: 'Ed Djazmi',
- excerpt: 'UK childcare costs have reached unprecedented levels in 2026, with average nursery fees now £14,836 annually (per Family and Childcare Trust)—up 8.2% from 2024. However, significant government reforms',
+ excerpt: 'UK childcare costs have reached unprecedented levels in 2026, with average nursery fees now £14,836 annually (per Family and Childcare Trust)—up 8.2% from 2024. However, significant government reforms are making quality childcare more accessible and affordable for millions of families.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Strategies, Schemes, & Savings for Parents</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate UK Childcare Costs in 2026</h2>
 
@@ -72,24 +72,12 @@ export const childcareCostsUk2026: Article = {
 <li>Notice period fees: 4-6 weeks when leaving</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Cost Planning Calculator Template</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Use this template to calculate your annual childcare costs:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Weekly nursery/childminder fees:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Multiply by 50 weeks (allowing 2 weeks holiday):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Add registration and deposits:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Add meals and extras (×50 weeks):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total Annual Cost:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Use this template to calculate your annual childcare costs:</li><li class="mb-2">Weekly nursery/childminder fees:</li><li class="mb-2">£____</li><li class="mb-2">Multiply by 50 weeks (allowing 2 weeks holiday):</li><li class="mb-2">£____</li><li class="mb-2">Add registration and deposits:</li><li class="mb-2">£____</li><li class="mb-2">Add meals and extras (×50 weeks):</li><li class="mb-2">£____</li><li class="mb-2">Total Annual Cost:</li><li class="mb-2">£____</li></ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. New Government Schemes for 2026</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">The UK government has introduced the most significant childcare reforms in decades, with expanded free hours and new support schemes coming into effect throughout 2026.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Expanded Free Hours Timeline 2026</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">1</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">April 2026: 9-24 month olds</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Working parents can access 15 hours of free childcare per week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">2</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">September 2026: Full implementation</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">30 hours per week for all eligible children 9 months to school age</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Eligibility Requirements (2026)</h3>
@@ -112,16 +100,12 @@ export const childcareCostsUk2026: Article = {
 <li>Subsidized rates for eligible families</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Application Process Step-by-Step</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">1</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Create Childcare Choices Account</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Visit childcarechoices.gov.uk and create your account with valid email and phone number</p>
-<p class="mb-4 text-gray-700 leading-relaxed">2</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Complete Eligibility Check</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Answer questions about employment, income, and family circumstances</p>
-<p class="mb-4 text-gray-700 leading-relaxed">3</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Receive Confirmation Code</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Get your 11-digit code via email within 7 days of approval</p>
-<p class="mb-4 text-gray-700 leading-relaxed">4</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Contact Your Provider</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Give your code to your chosen nursery or childminder to claim funded hours</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3. Tax-Free Childcare Maximization Strategies</h2>
@@ -159,17 +143,7 @@ export const childcareCostsUk2026: Article = {
 <li>Combine with other payment methods for maximum flexibility</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">3. Multiple Children Optimization</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Family with 2 children example:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 1 - Annual deposit limit:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£8,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 1 - Government top-up:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 2 - Annual deposit limit:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£8,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 2 - Government top-up:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total family support:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£4,000</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Family with 2 children example:</li><li class="mb-2">Child 1 - Annual deposit limit:</li><li class="mb-2">£8,000</li><li class="mb-2">Child 1 - Government top-up:</li><li class="mb-2">£2,000</li><li class="mb-2">Child 2 - Annual deposit limit:</li><li class="mb-2">£8,000</li><li class="mb-2">Child 2 - Government top-up:</li><li class="mb-2">£2,000</li><li class="mb-2">Total family support:</li><li class="mb-2">£4,000</li></ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Tax-Free Childcare vs Childcare Vouchers</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Existing childcare voucher scheme members face a crucial decision in 2026:</p>
 <div class="overflow-x-auto mb-6">
@@ -319,12 +293,8 @@ export const childcareCostsUk2026: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How to Find Local Support</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Local Support Discovery Checklist</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Check your local authority's childcare section online</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Contact the family information service (FIS)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Speak to your children's center</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Check eligibility for local hardship funds</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Explore voluntary sector support organizations</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Ask current providers about additional funding streams</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Check your local authority's childcare section online</td><td class="px-4 py-3">Contact the family information service (FIS)</td><td class="px-4 py-3">Speak to your children's center</td></tr>
+<tr><td class="px-4 py-3">Check eligibility for local hardship funds</td><td class="px-4 py-3">Explore voluntary sector support organizations</td><td class="px-4 py-3">Ask current providers about additional funding streams</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Employer-Specific Regional Schemes</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Some employers partner with local authorities to provide enhanced childcare support:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -379,15 +349,9 @@ export const childcareCostsUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Emergency Childcare Fund</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Unexpected childcare needs can destabilize family budgets. Build a dedicated emergency fund:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Emergency Fund Calculation</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Weekly childcare cost:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Multiply by 4 (one month's cover):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Add backup care premium (50%):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Target emergency fund:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£____</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Build this fund by saving £50-100 monthly from discretionary spending</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Weekly childcare cost:</td><td class="px-4 py-3">£____</td><td class="px-4 py-3">Multiply by 4 (one month's cover):</td></tr>
+<tr><td class="px-4 py-3">£____</td><td class="px-4 py-3">Add backup care premium (50%):</td><td class="px-4 py-3">£____</td></tr>
+<tr><td class="px-4 py-3">Target emergency fund:</td><td class="px-4 py-3">£____</td><td class="px-4 py-3">Build this fund by saving £50-100 monthly from discretionary spending</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Multiple Children Cost Management</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Families with multiple children face unique budgeting challenges but also opportunities for savings:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Sibling Discount Strategies</h4>
@@ -398,15 +362,9 @@ export const childcareCostsUk2026: Article = {
 <li>Flexible hours sharing: Use funded hours strategically across children</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Timeline Planning for Multiple Children</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Example: Family with children aged 1, 3, and 6</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 1 (1 year old):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Full nursery fees until September 2026, then 30 hours funded</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 2 (3 years old):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Currently 30 hours funded, school entry September 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Child 3 (6 years old):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">After-school care and holiday clubs only</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Cost reduction timeline:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Significant savings from September 2026 when child 2 starts school</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Example: Family with children aged 1, 3, and 6</td><td class="px-4 py-3">Child 1 (1 year old):</td><td class="px-4 py-3">Full nursery fees until September 2026, then 30 hours funded</td></tr>
+<tr><td class="px-4 py-3">Child 2 (3 years old):</td><td class="px-4 py-3">Currently 30 hours funded, school entry September 2026</td><td class="px-4 py-3">Child 3 (6 years old):</td></tr>
+<tr><td class="px-4 py-3">After-school care and holiday clubs only</td><td class="px-4 py-3">Cost reduction timeline:</td><td class="px-4 py-3">Significant savings from September 2026 when child 2 starts school</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Technology Tools for Budget Management</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Several apps and tools can help manage childcare budgeting effectively:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Budgeting Apps</h4>

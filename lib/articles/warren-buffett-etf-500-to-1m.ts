@@ -13,23 +13,16 @@ export const warrenBuffettEtf500To1m: Article = {
  excerpt: 'The Oracle of Omaha\'s simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here\'s the exact strategy and mathematics behind building over £1 million with ',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">The Oracle of Omaha's simple investment recommendation could turn your modest monthly savings into life-changing wealth. Here's the exact strategy and mathematics behind building over £1 million with just £500 a month.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Updated January 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">10 min read</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 
 <p class="mb-4 text-gray-700 leading-relaxed"><strong>Bottom Line:</strong> £500 monthly into S&P 500 ETF reaches £1 million by year 30 through compound growth; market volatility requires emotional discipline and long-term commitment, but consistent contributions combined with historical 10% returns build substantial wealth without market timing or stock picking.</p>
 
 <p class="mb-4 text-gray-700 leading-relaxed">Warren Buffett has spent decades recommending one investment to everyday investors: a low-cost S&P 500 index fund. His own will instructs 90% of his estate to be invested this way. The mathematics are compelling.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">high-yield savings options</a>.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monthly Investment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Consistent contribution</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Amount</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Monthly Investment</td><td class="px-4 py-3">£500</td><td class="px-4 py-3">Consistent contribution</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/savings-and-investing/how-to-save-100k-in-8-years" class="text-emerald-700 underline hover:text-emerald-900">£100k savings plan</a>.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Time Horizon</p>
-<p class="mb-4 text-gray-700 leading-relaxed">30 Years</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Long-term compound</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Potential Value</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1.13 Million+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">At 10% historical return</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Rate</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Time Horizon</td><td class="px-4 py-3">30 Years</td><td class="px-4 py-3">Long-term compound</td></tr>
+<tr><td class="px-4 py-3">Potential Value</td><td class="px-4 py-3">£1.13 Million+</td><td class="px-4 py-3">At 10% historical return</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Reality check: You'll invest £180,000 of your own money over 30 years. The market does the heavy lifting—compound growth could add £950,000+ more. That's your £500 monthly payments multiplied by 6.3x through the power of time and compound returns.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">This isn't theoretical. The S&P 500 has delivered approximately 10% annual returns over the past century. While past performance doesn't guarantee future results, the fundamentals of business growth, innovation, and economic expansion remain intact.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is S&P 500 Index Fund?</h3>
@@ -228,7 +221,7 @@ export const warrenBuffettEtf500To1m: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Despite these risks, the S&P 500 strategy remains one of the most reliable paths to wealth for ordinary investors. The key is accepting volatility as the price of admission to extraordinary long-term returns.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Continue Your Wealth-Building Journey</h3>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/how-to-save-100k-in-8-years" class="text-emerald-700 underline hover:text-emerald-900">How to Save £100,000 Over 8 Years</a></p>
-<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/top-savings-accounts-beating-inflation-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Top Savings Accounts Beating Inflation</a></p>
+<p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/best-high-yield-savings-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Best High-Yield Savings Accounts UK 2026</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="/savings-and-investing/uk-bank-account-hacks-2026" class="text-emerald-700 underline hover:text-emerald-900">Simple UK Bank Account Hacks to Maximise Interest</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="/budgeting/good-budgeting-techniques-2026" class="text-emerald-700 underline hover:text-emerald-900">Good Budgeting Techniques for 2026</a></p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions About Index Fund Investing</h2>

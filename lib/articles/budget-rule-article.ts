@@ -85,15 +85,11 @@ export const budgetRuleArticle: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Putting It Into Action (Without Getting Overwhelmed)</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Step-by-Step Implementation</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">1</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Calculate Your After-Tax Income</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Use your monthly take-home pay—the actual amount that hits your bank account after tax and National Insurance. If your workplace pension is already deducted from your payslip (which it will be for auto-enrolled workers), use the amount after that deduction. A useful starting point: for a £30,000 gross salary, your take-home is typically £2,200 monthly; for £40,000 gross, approximately £2,900 monthly</p><p class="mb-4 text-gray-700 leading-relaxed">2</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Set Up Automatic Transfers</h4>
+<p class="mb-4 text-gray-700 leading-relaxed">Use your monthly take-home pay—the actual amount that hits your bank account after tax and National Insurance. If your workplace pension is already deducted from your payslip (which it will be for auto-enrolled workers), use the amount after that deduction. A useful starting point: for a £30,000 gross salary, your take-home is typically £2,200 monthly; for £40,000 gross, approximately £2,900 monthly</p><h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Set Up Automatic Transfers</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Move 20% to savings immediately after each paycheck</p>
-<p class="mb-4 text-gray-700 leading-relaxed">3</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Track Your Needs vs. Wants</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Use a simple app or spreadsheet to categorize expenses for the first month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">4</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Adjust and Optimize</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Fine-tune your percentages based on your actual spending patterns</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Tips for Success</h3>

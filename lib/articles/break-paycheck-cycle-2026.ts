@@ -188,14 +188,10 @@ export const breakPaycheckCycle2026: Article = {
 <li>Review and plan next month</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Weekly Pay Schedule</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Week 1: Major Bills (Rent, etc.)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Split large expenses across the month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Week 2: Utilities & Savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Automated transfers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Week 3: Living Expenses</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Food, transport, essentials</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Week 4: Buffer & Planning</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency only, next month prep</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Week 1: Major Bills (Rent, etc.)</td><td class="px-4 py-3">Split large expenses across the month</td></tr>
+<tr><td class="px-4 py-3">Week 2: Utilities & Savings</td><td class="px-4 py-3">Automated transfers</td></tr>
+<tr><td class="px-4 py-3">Week 3: Living Expenses</td><td class="px-4 py-3">Food, transport, essentials</td></tr>
+<tr><td class="px-4 py-3">Week 4: Buffer & Planning</td><td class="px-4 py-3">Emergency only, next month prep</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Annual Savings Calendar</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">##### Q1 (Jan-Mar)</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

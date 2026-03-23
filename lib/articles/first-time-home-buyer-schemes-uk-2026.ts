@@ -10,7 +10,7 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
  datePublished: '2026-02-20',
  dateModified: '2026-03-15',
  author: 'Rob Jones',
- excerpt: 'Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a "starter',
+ excerpt: 'Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a \"starter home\" now costs more than a decade of wages.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Stop reading property blogs written by people who bought houses when they cost three times less than your student loan. This is the brutal truth about navigating UK homeownership in 2026—where a "starter home" costs £300k and the government's "help" comes with more strings than a puppet show. Here's how to actually get on the ladder without selling your organs.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR: Navigate 2026 First-Time Buyer Schemes</h2>
 
@@ -55,16 +55,10 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">30-50% Market Discount</p>
 <p class="mb-4 text-gray-700 leading-relaxed">New build homes sold at 30-50% below market value. Discount tied to property permanently through restrictive covenant.</p><p class="mb-4 text-gray-700 leading-relaxed">Priority for Key Workers</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/housing/rent-buy-stay-put-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">rent vs buy analysis</a>.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Teachers, nurses, police, firefighters, social workers get first dibs. Some councils add local workers to priority list.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Income Cap: £80,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Household income limit (£90,000 in London). Recent increase from previous £70,000 cap makes more people eligible.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Teachers, nurses, police, firefighters, social workers get first dibs. Some councils add local workers to priority list.</td><td class="px-4 py-3">Income Cap: £80,000</td><td class="px-4 py-3">Household income limit (£90,000 in London). Recent increase from previous £70,000 cap makes more people eligible.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">2026 Updates</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Expanded Eligibility</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Now includes armed forces veterans, NHS workers, and local authority employees in many areas.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">More Locations</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Program expanded to 50+ additional council areas. Check gov.uk for updated participating councils.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Better Mortgage Access</p>
-<p class="mb-4 text-gray-700 leading-relaxed">More lenders now accept First Homes as security. Still limited but improving rapidly.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Expanded Eligibility</td><td class="px-4 py-3">Now includes armed forces veterans, NHS workers, and local authority employees in many areas.</td><td class="px-4 py-3">More Locations</td></tr>
+<tr><td class="px-4 py-3">Program expanded to 50+ additional council areas. Check gov.uk for updated participating councils.</td><td class="px-4 py-3">Better Mortgage Access</td><td class="px-4 py-3">More lenders now accept First Homes as security. Still limited but improving rapidly.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> Reality Check: First Homes Limitations</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before you get excited, understand the catches:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -127,21 +121,14 @@ export const firstTimeHomeBuyerSchemesUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">The government's 95% mortgage guarantee scheme continues through 2026, enabling first-time buyers to purchase with just a 5% deposit. Learn which lenders participate, how the scheme works, and whether it's actually better than saving for a larger deposit.</p><h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">95% Mortgage Guarantee Details</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Scheme Basics</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">5% Deposit Required</p>
-<p class="mb-4 text-gray-700 leading-relaxed">On properties up to £600,000. Government guarantees portion of lender's risk on 95% loan-to-value mortgages.</p><p class="mb-4 text-gray-700 leading-relaxed">All Property Types</p>
-<p class="mb-4 text-gray-700 leading-relaxed">New build and existing properties. Flats, houses, all construction types accepted by participating lenders.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Multiple Lenders</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Barclays, HSBC, Lloyds, NatWest, Santander, Virgin Money, and specialist lenders all participate.</p>
+<p class="mb-4 text-gray-700 leading-relaxed">On properties up to £600,000. Government guarantees portion of lender's risk on 95% loan-to-value mortgages.</p><div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">All Property Types</td><td class="px-4 py-3">New build and existing properties. Flats, houses, all construction types accepted by participating lenders.</td></tr>
+<tr><td class="px-4 py-3">Multiple Lenders</td><td class="px-4 py-3">Barclays, HSBC, Lloyds, NatWest, Santander, Virgin Money, and specialist lenders all participate.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Participating Lenders (2026)</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Barclays</p>
-<p class="mb-4 text-gray-700 leading-relaxed">From 4.79%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Halifax</p>
-<p class="mb-4 text-gray-700 leading-relaxed">From 4.94%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">HSBC</p>
-<p class="mb-4 text-gray-700 leading-relaxed">From 5.09%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">NatWest</p>
-<p class="mb-4 text-gray-700 leading-relaxed">From 4.85%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Santander</p>
-<p class="mb-4 text-gray-700 leading-relaxed">From 5.15%</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Amount</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Barclays</td><td class="px-4 py-3">From 4.79%</td></tr>
+<tr><td class="px-4 py-3">Halifax</td><td class="px-4 py-3">From 4.94%</td></tr>
+<tr><td class="px-4 py-3">HSBC</td><td class="px-4 py-3">From 5.09%</td></tr>
+<tr><td class="px-4 py-3">NatWest</td><td class="px-4 py-3">From 4.85%</td></tr>
+<tr><td class="px-4 py-3">Santander</td><td class="px-4 py-3">From 5.15%</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> 5% vs 10% Deposit: The Real Cost Analysis</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Before choosing 95% LTV, consider the long-term costs:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">5% Deposit (£250,000 property)</p>

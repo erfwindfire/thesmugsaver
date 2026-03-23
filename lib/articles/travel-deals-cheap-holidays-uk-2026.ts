@@ -227,16 +227,11 @@ export const travelDealsCheapHolidaysUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Timing Optimization: When to Book for Maximum Savings</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Timing isn't just about when you travel - it's about when you book, when you pay, and when you make changes. Understanding these timing dynamics can save 40-60% on identical trips.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Booking Timeline Strategy</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">6-8 months ahead:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monitor prices, set alerts, research destinations</p>
-<p class="mb-4 text-gray-700 leading-relaxed">3-4 months ahead:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Book if prices are 15% below average</p>
-<p class="mb-4 text-gray-700 leading-relaxed">6-8 weeks ahead:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Optimal booking window for most destinations</p>
-<p class="mb-4 text-gray-700 leading-relaxed">2-3 weeks ahead:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Last chance for good deals, inventory clearance begins</p>
-<p class="mb-4 text-gray-700 leading-relaxed">1 week ahead:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency bookings - pay premium or find last-minute deals</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Amount</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">6-8 months ahead:</td><td class="px-4 py-3">Monitor prices, set alerts, research destinations</td></tr>
+<tr><td class="px-4 py-3">3-4 months ahead:</td><td class="px-4 py-3">Book if prices are 15% below average</td></tr>
+<tr><td class="px-4 py-3">6-8 weeks ahead:</td><td class="px-4 py-3">Optimal booking window for most destinations</td></tr>
+<tr><td class="px-4 py-3">2-3 weeks ahead:</td><td class="px-4 py-3">Last chance for good deals, inventory clearance begins</td></tr>
+<tr><td class="px-4 py-3">1 week ahead:</td><td class="px-4 py-3">Emergency bookings - pay premium or find last-minute deals</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Payment Timing Strategies</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Many booking sites offer "pay later" options with no fees. Book now to secure prices, pay closer to departure when you've maximized other savings. Some hotels offer 5-10% discounts for immediate payment.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Shoulder Season Mastery</h3>
@@ -257,15 +252,11 @@ export const travelDealsCheapHolidaysUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Destination Switching: Similar Experiences, Better Prices</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Instagram-famous destinations carry premium prices. Strategic destination switching means choosing lesser-known places that offer identical experiences at 40-70% lower costs.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Beach Destination Alternatives</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Instead of Santorini:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Try Naxos or Folegandros - identical architecture, better beaches, 60% less cost</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Instead of Amalfi Coast:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Try Cinque Terre or Croatian islands - same dramatic coastlines, half the price</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Instead of Santorini</td><td class="px-4 py-3">Try Naxos or Folegandros - identical architecture, better beaches, 60% less cost</td></tr>
+<tr><td class="px-4 py-3">Instead of Amalfi Coast</td><td class="px-4 py-3">Try Cinque Terre or Croatian islands - same dramatic coastlines, half the price</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">City Break Alternatives</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Instead of Paris:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Try Lyon or Nancy - French culture, architecture, cuisine at budget prices</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Instead of Barcelona:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Try Valencia or Seville - Gaudi architecture, beaches, tapas culture for less</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Instead of Paris</td><td class="px-4 py-3">Try Lyon or Nancy - French culture, architecture, cuisine at budget prices</td></tr>
+<tr><td class="px-4 py-3">Instead of Barcelona</td><td class="px-4 py-3">Try Valencia or Seville - Gaudi architecture, beaches, tapas culture for less</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Adventure Destination Swaps</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Popular hiking destinations like Swiss Alps can be replaced with Romanian Carpathians or Slovakian Tatras for identical mountain experiences at 70% savings. Research achieving the same activity goals through alternative locations.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Travel Insurance Optimization: Maximum Protection, Minimum Cost</h2>
@@ -336,12 +327,9 @@ export const travelDealsCheapHolidaysUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Travel Budget Management Techniques</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Effective travel budgeting prevents overspending while ensuring you don't miss experiences due to artificial constraints. The key is flexible allocation with hard limits on discretionary spending.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 50/30/20 Travel Rule</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 50% Fixed Costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Flights, accommodation, insurance, transport passes</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 30% Experiences</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Activities, tours, special meals, unique experiences</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 20% Contingency</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Unexpected costs, emergency fund, opportunity purchases</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">50% Fixed Costs</td><td class="px-4 py-3">Flights, accommodation, insurance, transport passes</td></tr>
+<tr><td class="px-4 py-3">30% Experiences</td><td class="px-4 py-3">Activities, tours, special meals, unique experiences</td></tr>
+<tr><td class="px-4 py-3">20% Contingency</td><td class="px-4 py-3">Unexpected costs, emergency fund, opportunity purchases</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Daily Spending Tracking</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Use envelope budgeting for daily expenses. Convert your daily budget to local currency and use cash for discretionary spending. When the cash is gone, find free activities or return to accommodation.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Currency and Payment Strategy</h3>

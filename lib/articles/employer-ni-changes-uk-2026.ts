@@ -53,10 +53,8 @@ export const employerNiChangesUk2026: Article = {
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>8% → 15.0%</li>
 </ol>
-<p class="mb-4 text-gray-700 leading-relaxed">Lower Earnings Threshold</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£9,100 → £5,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Implementation Date</p>
-<p class="mb-4 text-gray-700 leading-relaxed">April 6, 2026</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Lower Earnings Threshold</td><td class="px-4 py-3">£9,100 → £5,000</td></tr>
+<tr><td class="px-4 py-3">Implementation Date</td><td class="px-4 py-3">April 6, 2026</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Real-World Impact Calculator</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">For a typical UK employee earning £35,000 annually, their employer's National Insurance burden will increase by approximately £420 per year (confirmed by HM Treasury Budget 2024). For someone earning £50,000, that figure rises to £630 annually—costs that 73% of UK businesses plan to offset through reduced compensation growth according to CIPD research.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Employer Cost Increase Examples:</h4>
@@ -103,14 +101,10 @@ export const employerNiChangesUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Smart Employer's Playbook</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The most sophisticated employers won't just cut costs—they'll restructure compensation packages to maintain employee value while managing NI burden. Here's how they're likely to approach it:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Restructuring Strategies You Might Encounter:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 1. Benefit Enhancement Trade-offs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Offering enhanced pension contributions, private healthcare, or flexible benefits in lieu of salary increases.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 2. Performance Bonus Restructuring</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Shifting from guaranteed bonuses to performance-linked payments to manage predictable costs.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 3. Flexible Working Packages</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Offering remote work, flexible hours, or compressed schedules as value-adds without direct cost impact.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 4. Skills Development Investment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Providing training, certification, or education support to enhance long-term employee value.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">1. Benefit Enhancement Trade-offs</td><td class="px-4 py-3">Offering enhanced pension contributions, private healthcare, or flexible benefits in lieu of salary increases.</td></tr>
+<tr><td class="px-4 py-3">2. Performance Bonus Restructuring</td><td class="px-4 py-3">Shifting from guaranteed bonuses to performance-linked payments to manage predictable costs.</td></tr>
+<tr><td class="px-4 py-3">3. Flexible Working Packages</td><td class="px-4 py-3">Offering remote work, flexible hours, or compressed schedules as value-adds without direct cost impact.</td></tr>
+<tr><td class="px-4 py-3">4. Skills Development Investment</td><td class="px-4 py-3">Providing training, certification, or education support to enhance long-term employee value.</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Red Flags vs. Strategic Moves</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Concerning Signals</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -177,12 +171,9 @@ export const employerNiChangesUk2026: Article = {
 <li>Client retention incentives</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Negotiation Success Metrics</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Ideal Outcome</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Maintain or increase total compensation value</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Acceptable Outcome</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Equivalent value through alternative benefits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Minimum Outcome</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Written commitment to future review</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Ideal Outcome</td><td class="px-4 py-3">Maintain or increase total compensation value</td></tr>
+<tr><td class="px-4 py-3">Acceptable Outcome</td><td class="px-4 py-3">Equivalent value through alternative benefits</td></tr>
+<tr><td class="px-4 py-3">Minimum Outcome</td><td class="px-4 py-3">Written commitment to future review</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions: NI Changes & Your Paycheque</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Will my salary be cut because of the NI changes?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Not necessarily, but it depends on your employer's financial position and strategic approach. The NI changes increase employer costs, not employee deductions, so your gross salary isn't automatically affected. However, employers may implement cost-saving measures including salary freezes, reduced bonuses, or restructured compensation packages.</p>

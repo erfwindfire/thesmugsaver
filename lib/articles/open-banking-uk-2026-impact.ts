@@ -12,27 +12,16 @@ export const openBankingUk2026Impact: Article = {
  author: 'Ed Djazmi',
  excerpt: 'How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">How open banking is transforming UK personal finance—from automated savings to real-time budgeting. Everything you need to know about security, privacy, and maximising benefits.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">12M+ UK Users</p>
-<p class="mb-4 text-gray-700 leading-relaxed">FCA Regulated</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Bank-Grade Security</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">12M+ UK Users</td><td class="px-4 py-3">FCA Regulated</td><td class="px-4 py-3">Bank-Grade Security</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/budgeting/money-manager-tools" class="text-emerald-700 underline hover:text-emerald-900">financial management tools</a>.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Open banking has quietly revolutionised how 12 million+ UK consumers manage money in 2026—yet most people still don't understand what it is or how to use it safely.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">This comprehensive guide covers everything from how open banking works technically, to privacy risks, to advanced strategies that could save you £500+ annually. Whether you're considering your first budgeting app or maximising cashback opportunities, you'll learn exactly what's safe, what's risky, and what's worth your time.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">12M+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Active UK users</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£500+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Avg annual savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">400+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Regulated providers</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">12M+</td><td class="px-4 py-3">Active UK users</td><td class="px-4 py-3">£500+</td></tr>
+<tr><td class="px-4 py-3">Avg annual savings</td><td class="px-4 py-3">400+</td><td class="px-4 py-3">Regulated providers</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is Open Banking?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Open banking is a UK regulatory framework (introduced in 2018 under PSD2) that requires banks to securely share customer financial data with authorised third-party providers via APIs. This enables innovative apps and services like budgeting tools, savings optimisers, and payment platforms to access your bank account data with your explicit permission—transforming how you manage money while maintaining bank-grade security standards regulated by the FCA.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Answers: Open Banking Essentials</h2>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is open banking safe to use in the UK?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the difference between open banking and giving out my bank details?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Which UK banks support open banking?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I revoke open banking access?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Does open banking affect my credit score?</h3>
+
 <p class="mb-4 text-gray-700 leading-relaxed">Here's the reality: Most UK adults have heard of "open banking" but have no idea how it actually works, whether it's safe, or if they're already using it. Meanwhile, savvy users are leveraging open banking apps to automatically track spending, find better savings rates, and earn cashback—saving hundreds of pounds annually with virtually no effort.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">The confusion is understandable. Open banking sounds technical and scary ("sharing my bank data with third parties?"), but in practice, it's often more secure than traditional banking methods and enables genuinely useful tools. This guide cuts through the marketing hype and scare tactics to give you the complete picture: what works, what's risky, and how to use open banking strategically in 2026.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Open Banking: From Regulatory Mandate to Consumer Revolution</h2>
@@ -87,23 +76,15 @@ export const openBankingUk2026Impact: Article = {
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>4 million</li>
 </ol>
-<p class="mb-4 text-gray-700 leading-relaxed">Growth YoY</p>
-<p class="mb-4 text-gray-700 leading-relaxed">+42%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monthly API calls</p>
-<p class="mb-4 text-gray-700 leading-relaxed">850M+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Avg apps per user</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Growth YoY</li><li class="mb-2">+42%</li><li class="mb-2">Monthly API calls</li><li class="mb-2">850M+</li><li class="mb-2">Avg apps per user</li></ul>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>3</li>
 </ol>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Payment Volume</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual payments</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£112 billion</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Avg transaction value</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£47</p>
-<p class="mb-4 text-gray-700 leading-relaxed">VRP transactions</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£18.5 billion</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Business adoption</p>
-<p class="mb-4 text-gray-700 leading-relaxed">45,000+ merchants</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Annual payments</td><td class="px-4 py-3">£112 billion</td></tr>
+<tr><td class="px-4 py-3">Avg transaction value</td><td class="px-4 py-3">£47</td></tr>
+<tr><td class="px-4 py-3">VRP transactions</td><td class="px-4 py-3">£18.5 billion</td></tr>
+<tr><td class="px-4 py-3">Business adoption</td><td class="px-4 py-3">45,000+ merchants</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">User Demographics (2026)</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Open banking adoption rates and primary use cases across UK age demographics</p>
 <div class="overflow-x-auto mb-6">

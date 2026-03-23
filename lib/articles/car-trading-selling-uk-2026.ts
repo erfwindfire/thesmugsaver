@@ -11,10 +11,8 @@ export const carTradingSellingUk2026: Article = {
  dateModified: '2026-03-15',
  author: 'Ed Djazmi',
  excerpt: 'Comprehensive guide to maximizing your vehicle\'s value in 2026\'s challenging UK car market',
- body: `<p class="mb-4 text-gray-700 leading-relaxed">Comprehensive guide to maximizing your vehicle's value in 2026's challenging UK car market</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Car Finance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">UK Specific</p>
-<p class="mb-4 text-gray-700 leading-relaxed">2026 Updated</p>
+ body: `<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Comprehensive guide to maximizing your vehicle's value in 2026's challenging UK car market</td><td class="px-4 py-3">Car Finance</td></tr>
+<tr><td class="px-4 py-3">UK Specific</td><td class="px-4 py-3">2026 Updated</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">TL;DR — At-a-Glance Summary</h2>
 <p class="mb-4 text-gray-800 leading-relaxed"><strong>Bottom Line: Private car sales in the UK yield 15-30% more than trade-ins, but require strategic timing (March/September for peak demand) and professional preparation (£200-500 investment returns £500-£2,000). Key actions: value using CAP HPI/Parkers, prep vehicle properly, and negotiate using DVLA guidelines.</strong></p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/insurance/premium-vs-budget-insurance-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">insurance comparison</a>.</p>
@@ -209,10 +207,8 @@ export const carTradingSellingUk2026: Article = {
 <li>Avoid desperate situations: Never trade under pressure</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">The Trade-In Negotiation Script</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 1: "I've had this valued at £X by a competing dealer. Can you match or beat that?"</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 2: "I'm happy to do the deal today if we can agree on the trade value."</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 3: "What's your best possible offer? I need to make a decision this week."</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 4: If they won't budge: "I'll take your details and get back to you after considering all options."</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Step</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Step 1: "I've had this valued at £X by a competing dealer. Can you match or beat that?"</td><td class="px-4 py-3">Step 2: "I'm happy to do the deal today if we can agree on the trade value."</td></tr>
+<tr><td class="px-4 py-3">Step 3: "What's your best possible offer? I need to make a decision this week."</td><td class="px-4 py-3">Step 4: If they won't budge: "I'll take your details and get back to you after considering all options."</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Alternative Trade-In Options</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Online Car Buyers</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">We Buy Any Car, Cazoo, Cinch</p>

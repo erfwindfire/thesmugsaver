@@ -12,9 +12,7 @@ export const costOfLivingPayment2026DwpSupport: Article = {
  author: 'Ed Djazmi',
  excerpt: 'Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.',
  body: `<p class="mb-4 text-gray-700 leading-relaxed">Complete guide to claiming your Cost of Living Payment - eligibility checker, application process, and maximising your support in September 2026.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Check Your Eligibility</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Payment Calculator</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Last updated: September 2026</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Check Your Eligibility</td><td class="px-4 py-3">Payment Calculator</td><td class="px-4 py-3">Last updated: September 2026</td></tr></tbody></table></div>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>2 million eligible</li>
 </ol>
@@ -53,21 +51,11 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Payment Dates & Timeline</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">September 2026 Payment Schedule</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Qualifying Date</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Must be claiming on this date</p>
-<p class="mb-4 text-gray-700 leading-relaxed">26 September 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Universal Credit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Payment window</p>
-<p class="mb-4 text-gray-700 leading-relaxed">30 September - 13 October 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Legacy Benefits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">JSA, ESA, Income Support, etc.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">30 September - 13 October 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tax Credits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Working & Child Tax Credits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">30 September - 13 October 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Pension Credit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Including Guarantee Credit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">30 September - 13 October 2026</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Qualifying Date</td><td class="px-4 py-3">Must be claiming on this date</td><td class="px-4 py-3">26 September 2026</td></tr>
+<tr><td class="px-4 py-3">Universal Credit</td><td class="px-4 py-3">Payment window</td><td class="px-4 py-3">30 September - 13 October 2026</td></tr>
+<tr><td class="px-4 py-3">Legacy Benefits</td><td class="px-4 py-3">JSA, ESA, Income Support, etc.</td><td class="px-4 py-3">30 September - 13 October 2026</td></tr>
+<tr><td class="px-4 py-3">Tax Credits</td><td class="px-4 py-3">Working & Child Tax Credits</td><td class="px-4 py-3">30 September - 13 October 2026</td></tr>
+<tr><td class="px-4 py-3">Pension Credit</td><td class="px-4 py-3">Including Guarantee Credit</td><td class="px-4 py-3">30 September - 13 October 2026</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Application Process: What You Need to Do</h2>
 <div class="bg-green-50 border-l-4 border-green-500 p-4 mb-6 rounded-r-lg"><p class="text-green-800 font-medium">Good news:</p></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Most eligible people receive payments automatically. No application required for qualifying benefit claimants.</p>
@@ -88,14 +76,10 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <li>4.Confirm your bank details are correct</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Contact Helplines</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Universal Credit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Through your online journal</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Legacy Benefits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">0800 169 0310</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Lines open 8am-6pm, Mon-Fri</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tax Credits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">0345 300 3900</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Lines open 8am-8pm, Mon-Fri</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Universal Credit</td><td class="px-4 py-3">Through your online journal</td></tr>
+<tr><td class="px-4 py-3">Legacy Benefits</td><td class="px-4 py-3">0800 169 0310</td></tr>
+<tr><td class="px-4 py-3">Lines open 8am-6pm, Mon-Fri</td><td class="px-4 py-3">Tax Credits</td></tr>
+<tr><td class="px-4 py-3">0345 300 3900</td><td class="px-4 py-3">Lines open 8am-8pm, Mon-Fri</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Eligibility Checker</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Am I Eligible? Quick Check</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Step 1: Check Your Benefit</p>
@@ -110,10 +94,8 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <li>Income Support</li>
 <li>Housing Benefit</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 2: Check the Date</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Were you receiving your benefit on 26 September 2026? If yes, you should receive the payment automatically.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Step 3: Check for Sanctions</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Were you sanctioned on 26 September 2026? If sanctioned, you may not be eligible for this payment period.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Step</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Step 2: Check the Date</td><td class="px-4 py-3">Were you receiving your benefit on 26 September 2026? If yes, you should receive the payment automatically.</td></tr>
+<tr><td class="px-4 py-3">Step 3: Check for Sanctions</td><td class="px-4 py-3">Were you sanctioned on 26 September 2026? If sanctioned, you may not be eligible for this payment period.</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">If you answered "yes" to steps 1 and 2, and "no" to step 3, you should automatically receive £500. Contact DWP if you don't receive payment within the payment window.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Detailed Benefit Types & Eligibility</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Universal Credit Claimants</h3>
@@ -142,14 +124,10 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Troubleshooting Common Issues</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Payment Not Received</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Most Common Reasons</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Bank Details Changed</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Payment sent to old account</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Sanction Applied</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Active sanction on qualifying date</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Claim Suspended</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Benefit claim under review</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Wrong Benefit Type</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Only receiving contribution-based benefit</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Bank Details Changed</td><td class="px-4 py-3">Payment sent to old account</td></tr>
+<tr><td class="px-4 py-3">Sanction Applied</td><td class="px-4 py-3">Active sanction on qualifying date</td></tr>
+<tr><td class="px-4 py-3">Claim Suspended</td><td class="px-4 py-3">Benefit claim under review</td></tr>
+<tr><td class="px-4 py-3">Wrong Benefit Type</td><td class="px-4 py-3">Only receiving contribution-based benefit</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">What to Do</h4>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>1.Check your bank account daily for 2 weeks after payment window closes</li>
@@ -160,12 +138,8 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Duplicate or Wrong Amount</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">If you receive more than £500 or duplicate payments, contact DWP immediately. You may be asked to repay the excess amount.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Contact Numbers for Overpayments</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Universal Credit:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Report through your online journal</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Legacy Benefits:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">0800 169 0310</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tax Credits:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">0345 300 3900</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Universal Credit:</td><td class="px-4 py-3">Report through your online journal</td><td class="px-4 py-3">Legacy Benefits:</td></tr>
+<tr><td class="px-4 py-3">0800 169 0310</td><td class="px-4 py-3">Tax Credits:</td><td class="px-4 py-3">0345 300 3900</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Appeals Process & Your Rights</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">You have the right to challenge a decision if you believe you're entitled to a Cost of Living Payment but haven't received one.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Mandatory Reconsideration</h3>
@@ -177,10 +151,8 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <li>Tax Credits: Call 0345 300 3900</li>
 <li>Pension Credit: Call 0800 99 1234</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">Time Limit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">One month from decision date</p>
-<p class="mb-4 text-gray-700 leading-relaxed">What to Include</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Why you disagree and any supporting evidence</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Time Limit</td><td class="px-4 py-3">One month from decision date</td></tr>
+<tr><td class="px-4 py-3">What to Include</td><td class="px-4 py-3">Why you disagree and any supporting evidence</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Independent Appeal</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">If you disagree with the mandatory reconsideration decision, you can appeal to an independent tribunal.</p>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
@@ -236,20 +208,10 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Your £500 Cost of Living Payment is designed to help with essential costs. Planning how to use it effectively can maximize its impact on your household budget.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Priority Spending Areas</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Immediate Essentials</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Energy bills (winter preparation)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£150-200</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Food shopping & essentials</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-150</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Housing costs (rent arrears)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-150</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Energy bills (winter preparation)</td><td class="px-4 py-3">£150-200</td><td class="px-4 py-3">Food shopping & essentials</td></tr>
+<tr><td class="px-4 py-3">£100-150</td><td class="px-4 py-3">Housing costs (rent arrears)</td><td class="px-4 py-3">£100-150</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Building Resilience</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency fund start</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-100</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Debt payment (highest interest)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-100</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Transport costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£25-50</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Consider using part of your payment to switch to better deals on energy, broadband, or mobile contracts.</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Emergency fund start</li><li class="mb-2">£50-100</li><li class="mb-2">Debt payment (highest interest)</li><li class="mb-2">£50-100</li><li class="mb-2">Transport costs</li><li class="mb-2">£25-50</li><li class="mb-2">Consider using part of your payment to switch to better deals on energy, broadband, or mobile contracts.</li></ul>
 <p class="mb-4 text-gray-700 leading-relaxed"><a href="/energy-bills/how-to-negotiate-bills-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">Our bill negotiation guide</a></p>
 <p class="mb-4 text-gray-700 leading-relaxed">can help you save money long-term.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Budgeting Tools & Resources</h3>
@@ -273,19 +235,11 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">The Cost of Living Payment is just one form of support available. Don't miss out on other help you might be entitled to.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Additional DWP Support</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Winter Support</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Winter Fuel Payment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-300</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Cold Weather Payment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£25/week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Warm Home Discount</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£150</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Winter Fuel Payment</td><td class="px-4 py-3">£100-300</td><td class="px-4 py-3">Cold Weather Payment</td></tr>
+<tr><td class="px-4 py-3">£25/week</td><td class="px-4 py-3">Warm Home Discount</td><td class="px-4 py-3">£150</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Ongoing Support</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Household Support Fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Varies</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Council Tax Support</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Up to 100%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Free School Meals</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2.50/day</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Household Support Fund</td><td class="px-4 py-3">Varies</td><td class="px-4 py-3">Council Tax Support</td></tr>
+<tr><td class="px-4 py-3">Up to 100%</td><td class="px-4 py-3">Free School Meals</td><td class="px-4 py-3">£2.50/day</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Local Authority Support</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Many councils offer additional support schemes. Contact your local authority to ask about:</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Hardship Funds</h4>
@@ -311,19 +265,14 @@ export const costOfLivingPayment2026DwpSupport: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your Action Plan</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What to Do Right Now</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">1</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Check Your Eligibility</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Confirm you're receiving a qualifying benefit and were claiming on 26 September 2026</p>
-<p class="mb-4 text-gray-700 leading-relaxed">2</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Verify Your Bank Details</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Ensure DWP/HMRC have your current bank account information</p>
-<p class="mb-4 text-gray-700 leading-relaxed">3</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Monitor Your Account</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Check your bank account daily during the payment window (30 Sept - 13 Oct 2026)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">4</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Plan Your Spending</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Prioritise essential costs and consider setting aside money for emergencies</p>
-<p class="mb-4 text-gray-700 leading-relaxed">5</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">If Payment Doesn't Arrive</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Wait 2 weeks after payment window ends, then contact the relevant helpline</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Useful Resources</h3>

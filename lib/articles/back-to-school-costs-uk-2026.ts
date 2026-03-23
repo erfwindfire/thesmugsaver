@@ -22,46 +22,23 @@ export const backToSchoolCostsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">But here's what nobody tells you: This financial pressure is entirely avoidable with the right strategy, timing, and knowledge of government support schemes. Pair this with childcare cost strategies, family budgeting methods, and grocery savings tactics for comprehensive family finance management.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Understanding the True Cost of UK School Years</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Primary School Costs (Per Child)</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">School uniform</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£150-300</p>
-<p class="mb-4 text-gray-700 leading-relaxed">PE kit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£40-80</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School shoes</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£25-60</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School bag</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£15-40</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Stationery & supplies</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£60-120</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual Total</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£290-600</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">School uniform</td><td class="px-4 py-3">£150-300</td><td class="px-4 py-3">PE kit</td></tr>
+<tr><td class="px-4 py-3">£40-80</td><td class="px-4 py-3">School shoes</td><td class="px-4 py-3">£25-60</td></tr>
+<tr><td class="px-4 py-3">School bag</td><td class="px-4 py-3">£15-40</td><td class="px-4 py-3">Stationery & supplies</td></tr>
+<tr><td class="px-4 py-3">£60-120</td><td class="px-4 py-3">Annual Total</td><td class="px-4 py-3">£290-600</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Secondary School Costs (Per Child)</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">School uniform</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£200-400</p>
-<p class="mb-4 text-gray-700 leading-relaxed">PE kit & sports equipment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£80-150</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School shoes</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£35-80</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School bag & equipment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£30-70</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Stationery & textbooks</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-250</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Technology (calculator, etc.)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-120</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual Total</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£495-1,070</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">School uniform</td><td class="px-4 py-3">£200-400</td></tr>
+<tr><td class="px-4 py-3">PE kit & sports equipment</td><td class="px-4 py-3">£80-150</td></tr>
+<tr><td class="px-4 py-3">School shoes</td><td class="px-4 py-3">£35-80</td></tr>
+<tr><td class="px-4 py-3">School bag & equipment</td><td class="px-4 py-3">£30-70</td></tr>
+<tr><td class="px-4 py-3">Stationery & textbooks</td><td class="px-4 py-3">£100-250</td></tr>
+<tr><td class="px-4 py-3">Technology (calculator, etc.)</td><td class="px-4 py-3">£50-120</td></tr>
+<tr><td class="px-4 py-3">Annual Total</td><td class="px-4 py-3">£495-1,070</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Hidden and Optional Costs</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">School trips: £50-200/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Day trips, residential visits</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School photos: £15-40/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Individual and class photos</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School meals: £450-900/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">If not eligible for free meals</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Clubs & activities: £100-500/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Music lessons, sports clubs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Transport costs: £200-800/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Bus passes, petrol</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Replacement items: £50-150/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Lost jumpers, broken equipment</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">School trips: £50-200/year</td><td class="px-4 py-3">Day trips, residential visits</td><td class="px-4 py-3">School photos: £15-40/year</td></tr>
+<tr><td class="px-4 py-3">Individual and class photos</td><td class="px-4 py-3">School meals: £450-900/year</td><td class="px-4 py-3">If not eligible for free meals</td></tr>
+<tr><td class="px-4 py-3">Clubs & activities: £100-500/year</td><td class="px-4 py-3">Music lessons, sports clubs</td><td class="px-4 py-3">Transport costs: £200-800/year</td></tr>
+<tr><td class="px-4 py-3">Bus passes, petrol</td><td class="px-4 py-3">Replacement items: £50-150/year</td><td class="px-4 py-3">Lost jumpers, broken equipment</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Master the Strategic Shopping Calendar</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">April-May</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Start planning and budgeting. Research school lists.</p>
@@ -118,12 +95,9 @@ export const backToSchoolCostsUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Application deadline: Usually July-August</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Contact your local council for details</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Additional Support Available</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Pupil Premium</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Schools receive £1,455 per FSM-eligible child. Ask how this supports families.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 16-19 Bursary Fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,200 annually for vulnerable students, or discretionary awards up to £300.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### School Hardship Funds</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Many schools have discretionary funds. Speak confidentially to head teacher.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Pupil Premium</td><td class="px-4 py-3">Schools receive £1,455 per FSM-eligible child. Ask how this supports families.</td></tr>
+<tr><td class="px-4 py-3">16-19 Bursary Fund</td><td class="px-4 py-3">£1,200 annually for vulnerable students, or discretionary awards up to £300.</td></tr>
+<tr><td class="px-4 py-3">School Hardship Funds</td><td class="px-4 py-3">Many schools have discretionary funds. Speak confidentially to head teacher.</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Strategic Uniform Shopping</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Smart Buying Hierarchy</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Tier 1: Must Buy New</h4>
@@ -215,15 +189,9 @@ export const backToSchoolCostsUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Technology & Equipment Essentials</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Must-Have Technology</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Scientific Calculator</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Casio FX-83GT X or equivalent</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£15-25</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Basic Laptop/Tablet</p>
-<p class="mb-4 text-gray-700 leading-relaxed">For homework and research</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£200-400</p>
-<p class="mb-4 text-gray-700 leading-relaxed">USB Drive</p>
-<p class="mb-4 text-gray-700 leading-relaxed">16GB minimum capacity</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£5-10</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Scientific Calculator</td><td class="px-4 py-3">Casio FX-83GT X or equivalent</td><td class="px-4 py-3">£15-25</td></tr>
+<tr><td class="px-4 py-3">Basic Laptop/Tablet</td><td class="px-4 py-3">For homework and research</td><td class="px-4 py-3">£200-400</td></tr>
+<tr><td class="px-4 py-3">USB Drive</td><td class="px-4 py-3">16GB minimum capacity</td><td class="px-4 py-3">£5-10</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Money-Saving Alternatives</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Refurbished Technology</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Save 30-50% on laptops and tablets through certified refurbished programs.</p>
@@ -255,39 +223,13 @@ export const backToSchoolCostsUk2026: Article = {
 </ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Master Your School Budget Planning</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Annual School Budget Template</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Fixed Annual Costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School uniform replacement</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-200</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Shoes (2 pairs annually)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-120</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Stationery replenishment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£40-80</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School bags/PE bags</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£30-60</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Fixed Total</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£220-460</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Variable Costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School trips</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-200</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Activities/clubs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-300</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency replacements</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£30-100</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Technology updates</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-150</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Variable Total</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£230-750</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Fixed Annual Costs</li><li class="mb-2">School uniform replacement</li><li class="mb-2">£100-200</li><li class="mb-2">Shoes (2 pairs annually)</li><li class="mb-2">£50-120</li><li class="mb-2">Stationery replenishment</li><li class="mb-2">£40-80</li><li class="mb-2">School bags/PE bags</li><li class="mb-2">£30-60</li><li class="mb-2">Fixed Total</li><li class="mb-2">£220-460</li><li class="mb-2">Variable Costs</li><li class="mb-2">School trips</li><li class="mb-2">£50-200</li><li class="mb-2">Activities/clubs</li><li class="mb-2">£100-300</li><li class="mb-2">Emergency replacements</li><li class="mb-2">£30-100</li><li class="mb-2">Technology updates</li><li class="mb-2">£50-150</li><li class="mb-2">Variable Total</li><li class="mb-2">£230-750</li></ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Monthly Savings Plan</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Target: £600 per child annually</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Save £50 per month starting in January</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Jan-Mar: Planning phase</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£15/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Apr-Jun: Build fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£75/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Jul-Aug: Shopping phase</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Sep-Dec: Maintenance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£25/month</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Target: £600 per child annually</td><td class="px-4 py-3">Save £50 per month starting in January</td></tr>
+<tr><td class="px-4 py-3">Jan-Mar: Planning phase</td><td class="px-4 py-3">£15/month</td></tr>
+<tr><td class="px-4 py-3">Apr-Jun: Build fund</td><td class="px-4 py-3">£75/month</td></tr>
+<tr><td class="px-4 py-3">Jul-Aug: Shopping phase</td><td class="px-4 py-3">£100/month</td></tr>
+<tr><td class="px-4 py-3">Sep-Dec: Maintenance</td><td class="px-4 py-3">£25/month</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Emergency Fund Strategy</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Build a separate emergency fund for unexpected school costs:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -358,17 +300,11 @@ export const backToSchoolCostsUk2026: Article = {
 <li>Charitable foundation grants</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">National Helplines</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">StepChange Debt Charity: 0800 138 1111</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Citizens Advice: 0800 144 8848</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Turn2us Benefits Calculator: Online tool</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">StepChange Debt Charity: 0800 138 1111</td><td class="px-4 py-3">Citizens Advice: 0800 144 8848</td><td class="px-4 py-3">Turn2us Benefits Calculator: Online tool</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">School-Based Support</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Pastoral Care Team: Confidential support</p>
-<p class="mb-4 text-gray-700 leading-relaxed">School Counselor: Family stress support</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Educational Welfare Officer: Attendance and welfare</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Pastoral Care Team: Confidential support</td><td class="px-4 py-3">School Counselor: Family stress support</td><td class="px-4 py-3">Educational Welfare Officer: Attendance and welfare</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Local Resources</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Council Family Services: Emergency support</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Local Foodbanks: Often provide uniforms</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Children's Charities: Area-specific support</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Council Family Services: Emergency support</td><td class="px-4 py-3">Local Foodbanks: Often provide uniforms</td><td class="px-4 py-3">Children's Charities: Area-specific support</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your 12-Month Action Plan</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">January-March: Foundation Phase</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Financial Setup</h4>

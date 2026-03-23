@@ -202,16 +202,11 @@ export const bestHighYieldSavingsUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Cash ISAs: Tax-Free Savings for 2026/27</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Individual Savings Accounts (ISAs) let you earn interest tax-free. For the 2026/27 tax year (starting 6 April 2026), you can save up to £20,000 in ISAs without paying a penny in tax on the interest.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Do You Need a Cash ISA?</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">The Personal Savings Allowance means many people don't pay tax on savings interest anyway:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Basic Rate Taxpayers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Earn up to £1,000 interest tax-free</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Higher Rate Taxpayers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Earn up to £500 interest tax-free</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Additional Rate Taxpayers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">No personal savings allowance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£0</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">The Personal Savings Allowance means many people don't pay tax on savings interest anyway:</td><td class="px-4 py-3">Basic Rate Taxpayers</td></tr>
+<tr><td class="px-4 py-3">Earn up to £1,000 interest tax-free</td><td class="px-4 py-3">£1,000</td></tr>
+<tr><td class="px-4 py-3">Higher Rate Taxpayers</td><td class="px-4 py-3">Earn up to £500 interest tax-free</td></tr>
+<tr><td class="px-4 py-3">£500</td><td class="px-4 py-3">Additional Rate Taxpayers</td></tr>
+<tr><td class="px-4 py-3">No personal savings allowance</td><td class="px-4 py-3">£0</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">Quick calculation: At 5% interest, you'd need £20,000 in savings to earn £1,000 interest (basic rate limit). Below that? Regular savings accounts often pay more than ISAs.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Best Cash ISA Rates 2026</h3>
 <div class="overflow-x-auto mb-6">
@@ -298,15 +293,9 @@ export const bestHighYieldSavingsUk2026: Article = {
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Switching Strategies: Rate Hopping Done Right</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Loyalty costs you money in savings accounts. Banks offer juicy introductory rates to attract new customers, then quietly slash them for existing savers. Active switching can earn you thousands more.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Cost of Inertia</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Real Example: £20,000 Over 3 Years</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Loyal Saver (Stays Put)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Rate drops from 5% to 1% after year 1</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,410 earned</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Active Switcher</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Moves to best rate annually</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3,150 earned</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Difference:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,740 more</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Real Example: £20,000 Over 3 Years</td><td class="px-4 py-3">Loyal Saver (Stays Put)</td><td class="px-4 py-3">Rate drops from 5% to 1% after year 1</td></tr>
+<tr><td class="px-4 py-3">£1,410 earned</td><td class="px-4 py-3">Active Switcher</td><td class="px-4 py-3">Moves to best rate annually</td></tr>
+<tr><td class="px-4 py-3">£3,150 earned</td><td class="px-4 py-3">Difference:</td><td class="px-4 py-3">£1,740 more</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Annual Switching Routine</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>1Set Annual Calendar ReminderEvery January, check your current rates vs market leaders</li>
@@ -339,73 +328,29 @@ export const bestHighYieldSavingsUk2026: Article = {
 <li> Crypto assets (no protection)</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Banking Groups Sharing Licenses</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">These institutions share FSCS limits:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Lloyds Banking Group: Lloyds, Halifax, Bank of Scotland, MBNA</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Virgin Money UK: Virgin Money, Clydesdale Bank, Yorkshire Bank</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Co-operative Bank: Co-op Bank, Britannia, smile</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">These institutions share FSCS limits:</td><td class="px-4 py-3">Lloyds Banking Group: Lloyds, Halifax, Bank of Scotland, MBNA</td></tr>
+<tr><td class="px-4 py-3">Virgin Money UK: Virgin Money, Clydesdale Bank, Yorkshire Bank</td><td class="px-4 py-3">Co-operative Bank: Co-op Bank, Britannia, smile</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Spreading £200,000 Safely</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">If you have more than £85,000, here's how to structure maximum protection:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Chase Bank</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£85,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Shawbrook Bank</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£85,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Marcus (Goldman Sachs)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£30,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total Protected</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£200,000 </p>
-<p class="mb-4 text-gray-700 leading-relaxed">All three are separate banking licenses, so you have full FSCS protection on all £200,000.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Check Your Protection</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Before opening an account, verify its FSCS protection status at fscs.org.uk/check</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Look up the banking license holder, not just the brand name. Many challenger banks use other banks' licenses.</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">If you have more than £85,000, here's how to structure maximum protection:</li><li class="mb-2">Chase Bank</li><li class="mb-2">£85,000</li><li class="mb-2">Shawbrook Bank</li><li class="mb-2">£85,000</li><li class="mb-2">Marcus (Goldman Sachs)</li><li class="mb-2">£30,000</li><li class="mb-2">Total Protected</li><li class="mb-2">£200,000</li><li class="mb-2">All three are separate banking licenses, so you have full FSCS protection on all £200,000.</li><li class="mb-2">Check Your Protection</li><li class="mb-2">Before opening an account, verify its FSCS protection status at fscs.org.uk/check</li><li class="mb-2">Look up the banking license holder, not just the brand name. Many challenger banks use other banks' licenses.</li></ul>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your Personal Savings Strategy: Decision Framework</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Start Here: Assess Your Situation</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Step 1: Calculate Your Emergency Fund Needs</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Rule of thumb: 3-6 months of essential expenses</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monthly rent/mortgage:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£___</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Bills (utilities, council tax):</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£___</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Food and essentials:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£___</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Transport, insurance:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£___</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total × 3-6 months:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£___ - £___</p>
-<p class="mb-4 text-gray-700 leading-relaxed">This amount should go in easy access accounts. Non-negotiable accessibility.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Rule of thumb: 3-6 months of essential expenses</td><td class="px-4 py-3">Monthly rent/mortgage:</td><td class="px-4 py-3">£___</td></tr>
+<tr><td class="px-4 py-3">Bills (utilities, council tax):</td><td class="px-4 py-3">£___</td><td class="px-4 py-3">Food and essentials:</td></tr>
+<tr><td class="px-4 py-3">£___</td><td class="px-4 py-3">Transport, insurance:</td><td class="px-4 py-3">£___</td></tr>
+<tr><td class="px-4 py-3">Total × 3-6 months:</td><td class="px-4 py-3">£___ - £___</td><td class="px-4 py-3">This amount should go in easy access accounts. Non-negotiable accessibility.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Step 2: Define Your Savings Goals</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Short-term (0-12 months)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Holiday, new laptop, Christmas fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">→ Easy access or regular saver</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Medium-term (1-3 years)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Car deposit, wedding, house deposit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">→ 1-2 year fixed-term or notice account</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Long-term (3+ years)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">House deposit, children's future, retirement buffer</p>
-<p class="mb-4 text-gray-700 leading-relaxed">→ Consider stocks & shares ISA (better returns long-term)</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Short-term (0-12 months)</td><td class="px-4 py-3">Holiday, new laptop, Christmas fund</td><td class="px-4 py-3">→ Easy access or regular saver</td></tr>
+<tr><td class="px-4 py-3">Medium-term (1-3 years)</td><td class="px-4 py-3">Car deposit, wedding, house deposit</td><td class="px-4 py-3">→ 1-2 year fixed-term or notice account</td></tr>
+<tr><td class="px-4 py-3">Long-term (3+ years)</td><td class="px-4 py-3">House deposit, children's future, retirement buffer</td><td class="px-4 py-3">→ Consider stocks & shares ISA (better returns long-term)</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Step 3: Tax Situation Check</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Will your savings interest exceed your tax-free allowance?</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Basic rate taxpayer (£1,000 allowance)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Higher rate taxpayer (£500 allowance)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Additional rate taxpayer (£0 allowance)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">If you're likely to exceed your allowance, prioritize Cash ISAs (up to £20,000/year tax-free).</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Will your savings interest exceed your tax-free allowance?</li><li class="mb-2">Basic rate taxpayer (£1,000 allowance)</li><li class="mb-2">Higher rate taxpayer (£500 allowance)</li><li class="mb-2">Additional rate taxpayer (£0 allowance)</li><li class="mb-2">If you're likely to exceed your allowance, prioritize Cash ISAs (up to £20,000/year tax-free).</li></ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Sample Allocation: £25,000 to Invest</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Emergency Fund (Easy Access)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Chase Saver @ 5.25%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£10,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">40%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">House Deposit Fund (1-Yr Fixed)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Shawbrook Bank @ 6.05%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£8,000</p>
-<p class="mb-4 text-gray-700 leading-relaxed">32%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Regular Saver (Building Habit)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">First Direct @ 7.50%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3,600</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Emergency Fund (Easy Access)</li><li class="mb-2">Chase Saver @ 5.25%</li><li class="mb-2">£10,000</li><li class="mb-2">40%</li><li class="mb-2">House Deposit Fund (1-Yr Fixed)</li><li class="mb-2">Shawbrook Bank @ 6.05%</li><li class="mb-2">£8,000</li><li class="mb-2">32%</li><li class="mb-2">Regular Saver (Building Habit)</li><li class="mb-2">First Direct @ 7.50%</li><li class="mb-2">£3,600</li></ul>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>4%</li>
 </ol>
-<p class="mb-4 text-gray-700 leading-relaxed">Surplus (2-Yr Fixed)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Al Rayan @ 5.85%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£3,400</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Surplus (2-Yr Fixed)</td><td class="px-4 py-3">Al Rayan @ 5.85%</td><td class="px-4 py-3">£3,400</td></tr></tbody></table></div>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
 <li>6%</li>
 </ol>
@@ -420,9 +365,7 @@ export const bestHighYieldSavingsUk2026: Article = {
 <li>4Transfer Initial DepositMove your emergency fund to the new easy access account. You'll start earning 5%+ immediately instead of 0.5%.</li>
 </ol>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">This Week's Tasks</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Research Fixed-Term Options</p>
-<p class="mb-4 text-gray-700 leading-relaxed">For savings beyond your emergency fund, compare 1-2 year fixed rates. Lock in 6%+ if you won't need the money.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Consider a Regular Saver</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Research Fixed-Term Options</td><td class="px-4 py-3">For savings beyond your emergency fund, compare 1-2 year fixed rates. Lock in 6%+ if you won't need the money.</td><td class="px-4 py-3">Consider a Regular Saver</td></tr></tbody></table></div>
 <p class="mb-4 text-gray-700 leading-relaxed">If you can commit to monthly savings, open a regular saver (7%+). Even if you need a current account with the bank first.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Verify FSCS Protection</p>
 <p class="mb-4 text-gray-700 leading-relaxed">If you have over £85,000, ensure it's spread across different banking licenses. Check fscs.org.uk for which brands share licenses.</p>

@@ -68,14 +68,10 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">Take relevant envelope for shopping trips. When empty, category spending stops until next month.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">UK-Specific Challenges</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Contactless Everywhere</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Many UK shops now prefer cards. Some coffee shops, car parks, and public transport are card-only.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Online Shopping Reality</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Amazon, grocery delivery, subscriptions require cards. Pure cash budgeting excludes major spending categories.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Security Concerns</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Carrying £500+ cash creates theft/loss risks. No fraud protection compared to cards.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">ATM Access Fees</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Free ATMs declining. Some charge £1.50-£3.00 per withdrawal, adding costs to cash budgeting.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Contactless Everywhere</td><td class="px-4 py-3">Many UK shops now prefer cards. Some coffee shops, car parks, and public transport are card-only.</td></tr>
+<tr><td class="px-4 py-3">Online Shopping Reality</td><td class="px-4 py-3">Amazon, grocery delivery, subscriptions require cards. Pure cash budgeting excludes major spending categories.</td></tr>
+<tr><td class="px-4 py-3">Security Concerns</td><td class="px-4 py-3">Carrying £500+ cash creates theft/loss risks. No fraud protection compared to cards.</td></tr>
+<tr><td class="px-4 py-3">ATM Access Fees</td><td class="px-4 py-3">Free ATMs declining. Some charge £1.50-£3.00 per withdrawal, adding costs to cash budgeting.</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> When Cash Envelopes Excel</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Grocery shopping: Physical cash creates immediate spending awareness</li>
@@ -137,21 +133,13 @@ export const cashEnvelopeVsDigitalPotsUk2026: Article = {
 </tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Monzo Pot Setup Guide</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Create Budget Pots</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Groceries, Entertainment, Transport</p><p class="mb-4 text-gray-700 leading-relaxed">Set Monthly Targets</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£320, £150, £100 respectively</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Enable Salary Sorter</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Auto-distribute on payday</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Activate Spending from Pots</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Spend directly from categories</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Groceries, Entertainment, Transport</p><div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Category</th><th class="px-4 py-3 font-semibold text-left">Amount</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Set Monthly Targets</td><td class="px-4 py-3">£320, £150, £100 respectively</td><td class="px-4 py-3">Enable Salary Sorter</td></tr>
+<tr><td class="px-4 py-3">Auto-distribute on payday</td><td class="px-4 py-3">Activate Spending from Pots</td><td class="px-4 py-3">Spend directly from categories</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Starling Spaces Setup</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Create Savings Spaces</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Goals-based organization</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Set Round-up Rules</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Spare change to emergency fund</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Configure Regular Savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Weekly/monthly transfers</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Link Connected Card</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Spend from specific Spaces</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Amount</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Create Savings Spaces</td><td class="px-4 py-3">Goals-based organization</td></tr>
+<tr><td class="px-4 py-3">Set Round-up Rules</td><td class="px-4 py-3">Spare change to emergency fund</td></tr>
+<tr><td class="px-4 py-3">Configure Regular Savings</td><td class="px-4 py-3">Weekly/monthly transfers</td></tr>
+<tr><td class="px-4 py-3">Link Connected Card</td><td class="px-4 py-3">Spend from specific Spaces</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2"> When Digital Pots Excel</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Online purchases: Amazon, delivery apps, subscriptions work seamlessly</li>

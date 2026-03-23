@@ -260,24 +260,9 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
 <li>Driving under influence (including prescription drugs)</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Exclusion Language Decoder</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### What They Say</p>
-<p class="mb-4 text-gray-700 leading-relaxed">"Gradual deterioration"</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### What It Means</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Any damage that took more than a few days to develop</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Real Impact</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Roof leaks, damp, subsidence often excluded</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### What They Say</p>
-<p class="mb-4 text-gray-700 leading-relaxed">"Acts of God"</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### What It Means</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Natural disasters beyond human control</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Real Impact</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Earthquakes, some flooding, extreme weather</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### What They Say</p>
-<p class="mb-4 text-gray-700 leading-relaxed">"Reasonable precautions"</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### What It Means</p>
-<p class="mb-4 text-gray-700 leading-relaxed">You must act like a "reasonable person" would</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Real Impact</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Leaving doors unlocked, not maintaining property</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">What They Say</th><th class="px-4 py-3 font-semibold text-left">What It Means</th><th class="px-4 py-3 font-semibold text-left">Real Impact</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">"Gradual deterioration"</td><td class="px-4 py-3">Any damage that took more than a few days to develop</td><td class="px-4 py-3">Roof leaks, damp, subsidence often excluded</td></tr>
+<tr><td class="px-4 py-3">"Acts of God"</td><td class="px-4 py-3">Natural disasters beyond human control</td><td class="px-4 py-3">Earthquakes, some flooding, extreme weather</td></tr>
+<tr><td class="px-4 py-3">"Reasonable precautions"</td><td class="px-4 py-3">You must act like a "reasonable person" would</td><td class="px-4 py-3">Leaving doors unlocked, not maintaining property</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Exclusion Protection Strategy</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Read the exclusions first: Before comparing coverage, read what's NOT covered. This tells you more about real protection than the marketing copy.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Ask specific questions: "If X happens in Y situation, am I covered?" Get answers in writing.</p>
@@ -285,23 +270,15 @@ export const premiumVsBudgetInsuranceUk2026: Article = {
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Switching Strategies: Save £800+ Without Losing Protection</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Insurance loyalty is expensive. Companies rely on inertia - they know most people won't switch despite price increases. Smart switchers save hundreds annually while often getting better coverage. Here's your systematic approach.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 90-Day Switch Cycle</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 90 Days Before Renewal:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Start monitoring comparison sites, note current coverage details</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 30 Days Before:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Get 3-5 quotes, analyze coverage differences, negotiate with current provider</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### 14 Days Before:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Make switch decision, ensure no gaps in coverage</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Day of Renewal:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Old policy ends, new begins - no gap, no auto-renewal trap</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Timeline</th><th class="px-4 py-3 font-semibold text-left">Action</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">90 Days Before Renewal</td><td class="px-4 py-3">Start monitoring comparison sites, note current coverage details</td></tr>
+<tr><td class="px-4 py-3">30 Days Before</td><td class="px-4 py-3">Get 3-5 quotes, analyze coverage differences, negotiate with current provider</td></tr>
+<tr><td class="px-4 py-3">14 Days Before</td><td class="px-4 py-3">Make switch decision, ensure no gaps in coverage</td></tr>
+<tr><td class="px-4 py-3">Day of Renewal</td><td class="px-4 py-3">Old policy ends, new begins - no gap, no auto-renewal trap</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Switching Pitfalls to Avoid</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Coverage Gaps:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">New policy must start exactly when old one ends</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Like-for-Like Comparison:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Ensure excess, limits, and exclusions are comparable</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Claims History Impact:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Recent claims may limit options or increase prices</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Cooling-Off Periods:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Understand cancellation rights if you change your mind</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Point</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Coverage Gaps</td><td class="px-4 py-3">New policy must start exactly when old one ends</td></tr>
+<tr><td class="px-4 py-3">Like-for-Like Comparison</td><td class="px-4 py-3">Ensure excess, limits, and exclusions are comparable</td></tr>
+<tr><td class="px-4 py-3">Claims History Impact</td><td class="px-4 py-3">Recent claims may limit options or increase prices</td></tr>
+<tr><td class="px-4 py-3">Cooling-Off Periods</td><td class="px-4 py-3">Understand cancellation rights if you change your mind</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Switching Savings Potential</h4>
 <div class="overflow-x-auto mb-6">
 <table class="w-full border-collapse text-sm">

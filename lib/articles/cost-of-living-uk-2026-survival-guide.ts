@@ -17,32 +17,20 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Whether earning £18,000 or £80,000, the crisis affects everyone differently but spares no one entirely. This guide provides region-specific strategies, income-targeted tactics, and practical navigation tools for scenarios from emergency survival to long-term wealth preservation.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. Inflation Reality Check: Regional Cost Breakdown 2026</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">London & Southeast</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,847</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Average monthly living costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Rent (1-bed)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,650+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Council Tax</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£180+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Utilities</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£225+</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">£2,847</td><td class="px-4 py-3">Average monthly living costs</td></tr>
+<tr><td class="px-4 py-3">Rent (1-bed)</td><td class="px-4 py-3">£1,650+</td></tr>
+<tr><td class="px-4 py-3">Council Tax</td><td class="px-4 py-3">£180+</td></tr>
+<tr><td class="px-4 py-3">Utilities</td><td class="px-4 py-3">£225+</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Northern England</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,892</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Average monthly living costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Rent (1-bed)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£685+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Council Tax</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£145+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Utilities</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£215+</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">£1,892</td><td class="px-4 py-3">Average monthly living costs</td></tr>
+<tr><td class="px-4 py-3">Rent (1-bed)</td><td class="px-4 py-3">£685+</td></tr>
+<tr><td class="px-4 py-3">Council Tax</td><td class="px-4 py-3">£145+</td></tr>
+<tr><td class="px-4 py-3">Utilities</td><td class="px-4 py-3">£215+</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Scotland & Wales</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">£1,653</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Average monthly living costs</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Rent (1-bed)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£595+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Council Tax</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£135+</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Utilities</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£205+</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">£1,653</td><td class="px-4 py-3">Average monthly living costs</td></tr>
+<tr><td class="px-4 py-3">Rent (1-bed)</td><td class="px-4 py-3">£595+</td></tr>
+<tr><td class="px-4 py-3">Council Tax</td><td class="px-4 py-3">£135+</td></tr>
+<tr><td class="px-4 py-3">Utilities</td><td class="px-4 py-3">£205+</td></tr></tbody></table></div>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">2026 Inflation Hotspots</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Highest Impact Areas:</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
@@ -113,10 +101,8 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
 <li>Seasonal adjustment: Fruit/vegetable calendar optimization</li>
 </ol>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Store-Specific Tactics:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Aldi/Lidl: Core shopping for staples (30-40% savings on branded equivalents)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Tesco/ASDA: Reduced-to-clear evening sweeps (7-9pm optimal)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Local markets: End-of-day negotiations (50% reductions possible)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Online: Compare Unit prices, not package prices</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Details</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Aldi/Lidl: Core shopping for staples (30-40% savings on branded equivalents)</td><td class="px-4 py-3">Tesco/ASDA: Reduced-to-clear evening sweeps (7-9pm optimal)</td></tr>
+<tr><td class="px-4 py-3">Local markets: End-of-day negotiations (50% reductions possible)</td><td class="px-4 py-3">Online: Compare Unit prices, not package prices</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Technology Stack:</h4>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Honey/Capital One Shopping: Automatic coupon application</li>
@@ -126,51 +112,29 @@ export const costOfLivingUk2026SurvivalGuide: Article = {
 <li>Price tracking: CamelCamelCamel for bulk purchases</li>
 </ul>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Bulk Buying Intelligence:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Freezer Strategy: Bread, meat, vegetables (portion and freeze immediately)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Pantry Staples: Rice, pasta, canned goods during 50% sales</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Group Buying: Wholesale purchases with neighbours/family</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Storage Solutions: Vacuum sealing for extended shelf life</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Amount</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Freezer Strategy: Bread, meat, vegetables (portion and freeze immediately)</td><td class="px-4 py-3">Pantry Staples: Rice, pasta, canned goods during 50% sales</td></tr>
+<tr><td class="px-4 py-3">Group Buying: Wholesale purchases with neighbours/family</td><td class="px-4 py-3">Storage Solutions: Vacuum sealing for extended shelf life</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Emergency Food Security Resources:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Food Banks:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Trussell Trust network: 1,300+ locations. Referral required from GP, social worker, or CAB.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Community Resources:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Local community fridges, Sikh temples (free meals), church food programs, university food banks.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Government Support:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Healthy Start vouchers (£8.50/week), Local Welfare Assistance, discretionary housing payments.</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Food Banks:</td><td class="px-4 py-3">Trussell Trust network: 1,300+ locations. Referral required from GP, social worker, or CAB.</td><td class="px-4 py-3">Community Resources:</td></tr>
+<tr><td class="px-4 py-3">Local community fridges, Sikh temples (free meals), church food programs, university food banks.</td><td class="px-4 py-3">Government Support:</td><td class="px-4 py-3">Healthy Start vouchers (£8.50/week), Local Welfare Assistance, discretionary housing payments.</td></tr></tbody></table></div>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5. Transport Optimization</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Fuel efficiency: Use route optimization apps, compare fuel prices, and maintain proper tire pressure for 3% fuel savings. Consolidate trips and consider eco-driving at 56mph. Car sharing via BlaBlaCar or lift-sharing through workplace networks saves significantly. Use Railcards for 1/3 off train fares, season tickets for regular travel, and off-peak services for 50-60% savings. Cycle-to-work scheme provides tax-free bike purchase. Regional passes like London Oyster, Manchester System One, and Scotland travelpass offer further savings.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">6. Government Support Navigation: £500-£3000 Annual Potential</h2>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Comprehensive Support Matrix</h3>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Universal Benefits (2026 Rates):</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Universal Credit (single, 25+)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£382.85/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Housing Benefit (varies by area)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£450-1,800/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Council Tax Reduction</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Up to 100%</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Free NHS prescriptions</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£108+ annually</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Universal Credit (single, 25+)</td><td class="px-4 py-3">£382.85/month</td></tr>
+<tr><td class="px-4 py-3">Housing Benefit (varies by area)</td><td class="px-4 py-3">£450-1,800/month</td></tr>
+<tr><td class="px-4 py-3">Council Tax Reduction</td><td class="px-4 py-3">Up to 100%</td></tr>
+<tr><td class="px-4 py-3">Free NHS prescriptions</td><td class="px-4 py-3">£108+ annually</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Working Benefits:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Working Tax Credit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£2,360/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Childcare support (85%)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£646 weekly limit</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Free school meals</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£456+ per child</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Working Tax Credit</td><td class="px-4 py-3">£2,360/year</td><td class="px-4 py-3">Childcare support (85%)</td></tr>
+<tr><td class="px-4 py-3">£646 weekly limit</td><td class="px-4 py-3">Free school meals</td><td class="px-4 py-3">£456+ per child</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Disability and Health Support:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Personal Independence Payment</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£156-£691/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Employment Support Allowance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£84-£128/week</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Attendance Allowance (65+)</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£290-£434/month</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Personal Independence Payment</td><td class="px-4 py-3">£156-£691/month</td><td class="px-4 py-3">Employment Support Allowance</td></tr>
+<tr><td class="px-4 py-3">£84-£128/week</td><td class="px-4 py-3">Attendance Allowance (65+)</td><td class="px-4 py-3">£290-£434/month</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Local Authority Support:</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Local Welfare Assistance</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£100-1,500</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Discretionary Housing Payments</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Varies widely</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Crisis grants</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£50-500</p>
+<div class="overflow-x-auto my-6"><table class="w-full border-collapse text-sm"><thead><tr class="bg-emerald-50 text-emerald-900"><th class="px-4 py-3 font-semibold text-left">Item</th><th class="px-4 py-3 font-semibold text-left">Description</th><th class="px-4 py-3 font-semibold text-left">Cost</th></tr></thead><tbody class="divide-y divide-gray-100"><tr><td class="px-4 py-3">Local Welfare Assistance</td><td class="px-4 py-3">£100-1,500</td><td class="px-4 py-3">Discretionary Housing Payments</td></tr>
+<tr><td class="px-4 py-3">Varies widely</td><td class="px-4 py-3">Crisis grants</td><td class="px-4 py-3">£50-500</td></tr></tbody></table></div>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Application Strategy Framework:</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Preparation Phase:</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">

@@ -238,13 +238,7 @@ export const energyBillsRisingOctober2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Free Installation Reminder:</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Smart meters remain free through 2026. Book installation at least 3 weeks in advance—demand peaks before winter price increases.</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Smart Meter App Integration</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">Connect your smart meter data to energy monitoring apps:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Hildebrand Glow</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Real-time consumption data</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Loop by OVO</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Usage analytics & tips</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Bright App</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Automated saving suggestions</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Connect your smart meter data to energy monitoring apps:</li><li class="mb-2">Hildebrand Glow</li><li class="mb-2">Real-time consumption data</li><li class="mb-2">Loop by OVO</li><li class="mb-2">Usage analytics & tips</li><li class="mb-2">Bright App</li><li class="mb-2">Automated saving suggestions</li></ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Insulation Tactics: Maximum Impact, Minimum Cost</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Proper insulation remains the highest-return energy investment. Here's how to prioritize improvements based on UK housing stock and cost-effectiveness.</p>
 <div class="overflow-x-auto mb-6">
@@ -410,15 +404,7 @@ export const energyBillsRisingOctober2026: Article = {
 </ul>
 <p class="mb-4 text-gray-700 leading-relaxed">Expected savings: £150-250/year | Investment: Planning phase</p>
 <h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Total Expected Annual Savings: £300-450</h4>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Conservative Estimate</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Following 70% of recommendations</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£210-315/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Realistic Target</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Following 85% of recommendations</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£255-383/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">##### Maximum Savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Full implementation</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£300-450/year</p>
+<ul class="list-disc pl-6 my-4 space-y-1"><li class="mb-2">Conservative Estimate</li><li class="mb-2">Following 70% of recommendations</li><li class="mb-2">£210-315/year</li><li class="mb-2">Realistic Target</li><li class="mb-2">Following 85% of recommendations</li><li class="mb-2">£255-383/year</li><li class="mb-2">Maximum Savings</li><li class="mb-2">Full implementation</li><li class="mb-2">£300-450/year</li></ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Frequently Asked Questions</h3>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">When exactly does the October 2026 price cap take effect?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">The October 2026 price cap is projected to take effect from 1 October 2026 for households on standard (variable) tariffs. Ofgem will confirm the exact figures in August 2026. Direct debits are typically adjusted by suppliers in late September ahead of the change — check your statements and contact your supplier if the amount seems wrong.</p>
