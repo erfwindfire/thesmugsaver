@@ -32,12 +32,6 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What is Subscription Fatigue?</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">Subscription fatigue is the overwhelming feeling and financial drain caused by accumulating too many recurring digital services. The average UK household now pays for 7-12 subscriptions monthly, often forgetting what they're signed up for. This phenomenon exploits 'set and forget' psychology where small monthly charges (£5-15) feel insignificant but compound to £400+ annually in wasted spending on unused or under-utilized services.</p>
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Answers: Subscription Management</h2>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How can I find all my subscriptions quickly?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">What's the best way to cancel subscriptions without losing data?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Can I negotiate lower subscription prices?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Is sharing subscription accounts legal in the UK?</h3>
-<h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">How often should I audit my subscriptions?</h3>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Your Subscriptions Are Quietly Draining Your Future</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Right now, while you're reading this, subscription services are automatically charging your accounts. Netflix, Spotify, Amazon Prime, Disney+, that fitness app you used twice, the meditation app that's meant to reduce stress but increases your financial anxiety—they're all taking their monthly tribute.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">Here's the brutal truth: the average UK household spends over £400 annually on subscriptions they barely use or have completely forgotten about. That's a week's holiday, months of groceries, or a significant chunk toward your emergency fund—gone. Vanished into the digital ether of "convenience" and entertainment.</p>
@@ -61,7 +55,13 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The Subscription Addiction Cycle</h3>
 <ol class="list-decimal pl-6 mb-6 space-y-2 text-gray-700">
-<li>Discovery: See ads or recommendations for new service2. Justification: "It's only £6.99, and I'll definitely use it"3. Sign-up: Free trial makes it feel risk-free4. Initial Usage: Heavy use during first week or month5. Decline: Usage drops as novelty wears off6. Forgetting: Service continues charging, becomes background expense7. Discovery: Cycle repeats with next appealing service</li>
+<li><strong>Discovery:</strong> See ads or recommendations for a new service</li>
+<li><strong>Justification:</strong> "It's only £6.99, and I'll definitely use it"</li>
+<li><strong>Sign-up:</strong> Free trial makes it feel risk-free</li>
+<li><strong>Initial Usage:</strong> Heavy use during the first week or month</li>
+<li><strong>Decline:</strong> Usage drops as the novelty wears off</li>
+<li><strong>Forgetting:</strong> Service continues charging, becomes a background expense</li>
+<li><strong>Repeat:</strong> Cycle starts again with the next appealing service</li>
 </ol>
 <p class="mb-4 text-gray-700 leading-relaxed">Breaking this cycle is where your financial power lies.</p>
 <p class="mb-4 text-gray-700 leading-relaxed">For more detail on this topic, see our guide to <a href="/broadband-and-subscriptions/switch-broadband-mobile-tv-uk-2026" class="text-emerald-700 underline hover:text-emerald-900">broadband switching guide</a>.</p>
@@ -262,12 +262,28 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 <p class="mb-4 text-gray-700 leading-relaxed">Keep 1-2, save £35/month</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">The 50% Rule for Subscription Stacking</h3>
 <p class="mb-4 text-gray-700 leading-relaxed">For every subscription category (music, video, fitness, productivity), aim to reduce your stack by at least 50%. This simple rule can save hundreds annually while maintaining core functionality.</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Before</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£162/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">After 50% Rule</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£81/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual Savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£972</p>
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Scenario</th>
+<th class="px-4 py-3 text-left font-semibold">Monthly Cost</th>
+<th class="px-4 py-3 text-left font-semibold">Annual Cost</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50">
+<td class="px-4 py-3 border-b border-gray-200">Before (typical stack)</td>
+<td class="px-4 py-3 border-b border-gray-200">£162</td>
+<td class="px-4 py-3 border-b border-gray-200">£1,944</td>
+</tr>
+<tr class="bg-white">
+<td class="px-4 py-3 border-b border-gray-200">After applying 50% Rule</td>
+<td class="px-4 py-3 border-b border-gray-200">£81</td>
+<td class="px-4 py-3 border-b border-gray-200">£972</td>
+</tr>
+<tr class="bg-emerald-50">
+<td class="px-4 py-3 font-semibold text-emerald-800">Annual Savings</td>
+<td class="px-4 py-3 font-semibold text-emerald-800">£81/month</td>
+<td class="px-4 py-3 font-semibold text-emerald-800">£972/year</td>
+</tr>
+</tbody></table>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Master Cancellation Strategies: Get Out Without the Runaround</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Cancelling subscriptions shouldn't be a battle, but companies make it deliberately difficult. Here are proven strategies to cancel quickly and avoid retention traps.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Pre-Cancellation Preparation</h3>
@@ -482,46 +498,55 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 <li>Exit clauses for all participants</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Family Plan Success Calculator</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Example: 4 friends sharing Netflix Premium, Spotify Family, and YouTube Premium</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Individual Cost</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£32.97/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£395.64/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Shared Cost</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£10.74/month</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£128.88/year</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual Savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£266.76</p>
-<p class="mb-4 text-gray-700 leading-relaxed">67% reduction</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Example: 4 friends sharing Netflix Premium, Spotify Family, and YouTube Premium.</p>
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Scenario</th>
+<th class="px-4 py-3 text-left font-semibold">Monthly Cost</th>
+<th class="px-4 py-3 text-left font-semibold">Annual Cost</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50">
+<td class="px-4 py-3 border-b border-gray-200">Individual (each pays separately)</td>
+<td class="px-4 py-3 border-b border-gray-200">£32.97</td>
+<td class="px-4 py-3 border-b border-gray-200">£395.64</td>
+</tr>
+<tr class="bg-white">
+<td class="px-4 py-3 border-b border-gray-200">Shared (split 4 ways)</td>
+<td class="px-4 py-3 border-b border-gray-200">£10.74</td>
+<td class="px-4 py-3 border-b border-gray-200">£128.88</td>
+</tr>
+<tr class="bg-emerald-50">
+<td class="px-4 py-3 font-semibold text-emerald-800">Saving (67% reduction)</td>
+<td class="px-4 py-3 font-semibold text-emerald-800">£22.23/month</td>
+<td class="px-4 py-3 font-semibold text-emerald-800">£266.76/year</td>
+</tr>
+</tbody></table>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Complete Subscription Audit Checklist: Your 2-Hour Money Recovery System</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">This systematic approach will help you identify, evaluate, and optimize all your subscriptions in under 2 hours. Follow each step for maximum savings.</p>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Phase 1: Discovery (30 minutes)</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Find every subscription you're paying for</p>
-<p class="mb-4 text-gray-700 leading-relaxed">1</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Review Bank Statements</h4>
+<p class="mb-4 text-gray-700 leading-relaxed">Find every subscription you're paying for across all four of these sources.</p>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">1. Review Bank Statements</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Go through last 3 months of statements for all cards and accounts</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Look for recurring charges</li>
 <li>Note unusual or forgotten company names</li>
 <li>Check different payment methods</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">2</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Check Email Subscriptions</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">2. Check Email Subscriptions</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Search email for subscription confirmations and renewal notices</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Search terms: "subscription", "renewal", "billing", "payment confirmation"</li>
 <li>Check promotional folders and spam</li>
 <li>Look for auto-renewal notifications</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">3</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Mobile App Audit</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">3. Mobile App Audit</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Check app store subscriptions and phone/tablet apps</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>iOS: Settings → Apple ID → Subscriptions</li>
 <li>Android: Google Play → Subscriptions</li>
 <li>Review all installed apps for premium features</li>
 </ul>
-<p class="mb-4 text-gray-700 leading-relaxed">4</p>
-<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">Browser Stored Payments</h4>
+<h4 class="text-lg font-semibold text-gray-800 mt-4 mb-2">4. Browser Stored Payments</h4>
 <p class="mb-4 text-gray-700 leading-relaxed">Check saved payment methods in browsers and password managers</p>
 <ul class="list-disc pl-6 mb-6 space-y-2 text-gray-700">
 <li>Chrome: Settings → Payment methods</li>
@@ -601,15 +626,34 @@ export const streamingSubscriptionsAuditUk2026: Article = {
 <li>Calculate and celebrate your savings</li>
 </ul>
 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Audit Success Metrics</h3>
-<p class="mb-4 text-gray-700 leading-relaxed">Track these metrics to measure your audit success:</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Total Subscriptions</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Before → After</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Monthly Cost</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£X → £Y</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Annual Savings</p>
-<p class="mb-4 text-gray-700 leading-relaxed">£Z saved</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Efficiency Ratio</p>
-<p class="mb-4 text-gray-700 leading-relaxed">Cost/Usage</p>
+<p class="mb-4 text-gray-700 leading-relaxed">Track these four numbers before and after your audit to measure your progress:</p>
+<table class="w-full border-collapse text-sm">
+<thead><tr class="bg-emerald-800 text-white">
+<th class="px-4 py-3 text-left font-semibold">Metric</th>
+<th class="px-4 py-3 text-left font-semibold">What to Track</th>
+<th class="px-4 py-3 text-left font-semibold">Target</th>
+</tr></thead><tbody>
+<tr class="bg-gray-50">
+<td class="px-4 py-3 border-b border-gray-200">Total Subscriptions</td>
+<td class="px-4 py-3 border-b border-gray-200">Count before → after audit</td>
+<td class="px-4 py-3 border-b border-gray-200">Reduce by 30–50%</td>
+</tr>
+<tr class="bg-white">
+<td class="px-4 py-3 border-b border-gray-200">Monthly Cost</td>
+<td class="px-4 py-3 border-b border-gray-200">£X before → £Y after</td>
+<td class="px-4 py-3 border-b border-gray-200">Under 5% of take-home pay</td>
+</tr>
+<tr class="bg-gray-50">
+<td class="px-4 py-3 border-b border-gray-200">Annual Savings</td>
+<td class="px-4 py-3 border-b border-gray-200">Difference × 12</td>
+<td class="px-4 py-3 border-b border-gray-200">£300–600+ for most households</td>
+</tr>
+<tr class="bg-white">
+<td class="px-4 py-3 border-b border-gray-200">Efficiency Ratio</td>
+<td class="px-4 py-3 border-b border-gray-200">Monthly cost ÷ active uses</td>
+<td class="px-4 py-3 border-b border-gray-200">Under £1 per use</td>
+</tr>
+</tbody></table>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Negotiating Lower Rates</h2>
 <p class="mb-4 text-gray-700 leading-relaxed">Most subscription services have retention departments with discount authority. Call 2-4 weeks before renewal. Proven script: "I've been with you for 3 years but a rival streaming service costs less. Can you match their price?" Success rate 65-70%, average discount 15-25%. If that fails, use the cancellation script: "I need to cancel unless we work out a better rate." This succeeds 75-80% of the time, average discount 25-40%.</p>
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
