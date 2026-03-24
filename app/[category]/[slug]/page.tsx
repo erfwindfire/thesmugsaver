@@ -10,6 +10,7 @@ import ArticleContent from '@/components/article/ArticleContent';
 import ArticleHeader from '@/components/article/ArticleHeader';
 import NewsletterCta from '@/components/article/NewsletterCta';
 import { addHeadingIds } from '@/lib/addHeadingIds';
+import JsonLd from '@/components/JsonLd';
 
 interface PageProps {
     params: {
@@ -75,7 +76,68 @@ export default function ArticlePage({ params }: PageProps) {
         .filter(a => a.category === article.category && a.slug !== article.slug)
         .slice(0, 3);
 
+    const canonicalUrl = `https://www.thesmugsaver.com/${params.category}/${params.slug}/`;
+
+    const articleSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: article.seoTitle || article.title,
+        description: article.metaDescription || article.excerpt,
+        url: canonicalUrl,
+        datePublished: article.datePublished,
+        dateModified: article.dateModified || article.datePublished,
+        author: {
+            '@type': 'Person',
+            name: article.author || 'The Smug Saver Team',
+            url: 'https://www.thesmugsaver.com/about/',
+        },
+        publisher: {
+            '@type': 'Organization',
+            name: 'The Smug Saver',
+            url: 'https://www.thesmugsaver.com/',
+            logo: {
+                '@type': 'ImageObject',
+                url: 'https://www.thesmugsaver.com/logo.png',
+                width: 200,
+                height: 60,
+            },
+        },
+        mainEntityOfPage: {
+            '@type': 'WebPage',
+            '@id': canonicalUrl,
+        },
+        ...(article.heroImage ? { image: article.heroImage } : {}),
+    };
+
+    const breadcrumbSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+            {
+                '@type': 'ListItem',
+                position: 1,
+                name: 'Home',
+                item: 'https://www.thesmugsaver.com/',
+            },
+            {
+                '@type': 'ListItem',
+                position: 2,
+                name: params.category.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+                item: `https://www.thesmugsaver.com/${params.category}/`,
+            },
+            {
+                '@type': 'ListItem',
+                position: 3,
+                name: article.title,
+                item: canonicalUrl,
+            },
+        ],
+    };
+
     return (
+        <>
+        <JsonLd data={articleSchema} />
+        <JsonLd data={breadcrumbSchema} />
         <div className="bg-white">
             <div className="container mx-auto px-4 py-8 lg:py-12">
                 <Breadcrumbs categorySlug={params.category} articleTitle={article.title} />
@@ -162,5 +224,6 @@ export default function ArticlePage({ params }: PageProps) {
                 </div>
             </div>
         </div>
+        </>
     );
 }
